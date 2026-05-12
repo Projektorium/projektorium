@@ -1,0 +1,257 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Karolina",
+      "last_name": "Kowalska",
+      "email": "karolina.kowalska@example.com",
+      "description": "🧠 *Absolwentka psychologii z doświadczeniem w rekrutacji* \n- Znajomość narzędzi badania preferencji konsumentów\n- Umiejętność analizy zachowań konsumentów\n- Marketing społecznościowy",
+      "skills": [
+        "Psychologia konsumencka",
+        "Badania rynkowe",
+        "Rekrutacja",
+        "Analiza danych"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Damian",
+      "last_name": "Nowak",
+      "email": "damian.nowak@example.com",
+      "description": "🎨 **Kreatywny web designer z pasją do detali** \n- Projektowanie responsywnych interfejsów\n- Tworzenie jednolitej identyfikacji wizualnej\n- Doświadczenie w UI/UX design",
+      "skills": [
+        "Web Design",
+        "UI/UX Design",
+        "Branding",
+        "HTML/CSS"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Julia",
+      "last_name": "Wiśniewska",
+      "email": "julia.wisniewska@example.com",
+      "description": "⚗️ *Studentka chemii z miłością do analiz laboratoryjnych* \n- Techniki chromatografii\n- Przygotowywanie raportów z badań\n- Bezpieczeństwo chemiczne laboratorium",
+      "skills": [
+        "Chromatografia",
+        "Analizy laboratoryjne",
+        "Raportowanie",
+        "Bezpieczeństwo chemiczne"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Filip",
+      "last_name": "Zając",
+      "email": "filip.zajac@example.com",
+      "description": "💻 *Programista z zamiłowaniem do nowych technologii* \n- Programowanie w języku Python i Java\n- Tworzenie aplikacji webowych\n- Rozwiązywanie problemów związanych z bazami danych",
+      "skills": [
+        "Python",
+        "Java",
+        "Web Development",
+        "Bazy danych",
+        "Rozwiązywanie problemów"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Wiktoria",
+      "last_name": "Lis",
+      "email": "wiktoria.lis@example.com",
+      "description": "📚 **Mistrzyni copywritingu z pasją do storytellingu** \n- Pisanie angażujących tekstów reklamowych\n- Tworzenie strategii content marketingowych\n- Zrozumienie psychologii odbiorcy",
+      "skills": [
+        "Copywriting",
+        "Content Marketing",
+        "Storytelling",
+        "Psychologia marketingu"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Światło w chaosie: Analiza sztucznej inteligencji w obrazach medycznych",
+      "description": "🔬 *Projekt badawczy nad zastosowaniem AI w medycynie* \n- Analiza danych obrazowych z użyciem sieci neuronowych\n- Interpretabilność modeli AI w diagnozowaniu\n- Etyka i odpowiedzialność w medycynie cyfrowej",
+      "areas": [
+        "Sztuczna inteligencja",
+        "Medycyna",
+        "Analiza obrazów",
+        "Etyka"
+      ],
+      "open_positions": [
+        {
+          "title": "👩‍💼 Specjalista ds. analizy danych medycznych",
+          "description": "📊 Analiza algorytmów diagnostycznych\n- Interpretacja wyników testów klinicznych\n- Wdrażanie modeli AI w praktyce klinicznej",
+          "tags": [
+            "AI w medycynie",
+            "Interpretacja wyników",
+            "Algorytmy diagnostyczne"
+          ]
+        },
+        {
+          "title": "🧑‍💻 Programista Python w AI",
+          "description": "🐍 Programowanie sieci neuronowych\n- Implementacja algorytmów uczenia maszynowego\n- Optymalizacja modeli wizyjnych",
+          "tags": [
+            "Python",
+            "Sieci neuronowe",
+            "Uczenie maszynowe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Kolorowa Ekspresja: Mural Sztuki Nowoczesnej dla Społeczności",
+      "description": "🎨 **Projekt artystyczny łączący lokalną społeczność** \n- Tworzenie murali w przestrzeni miejskiej\n- Warsztaty artystyczne dla dzieci i dorosłych\n- Integracja społeczności poprzez sztukę",
+      "areas": [
+        "Sztuka uliczna",
+        "Edukacja artystyczna",
+        "Społeczność",
+        "Integracja"
+      ],
+      "open_positions": [
+        {
+          "title": "🎨 Artysta Muralista",
+          "description": "🖌️ Projektowanie i malowanie murali\n- Organizowanie warsztatów artystycznych\n- Współpraca z lokalną społecznością",
+          "tags": [
+            "Malarstwo",
+            "Organizacja warsztatów",
+            "Integracja społeczna"
+          ]
+        },
+        {
+          "title": "👩‍🏫 Animator kultury",
+          "description": "🎭 Prowadzenie wydarzeń artystycznych\n- Koordynacja działań społecznościowych\n- Wsparcie artystyczne dla lokalnych inicjatyw",
+          "tags": [
+            "Koordynacja wydarzeń",
+            "Wsparcie artystyczne",
+            "Animator społeczny"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Zielony Ślad: Rewitalizacja Parków Miejskich",
+      "description": "🌳 *Projekt mający na celu przywrócenie natury do miasta* \n- Oczyszczanie terenów zielonych z toksyn\n- Projektowanie ekologicznych stref wypoczynku\n- Edukacja ekologiczna dla społeczności miejskiej",
+      "areas": [
+        "Ochrona środowiska",
+        "Rewitalizacja",
+        "Edukacja ekologiczna",
+        "Zrównoważony rozwój"
+      ],
+      "open_positions": [
+        {
+          "title": "🌿 Specjalista ds. projektów środowiskowych",
+          "description": "🌱 Planowanie i wdrażanie rewitalizacji terenów zielonych\n- Monitorowanie stanu środowiska miejskiego\n- Konsultacje z lokalnymi organizacjami ekologicznymi",
+          "tags": [
+            "Rewitalizacja terenów zieleni",
+            "Monitorowanie środowiska",
+            "Konsultacje ekologiczne"
+          ]
+        },
+        {
+          "title": "👩‍🔬 Biolog ekologiczny",
+          "description": "🦋 Badanie różnorodności biologicznej w obszarach miejskich\n- Propagowanie działań proekologicznych\n- Projektowanie ekosystemów miejskich",
+          "tags": [
+            "Badania biologiczne",
+            "Proekologia",
+            "Projektowanie ekosystemów"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "INNOWACJA! Przyszłość w Twoich Dłoniach - Smart City",
+      "description": "🏙️ **Projekt implementacji smart city w przestrzeni miejskiej** \n- Analiza danych sensorycznych z IoT\n- Tworzenie inteligentnych rozwiązań miejskich\n- Zapewnienie zrównoważonego rozwoju miast",
+      "areas": [
+        "Smart City",
+        "IoT",
+        "Innowacje technologiczne",
+        "Zrównoważony rozwój"
+      ],
+      "open_positions": [
+        {
+          "title": "🔬 Analityk danych IoT",
+          "description": "📈 Analiza i interpretacja danych zgromadzonych z czujników\n- Modelowanie danych dla smart city\n- Wizualizacja trendów i prognozowanie zmian",
+          "tags": [
+            "Analiza danych IoT",
+            "Modelowanie danych",
+            "Wizualizacja"
+          ]
+        },
+        {
+          "title": "🧑‍💻 Programista IoT",
+          "description": "💡 Implementacja rozwiązań związanych z Internetem rzeczy\n- Programowanie mikrokontrolerów i systemów wbudowanych\n- Optymalizacja komunikacji między urządzeniami",
+          "tags": [
+            "Internet rzeczy",
+            "Mikrokontrolery",
+            "Optymalizacja komunikacji"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Słowo w Działaniu: Platforma Literacka dla Pisarzy i Czytelników",
+      "description": "📚 *Tworzymy przestrzeń dla miłośników literatury* \n- Dzielenie się tekstami literackimi online\n- Kreowanie społeczności wsparcia dla autorów\n- Organizacja wydarzeń literackich",
+      "areas": [
+        "Literatura",
+        "Platformy internetowe",
+        "Współpraca twórcza",
+        "Kultura czytania"
+      ],
+      "open_positions": [
+        {
+          "title": "🖋️ Redaktor literacki",
+          "description": "📖 Korekta i redakcja tekstów literackich\n- Kreowanie treści promocyjnych\n- Współpraca z autorami",
+          "tags": [
+            "Korekta tekstów",
+            "Promocja literatury",
+            "Współpraca autorska"
+          ]
+        },
+        {
+          "title": "🕵️‍♀️ Specjalista ds. marketingu książek",
+          "description": "📈 Strategie promocji książek online\n- Budowanie relacji z czytelnikami\n- Analiza rynku księgarskiego",
+          "tags": [
+            "Promocja książek",
+            "Budowanie relacji",
+            "Analiza rynku księgarskiego"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 1
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 2
+    }
+  ]
+}

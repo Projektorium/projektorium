@@ -1,0 +1,271 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Aleksandra",
+      "last_name": "Nowak",
+      "email": "aleksandra.nowak@example.pl",
+      "description": "**Full Stack Developer** with a passion for *UX design*. Experienced in creating efficient, user-friendly applications. Interested in exploring new technologies and improving accessibility for all users. Skilled in Python, React, and responsive web design.",
+      "skills": [
+        "Python",
+        "React",
+        "Projektowanie UX"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Magdalena",
+      "last_name": "Kowalska",
+      "email": "magdalena.kowalska@example.pl",
+      "description": "*Copywriter* specializing in crafting compelling narratives for brands. Creative thinker with a knack for storytelling. Seeking projects where words create impact. Proficient in content strategy, SEO writing, and social media copy.",
+      "skills": [
+        "Copywriting",
+        "Strategia treści",
+        "Pisanie SEO"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Krzysztof",
+      "last_name": "Jankowski",
+      "email": "krzysztof.jankowski@example.pl",
+      "description": "Biologist focusing on **molecular biology** research. Passionate about uncovering the secrets of living organisms at the cellular level. Proficient in laboratory techniques and data analysis. Currently exploring genetic engineering techniques.",
+      "skills": [
+        "Biologia molekularna",
+        "Techniki laboratoryjne",
+        "Analiza danych"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Alicja",
+      "last_name": "Woźniak",
+      "email": "alicja.wozniak@example.pl",
+      "description": "Experienced in **linguistics** and *translation*. Interested in connecting cultures through accurate language mediation. Proficient in various language pairs and terminology research. Enthusiastic about collaborating on multilingual projects.",
+      "skills": [
+        "Językoznawstwo",
+        "Tłumaczenie",
+        "Terminologia"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Piotr",
+      "last_name": "Lewandowski",
+      "email": "piotr.lewandowski@example.pl",
+      "description": "*Graphic designer* with a keen eye for detail and creativity. Specializes in visual identity and brand design. Experienced in both digital and print media. Constantly seeking inspiration to deliver innovative designs.",
+      "skills": [
+        "Projektowanie graficzne",
+        "Identyfikacja wizualna",
+        "Projektowanie marki"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma E-learningowa dla Seniorów",
+      "description": [
+        "🌟 Stworzenie platformy e-learningowej dedykowanej osobom starszym.",
+        "✨ Umożliwienie dostępu do kursów online z różnych dziedzin.",
+        "💡 Projekt obejmuje interfejs użytkownika przyjazny seniorom oraz system zarządzania treścią.",
+        "🌱 Wsparcie dla społeczności seniorów w zdobywaniu nowych umiejętności online."
+      ],
+      "areas": [
+        "Edukacja seniorów",
+        "Interfejs przyjazny seniorom",
+        "System zarządzania treścią"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. UX/UI 🎨🖥️",
+          "description": "Odpowiedzialny za projektowanie intuicyjnego interfejsu użytkownika.",
+          "tags": [
+            "Projektowanie UX",
+            "Interakcje użytkownika",
+            "Testowanie użyteczności"
+          ]
+        },
+        {
+          "title": "Analityk Danych Edukacyjnych 📊📈",
+          "description": "Analiza wyników działania platformy oraz proponowanie ulepszeń.",
+          "tags": [
+            "Analiza danych",
+            "Statystyki",
+            "Badania użytkowników"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Badania nad Odpornością GMO na Szkodniki",
+      "description": [
+        "🔬 *Projekt badawczy* mający na celu zwiększenie wydajności upraw GMO.",
+        "🌱 Testowanie nowych technik genetycznych w kontekście ochrony roślin.",
+        "💡 Analiza skuteczności zmodyfikowanych roślin w warunkach naturalnych.",
+        "🌾 Wykorzystanie *analizy sekwencji DNA* w celu identyfikacji zmian genetycznych."
+      ],
+      "areas": [
+        "Biotechnologia roślin",
+        "Genetyka molekularna",
+        "Ochrona środowiska"
+      ],
+      "open_positions": [
+        {
+          "title": "Biotechnolog roślin 🌱🧬",
+          "description": "Zajmuje się przeprowadzaniem eksperymentów genetycznych oraz analizą wyników.",
+          "tags": [
+            "Biotechnologia",
+            "Geny roślin",
+            "Laboratorium"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Analizy Genomowej 🧬🔍",
+          "description": "Analiza sekwencji DNA roślin oraz identyfikacja zmian genetycznych.",
+          "tags": [
+            "Analiza genomu",
+            "Genetyka molekularna",
+            "Sequencing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Kampania Społeczna dla Bezdomnych Zwierząt",
+      "description": [
+        "🐾 *Rozpoczęcie kampanii* promującej adopcję bezdomnych zwierząt.",
+        "❤️ Uświadamianie społeczeństwa na temat potrzeby opieki nad zwierzętami.",
+        "🏠 Wsparcie schronisk dla zwierząt poprzez dostarczanie środków i żywności.",
+        "📸 Tworzenie materiałów wideo z udziałem zwierząt do celów promocyjnych."
+      ],
+      "areas": [
+        "Ochrona zwierząt",
+        "Adopcja zwierząt",
+        "Działania charytatywne"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Marketingu Społecznego 📢📈",
+          "description": "Odpowiada za promocję kampanii oraz pozyskiwanie wsparcia społecznego.",
+          "tags": [
+            "Marketing społeczny",
+            "Kampanie charytatywne",
+            "Public relations"
+          ]
+        },
+        {
+          "title": "Wolontariusz ds. Opieki nad Zwierzętami 🐶🐱",
+          "description": "Pomoc w opiece nad zwierzętami w schroniskach oraz organizacji akcji adopcyjnych.",
+          "tags": [
+            "Opieka nad zwierzętami",
+            "Adopcja",
+            "Wolontariat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Aplikacja Mobilna do Monitorowania Kondycji Psychicznej",
+      "description": [
+        "📱 *Tworzenie aplikacji* służącej do śledzenia i analizy zdrowia psychicznego.",
+        "🧠 Oferowanie narzędzi do self-care oraz konsultacji online z psychologami.",
+        "💬 Łączenie użytkowników w społeczność wsparcia i wymiany doświadczeń.",
+        "📊 Analiza zachowań i nastrojów użytkowników w celu poprawy funkcjonalności."
+      ],
+      "areas": [
+        "Zdrowie psychiczne",
+        "Aplikacje mobilne",
+        "Wsparcie emocjonalne"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Psychologii Zdrowia 🧠💼",
+          "description": "Oferowanie wsparcia psychologicznego poprzez aplikację i konsultacje online.",
+          "tags": [
+            "Psychologia zdrowia",
+            "Wsparcie emocjonalne",
+            "Konsultacje online"
+          ]
+        },
+        {
+          "title": "Frontend Developer Mobile 📱💻",
+          "description": "Rozwój interfejsu aplikacji mobilnej pod kątem użyteczności i responsywności.",
+          "tags": [
+            "Responsive design",
+            "React Native",
+            "Interakcje użytkownika"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Cyfrowa Platforma Artystyczna dla Twórców",
+      "description": [
+        "🎨 Platforma umożliwiająca **twórcom** prezentację i sprzedaż swoich dzieł.",
+        "💡 Stworzenie społeczności artystycznej wspierającej rozwój talentów.",
+        "✨ Promocja i marketing dzieł sztuki oraz warsztatów kreatywnych.",
+        "💬 Interaktywne narzędzia do komunikacji i współpracy między artystami."
+      ],
+      "areas": [
+        "Sztuka cyfrowa",
+        "Handel dziełami sztuki",
+        "Społeczność artystyczna"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Marketingu Artystycznego 🎨📢",
+          "description": "Promocja dzieł sztuki online oraz organizacja wydarzeń związanych ze sztuką.",
+          "tags": [
+            "Marketing artystyczny",
+            "Promocja online",
+            "Eventy artystyczne"
+          ]
+        },
+        {
+          "title": "Web Designer UI/UX 🌐🎨",
+          "description": "Projektowanie interfejsu cyfrowej platformy artystycznej pod kątem estetyki i użyteczności.",
+          "tags": [
+            "Projektowanie UI/UX",
+            "Web design",
+            "Komunikacja artystyczna"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 5
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    }
+  ]
+}

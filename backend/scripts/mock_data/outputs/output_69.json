@@ -1,0 +1,248 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Wioletta",
+      "last_name": "Kowalska",
+      "email": "wioletta.kowalska@example.com",
+      "description": "Jestem artystką wizjonerką, która w swoich pracach odwołuje się do polskich korzeni i tradycji. *Sztuka to dla mnie sposób ukazania duszy narodu.*\n- Emocje i kolor to fundament mojej twórczości.\n- W moich pracach staram się przełamywać granice między teraźniejszością a przeszłością.\n- Kongres Kultury to inspiracja i przestrzeń do rozwoju.",
+      "skills": [
+        "malarstwo",
+        "rzeźba",
+        "tkactwo"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Michał",
+      "last_name": "Nowak",
+      "email": "michal.nowak@example.com",
+      "description": "**Sztuka to odcisk duszy na płótnie**, a ja staram się malować polską duszę. Estetyka ludowa stanowi dla mnie natchnienie i punkt odniesienia w mojej pracy.\n- Przekazywanie tradycji poprzez sztukę jest moją pasją.\n- Malując, czuję się częścią ciągłości kulturowej.\n- Wierzę, że w sztuce tkwi siła zmiany społecznej i duchowej.",
+      "skills": [
+        "malarstwo",
+        "ilustracja",
+        "ceramika"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Karolina",
+      "last_name": "Dubiel",
+      "email": "karolina.dubiel@example.com",
+      "description": "*Artystyczna dusza o kolebce pełnej dzieł - jestem wyspiarką kaligrafii i polskiego folkloru.*\n- Każda litera to dla mnie taniec po papierze.\n- Tradycyjne wzory to moja codzienna inspiracja.\n- Moja misja: zachować rzemiosło przed zapomnieniem.",
+      "skills": [
+        "kaligrafia",
+        "hafciarstwo",
+        "projektowanie wzorów"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Filip",
+      "last_name": "Kozłowski",
+      "email": "filip.kozlowski@example.com",
+      "description": "Moje rzeźby to dialog między materią a duchem, między naturą a kulturą. **Kocham pracować nad drewnem** i odkrywać w nim nowe formy.\n- Każda moja rzeźba ma własną historię do opowiedzenia.\n- W moich pracach odnajdziesz odzwierciedlenie symboliki polskiej przyrody.\n- *Drewno to dla mnie żywy materiał, który wspólnie odwzorowujemy w sztuce.*",
+      "skills": [
+        "rzeźba",
+        "rzeźba drzewna",
+        "projektowanie przestrzeni"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Hanna",
+      "last_name": "Sikora",
+      "email": "hanna.sikora@example.com",
+      "description": "Moja sztuka tkwi w tkactwie historii naszej ojczyzny. *Kołonialna historia Polski jest tematem moich prac.*\n- *Moje tkaniny to metafora splecionych losów polskiej ziemi.*\n- Każdy wątek w mojej tkaninie to kawałek polskiej duszy.\n- Tworzenie, jak tkanie, to dyskretny taniec barw i wzorów.",
+      "skills": [
+        "tkactwo",
+        "projektowanie tekstyliów",
+        "rękodzieło artystyczne"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Śpiewające Wierzby",
+      "description": "Projekt *Śpiewające Wierzby* to spotkanie z tradycją i naturą w dźwiękach i formach. *Jestem tu, aby dać moje głosy drzewom*.\n- *Jest to dla mnie podróż do źródeł polskiej kultury i przyrody.*\n- Tworzymy razem harmonię pomiędzy sztuką ludową a dziedzictwem muzycznym.\n- **Ta inicjatywa jest dla wszystkich, którzy szukają wyciszenia i inspiracji.**",
+      "areas": [
+        "muzyka ludowa",
+        "rzeźba drewniana",
+        "śpiew ludowy"
+      ],
+      "open_positions": [
+        {
+          "title": "Kierownik Projektu",
+          "description": "Poszukujemy doświadczonego lidera, który uosabia ducha naszej inicjatywy i potrafi zjednoczyć ludzi w muzycznej podróży.",
+          "tags": [
+            "zarządzanie projektami",
+            "muzyka ludowa"
+          ]
+        },
+        {
+          "title": "Rzeźbiarz Drewniany",
+          "description": "*Tworzymy drzewne postacie, które zatańczą w rytmie ludowych melodii.*",
+          "tags": [
+            "rzeźba drzewna",
+            "sztuka ludowa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Splot Słów i Wzorów",
+      "description": "**Splot Słów i Wzorów** to przestrzeń, gdzie litera spotyka wzór, tradycja – kreatywność. *Każde spotkanie to opowieść o polskiej kulturze*.\n- *Pragniemy stworzyć księgę, w której wzory tkanin i kaligrafia tańczą w rytm mazurka.*\n- Najważniejsze dla nas jest wplatanie historii w nowoczesność i inspiracja twórcza.\n- *Każda litera w tej księdze będzie miała swoją tajemnicę do odkrycia.*",
+      "areas": [
+        "literatura",
+        "kaligrafia",
+        "projektowanie tekstyliów"
+      ],
+      "open_positions": [
+        {
+          "title": "Koordynator Literacki",
+          "description": "Szukamy osoby, która przywróci magię słów i opowieści, ukazującą piękno polskiej literatury.",
+          "tags": [
+            "redakcja tekstów",
+            "literatura polska"
+          ]
+        },
+        {
+          "title": "Projektant Wzorów",
+          "description": "*Twoje wzory będą tkaninami przeszłości i przyszłości, splecione w niezwykłe opowieści.*",
+          "tags": [
+            "projektowanie wzorów",
+            "sztuka współczesna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Wesele w Ceramice",
+      "description": "Projekt *Wesele w Ceramice* to spotkanie z tradycją, smakiem i formą w polskiej glinie i zapachach. *Każdy talerz to fragment polskiej historii*.\n- *Jest to przeżycie zmysłowe i artystyczne, gdzie glina staje się niezwykłą tkaniną wspomnień.*\n- *Tworzymy razem wesołe naczynia, które zabiorą gości w magiczną podróż w głąb Polski.*\n- **Ta inicjatywa jest dla dusz szukających smaku tradycji i sztuki.**",
+      "areas": [
+        "ceramika artystyczna",
+        "kuchnia polska",
+        "sztuka użytkowa"
+      ],
+      "open_positions": [
+        {
+          "title": "Kucharz Tradycyjny",
+          "description": "Poszukujemy pasjonata polskiej kuchni, który stworzy smakowite rzemiosło w glinianej dekoracji.",
+          "tags": [
+            "kuchnia polska",
+            "kulinarna sztuka"
+          ]
+        },
+        {
+          "title": "Artysta Glazurzysta",
+          "description": "*Twoje szkliwa będą niespodzianką w każdym kawałku polskiego smaku, malując pyszne historie na talerzach.*",
+          "tags": [
+            "ceramika artystyczna",
+            "sztuka stołowa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Barwy Polskiej Ziemi",
+      "description": "*Barwy Polskiej Ziemi* to projekt malarski, który ukazuje polską duszę poprzez kolory i formy. **Każdy akwarelistyczny pociągnięcie to wcielenie krajobrazu**.\n- *Przejmujemy kolory polskiej jesieni i wiosny na nasze płótna, tworząc tęsknotę za ojczyzną w każdym obrazie.*\n- **Nasza praca to dialog z naturą i promienie słońca odbite w taflach jezior i rzek.**\n- *Pragniemy zainspirować do pielęgnowania piękna polskiej ziemi poprzez sztukę malarską.*",
+      "areas": [
+        "malarstwo pejzażowe",
+        "sztuka akwarelowa",
+        "inspiracje przyrodnicze"
+      ],
+      "open_positions": [
+        {
+          "title": "Mistrz Akwarelistyczny",
+          "description": "**Poszukujemy twórcy, który zamieni kolory na emocje, wodę na marzenia, naturę na misterium.**",
+          "tags": [
+            "malarstwo akwarelowe",
+            "tworzenie pejzaży"
+          ]
+        },
+        {
+          "title": "Kreator Inspiracji Przyrodniczych",
+          "description": "*Twoja sztuka będzie mostem między naturą a duszą, kolorystyką a emocjami, odzwierciedlającą piękno polskiej ziemi.*",
+          "tags": [
+            "sztuka krajobrazowa",
+            "tworzenie atmosfery"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Tchnienie Hafciarstwa",
+      "description": "*Tchnienie Hafciarstwa* to inicjatywa, która spaja tradycję z nowoczesnością w rękodzielniczej eksplozji barw i wzorów. **Dusza w hafcie, wątki wspólnego dzieła.**\n- Tworzymy hafty, które oddychają polską historią i nowoczesnym stylem.\n- *Niezwykłe wzory, tajemnicze symbole - każdy stich to opowieść o polskim dziedzictwie.*\n- **Nasza pasja to odkrywanie piękna w prostocie igły i kunsztu wzoru.**",
+      "areas": [
+        "hafciarstwo artystyczne",
+        "sztuka tekstylna",
+        "sztuka użytkowa"
+      ],
+      "open_positions": [
+        {
+          "title": "Artyzm Igły",
+          "description": "**Szukamy mistrza haftu, który przemieni nici w opowieści, igłę w magiczny pędzel, wzory w tkaninę duszy.**",
+          "tags": [
+            "sztuka igłowa",
+            "projektowanie haftów"
+          ]
+        },
+        {
+          "title": "Kreatywne Sploty",
+          "description": "*Twoje wzory będą hafciarskimi wizualamińskimi z węzłami historii, wiatrem nowości i siecią tradycji.*",
+          "tags": [
+            "projektowanie wzorów haftów",
+            "sztuka haftu"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    }
+  ]
+}

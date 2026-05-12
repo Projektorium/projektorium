@@ -1,0 +1,228 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "katarzyna.nowak@example.com",
+      "description": "* Doświadczona programistka JavaScript\n- Pasjonatka nowych technologii\n- Ceniąca dobrą kawę",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Michał",
+      "last_name": "Kowalski",
+      "email": "michal.kowalski@example.com",
+      "description": "* Absolwent matematyki stosowanej\n- Uwielbia analizować dane\n- Zdolny do pracy pod presją czasu",
+      "skills": [
+        "Matematyka",
+        "Analiza danych",
+        "Statystyka"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Wiśniewska",
+      "email": "magdalena.wisniewska@example.com",
+      "description": "* Graficzka komputerowa z wykształcenia\n- Kreatywna i zdolna do pracy zespołowej",
+      "skills": [
+        "Adobe Illustrator",
+        "UI/UX Design",
+        "Kreatywność"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Jankowski",
+      "email": "piotr.jankowski@example.com",
+      "description": "* **Inżynier oprogramowania** z długoletnim doświadczeniem\n- Znakomity analizator problemów\n- **Ekspert w projektowaniu API**",
+      "skills": [
+        "Java",
+        "API Design",
+        "Problem-solving"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Anna",
+      "last_name": "Dąbrowska",
+      "email": "anna.dabrowska@example.com",
+      "description": "* Studiująca socjologię z zamiłowaniem do badań terenowych\n- Pasjonują ją analizy społeczne\n- Zaangażowana w działalność charytatywną",
+      "skills": [
+        "Badania społeczne",
+        "Analiza danych",
+        "Działalność charytatywna"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Symulacja Ewolucji Cywilizacji",
+      "description": "- Interdyscyplinarny projekt badawczy analizujący rozwój i upadek cywilizacji. **Nawiązujemy do teorii gier i socjologii**.",
+      "areas": [
+        "Ewolucja społeczna",
+        "Teoria gier",
+        "Analiza danych"
+      ],
+      "open_positions": [
+        {
+          "title": "📊 Specjalista ds. analizy danych",
+          "description": "- Analiza trendów ewolucyjnych cywilizacji\n- Odpowiedzialny za modele matematyczne",
+          "tags": [
+            "Analiza danych",
+            "Modelowanie matematyczne"
+          ]
+        },
+        {
+          "title": "🎨 Grafik komputerowy",
+          "description": "- Projektowanie interfejsów graficznych\n- Ilustrowanie danych statystycznych",
+          "tags": [
+            "Grafika komputerowa",
+            "Projektowanie interfejsów"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Platforma Edukacyjna VR",
+      "description": "* Innowacyjna platforma edukacyjna wykorzystująca rzeczywistość wirtualną do uczenia się. - Oferujemy interaktywne lekcje w 3D.",
+      "areas": [
+        "Edukacja",
+        "Rzeczywistość wirtualna",
+        "Technologie edukacyjne"
+      ],
+      "open_positions": [
+        {
+          "title": "👩‍🏫 Projektant treści edukacyjnych",
+          "description": "- Tworzenie interaktywnych lekcji w VR\n- Projektowanie scenariuszy edukacyjnych",
+          "tags": [
+            "Tworzenie treści",
+            "Prowadzenie lekcji"
+          ]
+        },
+        {
+          "title": "🔊 Specjalista ds. dźwięku w VR",
+          "description": "- Kreowanie realistycznych efektów dźwiękowych\n- Optymalizacja dźwięku w środowisku VR",
+          "tags": [
+            "Dźwięk w VR",
+            "Efekty dźwiękowe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Analiza Społeczności Online",
+      "description": "- Badanie dynamiki społeczności internetowych z wykorzystaniem danych z mediów społecznościowych. * Istnieje możliwość publikacji wyników w renomowanych czasopismach naukowych.",
+      "areas": [
+        "Badania społeczne online",
+        "Analiza mediów społecznościowych",
+        "Statystyka"
+      ],
+      "open_positions": [
+        {
+          "title": "📈 Analityk danych społecznościowych",
+          "description": "- Analizowanie zachowań online użytkowników\n- Tworzenie raportów z analiz",
+          "tags": [
+            "Analityka danych",
+            "Badania online"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Aplikacja Do Zarządzania Projektami Artystycznymi",
+      "description": "* Aplikacja webowa służąca do organizacji i monitorowania projektów artystycznych. **Zintegrowana z narzędziami do zarządzania zespołem**.",
+      "areas": [
+        "Zarządzanie projektami",
+        "Sztuka i kultura",
+        "Aplikacje webowe"
+      ],
+      "open_positions": [
+        {
+          "title": "🎭 Menedżer projektu artystycznego",
+          "description": "- Koordynacja działań zespołu artystycznego\n- Planowanie działań promocyjnych",
+          "tags": [
+            "Zarządzanie projektem",
+            "Promocja artystyczna"
+          ]
+        },
+        {
+          "title": "🔧 Programista webowy",
+          "description": "- Implementacja nowych funkcji aplikacji\n- Optymalizacja wydajności",
+          "tags": [
+            "Programowanie webowe",
+            "Optymalizacja kodu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Symulacja Genetyczna Roślin",
+      "description": "- Projekt badawczy z dziedziny genetyki roślinnej, stosujący symulacje komputerowe do modelowania ewolucji roślin. * Wprowadzamy nowe techniki badawcze.",
+      "areas": [
+        "Genetyka roślinna",
+        "Biologia obliczeniowa",
+        "Symulacje komputerowe"
+      ],
+      "open_positions": [
+        {
+          "title": "🧬 Biolog molekularny",
+          "description": "- Badanie struktury genetycznej roślin\n- Projektowanie eksperymentów laboratoryjnych",
+          "tags": [
+            "Biologia molekularna",
+            "Badania laboratoryjne"
+          ]
+        },
+        {
+          "title": "🖥️ Specjalista od symulacji komputerowych",
+          "description": "- Tworzenie modeli **symulacji ewolucji** roślin\n- Analiza wyników symulacji",
+          "tags": [
+            "Symulacje komputerowe",
+            "Modelowanie genetyczne"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    }
+  ]
+}

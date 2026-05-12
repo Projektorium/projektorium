@@ -1,0 +1,224 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Aleksandra",
+      "last_name": "Kowalska",
+      "email": "akowalska@example.com",
+      "description": "Prof. Aleksandra Kowalska is a renowned scholar specializing in *bioinformatics* and computational biology. Her research focuses on understanding genomic data through advanced machine learning algorithms. With a passion for uncovering patterns in complex biological systems, she has published groundbreaking studies in leading scientific journals.",
+      "skills": [
+        "Bioinformatyka",
+        "Analiza danych genetycznych",
+        "Uczenie maszynowe"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Nowak",
+      "email": "pnowak@example.com",
+      "description": "Dr. Piotr Nowak is a dedicated researcher exploring the intersections of *quantum physics* and information theory. His innovative approaches to quantum computing have opened new avenues for secure communication protocols. Dr. Nowak's interdisciplinary work has earned him recognition in the global scientific community.",
+      "skills": [
+        "Fizyka kwantowa",
+        "Teoria informacji",
+        "Obliczenia kwantowe"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Jankowska",
+      "email": "mjankowska@example.com",
+      "description": "Dr. Magdalena Jankowska is an emerging scholar in the field of *neurolinguistics*. Her research delves into the neural mechanisms underlying language processing and acquisition. With a keen eye for detail and a passion for cognitive science, Dr. Jankowska's work promises groundbreaking insights into the human brain's linguistic abilities.",
+      "skills": [
+        "Neurolingwistyka",
+        "Neurobiologia",
+        "Psycholingwistyka"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Kamil",
+      "last_name": "Szymański",
+      "email": "kszymanski@example.com",
+      "description": "Kamil Szymański is a PhD candidate with a strong interest in *urban planning* and sustainable development. His research merges urban design principles with environmental sustainability to create livable cities for future generations. Through his collaborative projects, Kamil aims to implement innovative solutions for urban challenges.",
+      "skills": [
+        "Planowanie miejskie",
+        "Zrównoważony rozwój",
+        "Architektura krajobrazu"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Joanna",
+      "last_name": "Woźniak",
+      "email": "jwozniak@example.com",
+      "description": "Joanna Woźniak is a postdoctoral researcher specializing in *cancer immunotherapy* and personalized medicine. Her work revolves around developing novel immunotherapeutic approaches for cancer treatment. With a deep commitment to translational research, Joanna aims to bridge the gap between laboratory discoveries and clinical applications.",
+      "skills": [
+        "Immunoterapia nowotworów",
+        "Medycyna personalizowana",
+        "Badania translacyjne"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Dynamics of Complex Networks",
+      "description": "Project 'Dynamics of Complex Networks' explores the intricate interplay of nodes and edges in network structures. By unraveling the hidden patterns within interconnected systems, this project aims to shed light on emergent phenomena in diverse disciplines. Join us in unraveling the *secrets* of network dynamics.",
+      "areas": [
+        "Network Science",
+        "Complex Systems",
+        "Graph Theory"
+      ],
+      "open_positions": [
+        {
+          "title": "Research Assistant",
+          "description": "We are seeking a diligent research assistant to delve into the hidden intricacies of network dynamics. The ideal candidate should possess a strong background in mathematics and a passion for uncovering patterns in complex systems.",
+          "tags": [
+            "Mathematical Modeling",
+            "Network Analysis"
+          ]
+        },
+        {
+          "title": "Data Scientist",
+          "description": "Our team requires a skilled data scientist to extract meaningful insights from complex network datasets. The role involves applying advanced statistical methods and machine learning techniques to uncover underlying network structures.",
+          "tags": [
+            "Data Mining",
+            "Machine Learning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Quantum Information Processing",
+      "description": "Join our project 'Quantum Information Processing' where quantum phenomena meet cutting-edge information technologies. Explore the quantum realm with us as we develop next-generation computing paradigms. Dive into the quantum realm and reshape the future of information processing.",
+      "areas": [
+        "Quantum Computing",
+        "Information Theory",
+        "Cryptography"
+      ],
+      "open_positions": [
+        {
+          "title": "Postdoctoral Researcher",
+          "description": "We are looking for a dedicated postdoctoral researcher to push the boundaries of quantum information processing. The candidate should have a strong background in quantum physics and a passion for harnessing quantum phenomena for information processing applications.",
+          "tags": [
+            "Quantum Algorithms",
+            "Quantum Cryptography"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Cognitive Neuroscience of Language",
+      "description": "Embark on a journey into the *intriguing* world of the cognitive neuroscience of language with this transformative project. Uncover the neural substrates of linguistic processing through innovative research methodologies. Be part of unraveling the mysteries of the human mind and language.",
+      "areas": [
+        "Cognitive Neuroscience",
+        "Psycholinguistics",
+        "Brain Imaging"
+      ],
+      "open_positions": [
+        {
+          "title": "PhD Candidate",
+          "description": "We are seeking a motivated PhD candidate to explore the intersection of cognitive neuroscience and language processing. The candidate should have a strong background in neuroscience and a keen interest in cognitive psychology.",
+          "tags": [
+            "Neuroimaging",
+            "Cognitive Processing"
+          ]
+        },
+        {
+          "title": "Research Technician",
+          "description": "Our team requires a skilled research technician to assist in conducting brain imaging experiments related to language processing. The candidate should have experience with neuroimaging techniques and data analysis.",
+          "tags": [
+            "MRI Imaging",
+            "Brain Connectivity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Sustainable Urban Environments",
+      "description": "Discover the 'Sustainable Urban Environments' project where urban design meets environmental sustainability. Transform urban landscapes through innovative planning strategies that promote ecological balance. Join our team in creating vibrant and sustainable cities for future generations.",
+      "areas": [
+        "Urban Planning",
+        "Sustainable Development",
+        "Green Infrastructure"
+      ],
+      "open_positions": [
+        {
+          "title": "Urban Designer",
+          "description": "We are looking for a creative urban designer to envision sustainable solutions for urban development. The ideal candidate should have experience in urban design and a passion for integrating green infrastructure into urban spaces.",
+          "tags": [
+            "Urban Renewal",
+            "Green Architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Immunotherapy Innovations in Cancer",
+      "description": "Join the forefront of cancer research with 'Immunotherapy Innovations in Cancer' project. Develop cutting-edge immunotherapeutic approaches to combat cancer with precision medicine. Make a difference in the fight against cancer by translating laboratory discoveries into clinical breakthroughs.",
+      "areas": [
+        "Cancer Immunotherapy",
+        "Precision Medicine",
+        "Translational Research"
+      ],
+      "open_positions": [
+        {
+          "title": "Clinical Research Coordinator",
+          "description": "We are seeking a dedicated clinical research coordinator to facilitate translational research in cancer immunotherapy. The position involves coordinating clinical trials and managing patient data in collaboration with medical professionals.",
+          "tags": [
+            "Clinical Trials Management",
+            "Patient Care"
+          ]
+        },
+        {
+          "title": "Immunologist",
+          "description": "Our team requires an experienced immunologist to spearhead research on cancer immunotherapy. The role involves investigating novel immunotherapeutic targets and pathways for personalized cancer treatment.",
+          "tags": [
+            "Immunology",
+            "Tumor Microenvironment"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Kamil",
+      "last_name": "Nowak",
+      "email": "kamil.nowak@example.com",
+      "description": "* Doświadczony programista JavaScript.\n- Zajmuję się tworzeniem responsywnych stron internetowych.\n* Absolwent informatyki z *Uniwersytetu Warszawskiego*.",
+      "skills": [
+        "JavaScript",
+        "HTML/CSS",
+        "React"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Anna",
+      "last_name": "Kowalska",
+      "email": "anna.kowalska@example.com",
+      "description": "**Kreatywna graficzka** specjalizująca się w projektowaniu interfejsów użytkownika.\n- Posiadam 5 lat doświadczenia w branży.\n* Jestem perfekcjonistką, która zawsze dąży do doskonałości.",
+      "skills": [
+        "UI/UX Design",
+        "Adobe Creative Suite",
+        "Prototyping"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Piotr",
+      "last_name": "Lis",
+      "email": "piotr.lis@example.com",
+      "description": "- Menedżer projektu z 3-letnim doświadczeniem.\n* Interesuję się nowoczesnymi metodami zarządzania projektami IT.\n- Absolwent SGH w Warszawie.",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Scrum"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Ewa",
+      "last_name": "Zielinska",
+      "email": "ewa.zielinska@example.com",
+      "description": "**Specjalistka od analizy danych** z zamiłowaniem do eksploracji statystycznych.\n* Absolwentka matematyki na UW.\n- Doświadczenie w tworzeniu raportów biznesowych.",
+      "skills": [
+        "Data Analysis",
+        "Statistics",
+        "SQL"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Mateusz",
+      "last_name": "Wozniak",
+      "email": "mateusz.wozniak@example.com",
+      "description": "* Kreatywny pisarz z pasją do tworzenia tekstów reklamowych.\n- Pracował dla wielu międzynarodowych agencji reklamowych.\n**Szukam nowych wyzwań w dziedzinie copywritingu**.",
+      "skills": [
+        "Copywriting",
+        "Content Marketing",
+        "SEO"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Projekt Zielona Przestrzeń",
+      "description": "- Tworzenie interaktywnej aplikacji edukacyjnej mającej na celu podniesienie świadomości ekologicznej społeczeństwa.\n* Projekt zakłada wykorzystanie gamifikacji w nauce.\n- Eksperci w dziedzinie edukacji oraz programowania są mile widziani.",
+      "areas": [
+        "Ekologia",
+        "Edukacja",
+        "Technologia"
+      ],
+      "open_positions": [
+        {
+          "title": "🌱 Specjalista ds. edukacji ekologicznej",
+          "description": "* Opracowanie treści edukacyjnych na temat ochrony środowiska.\n- Przygotowanie scenariuszy lekcji z elementami interaktywnymi.",
+          "tags": [
+            "Edukacja",
+            "Ochrona środowiska"
+          ]
+        },
+        {
+          "title": "🎮 Programista gamifikacji",
+          "description": "- Implementacja mechanik gier w aplikacji edukacyjnej.\n* Zapewnienie płynnej integracji z bazą danych.",
+          "tags": [
+            "Programowanie",
+            "Gamifikacja"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Innowacyjny e-Commerce",
+      "description": "**Projekt skupiający się na rewolucyjnych rozwiązaniach w handlu elektronicznym**.\n- Planujemy zastosować sztuczną inteligencję w personalizacji ofert dla klientów.\n* Szukamy pasjonatów technologii e-commerce.",
+      "areas": [
+        "Handel elektroniczny",
+        "Sztuczna inteligencja",
+        "Technologie webowe"
+      ],
+      "open_positions": [
+        {
+          "title": "💻 Analityk e-commerce",
+          "description": "* Analiza danych związanych z zachowaniem klientów na platformie.\n- Optymalizacja ścieżki zakupowej w sklepie internetowym.",
+          "tags": [
+            "Analityka",
+            "E-commerce"
+          ]
+        },
+        {
+          "title": "🤖 Specjalista ds. AI",
+          "description": "- Wdrażanie algorytmów uczenia maszynowego w systemie e-commerce.\n* Doskonalenie procesów automatyzacji obsługi klienta.",
+          "tags": [
+            "Sztuczna inteligencja",
+            "Machine Learning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Projekt Kultura 2.0",
+      "description": "- Stworzenie platformy wspierającej lokalne inicjatywy kulturalne w Polsce.\n**Misją projektu jest popularyzacja kultury wśród młodych Polaków**.\n* Poszukujemy osób zaangażowanych społecznie i kreatywnych.",
+      "areas": [
+        "Kultura",
+        "Społeczność",
+        "Innowacje społeczne"
+      ],
+      "open_positions": [
+        {
+          "title": "🎨 Grafik komputerowy",
+          "description": "* Projektowanie materiałów promocyjnych dla wydarzeń kulturalnych.\n- Tworzenie identyfikacji wizualnej platformy.",
+          "tags": [
+            "Grafika",
+            "Promocja kultury"
+          ]
+        },
+        {
+          "title": "🤝 Specjalista ds. partnerstw",
+          "description": "- Nawiązywanie współpracy z instytucjami kulturalnymi oraz sponsorami.\n* Zarządzanie relacjami biznesowymi w obszarze kultury.",
+          "tags": [
+            "Fundraising",
+            "Networking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Platforma Zdrowie 360",
+      "description": "**Inicjatywa mająca na celu integrację danych medycznych i promocję zdrowego stylu życia**.\n- Planujemy stworzyć narzędzie umożliwiające śledzenie postępów w dbaniu o zdrowie.\n* Poszukujemy pasjonatów zdrowego trybu życia.",
+      "areas": [
+        "Zdrowie",
+        "Technologie medyczne",
+        "Aplikacje mobilne"
+      ],
+      "open_positions": [
+        {
+          "title": "🩺 Specjalista ds. informacji medycznych",
+          "description": "* Analiza i integracja danych medycznych z różnych źródeł danych.\n- Projektowanie algorytmów wspierających proces diagnostyczny.",
+          "tags": [
+            "Medycyna",
+            "Big Data"
+          ]
+        },
+        {
+          "title": "🏃 Coach do zdrowia",
+          "description": "- Opracowywanie planów motywacyjnych dla użytkowników platformy.\n* Pomoc w śledzeniu postępów w zdrowym stylu życia.",
+          "tags": [
+            "Coaching",
+            "Zdrowy tryb życia"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Projekt Robots",
+      "description": "*Realizacja innowacyjnego projektu z zakresu robotyki i automatyki.*\n- Celem jest zaprojektowanie i zbudowanie autonomicznego robota mobilnego.\n**Poszukujemy osób z pasją do technologii przyszłości**.",
+      "areas": [
+        "Robotyka",
+        "Automatyka",
+        "Inżynieria"
+      ],
+      "open_positions": [
+        {
+          "title": "🤖 Inżynier robotyk",
+          "description": "- Projektowanie mechanicznych i elektronicznych elementów robota.\n* Implementacja algorytmów sterowania autonomicznego pojazdu.",
+          "tags": [
+            "Robotyka",
+            "Inżynieria"
+          ]
+        },
+        {
+          "title": "🔌 Specjalista ds. automatyki",
+          "description": "*Programowanie układów sterowania robotem.\n- Optymalizacja pracy systemów napędowych.",
+          "tags": [
+            "Automatyka",
+            "Programowanie"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

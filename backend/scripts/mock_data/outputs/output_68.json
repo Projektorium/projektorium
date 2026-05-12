@@ -1,0 +1,223 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zuzanna",
+      "last_name": "Kowalczyk",
+      "email": "zuzanna@startup.com",
+      "description": "✓ Serial entrepreneur z 10-letnim doświadczeniem w e-commerce\n✓ Innowacyjne podejście do rozwiązywania problemów → *Think outside the box*\n- Zwinne zarządzanie projektem\n- Silne umiejętności analityczne",
+      "skills": [
+        "e-commerce",
+        "project management",
+        "analytical skills"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Filip",
+      "last_name": "Nowak",
+      "email": "filip@startup.com",
+      "description": "**Technologia jako moja pasja!**\n- Doświadczenie w tworzeniu aplikacji mobilnych\n- *Programowanie jest moją drugą naturą* → ★ Back-end developer",
+      "skills": [
+        "mobile app development",
+        "programming",
+        "back-end development"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Lis",
+      "email": "magdalena@startup.com",
+      "description": "★ Strategia biznesowa jako fundament sukcesu\n- Praktyk marketingu zorientowany na wyniki\n✓ Twórcze rozwiązania problemów biznesowych",
+      "skills": [
+        "business strategy",
+        "marketing",
+        "creative problem solving"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Olejnik",
+      "email": "piotr@startup.com",
+      "description": "✓ Entuzjasta nowych technologii\n- Zafascynowany rozwojem oprogramowania\n→ Dynamika pracy zespołowej jest moim atutem.",
+      "skills": [
+        "new technologies",
+        "software development",
+        "teamwork"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Wójcik",
+      "email": "karolina@startup.com",
+      "description": "✓ Doświadczona projektantka UX z misją tworzenia wrażeń użytkownika\n- Skupiona na użyteczności i estetyce aplikacji\n- *Kreatywność to klucz do sukcesu*",
+      "skills": [
+        "UX design",
+        "usability",
+        "creativity"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "FuturisTech",
+      "description": "✓ Platforma AI do personalizacji doświadczeń zakupowych\n- Rozwiązanie oparte na algorytmach uczenia maszynowego\n★ Poszukujemy CTO z doświadczeniem w AI",
+      "areas": [
+        "Artificial Intelligence",
+        "E-commerce"
+      ],
+      "open_positions": [
+        {
+          "title": "★ CTO z doświadczeniem w AI",
+          "description": "Zarządzanie i rozwój systemu AI\n✓ Projektowanie oraz wdrażanie nowych rozwiązań",
+          "tags": [
+            "AI",
+            "team management"
+          ]
+        },
+        {
+          "title": "★ Specjalista ds. algorytmów uczenia maszynowego",
+          "description": "Opracowywanie i doskonalenie algorytmów ML\n✓ Analiza danych i optymalizacja procesów",
+          "tags": [
+            "ML",
+            "data analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "EcoGrow",
+      "description": "**Opracowanie ekologicznych rozwiązań dla rolnictwa**\n- Innowacyjne podejście do zrównoważonego rozwoju\n★ Poszukujemy Inżyniera Rolnictwa z pasją",
+      "areas": [
+        "Agrotechnology",
+        "Sustainability"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Inżynier Rolnictwa z pasją",
+          "description": "Projektowanie i testowanie rozwiązań ekologicznych\n✓ Współpraca z producentami rolnymi",
+          "tags": [
+            "Agroecology",
+            "testing"
+          ]
+        },
+        {
+          "title": "★ Specjalista ds. badań nad nowymi technologiami",
+          "description": "Analiza i implementacja nowych technologii w rolnictwie\n→ Doskonałe umiejętności analityczne i badawcze",
+          "tags": [
+            "research",
+            "technology implementation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "MiastoZdrowie",
+      "description": "✓ Aplikacja wspierająca zdrowy styl życia w mieście\n- System powiadomień i motywacyjne wyzwania zdrowotne\n★ Poszukujemy UX Designer z pasją do zdrowia",
+      "areas": [
+        "Health-Tech",
+        "Mobile Apps"
+      ],
+      "open_positions": [
+        {
+          "title": "★ UX Designer z pasją do zdrowia",
+          "description": "Projektowanie interfejsu użytkownika zorientowanego na zdrowie\n- Badanie i analiza preferencji użytkowników",
+          "tags": [
+            "usability",
+            "healthcare design"
+          ]
+        },
+        {
+          "title": "★ Specjalista ds. marketingu cyfrowego",
+          "description": "Kampanie promocyjne i budowanie społeczności online\n✓ Kreatywne podejście do promocji zdrowego stylu życia",
+          "tags": [
+            "digital marketing",
+            "community building"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "LogiSMART",
+      "description": "✓ System monitorowania i optymalizacji logistyki\n- Inteligentne Mapy do optymalizacji tras transportu\n★ Poszukujemy Full-Stack Developera z pasją logistyczną",
+      "areas": [
+        "Logistics",
+        "Technology"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Full-Stack Developer z pasją logistyczną",
+          "description": "Projektowanie aplikacji zarządzania logistyką\n- Przeprowadzanie testów i optymalizacja systemu",
+          "tags": [
+            "logistics",
+            "full-stack development"
+          ]
+        },
+        {
+          "title": "★ Analityk logistyczny",
+          "description": "Analiza efektywności procesów logistycznych\n✓ Raportowanie i rekomendacje usprawnień",
+          "tags": [
+            "logistics analysis",
+            "reporting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "EduVizja",
+      "description": "**Innowacyjna platforma edukacyjna dla szkół**\n- Wirtualne lekcje i interaktywne materiały dydaktyczne\n★ Poszukujemy Pedagoga z doświadczeniem w e-learningu",
+      "areas": [
+        "Education Technology",
+        "E-learning"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Pedagog z doświadczeniem w e-learningu",
+          "description": "Tworzenie treści edukacyjnych i monitorowanie postępów uczniów\n→ Doskonałe umiejętności komunikacyjne i edukacyjne",
+          "tags": [
+            "teaching",
+            "e-learning experience"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

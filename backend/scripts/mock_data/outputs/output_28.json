@@ -1,0 +1,243 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zuzanna",
+      "last_name": "Kowalska",
+      "email": "zuzanna.kowalska@biznesmail.pl",
+      "description": "✔️ Doświadczona analityczka danych z pasją do innowacji. ★ Specjalistka z obszaru big data i uczenia maszynowego. Moim celem jest tworzenie rozwiązań, które zmieniają świat.",
+      "skills": [
+        "Data Analysis",
+        "Machine Learning",
+        "Innovation"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Nowak",
+      "email": "piotr.nowak@biznesmail.pl",
+      "description": "*Przedsiębiorczy marketer z wieloletnim doświadczeniem w e-commerce. ✓ Ekspert ds. strategii marketingowej online z nastawieniem na ROI.",
+      "skills": [
+        "Marketing Strategy",
+        "E-commerce",
+        "ROI Optimization"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Alicja",
+      "last_name": "Wiśniewska",
+      "email": "alicja.wisniewska@biznesmail.pl",
+      "description": "- Praktykująca programistka zafascynowana nowinkami w dziedzinie blockchain. ✓ Entuzjastka smart contractów i rozproszonych rejestrów.",
+      "skills": [
+        "Blockchain Development",
+        "Smart Contracts",
+        "Distributed Ledger Technology"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Marek",
+      "last_name": "Dąbrowski",
+      "email": "marek.dabrowski@biznesmail.pl",
+      "description": "**Dynamiczny menedżer z doświadczeniem w zarządzaniu zespołami. ✓ Lider projektów o strategicznym znaczeniu, gotowy na nowe wyzwania.",
+      "skills": [
+        "Team Management",
+        "Project Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Lis",
+      "email": "karolina.lis@biznesmail.pl",
+      "description": "✔️ Kreatywna designerka UX/UI, zorientowana na detale i użytkownika. → Tworzę interaktywne i intuicyjne projekty, które wyróżniają markę.",
+      "skills": [
+        "UX Design",
+        "UI Design",
+        "User-Centric Design"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "GenialnyAI",
+      "description": "★ GenialnyAI to platforma AI wspomagająca decyzje biznesowe poprzez analizę dużych zbiorów danych. ✓ Poszukujemy zdolnego CTO z doświadczeniem w AI. *Dodatkowe umiejętności w zarządzaniu zespołem będą atutem.",
+      "areas": [
+        "Artificial Intelligence",
+        "Data Analytics"
+      ],
+      "open_positions": [
+        {
+          "title": "★ CTO z doświadczeniem w AI",
+          "description": "★ Poszukujemy dyrektora technicznego, który poprowadzi rozwój algorytmów oraz nadzoruje pracę zespołu programistów. ✓ Osoba odpowiedzialna za strategiczne decyzje techniczne.",
+          "tags": [
+            "Algorithm Development",
+            "Technical Leadership"
+          ]
+        },
+        {
+          "title": "★ Data Scientist",
+          "description": "★ Poszukujemy eksperta ds. analizy danych, który będzie tworzył zaawansowane modele predykcyjne. ✓ Doświadczenie w pracy z dużymi zbiorami danych.",
+          "tags": [
+            "Data Analysis",
+            "Predictive Modeling"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "E-CommerceBoost",
+      "description": "✓ E-CommerceBoost to platforma wspierająca rozwój sklepów internetowych poprzez zoptymalizowane strategie marketingowe. ★ Poszukujemy kreatywnego specjalisty ds. marketingu online z doświadczeniem w e-commerce. *Znajomość narzędzi Google Ads mile widziana.",
+      "areas": [
+        "E-commerce",
+        "Digital Marketing"
+      ],
+      "open_positions": [
+        {
+          "title": "✓ Specjalista ds. Marketingu online",
+          "description": "**Odpowiedzialny za strategię marketingową online i kampanie reklamowe. ✓ Monitorowanie wskaźników efektywności oraz optymalizacja działań marketingowych.",
+          "tags": [
+            "Online Marketing Strategy",
+            "Google Ads"
+          ]
+        },
+        {
+          "title": "★ UX/UI Designer",
+          "description": "*Projektowanie responsywnych interfejsów użytkownika dla platformy e-commerce. **Integracja użyteczności z estetyką.",
+          "tags": [
+            "UX Design",
+            "UI Design"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "SecureChain",
+      "description": "→ SecureChain to platforma blockchain zapewniająca bezpieczne rozwiązania dla gospodarki cyfrowej. ★ Poszukujemy programisty blockchain z doświadczeniem w smart contractach. *Zaangażowanie w rozwój nowych funkcji rozproszonych rejestrów.",
+      "areas": [
+        "Blockchain",
+        "Cybersecurity"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Programista blockchain",
+          "description": "★ Tworzenie i utrzymanie smart contractów oraz rozproszonych systemów. ✓ Zapewnienie bezpieczeństwa transakcji i danych.",
+          "tags": [
+            "Smart Contracts Development",
+            "Distributed Ledger Systems"
+          ]
+        },
+        {
+          "title": "✓ Cybersecurity Specialist",
+          "description": "✓ Odpowiedzialny za analizę zagrożeń i zapewnienie bezpieczeństwa platformy. ★ Doświadczenie w audytach bezpieczeństwa.",
+          "tags": [
+            "Threat Analysis",
+            "Security Audits"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "SmartCitySolutions",
+      "description": "- SmartCitySolutions oferuje innowacyjne rozwiązania dla miast inteligentnych, poprawiające jakość życia mieszkańców. ★ Poszukujemy doświadczonego menedżera projektów. *Umiejętność analizy i optymalizacji procesów.",
+      "areas": [
+        "Smart Cities",
+        "Urban Development"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Menedżer projektów",
+          "description": "**Koordynacja zespołu i realizacja celów projektu. ★ Zarządzanie budżetem i kontrola efektywności działań.",
+          "tags": [
+            "Project Management",
+            "Budget Control"
+          ]
+        },
+        {
+          "title": "✓ Analiza procesów",
+          "description": "✓ Identyfikacja obszarów optymalizacji w procesach miast inteligentnych. - Racjonalizacja działań dla zwiększenia efektywności.",
+          "tags": [
+            "Process Analysis",
+            "Efficiency Optimization"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "DesignImpact",
+      "description": "✔️ DesignImpact tworzy unikalne projekty UX/UI, które podnoszą wartość marek na rynku. *Inspirujące i intuicyjne projekty, które angażują użytkowników.",
+      "areas": [
+        "UX/UI Design",
+        "Brand Development"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Senior UX Designer",
+          "description": "★ Kreowanie strategii user experience na platformach marek. >> Innowacyjne podejście do interakcji z użytkownikami.",
+          "tags": [
+            "User Experience Strategy",
+            "Innovative Design"
+          ]
+        },
+        {
+          "title": "✓ UI/Visual Designer",
+          "description": "✓ Projektowanie estetycznych interfejsów użytkownika. - Integracja designu z wizerunkiem marki.",
+          "tags": [
+            "UI Design",
+            "Visual Branding"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

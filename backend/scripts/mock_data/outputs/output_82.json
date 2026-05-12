@@ -1,0 +1,240 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Aleksandra",
+      "last_name": "Nowak",
+      "email": "aleksandra.nowak@uni.edu.pl",
+      "description": "Dr. Nowak is a passionate researcher with a focus on *quantum computing* and *machine learning*. Her innovative approach to solving complex problems has garnered international recognition. With expertise in *algorithm design*, she seeks to push the boundaries of technology and science.",
+      "skills": [
+        "Quantum Computing",
+        "Machine Learning",
+        "Algorithm Design"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Kowalski",
+      "email": "piotr.kowalski@uni.edu.pl",
+      "description": "Prof. Kowalski is a luminary in the field of *neuroscience* and *cognitive psychology*. His research on human cognition has reshaped our understanding of the mind. Through his interdisciplinary approach and expertise in *experimental design*, he continues to inspire new scholars.",
+      "skills": [
+        "Neuroscience",
+        "Cognitive Psychology",
+        "Experimental Design"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Karolina",
+      "last_name": "Dąbrowska",
+      "email": "karolina.dabrowska@uni.edu.pl",
+      "description": "Karolina is a rising star in the world of *bioinformatics* and *computational biology*. Her work on analyzing genomic data has unlocked novel insights into genetic diseases. With a keen eye for *data visualization* and *statistical analysis*, she drives impactful discoveries.",
+      "skills": [
+        "Bioinformatics",
+        "Computational Biology",
+        "Data Visualization",
+        "Statistical Analysis"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Marcin",
+      "last_name": "Wójcik",
+      "email": "marcin.wojcik@uni.edu.pl",
+      "description": "Dr. Wójcik is an esteemed researcher specializing in *environmental sciences* and *sustainability*. His groundbreaking work on climate change mitigation strategies has influenced global policy. Through his expertise in *geospatial analysis* and *environmental modeling*, he pioneers solutions for a sustainable future.",
+      "skills": [
+        "Environmental Sciences",
+        "Sustainability",
+        "Geospatial Analysis",
+        "Environmental Modeling"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Agnieszka",
+      "last_name": "Zając",
+      "email": "agnieszka.zajac@uni.edu.pl",
+      "description": "Prof. Zając is a trailblazer in the realm of *nanotechnology* and *material science*. Her research on nanostructures has led to breakthroughs in material design. With expertise in *nanofabrication* and *spectroscopy*, she is shaping the future of advanced materials.",
+      "skills": [
+        "Nanotechnology",
+        "Material Science",
+        "Nanofabrication",
+        "Spectroscopy"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Rewolucja Kwantowa",
+      "description": "Projekt 'Rewolucja Kwantowa' zmienia paradygmaty naukowe jak kwantowa superpozycja. Prowadzi badania we *wiodącej laboratorium kwantowym*, uosabiając nowoczesność. Jego wpływ na przyszłość jest porównywalny do nieskończoności.",
+      "areas": [
+        "Quantum Physics",
+        "Theoretical Computer Science"
+      ],
+      "open_positions": [
+        {
+          "title": "Asystent Badawczy",
+          "description": "Poszukujemy asystenta badawczego do prowadzenia eksperymentów związanych z kwantowymi zjawiskami. Znajomość technik *pomiarowych* oraz teorii kwantowej jest wymagana.",
+          "tags": [
+            "Quantum Phenomena",
+            "Experimental Techniques"
+          ]
+        },
+        {
+          "title": "Starszy Wykładowca",
+          "description": "Osoba na stanowisku starszego wykładowcy powinna posiąść głęboką wiedzę w *teorii kwantowej* i fizyce ciała stałego. Doświadczenie w kierowaniu projektami badawczymi jest mile widziane.",
+          "tags": [
+            "Solid State Physics",
+            "Project Management"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mózg Syntetyczny",
+      "description": "Projekt 'Mózg Syntetyczny' to wyzwania, którym stawiają czoła naukowcy z różnych dziedzin. Jego wpływ na społeczeństwo jest *niezmierzony*. Przybliża nas do zrozumienia fundamentalnych mechanizmów kognitywnych.",
+      "areas": [
+        "Artificial Intelligence",
+        "Cognitive Science"
+      ],
+      "open_positions": [
+        {
+          "title": "Profesor Zdrowia Umysłowego",
+          "description": "Poszukujemy profesora zdrowia umysłowego, który będzie badać interakcje *sztucznej inteligencji* z ludzkim mózgiem. Współpraca z neurologami i psychologami intensyfikuje możliwości badawcze.",
+          "tags": [
+            "Brain-Computer Interfaces",
+            "Neuroscience Integration"
+          ]
+        },
+        {
+          "title": "Doktorant w AI",
+          "description": "Osoba ta będzie brać udział w projektach związanych z uczeniem maszynowym i analizą danych neuroobrazowych. Znajomość *przetwarzania języka naturalnego* oraz *sztucznych sieci neuronowych* jest wymagana.",
+          "tags": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Neural Networks"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Kodowanie Genetyczne",
+      "description": "Projekt 'Kodowanie Genetyczne' odkrywa tajemnice genomów i unikalne sekwencje DNA. Jego wpływ na rozwój medycyny jest porównywany do *rewolucji*. Umożliwia tworzenie spersonalizowanych terapii genowych.",
+      "areas": [
+        "Genomics",
+        "Bioinformatics"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Analizy Genomów",
+          "description": "Poszukujemy eksperta w analizie genomów z doświadczeniem w *bioinformatyce*. Umiejętność korzystania z narzędzi *odczytu DNA* jest niezbędna.",
+          "tags": [
+            "Genome Analysis",
+            "DNA Sequencing"
+          ]
+        },
+        {
+          "title": "Bioinformatyk Molekularny",
+          "description": "Osoba ta będzie zajmować się analizą sekwencji genetycznych i *modelowaniem molekularnym*. Znajomość algorytmów *sekwencjonowania DNA* będzie atutem.",
+          "tags": [
+            "Molecular Bioinformatics",
+            "DNA Sequencing Algorithms"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Klimatyczne Innowacje",
+      "description": "Projekt 'Klimatyczne Innowacje' skupia się na opracowywaniu zrównoważowanych rozwiązań dla przyszłości naszej planety. Jego oddziaływanie na środowisko jest *szlachetne* i dąży do minimalizacji zmian klimatycznych.",
+      "areas": [
+        "Climate Change",
+        "Sustainable Development"
+      ],
+      "open_positions": [
+        {
+          "title": "Eko-Inżynier",
+          "description": "Poszukujemy specjalisty w dziedzinie *optymalizacji gospodarki odpadami* i inżynierii środowiska. Znajomość *modelowania klimatycznego* oraz *analizy lifecycle* jest mile widziana.",
+          "tags": [
+            "Waste Management Optimization",
+            "Climate Modeling",
+            "Lifecycle Analysis"
+          ]
+        },
+        {
+          "title": "Klimatolog",
+          "description": "Osoba ta będzie odpowiadać za monitorowanie zmian klimatycznych oraz analizę danych meteorologicznych. Doświadczenie w analizie *emisji gazów cieplarnianych* będzie atutem.",
+          "tags": [
+            "Climate Monitoring",
+            "Greenhouse Gas Emissions Analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Nanoświat Wielkich Możliwości",
+      "description": "Projekt 'Nanoświat Wielkich Możliwości' eksploruje nanomateriały i ich niezwykłe właściwości. Jego wpływ na przemysł jest *niekwestionowany*. Odkrycie nowych nanowłókien rewolucjonizuje branżę materiałów wysokozaawansowanych.",
+      "areas": [
+        "Nanomaterials",
+        "Advanced Materials"
+      ],
+      "open_positions": [
+        {
+          "title": "Mistrz Nanotechnologii",
+          "description": "Poszukujemy specjalisty w produkcji i charakteryzacji nanomateriałów. Znajomość *mikroskopii elektronowej* oraz *technik nanolithograficznych* jest wymagana.",
+          "tags": [
+            "Electron Microscopy",
+            "Nanolithography Techniques"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Spektroskopii",
+          "description": "Osoba ta będzie prowadzić badania nad *spektroskopią nanostruktur*. Doświadczenie w interpretacji danych spektroskopowych jest kluczowe.",
+          "tags": [
+            "Nanostructure Spectroscopy",
+            "Spectroscopic Data Analysis"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    }
+  ]
+}

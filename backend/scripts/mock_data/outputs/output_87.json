@@ -1,0 +1,235 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Aleksandra",
+      "last_name": "Kowalska",
+      "email": "aleksandra.kowalska@example.com",
+      "description": "Dr. Kowalska is a dedicated researcher with a passion for *biomedical engineering* and **biological signal processing**. Her work focuses on developing innovative solutions for improving healthcare technology. With expertise in *machine learning* and *sensor integration*, she thrives on interdisciplinary collaborations.",
+      "skills": [
+        "biomedical engineering",
+        "machine learning",
+        "sensor integration"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Grzegorz",
+      "last_name": "Nowak",
+      "email": "grzegorz.nowak@example.com",
+      "description": "Prof. Nowak is a leading expert in *computational chemistry* and quantum simulations. His research delves into the intricacies of chemical reactions using cutting-edge techniques. Proficient in *quantum mechanics* and *molecular dynamics*, he is known for his innovative approach to theoretical chemistry.",
+      "skills": [
+        "computational chemistry",
+        "quantum mechanics",
+        "molecular dynamics"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Wójcik",
+      "email": "magdalena.wojcik@example.com",
+      "description": "Dr. Wójcik's research revolves around *urban sustainability* and community resilience. She employs a transdisciplinary approach to address environmental challenges in urban areas. Specializing in *sustainable urban planning* and *community engagement*, she is committed to fostering sustainable cities.",
+      "skills": [
+        "urban sustainability",
+        "sustainable urban planning",
+        "community engagement"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Jasiński",
+      "email": "piotr.jasinski@example.com",
+      "description": "Prof. Jasiński is a renowned scholar in the field of *cognitive neuroscience* and neural imaging. His work elucidates the neural mechanisms underlying cognition and behavior. Proficient in *fMRI analysis* and *neural mapping*, he combines advanced imaging techniques with cognitive theories.",
+      "skills": [
+        "cognitive neuroscience",
+        "fMRI analysis",
+        "neural mapping"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Anna",
+      "last_name": "Lis",
+      "email": "anna.lis@example.com",
+      "description": "Dr. Lis specializes in *quantum computing* and quantum algorithms with applications in cryptography and data security. Her research explores the potential of quantum technologies in advancing secure communications. Proficient in *quantum programming* and *cryptographic protocols*, she aims to revolutionize data encryption methods.",
+      "skills": [
+        "quantum computing",
+        "quantum programming",
+        "cryptographic protocols"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Zrównoważony Rozwój Miast",
+      "description": "Projekt 'Zrównoważony Rozwój Miast' to opowieść o przemianie miejskich przestrzeni w harmonijne ekosystemy. Poprzez innowacyjne podejścia do *urbanistyki zrównoważonej* i *zarządzania przestrzennego*, projekt ten dąży do stworzenia miast przyjaznych ludziom i środowisku.",
+      "areas": [
+        "urban planning",
+        "sustainability"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Urbanistyki",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za projektowanie przestrzenne z uwzględnieniem aspektów zrównoważonego rozwoju miast. Poszukujemy kreatywnej jednostki z doświadczeniem w planowaniu urbanistycznym i projektowaniu środowiskowym.",
+          "tags": [
+            "urban design",
+            "sustainability planning"
+          ]
+        },
+        {
+          "title": "Analityk ds. Transportu Miejskiego",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za analizę efektywności systemów transportu publicznego w kontekście zrównoważonego rozwoju miast. Poszukujemy specjalisty z umiejętnościami analitycznymi i planistycznymi.",
+          "tags": [
+            "public transport",
+            "urban mobility"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Inżynieria Medyczna Przyszłości",
+      "description": "Projekt 'Inżynieria Medyczna Przyszłości' to eksploracja nowych horyzontów w poprawie systemów opieki zdrowotnej. Poprzez połączenie *technologii medycznych* i *inteligentnych systemów wspomagających diagnozę*, projekt ten zmierza do rewolucji w dziedzinie biomedycyny.",
+      "areas": [
+        "biomedical engineering",
+        "healthcare technology"
+      ],
+      "open_positions": [
+        {
+          "title": "Inżynier Biomedyczny",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za rozwój innowacyjnych technologii medycznych. Poszukujemy specjalisty z doświadczeniem w projektowaniu urządzeń medycznych i analizie sygnałów biologicznych.",
+          "tags": [
+            "medical device design",
+            "biological signal processing"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Integracji Sensorów",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za integrację sensorów w systemach medycznych. Poszukujemy eksperta z umiejętnościami w zakresie interfejsów sensorów i technologii pomiarowych.",
+          "tags": [
+            "sensor integration",
+            "medical sensor technology"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Neuroobrazowanie Poznawcze",
+      "description": "Projekt 'Neuroobrazowanie Poznawcze' to podróż w świat skomplikowanych struktur mózgu. Poprzez *analizę obrazów fMRI* i *badania nad funkcjami poznawczymi*, projekt ten odkrywa tajemnice ludzkiego umysłu, krok po kroku.",
+      "areas": [
+        "cognitive neuroscience",
+        "neural imaging"
+      ],
+      "open_positions": [
+        {
+          "title": "Analityk fMRI",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za analizę danych z obrazowania fMRI. Poszukujemy specjalisty z doświadczeniem w analizie obrazów mózgu i zrozumieniem aktywności neuronalnej.",
+          "tags": [
+            "fMRI analysis",
+            "neural activity"
+          ]
+        },
+        {
+          "title": "Badacz Struktur Mózgowych",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za badanie struktur neuronowych mózgu. Poszukujemy naukowca z umiejętnościami w dziedzinie obrazowania neuromorfologicznego i konstrukcji modeli 3D.",
+          "tags": [
+            "neural structures",
+            "brain imaging"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Algorytmy Kwantowe w Bezpieczeństwie Danych",
+      "description": "Projekt 'Algorytmy Kwantowe w Bezpieczeństwie Danych' to pionierska eksploracja zastosowań *komputingu kwantowego* w dziedzinie kryptografii. Przełomowe technologie kwantowe mają potencjał do rewolucji obecnych standardów bezpieczeństwa informacji.",
+      "areas": [
+        "quantum computing",
+        "cryptography"
+      ],
+      "open_positions": [
+        {
+          "title": "Ekspert ds. Kryptografii Kwantowej",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za projektowanie i implementację protokołów bezpiecznego komunikowania kwantowego. Poszukujemy specjalisty w dziedzinie kryptografii kwantowej i protokołów bezpieczeństwa danych.",
+          "tags": [
+            "quantum cryptography",
+            "secure communication"
+          ]
+        },
+        {
+          "title": "Programista Kwantowy",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za rozwój algorytmów kwantowych do zastosowań kryptograficznych. Poszukujemy programisty z doświadczeniem w programowaniu kwantowym i analizie ryzyka cybernetycznego.",
+          "tags": [
+            "quantum programming",
+            "cybersecurity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Symulacje Chemiczne na Poziomie Kwantowym",
+      "description": "Projekt 'Symulacje Chemiczne na Poziomie Kwantowym' to opowieść o analizie złożonych reakcji chemicznych na mikroskopowym poziomie. Poprzez wykorzystanie technik *mechaniki kwantowej* i *symulacji molekularnych*, projekt ten odkrywa ukryte mechanizmy reakcji chemicznych.",
+      "areas": [
+        "quantum chemistry",
+        "molecular simulations"
+      ],
+      "open_positions": [
+        {
+          "title": "Badacz Reakcji Chemicznych",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za analizę reakcji chemicznych na poziomie kwantowym. Poszukujemy naukowca z umiejętnościami w analizie mechanizmów reakcji, symulacjach kwantowych i teorii stanów kwantowych.",
+          "tags": [
+            "chemical reactions",
+            "quantum simulations"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Symulacji Molekularnych",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za prowadzenie symulacji molekularnych z wykorzystaniem technik kwantowych. Poszukujemy specjalisty z doświadczeniem w symulacjach molekularnych i analizie właściwości chemicznych struktur.",
+          "tags": [
+            "molecular dynamics",
+            "quantum modeling"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 1
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    }
+  ]
+}

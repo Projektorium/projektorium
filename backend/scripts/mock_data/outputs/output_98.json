@@ -1,0 +1,234 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Natalia",
+      "last_name": "Nowak",
+      "email": "natalia.nowak@example.com",
+      "description": "*Innowacyjny* *startupowiec*, który widzi przyszłość w nowatorskich technologiach. ★ Doświadczenie w zarządzaniu projektami, ✓ Strategia biznesowa, → Kreacja wizji przyszłości.",
+      "skills": [
+        "Zarządzanie projektami",
+        "Technologie blockchain",
+        "Analiza rynku"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Aleksander",
+      "last_name": "Kowalczyk",
+      "email": "aleksander.kowalczyk@example.com",
+      "description": "**Ekspert** w dziedzinie sztucznej inteligencji, stawiający na *innowacyjne rozwiązania*. ★ Prognozowanie trendów, ✓ Programowanie neuronowe, → Kreacja inteligentnych systemów.",
+      "skills": [
+        "Sztuczna inteligencja",
+        "Programowanie",
+        "Analiza danych"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Karolina",
+      "last_name": "Michalak",
+      "email": "karolina.michalak@example.com",
+      "description": "→ *Startupowiec* z pasją do marketingu internetowego i **kreatywnego myślenia**. ★ Kampanie reklamowe, ✓ Zarządzanie społecznościami online, → Analiza danych marketingowych.",
+      "skills": [
+        "Marketing internetowy",
+        "Analiza danych",
+        "Kreatywne podejście"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Lis",
+      "email": "piotr.lis@example.com",
+      "description": "*E-commerce* *guru* z *bogatym doświadczeniem* w tworzeniu skutecznych strategii sprzedażowych online. ★ Optymalizacja konwersji, ✓ SEO ekspercki, → Zarządzanie kampaniami reklamowymi.",
+      "skills": [
+        "E-commerce",
+        "SEO",
+        "Strategie sprzedażowe"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Oliwia",
+      "last_name": "Wójcik",
+      "email": "oliwia.wojcik@example.com",
+      "description": "**Ambitna** *młoda liderka*, której celem jest *zmiana społeczeństwa* przez nowoczesne rozwiązania. ★ Strategiczne planowanie, ✓ Rozwój społeczności online, → Kreowanie spójnych wartości.",
+      "skills": [
+        "Zarządzanie strategiczne",
+        "Rozwój społeczności",
+        "Planowanie strategiczne"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "TechVision",
+      "description": "**Startup** zajmujący się tworzeniem *innowacyjnych rozwiązań* opartych na *technologiach przyszłości*. ★ Rozwój sztucznej inteligencji, ✓ Inteligentne systemy, → Optymalizacja procesów biznesowych.",
+      "areas": [
+        "Sztuczna inteligencja",
+        "Internet rzeczy",
+        "Blockchain"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista ds. AI",
+          "description": "*Odpowiedzialny za rozwój* systemów opartych na sztucznej inteligencji. ★ Projektowanie modeli AI, ✓ Testowanie algorytmów, → Optymalizacja efektywności.",
+          "tags": [
+            "Deep Learning",
+            "Machine Learning"
+          ]
+        },
+        {
+          "title": "✓ Programista Blockchain",
+          "description": "*Tworzenie* innowacyjnych rozwiązań z wykorzystaniem technologii blockchain. ★ Programowanie smart contractów, ✓ Bezpieczeństwo transakcji, → Integracja blockchain z IoT.",
+          "tags": [
+            "Ethereum",
+            "Solidity",
+            "Konsensus Proof of Stake"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "GreenSolutions",
+      "description": "Zespół *ekspertów* skupiony na *ecofriendly technologiach* zmieniających oblicze świata. ★ Energooszczędność, ✓ Ekologiczne innowacje, → Odpowiedzialne inwestycje w przyszłość.",
+      "areas": [
+        "Energetyka odnawialna",
+        "Recykling",
+        "Zrównoważony rozwój"
+      ],
+      "open_positions": [
+        {
+          "title": "✓ Specjalista ds. Odnawialnych Źródeł energii",
+          "description": "**Odpowiedzialny za rozwój** projektów z zakresu energetyki odnawialnej. ★ Projektowanie instalacji solarnych, ✓ Analiza wydajności energetycznej, → Optymalizacja procesów ekologicznych.",
+          "tags": [
+            "Fotowoltaika",
+            "Energetyka wiatrowa"
+          ]
+        },
+        {
+          "title": "→ Ekolog Projektant",
+          "description": "*Projektowanie* innowacyjnych rozwiązań ekologicznych. ★ Kreacja projektów zrównoważonych, ✓ Odpowiedzialne podejście do środowiska, → Innowacyjne podejście do recyklingu.",
+          "tags": [
+            "Projektowanie eco",
+            "Zrównoważone projektowanie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "MarketSense",
+      "description": "*Platforma marketingowa* skupiona na analizie danych i progresywnych trendach rynkowych. ★ Marketing precyzyjny, ✓ Analiza danych, → Personalizowane podejście do klienta.",
+      "areas": [
+        "Marketing online",
+        "Big Data",
+        "Analiza rynku"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Analityk rynkowy",
+          "description": "**Odpowiedzialny za analizę** trendów rynkowych i oddziaływanie na kampanie marketingowe. ★ Interpretacja danych, ✓ Prognozowanie rynkowe, → Kreowanie strategii marketingowych.",
+          "tags": [
+            "Analiza rynku",
+            "Badania rynkowe"
+          ]
+        },
+        {
+          "title": "✓ Specjalista ds. SEM",
+          "description": "*Zarządzanie* kampaniami marketingowymi online. ★ Optymalizacja SEO, ✓ Kampanie reklamowe, → Kreacja treści marketingowych.",
+          "tags": [
+            "SEM",
+            "SEO",
+            "Google Ads"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "HealthInnovate",
+      "description": "Inicjatywa skupiona na *innowacyjnych rozwiązaniach* w sektorze zdrowia i *opiece medycznej*. ★ Technologie medyczne, ✓ Personalizowane leczenie, → Innowacje w e-zdrowiu.",
+      "areas": [
+        "E-Zdrowie",
+        "Telemedycyna",
+        "Technologie medyczne"
+      ],
+      "open_positions": [
+        {
+          "title": "✓ Specjalista ds. Telemedycyny",
+          "description": "*Rozwój* systemów zdalnej opieki zdrowotnej. ★ Ewolucja aplikacji medycznych, ✓ Transfer danych medycznych, → Personalizacja leczenia online.",
+          "tags": [
+            "Telemedycyna",
+            "E-Zdrowie"
+          ]
+        },
+        {
+          "title": "→ Projektlead w e-zdrowiu",
+          "description": "*Kierowanie* projektem innowacyjnego rozwiązania e-zdrowia. ★ Koordynacja zespołu, ✓ Testowanie aplikacji, → Implementacja rozwiązań medycznych.",
+          "tags": [
+            "E-Zdrowie",
+            "Zarządzanie projektem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "FinanceTech",
+      "description": "**Nowatorska** platforma *finansowa* wyznaczająca nowe standardy w sektorze finansowym. ★ Fintech rozwiązania, ✓ Bezpieczne transakcje, → Inwestycje przyszłościowe.",
+      "areas": [
+        "Fintech",
+        "Technologie finansowe",
+        "Bezpieczne płatności"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista ds. Fintech",
+          "description": "*Rozwój* platformy finansowej na miarę XXI wieku. ★ Technologie finansowe, ✓ Cyberbezpieczeństwo płatności, → Innowacje w systemach płatniczych.",
+          "tags": [
+            "Blockchain w finansach",
+            "Bezpieczne transakcje"
+          ]
+        },
+        {
+          "title": "✓ Analityk finansowy",
+          "description": "*Analiza* danych finansowych i prognozowanie trendów rynkowych. ★ Ocena ryzyka, ✓ Przygotowanie raportów, → Doradztwo finansowe.",
+          "tags": [
+            "Analiza finansowa",
+            "Prognozowanie rynkowe"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 1
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 3
+    }
+  ]
+}

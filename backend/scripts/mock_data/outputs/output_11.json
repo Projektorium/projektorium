@@ -1,0 +1,227 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Agnieszka",
+      "last_name": "Nowak",
+      "email": "agnieszka.nowak@example.com",
+      "description": "👩‍💻 *Mam doświadczenie w analizie danych oraz programowaniu w Pythonie.* - Znajomość SQL - Umiejętność pracy z danymi w języku R - *Kreatywne podejście do rozwiązywania problemów*",
+      "skills": [
+        "Analiza danych",
+        "Python",
+        "R"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Kowalski",
+      "email": "piotr.kowalski@example.com",
+      "description": "📚 **Posiadam wykształcenie w dziedzinie sztucznej inteligencji.** - *Obsługa sieci neuronowych* - Zainteresowania wizją komputerową",
+      "skills": [
+        "Sztuczna inteligencja",
+        "Sieci neuronowe",
+        "Wizja komputerowa"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Karolina",
+      "last_name": "Dąbrowska",
+      "email": "karolina.dabrowska@example.com",
+      "description": "🎨 *Absolwentka szkoły artystycznej.* - Pasja do ilustracji - *Doświadczenie w projektowaniu interfejsów użytkownika* - Kreatywność",
+      "skills": [
+        "Ilustracja",
+        "Projektowanie interfejsów",
+        "Kreatywność"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Michał",
+      "last_name": "Wójcik",
+      "email": "michal.wojcik@example.com",
+      "description": "💼 *Pracuję jako Analityk Biznesowy.* - Umiejętność przeprowadzania analiz biznesowych - Znajomość metodologii Agile - *Komunikatywność i orientacja na cel",
+      "skills": [
+        "Analityka biznesowa",
+        "Metodologia Agile",
+        "Komunikatywność"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Alicja",
+      "last_name": "Witkowska",
+      "email": "alicja.witkowska@example.com",
+      "description": "🔬 *Jestem badaczem naukowym z zakresu biologii.* - Specjalizacja w genetyce - *Doświadczenie w analizie danych biologicznych*",
+      "skills": [
+        "Biologia",
+        "Genetyka",
+        "Analiza danych"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Projekt Marzenie",
+      "description": "🚀 *Innowacyjny projekt badawczy* - Analiza danych w czasie rzeczywistym - **Wykorzystanie sztucznej inteligencji**",
+      "areas": [
+        "Badania naukowe",
+        "Sztuczna inteligencja"
+      ],
+      "open_positions": [
+        {
+          "title": "🔍 Data Scientist",
+          "description": "- Przetwarzanie i analiza dużych zbiorów danych - Komunikatywność",
+          "tags": [
+            "Analiza danych",
+            "Data Science"
+          ]
+        },
+        {
+          "title": "🎨 UI/UX Designer",
+          "description": "- Projektowanie interfejsów użytkownika - Kreatywność",
+          "tags": [
+            "Projektowanie interfejsów",
+            "UI/UX"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Projekt Kreatywności",
+      "description": "🎭 **Inspirujący projekt artystyczny** - Tworzenie innowacyjnych projektów wizualnych - *Współpraca z lokalnymi artystami*",
+      "areas": [
+        "Sztuka",
+        "Projektowanie"
+      ],
+      "open_positions": [
+        {
+          "title": "🎨 Grafik komputerowy",
+          "description": "- Projektowanie grafik wektorowych - Kreatywność",
+          "tags": [
+            "Grafika komputerowa",
+            "Projektowanie graficzne"
+          ]
+        },
+        {
+          "title": "💡 Kreatywny Pomysłodawca",
+          "description": "- Generowanie nowych kreatywnych konceptów - Pomysłowość",
+          "tags": [
+            "Kreatywność",
+            "Pomysłowość"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Projekt Natury",
+      "description": "🌿 *Interdyscyplinarny projekt ekologiczny* - Ochrona środowiska i przyrody - **Badania terenowe i analizy danych**",
+      "areas": [
+        "Ochrona środowiska",
+        "Ekologia"
+      ],
+      "open_positions": [
+        {
+          "title": "🔬 Biolog",
+          "description": "- Prowadzenie badań terenowych - Wiedza z zakresu biologii",
+          "tags": [
+            "Biologia",
+            "Badania terenowe"
+          ]
+        },
+        {
+          "title": "🌱 Ekolog",
+          "description": "- Analizy danych dotyczące stanu środowiska - Umiejętność pracy w zespole",
+          "tags": [
+            "Analizy danych",
+            "Ochrona środowiska"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Projekt Innowacji",
+      "description": "🔑 **Projekt rozwoju innowacyjnych rozwiązań** - Kreowanie nowych technologii i idei - *Współpraca z biznesem i nauką*",
+      "areas": [
+        "Innowacje technologiczne",
+        "Badania naukowe"
+      ],
+      "open_positions": [
+        {
+          "title": "📊 Analityk Biznesowy",
+          "description": "- Analizowanie wymagań biznesowych - Wizualizacja danych",
+          "tags": [
+            "Analityka biznesowa",
+            "Wizualizacja danych"
+          ]
+        },
+        {
+          "title": "🎓 Koordynator Projektu",
+          "description": "- Zarządzanie zespołem projektowym - Planowanie działań",
+          "tags": [
+            "Zarządzanie projektami",
+            "Planowanie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Projekt Kreatywnego Bloga",
+      "description": "📝 *Tworzenie unikatowej treści blogowej* - Redagowanie artykułów tematycznych - **Kreatywne podejście do pisania**",
+      "areas": [
+        "Kreacja treści",
+        "Marketing internetowy"
+      ],
+      "open_positions": [
+        {
+          "title": "🖊️ Copywriter",
+          "description": "- Tworzenie treści zgodnie z wytycznymi - Umiejętność edycji tekstu",
+          "tags": [
+            "Kreacja treści",
+            "Copywriting"
+          ]
+        },
+        {
+          "title": "🔍 Specjalista ds. SEO",
+          "description": "- Optymalizacja treści pod kątem SEO - Proaktywność",
+          "tags": [
+            "SEO",
+            "Optymalizacja treści"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 3
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zofia",
+      "last_name": "Wójcik",
+      "email": "zofia@example.com",
+      "description": [
+        "- **10 years experience in digital marketing**",
+        "- *Creating a sustainable e-commerce platform that revolutionizes customer experience*",
+        "- Proficiency in SEO and SEM",
+        "- Data-driven decision making"
+      ],
+      "skills": [
+        "Digital Marketing",
+        "SEO",
+        "SEM",
+        "Data Analysis"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Emil",
+      "last_name": "Kowalczyk",
+      "email": "emil@example.com",
+      "description": [
+        "- **Founded and scaled a successful fintech company**",
+        "- *Disrupting traditional banking with blockchain technology*",
+        "- Blockchain development expertise",
+        "- Strategic leadership skills"
+      ],
+      "skills": [
+        "Blockchain Development",
+        "Fintech",
+        "Leadership",
+        "Startup Scaling"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Aleksandra",
+      "last_name": "Nowak",
+      "email": "aleksandra@example.com",
+      "description": [
+        "- *Passionate about sustainability and green technologies*",
+        "- **5 years experience in renewable energy projects**",
+        "- Proven track record in project management",
+        "- Strong communication skills"
+      ],
+      "skills": [
+        "Renewable Energy",
+        "Project Management",
+        "Sustainability",
+        "Communication"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Tomasz",
+      "last_name": "Jankowski",
+      "email": "tomasz@example.com",
+      "description": [
+        "- **Expertise in AI and machine learning applications**",
+        "- *Building AI solutions for predictive analytics*",
+        "- Proficient in Python and TensorFlow",
+        "- Innovative problem-solving approach"
+      ],
+      "skills": [
+        "AI",
+        "Machine Learning",
+        "Python",
+        "Predictive Analytics"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Natalia",
+      "last_name": "Łukasiewicz",
+      "email": "natalia@example.com",
+      "description": [
+        "- *Creating a social media platform for mental health awareness*",
+        "- **Community-driven approach with 7 years of social media management**",
+        "- Content creation skills",
+        "- Empathy and understanding"
+      ],
+      "skills": [
+        "Social Media Management",
+        "Community Engagement",
+        "Content Creation",
+        "Empathy"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "EkoMarket",
+      "description": [
+        "- **Zero-waste online marketplace**",
+        "- *Connecting eco-conscious consumers with sustainable brands*",
+        "- Curated selection of environmentally friendly products",
+        "- Innovative recycling program"
+      ],
+      "areas": [
+        "Eco-Friendly Products",
+        "Sustainability",
+        "Online Retail"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Chief Sustainability Officer",
+          "description": "*Leading the eco-friendly initiatives within the company*",
+          "tags": [
+            "Sustainability Strategy",
+            "Circular Economy"
+          ]
+        },
+        {
+          "title": "✓ Marketing Manager",
+          "description": "*Developing and implementing marketing strategies*",
+          "tags": [
+            "Digital Marketing",
+            "Content Creation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "MedTechAI",
+      "description": [
+        "- **AI-powered healthcare solutions**",
+        "- *Improving patient care through predictive analytics*",
+        "- Advanced diagnostic algorithms",
+        "- Seamless integration with existing healthcare systems"
+      ],
+      "areas": [
+        "HealthTech",
+        "Artificial Intelligence",
+        "Predictive Analytics"
+      ],
+      "open_positions": [
+        {
+          "title": "★ CTO with AI experience",
+          "description": "*Leading the development of AI algorithms*",
+          "tags": [
+            "AI Development",
+            "Machine Learning"
+          ]
+        },
+        {
+          "title": "✓ Product Manager",
+          "description": "*Overseeing product roadmap and features*",
+          "tags": [
+            "Product Development",
+            "Agile Methodology"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "GreenTech Innovators",
+      "description": [
+        "- **Revolutionizing green technologies**",
+        "- *Creating sustainable solutions for a greener future*",
+        "- Green energy production optimization",
+        "- IoT integration for smart energy management"
+      ],
+      "areas": [
+        "Renewable Energy",
+        "IoT",
+        "Green Technologies"
+      ],
+      "open_positions": [
+        {
+          "title": "✓ IoT Specialist",
+          "description": "*Developing IoT solutions for energy management*",
+          "tags": [
+            "IoT Development",
+            "Energy Optimization"
+          ]
+        },
+        {
+          "title": "→ Sustainability Analyst",
+          "description": "*Analyzing and optimizing sustainability strategies*",
+          "tags": [
+            "Sustainability Analysis",
+            "Environmental Impact"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "DataRevolution",
+      "description": [
+        "- **Transforming data into actionable insights**",
+        "- *Enhancing business decision-making with advanced analytics*",
+        "- Data visualization for intuitive understanding",
+        "- Personalized recommendation engines"
+      ],
+      "areas": [
+        "Big Data Analytics",
+        "Data Visualization",
+        "Predictive Modelling"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Data Scientist",
+          "description": "*Developing predictive models and algorithms*",
+          "tags": [
+            "Data Science",
+            "Predictive Modelling"
+          ]
+        },
+        {
+          "title": "✓ UX/UI Designer",
+          "description": "*Crafting intuitive data visualization interfaces*",
+          "tags": [
+            "UX Design",
+            "Data Visualization"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "EmoSupport",
+      "description": [
+        "- **Empowering mental health through technology**",
+        "- *Providing a platform for emotional support and well-being*",
+        "- Community-driven mental health resources",
+        "- AI-powered emotional analysis"
+      ],
+      "areas": [
+        "Mental Health Tech",
+        "Community Support",
+        "AI in Healthcare"
+      ],
+      "open_positions": [
+        {
+          "title": "→ Community Manager",
+          "description": "*Building and engaging a supportive community*",
+          "tags": [
+            "Community Engagement",
+            "Empathy"
+          ]
+        },
+        {
+          "title": "✓ UI/UX Developer",
+          "description": "*Designing user-friendly interfaces for mental health services*",
+          "tags": [
+            "UI/UX Design",
+            "Emotional Analysis"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 1
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 2
+    }
+  ]
+}

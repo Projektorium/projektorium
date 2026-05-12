@@ -1,0 +1,235 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "katarzyna.nowak@example.com",
+      "description": "Dr. Katarzyna Nowak is a dedicated researcher specializing in *social psychology* and **quantitative research methods**. Her work focuses on understanding human behavior in group settings.",
+      "skills": [
+        "Experimental Design",
+        "Data Analysis",
+        "Qualitative Research"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Kowalski",
+      "email": "piotr.kowalski@example.com",
+      "description": "Prof. Piotr Kowalski is a renowned expert in *neuroscience* and brain imaging techniques. His groundbreaking research has shed light on the complexities of neural networks.",
+      "skills": [
+        "fMRI Analysis",
+        "Neural Imaging",
+        "Brain Mapping"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Małgorzata",
+      "last_name": "Jasińska",
+      "email": "malgorzata.jasinska@example.com",
+      "description": "Dr. Małgorzata Jasińska's work in *computational linguistics* and **machine learning** has revolutionized natural language processing. She is passionate about unraveling the mysteries of linguistic patterns.",
+      "skills": [
+        "NLP Algorithms",
+        "Deep Learning",
+        "Syntax Analysis"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Adam",
+      "last_name": "Woźniak",
+      "email": "adam.wozniak@example.com",
+      "description": "Prof. Adam Woźniak is a leading figure in *environmental engineering* and sustainable development. His research highlights the importance of eco-friendly solutions in urban planning.",
+      "skills": [
+        "Renewable Energy Systems",
+        "Green Infrastructure",
+        "Climate Modeling"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Anna",
+      "last_name": "Olszewska",
+      "email": "anna.olszewska@example.com",
+      "description": "Dr. Anna Olszewska's expertise lies in *bioinformatics* and genetic sequencing. Her work has contributed significantly to decoding the human genome.",
+      "skills": [
+        "Genomic Data Analysis",
+        "Sequence Alignment",
+        "Phylogenetic Trees"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Eksploracja Mózgu",
+      "description": "Projekt 'Eksploracja Mózgu' to ambitna próba zgłębienia najskrytszych tajemnic ludzkiego mózgu. Nasz zespół łączy **neurologię** z *sztuczną inteligencją* w poszukiwaniu nowych sposobów zrozumienia funkcjonowania neuronek w mózgu.",
+      "areas": [
+        "Neuroscience",
+        "Artificial Intelligence"
+      ],
+      "open_positions": [
+        {
+          "title": "Starszy Badacz Neurologii",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za przeprowadzanie badań nad funkcjami poznawczymi mózgu z wykorzystaniem technik *obrazowania mózgu*. Poszukujemy kandydata z doświadczeniem w analizie danych neurologicznych.",
+          "tags": [
+            "Cognitive Neuroscience",
+            "Brain Imaging"
+          ]
+        },
+        {
+          "title": "Analityk Sztucznej Inteligencji",
+          "description": "Poszukujemy osoby biegłej w **algorytmach uczenia maszynowego** do opracowania modeli predykcyjnych na podstawie danych neurologicznych. Doświadczenie w analizie dużej ilości danych będzie atutem.",
+          "tags": [
+            "Machine Learning",
+            "Data Mining"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Zrównoważone Rozwój Miast",
+      "description": "Projekt 'Zrównoważone Rozwój Miast' skupia się na poszukiwaniu innowacyjnych rozwiązań ekologicznych dla zrównoważonego rozwoju obszarów miejskich. Nasze badania integrują **inżynierię środowiska** z *planowaniem urbanistycznym* w celu stworzenia miast przyjaznych dla środowiska.",
+      "areas": [
+        "Environmental Engineering",
+        "Urban Planning"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Energii Odnawialnej",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za projekty związane z implementacją systemów energii odnawialnej w strukturze miejskiej. Poszukujemy eksperta posiadającego doświadczenie w projektowaniu efektywnych źródeł energii ekologicznej.",
+          "tags": [
+            "Renewable Energy Systems",
+            "Sustainable Cities"
+          ]
+        },
+        {
+          "title": "Urbanista Ekologiczny",
+          "description": "Poszukujemy pasjonata **ekologii miejskiej** gotowego do współpracy przy kreowaniu przestrzeni miejskiej z uwzględnieniem zasad zrównoważonego rozwoju. Doświadczenie w projektach urbanistycznych będzie atutem.",
+          "tags": [
+            "Green Urban Planning",
+            "Ecological Design"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Analiza Języka Naturalnego",
+      "description": "Projekt 'Analiza Języka Naturalnego' skoncentrowany jest na rozwijaniu zaawansowanych technik analizy języka naturalnego przy użyciu **algorytmów deep learning**. Celem naszego badania jest stworzenie efektywnych narzędzi do automatycznej analizy tekstu.",
+      "areas": [
+        "Computational Linguistics",
+        "Deep Learning"
+      ],
+      "open_positions": [
+        {
+          "title": "Badacz NLP",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za projektowanie i implementację algorytmów **analizy semantycznej** w celu poprawy efektywności narzędzi do przetwarzania tekstu. Poszukujemy kandydata z doświadczeniem w projektach NLP.",
+          "tags": [
+            "Semantic Analysis",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Deep Learning",
+          "description": "Poszukujemy eksperta w dziedzinie **uczenia głębokiego**, który zajmie się rozwijaniem zaawansowanych modeli sieci neuronowych do analizy tekstu. Doświadczenie w przetwarzaniu języka naturalnego będzie atutem.",
+          "tags": [
+            "Neural Networks",
+            "Text Mining"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Odnowa Biologiczna",
+      "description": "Projekt 'Odnowa Biologiczna' koncentruje się na badaniu adaptacyjnych mechanizmów organizmów w zmieniającym się środowisku. Nasza praca łączy **biologię molekularną** z *ekologią* w poszukiwaniu strategii ochrony bioróżnorodności.",
+      "areas": [
+        "Biomedical Research",
+        "Ecology"
+      ],
+      "open_positions": [
+        {
+          "title": "Genetyk Ewolucyjny",
+          "description": "Osoba na tym stanowisku będzie zajmować się badaniem zmienności genetycznej populacji i jej wpływu na ewolucję gatunków. Poszukujemy naukowca z doświadczeniem w analizie genomów.",
+          "tags": [
+            "Evolutionary Genetics",
+            "Population Genomics"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Ekosystemów",
+          "description": "Poszukujemy eksperta w dziedzinie **ekologii populacyjnej**, który będzie analizował zależności między organizmami a ich środowiskiem. Doświadczenie w modelowaniu dynamiki populacji będzie atutem.",
+          "tags": [
+            "Population Ecology",
+            "Ecosystem Modeling"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Analiza Genomów",
+      "description": "Projekt 'Analiza Genomów' skupia się na zastosowaniu *bioinformatyki* do badania struktury genetycznej organizmów. Nasze badania wykorzystują **techniki sekwencjonowania** do identyfikacji genów odpowiedzialnych za różnorodność fenotypową.",
+      "areas": [
+        "Bioinformatics",
+        "Genomics"
+      ],
+      "open_positions": [
+        {
+          "title": "Bioinformatyk Molekularny",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za analizę dużych zbiorów danych genetycznych w celu identyfikacji sekwencji kodujących DNA. Poszukujemy specjalisty z umiejętnością wykorzystania narzędzi bioinformatycznych.",
+          "tags": [
+            "Molecular Biology",
+            "Sequence Analysis"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Analizy Ewolucyjnej",
+          "description": "Poszukujemy naukowca zajmującego się analizą ewolucji genów i ich wpływu na procesy ewolucyjne. Doświadczenie w analizie filogenetycznej będzie atutem.",
+          "tags": [
+            "Evolutionary Analysis",
+            "Phylogenetic Trees"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Karolina",
+      "last_name": "Kowalska",
+      "email": "karolina.kowalska@example.com",
+      "description": "Karolina Kowalska is a dedicated researcher with a passion for *neuroscience* and cognitive psychology. Her work revolves around understanding the intricate mechanisms of memory formation and retrieval. With expertise in data analysis, she delves deep into *fMRI* studies to unravel the complexities of human cognition and behavior.",
+      "skills": [
+        "fMRI analysis",
+        "memory research",
+        "cognitive psychology"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Adam",
+      "last_name": "Nowak",
+      "email": "adam.nowak@example.com",
+      "description": "Adam Nowak is a versatile scholar exploring the intersections of *bioinformatics* and molecular biology. His research focuses on deciphering the genetic codes underlying complex diseases. Equipped with skills in genetic sequencing and computational biology, Adam thrives in challenging research environments.",
+      "skills": [
+        "bioinformatics",
+        "genetic sequencing",
+        "molecular biology"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Joanna",
+      "last_name": "Wójcik",
+      "email": "joanna.wojcik@example.com",
+      "description": "Joanna Wójcik is a visionary in the field of environmental science, specializing in sustainable urban planning and green technology integration. Her research illuminates the symbiotic relationship between cities and nature, striving to create *ecologically harmonious* urban landscapes. Joanna's skills encompass GIS mapping, environmental impact assessment, and policy analysis.",
+      "skills": [
+        "sustainable urban planning",
+        "GIS mapping",
+        "environmental policy"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Lis",
+      "email": "piotr.lis@example.com",
+      "description": "Piotr Lis is an esteemed physicist with a flair for theoretical quantum mechanics. His research transcends the boundaries of classical physics, venturing into the realm of quantum entanglement and teleportation. Armed with expertise in quantum field theory, Piotr seeks to unravel the mysteries of the quantum universe.",
+      "skills": [
+        "quantum mechanics",
+        "quantum field theory",
+        "theoretical physics"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Magdalena",
+      "last_name": "Zając",
+      "email": "magdalena.zajac@example.com",
+      "description": "Magdalena Zając is an emerging star in the realm of cultural anthropology, focusing on indigenous knowledge systems and decolonial methodologies. Her research honors diverse epistemologies, bridging traditional wisdom with contemporary challenges. Magdalena's skill set includes ethnographic fieldwork, cultural revitalization strategies, and intersectional analysis.",
+      "skills": [
+        "cultural anthropology",
+        "indigenous knowledge",
+        "ethnography"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Rewolucja Genomiczna",
+      "description": "Projekt Rewolucja Genomiczna stanowi wizję przełomowych odkryć genetycznych, przynosząc wyjątkowe spojrzenie na ewolucję człowieka. Poprzez rygorystyczne analizy DNA, projekt ten aspiruje do odsłonięcia tajemniczych genów kształtujących naszą biologiczną tożsamość. Ten naukowy spektakl zaprasza badaczy z pola bioinformatyki i genomiki do fascynującej podróży w głąb kodu życia.",
+      "areas": [
+        "genomics",
+        "bioinformatics"
+      ],
+      "open_positions": [
+        {
+          "title": "Badacz Genomiki",
+          "description": "Szukamy pasjonatów genomiki z głęboką wiedzą w sekwencjonowaniu DNA i analizie genetycznej. Ta rola wymaga zwinności umysłowej i kreatywności w odkrywaniu nowych informacji genetycznych.",
+          "tags": [
+            "sekwencjonowanie DNA",
+            "analiza genetyczna"
+          ]
+        },
+        {
+          "title": "Ekspert Bioinformatyki",
+          "description": "Poszukujemy specjalistów z obszaru bioinformatyki, którzy potrafią błyskawicznie analizować dane genetyczne i wyodrębniać kluczowe informacje. Ta rola wymaga precyzji i umiejętności pracy w zespole.",
+          "tags": [
+            "analiza danych",
+            "bioinformatyka"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Zrównoważone Miasta Przyszłości",
+      "description": "Projekt Zrównoważone Miasta Przyszłości odsłania wizję ekologicznie zrównoważonych miast, harmonijnie zintegrowanych z otaczającą przyrodą. Poprzez interdyscyplinarne podejście, badacze eksplorują innowacyjne strategie planowania urbanistycznego i propozycje technologii proekologicznych. Ta misja zaprasza naukowców oraz praktyków do wspólnej podróży w kierunku ekologicznych metropolii przyszłości.",
+      "areas": [
+        "urban planning",
+        "environmental science"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Planowania Urbanistycznego",
+          "description": "Poszukujemy ekspertów w planowaniu przestrzennym, którzy posiadają wizję zrównoważonego rozwoju miast. Ta rola wymaga kreatywnego podejścia do projektowania miejskiego oraz umiejętności analizy urbanistycznych trendów.",
+          "tags": [
+            "planowanie przestrzenne",
+            "analiza urbanistyczna"
+          ]
+        },
+        {
+          "title": "Ekolog Urbanista",
+          "description": "Poszukujemy pasjonatów z obszaru urbanistyki, którzy potrafią łączyć elementy urbanistyczne z ideami ekologicznymi. Ta rola wymaga wizjonerskiego spojrzenia na rozwój miast przyszłości.",
+          "tags": [
+            "ekologiczne planowanie",
+            "zrównoważony rozwój"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Teoria Kwantowa: Od Entalpii do Entropii",
+      "description": "Projekt Teoria Kwantowa: Od Entalpii do Entropii stanowi mistyczną podróż w świat kwantowych zagadek, odsłaniając tajemnice entropii i entalpii. Poprzez kreatywne rozważania nad teoretycznymi aspektami fizyki kwantowej, badacze przekształcają abstrakcyjne pojęcia na konkretne modele. To wyjątkowe przedsięwzięcie wabi naukowców z obszaru fizyki teoretycznej i matematyki kwantowej.",
+      "areas": [
+        "quantum physics",
+        "theoretical physics"
+      ],
+      "open_positions": [
+        {
+          "title": "Fizyk Teoretyk",
+          "description": "Poszukujemy myślicieli kwantowych z bogatą wiedzą w dziedzinie fizyki teoretycznej. Ta rola wymaga głębokiego zrozumienia mechanizmów kwantowych i umiejętności matematycznych na poziomie zaawansowanym.",
+          "tags": [
+            "fizyka kwantowa",
+            "matematyka teoretyczna"
+          ]
+        },
+        {
+          "title": "Badacz Kwantowej Entropii",
+          "description": "Poszukujemy specjalistów z obszaru fizyki kwantowej z pasją w poszukiwaniu entropii. Ta rola wymaga błyskotliwości analitycznej i umiejętności abstrakcyjnego myślenia.",
+          "tags": [
+            "entropia kwantowa",
+            "kwantowe modele fizyczne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Kulturowa Transformacja: Nowe Horyzonty Wiedzy Rdzennej",
+      "description": "Projekt Kulturowa Transformacja: Nowe Horyzonty Wiedzy Rdzennej odsłania odkrywcze spojrzenie na wiedzę rdzennej ludności i metodologie dekolonialne. Poprzez uznawanie różnorodnych systemów epistemologicznych, badanie sięga do tradycyjnej mądrości, łącząc ją z globalnym kontekstem. Ta interdyscyplinarna inicjatywa zaprasza do uczestnictwa badaczy z obszaru antropologii kulturowej i studiów postkolonialnych.",
+      "areas": [
+        "cultural anthropology",
+        "decolonial studies"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Wiedzy Rdzennej",
+          "description": "Poszukujemy naukowców z obszaru antropologii kulturowej z zainteresowaniem w badaniu wiedzy rdzennej. Ta rola wymaga empatii i zaangażowania w dialog międrym kulturowy.",
+          "tags": [
+            "badania terenowe",
+            "kulturowa rewitalizacja"
+          ]
+        },
+        {
+          "title": "Etnoinformator ds. Dekolonizacji",
+          "description": "Poszukujemy ekspertów w dekolonizacji myśli, którzy mogą efektywnie wspierać procesy transformacji kulturowej. Ta rola wymaga wrażliwości na kwestie postkolonialne i interpretacyjne.",
+          "tags": [
+            "dekolonialna antropologia",
+            "intersekcjonalna analiza"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Mózg a Świadomość: Neuronowe Puzzles",
+      "description": "Projekt Mózg a Świadomość: Neuronowe Puzzles to intelektualna podróż w labirynt neuronalnych tajemnic, poszukująca klucza do zrozumienia ludzkiej świadomości. Poprzez zrównoważone podejście do neurobiologii i psychologii poznawczej, badacze rozwiewają zagadki mózgu i jego roli w kreowaniu rzeczywistości. Ta interdyscyplinarna wyprawa wabi umysły z obszarów neurologii, psychologii i informatyki kognitywnej.",
+      "areas": [
+        "neuroscience",
+        "cognitive psychology"
+      ],
+      "open_positions": [
+        {
+          "title": "Neurobiolog",
+          "description": "Poszukujemy pasjonatów neurobiologii z głęboką wiedzą w analizie mózgowych struktur i sieci neuronalnych. Ta rola wymaga precyzji w przeprowadzaniu badań i interpretacji wyników.",
+          "tags": [
+            "neuronalne sieci",
+            "analiza mózgu"
+          ]
+        },
+        {
+          "title": "Psycholog Kognitywny",
+          "description": "Poszukujemy ekspertów w psychologii kognitywnej z pasją w docieraniu do głębokich struktur myślenia i świadomości. Ta rola wymaga empatii i umiejętności analizy nadawanych bodźców.",
+          "tags": [
+            "świadomość",
+            "neuronalne podstawy zachowania"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 5
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    }
+  ]
+}

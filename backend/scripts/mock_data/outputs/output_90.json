@@ -1,0 +1,261 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Karolina",
+      "last_name": "Nowak",
+      "email": "karolina.nowak@example.com",
+      "description": "Jestem programistką z zamiłowaniem do *projektowania interfejsów* i optymalizacji kodu. Moje umiejętności to głównie: **React.js**, Node.js, oraz projektowanie UX.",
+      "skills": [
+        "React.js",
+        "Node.js",
+        "projektowanie UX"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Michał",
+      "last_name": "Kowalski",
+      "email": "michal.kowalski@example.com",
+      "description": "Absolwent czystej *matematyki* zainteresowany **analizą danych** i algorytmami. Moje umiejętności to: Python, analiza statystyczna, SQL.",
+      "skills": [
+        "Python",
+        "analiza danych",
+        "algorytmy"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Aleksandra",
+      "last_name": "Woźniak",
+      "email": "aleksandra.wozniak@example.com",
+      "description": "Jestem pasjonatką *grafiki komputerowej* i tworzenia **animacji**. Moje umiejętności to: Adobe Illustrator, animacja 2D, projektowanie graficzne.",
+      "skills": [
+        "Adobe Illustrator",
+        "animacja 2D",
+        "projektowanie graficzne"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Mazurek",
+      "email": "piotr.mazurek@example.com",
+      "description": "Biolog molekularny z zainteresowaniem dla *genetyki* i biotechnologii. Moje umiejętności to głównie: PCR, klonowanie genów, *analiza sekwencji DNA*.",
+      "skills": [
+        "PCR",
+        "klonowanie genów",
+        "analiza sekwencji DNA"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Alicja",
+      "last_name": "Adamska",
+      "email": "alicja.adamska@example.com",
+      "description": "Z wykształcenia lingwistka, specjalizująca się w *językoznawstwie kognitywnym* i tłumaczeniach. Moje umiejętności to: analiza semantyczna, tłumaczenie, językoznawstwo porównawcze.",
+      "skills": [
+        "analiza semantyczna",
+        "tłumaczenie",
+        "językoznawstwo"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma E-learningowa dla Dzieci",
+      "description": [
+        "📚 Projekt zakłada stworzenie interaktywnej platformy e-learningowej dla dzieci w wieku przedszkolnym.",
+        "*Zadania*: *Tworzenie gier edukacyjnych*, *animacji* oraz **opracowanie interfejsu graficznego**.",
+        "Platforma będzie dotyczyła tematyki: Edukacja Przedszkolna, Programowanie Dla Dzieci."
+      ],
+      "areas": [
+        "Edukacja Przedszkolna",
+        "Programowanie Dla Dzieci"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Projektowania Gier Edukacyjnych 🎮📘",
+          "description": "Odpowiedzialny za opracowanie gier edukacyjnych zgodnie z założeniami projektu.",
+          "tags": [
+            "Projektowanie Gier",
+            "Edukacja",
+            "Grafika"
+          ]
+        },
+        {
+          "title": "Animator 2D/3D do Tworzenia Animacji 🎥✨",
+          "description": "Poszukujemy osoby do stworzenia animacji edukacyjnych dla dzieci.",
+          "tags": [
+            "Animacja",
+            "Edutainment",
+            "Animator"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Badania nad Sztuczną Inteligencją",
+      "description": [
+        "🤖 Projekt ma na celu przeprowadzenie badań nad zastosowaniem sztucznej inteligencji w medycynie.",
+        "**Do zadań należy**: analiza danych medycznych, implementacja algorytmów uczenia maszynowego.",
+        "Obszary: Medycyna, Sztuczna Inteligencja, Analiza Danych."
+      ],
+      "areas": [
+        "Medycyna",
+        "Sztuczna Inteligencja",
+        "Analiza Danych"
+      ],
+      "open_positions": [
+        {
+          "title": "Data Scientist do Analizy Medycznych Danych 📊💉",
+          "description": "Poszukujemy specjalisty od analizy danych medycznych z doświadczeniem w Pythonie.",
+          "tags": [
+            "Data Science",
+            "Medycyna",
+            "Python"
+          ]
+        },
+        {
+          "title": "Inżynier ds. Sztucznej Inteligencji 🤖🔬",
+          "description": "Osoba odpowiedzialna za implementację algorytmów uczenia maszynowego w kontekście medycznym.",
+          "tags": [
+            "Machine Learning",
+            "Algorytmy",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Platforma Spójności Językowej",
+      "description": [
+        "💬 Projekt ma na celu stworzenie platformy ułatwiającej naukę języków obcych poprzez analizę semantyczną i gramatyczną.",
+        "*Zakres prac*: analiza semantyczna tekstów, projektowanie interfejsu użytkownika.",
+        "Obszary tematyczne: Językoznawstwo, Edukacja, Technologie Językowe."
+      ],
+      "areas": [
+        "Językoznawstwo",
+        "Edukacja",
+        "Technologie Językowe"
+      ],
+      "open_positions": [
+        {
+          "title": "Lingwista ds. Analizy Semantycznej 📖🔍",
+          "description": "Osoba odpowiedzialna za analizę semantyczną tekstów oraz rozwijanie bazy językowej platformy.",
+          "tags": [
+            "Lingwistyka",
+            "Semantyka",
+            "NLP"
+          ]
+        },
+        {
+          "title": "Programista Front-end do Projektowania UI 🖥️🎨",
+          "description": "Poszukujemy programisty zajmującego się projektowaniem interfejsu użytkownika dla platformy edukacyjnej.",
+          "tags": [
+            "Front-end",
+            "UI/UX",
+            "HTML/CSS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Analiza Sekwencji Genomowych",
+      "description": [
+        "🧬 Projekt koncentruje się na analizie sekwencji genomowych w celu zidentyfikowania nowych genów odpowiedzialnych za choroby genetyczne.",
+        "*Zakres projektu*: analiza bioinformatyczna, badania nad ekspresją genów.",
+        "Obszary: Genetyka, Bioinformatyka, Biotechnologia."
+      ],
+      "areas": [
+        "Genetyka",
+        "Bioinformatyka",
+        "Biotechnologia"
+      ],
+      "open_positions": [
+        {
+          "title": "Biotechnolog ds. Analizy Bioinformatycznej 🧪💻",
+          "description": "Poszukujemy specjalisty od analizy bioinformatycznej dla sekwencji genomowych.",
+          "tags": [
+            "Biotechnologia",
+            "Bioinformatyka",
+            "Analiza Genomów"
+          ]
+        },
+        {
+          "title": "Genetyk Molekularny do Badania Ekspresji Genów 🧬🔬",
+          "description": "Osoba zajmująca się badaniami nad ekspresją genową w kontekście chorób genetycznych.",
+          "tags": [
+            "Genetyka Molekularna",
+            "Badania Genetyczne",
+            "PCR"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Projektowanie Wirtualnej Rzeczywistości w Nauce",
+      "description": [
+        "🔮 Projekt ma na celu wykorzystanie technologii wirtualnej rzeczywistości do ułatwienia nauki i przyswajania wiedzy przez uczniów.",
+        "Zadania obejmują: implementację interaktywnych lekcji, projektowanie wirtualnych środowisk edukacyjnych.",
+        "Dziedziny projektu: Edukacja, Technologie Edukacyjne, Wirtualna Rzeczywistość."
+      ],
+      "areas": [
+        "Edukacja",
+        "Technologie Edukacyjne",
+        "Wirtualna Rzeczywistość"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Tworzenia Środowisk VR 🌍🕶️",
+          "description": "Osoba odpowiedzialna za projektowanie i implementację wirtualnych środowisk edukacyjnych.",
+          "tags": [
+            "VR",
+            "Edukacja",
+            "Projektowanie Grafiki 3D"
+          ]
+        },
+        {
+          "title": "Nauczyciel Zdalnego Nauczania w VR 🎓🔗",
+          "description": "Poszukujemy nauczyciela z doświadczeniem w prowadzeniu zajęć opartych na technologii VR.",
+          "tags": [
+            "Nauczanie Zdalne",
+            "Edukacja",
+            "VR"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Weronika",
+      "last_name": "Nowak",
+      "email": "weronika.nowak@email.com",
+      "description": "🎨 Kreatywna Artystka\n- *5 lat doświadczenia w ilustracji*\n- **Specjalistka od tworzenia murali**\n- Zajmuje się również fotografią",
+      "skills": [
+        "Ilustracja",
+        "Malarstwo",
+        "Fotografia"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Michał",
+      "last_name": "Kowalski",
+      "email": "michal.kowalski@email.com",
+      "description": "⚙️ Programista\n- *Mistrz Pythona*\n- **Zaawansowany w JavaScript**\n- Pasjonat machine learning",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Ada",
+      "last_name": "Wiśniewska",
+      "email": "ada.wisniewska@email.com",
+      "description": "📊 Analityk Danych\n- **Specjalizuje się w analizie finansowej**\n- *Znajomość narzędzi BI*\n- Zdobywczyni wiedzy",
+      "skills": [
+        "Analiza Danych",
+        "Business Intelligence",
+        "Analiza Finansowa"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Tomasz",
+      "last_name": "Dąbrowski",
+      "email": "tomasz.dabrowski@email.com",
+      "description": "🔬 Naukowiec\n- **Biotechnolog zajmujący się genetyką**\n- *Publikuje regularnie w czasopismach naukowych*\n- Pasjonat ochrony środowiska",
+      "skills": [
+        "Biotechnologia",
+        "Genetyka",
+        "Badania Naukowe"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Katarzyna",
+      "last_name": "Lis",
+      "email": "katarzyna.lis@email.com",
+      "description": "🎭 Menedżer Projektów\n- *7 lat doświadczenia w zarządzaniu projektem*\n- **Skuteczna organizatorka**\n- Pasjonatka sztuki współczesnej",
+      "skills": [
+        "Zarządzanie Projektami",
+        "Organizacja",
+        "Koordynacja"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Innowacyjny Festiwal Sztuki",
+      "description": "*Wizja projektu:* Realizacja festiwalu sztuki współczesnej z interaktywnymi instalacjami.\n- **Celem projektu:** Promocja artystów z różnych dziedzin.\n- *Oczekiwany efekt:* Zwiększenie świadomości kulturalnej społeczności.",
+      "areas": [
+        "Sztuka Współczesna",
+        "Event Marketing"
+      ],
+      "open_positions": [
+        {
+          "title": "🖌️ Grafik Komputerowy",
+          "description": "- *Tworzenie identyfikacji wizualnej festiwalu*\n- **Przygotowanie materiałów promocyjnych**",
+          "tags": [
+            "Grafika Komputerowa",
+            "Projektowanie Graficzne"
+          ]
+        },
+        {
+          "title": "📣 Specjalista ds. Social Media",
+          "description": "- **Zarządzanie kampaniami promocyjnymi**\n- *Opracowywanie strategii marketingowej*",
+          "tags": [
+            "Social Media",
+            "Marketing Online"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Aplikacja Edukacyjna dla Dzieci",
+      "description": "📚 Aplikacja edukacyjna dla dzieci w wieku przedszkolnym, z interaktywnymi grami i materiałami do nauki.",
+      "areas": [
+        "Edukacja Dziecięca",
+        "Technologie Edukacyjne"
+      ],
+      "open_positions": [
+        {
+          "title": "👩‍🏫 Nauczycielka Początkująca",
+          "description": "- **Tworzenie planów lekcji z zastosowaniem technologii**\n- *Realizacja zajęć z dziećmi w laboratorium kreatywnym*",
+          "tags": [
+            "Pedagogika",
+            "Metody nauczania"
+          ]
+        },
+        {
+          "title": "🕹️ Programista Aplikacji Mobilnych",
+          "description": "- *Rozwój interaktywnych funkcji aplikacji*\n- **Optymalizacja kodu oraz działania programu**",
+          "tags": [
+            "Programowanie Mobilne",
+            "Optymalizacja"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Projekt Bezpieczeństwa Technologicznego",
+      "description": "*Ogólny cel:* Zapewnienie bezpieczeństwa danych w systemach informatycznych firmowych.\n- **Działania projektowe:** Analiza ryzyka, wdrożenie zaleceń związanych z ochroną cybernetyczną.",
+      "areas": [
+        "Bezpieczeństwo Informatyczne",
+        "Zarządzanie Ryzykiem"
+      ],
+      "open_positions": [
+        {
+          "title": "🛡️ Specjalista ds. Bezpieczeństwa IT",
+          "description": "- *Monitorowanie infrastruktury pod kątem zagrożeń*\n- **Tworzenie raportów z analizy ryzyka**",
+          "tags": [
+            "Bezpieczeństwo IT",
+            "Monitorowanie"
+          ]
+        },
+        {
+          "title": "💻 Analityk Bezpieczeństwa",
+          "description": "- **Przegląd logów systemowych**\n- *Badanie incydentów bezpieczeństwa*",
+          "tags": [
+            "Analityka Bezpieczeństwa",
+            "Incydenty Bezpieczeństwa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Innowacyjne Rozwiazanie Transportowe",
+      "description": "🚌 Projekt mający na celu stworzenie smart rozwiązania transportowego dla miast, z wykorzystaniem technologii IoT.",
+      "areas": [
+        "Transport Miejski",
+        "Inteligentne Miasta"
+      ],
+      "open_positions": [
+        {
+          "title": "📡 Specjalista ds. IoT",
+          "description": "- *Programowanie czujników zbierających dane*\n- **Analiza zebranych informacji**",
+          "tags": [
+            "Internet Rzeczy",
+            "Analiza Danych"
+          ]
+        },
+        {
+          "title": "📈 Analityk Ruchu Miejskiego",
+          "description": "- **Badanie wzorców ruchu w mieście**\n- *Analiza efektywności zmian w systemie transportowym*",
+          "tags": [
+            "Analiza Ruchu",
+            "Systemy Transportowe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Platforma E-commerce dla Artystów",
+      "description": "🛒 Stworzenie nowoczesnej platformy e-commerce, umożliwiającej artystom sprzedaż dzieł sztuki bezpośrednio klientom.",
+      "areas": [
+        "E-commerce",
+        "Sztuka Cyfrowa"
+      ],
+      "open_positions": [
+        {
+          "title": "🖥️ Frontend Developer",
+          "description": "- **Tworzenie interfejsu użytkownika**\n- *Optymalizacja responsywności strony*",
+          "tags": [
+            "Frontend Development",
+            "UI/UX Design"
+          ]
+        },
+        {
+          "title": "📊 Specjalista ds. Marketingu Online",
+          "description": "- *Kreacja strategii promocji online*\n- **Monitorowanie skuteczności działań**",
+          "tags": [
+            "Marketing Online",
+            "Analiza Marketingowa"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_ids": [
+        1,
+        5
+      ]
+    },
+    {
+      "user_id": 2,
+      "project_ids": [
+        2,
+        3
+      ]
+    },
+    {
+      "user_id": 3,
+      "project_ids": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "user_id": 4,
+      "project_ids": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "user_id": 5,
+      "project_ids": [
+        1,
+        5
+      ]
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zofia",
+      "last_name": "Kowalska",
+      "email": "zofia.kowalska@uni.edu.pl",
+      "description": "Dr. Kowalska is a passionate researcher specializing in *molecular biology*. Having authored numerous publications on gene expression, she is dedicated to uncovering nature's secrets at the cellular level. Her skills include PCR analysis, gene sequencing, and protein purification.",
+      "skills": [
+        "PCR analysis",
+        "sekwencjonowanie genów",
+        "oczyszczanie białek"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Karol",
+      "last_name": "Nowakowski",
+      "email": "karol.nowakowski@uni.edu.pl",
+      "description": "Prof. Nowakowski focuses on **quantum physics** and its applications in modern technology. His journey from theoretical concepts to practical quantum computing has marked him as a pioneer in the field. Expert in quantum algorithms, quantum entanglement, and quantum information theory.",
+      "skills": [
+        "kwantowe algorytmy",
+        "splątanie kwantowe",
+        "teoria informacji kwantowej"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Anna",
+      "last_name": "Wójcik",
+      "email": "anna.wojcik@uni.edu.pl",
+      "description": "*Dr. Wójcik's* research delves into the intersection of sociology and digital media. She weaves narratives that explore the impact of social networks on identity formation in the digital age. Proficient in qualitative research methods, content analysis, and ethnographic studies.",
+      "skills": [
+        "metody badań jakościowych",
+        "analiza treści",
+        "studia etnograficzne"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Zając",
+      "email": "piotr.zajac@uni.edu.pl",
+      "description": "**Prof. Zając's** work in environmental chemistry embodies a holistic approach to ecosystem sustainability. Through innovative sampling techniques and analytical methods, he uncovers environmental stressors and proposes remediation strategies. Proficient in chromatography, spectroscopy, and environmental monitoring.",
+      "skills": [
+        "chromatografia",
+        "spektroskopia",
+        "monitoring środowiska"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Ewa",
+      "last_name": "Kamińska",
+      "email": "ewa.kaminska@uni.edu.pl",
+      "description": "Dr. Kamińska's expertise lies in the field of public health and epidemiology. She navigates through statistical models to unveil patterns in disease spread and risk factors affecting populations. Skilled in biostatistics, epidemiological surveys, and data visualization techniques.",
+      "skills": [
+        "biostatystyka",
+        "badania epidemiologiczne",
+        "techniki wizualizacji danych"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Rozprawa Cząsteczkowa: Odwaga w Budowie Mikroświata",
+      "description": "Projekt ukazuje molekularne byty jako bohaterów niezwykłej baśni, w której **DNA** snuje opowieść o życiu i dziedziczeniu. Eksplorując labirynty komórkowych struktur, naukowcy odkrywają tajemnice współgrania genetyki i epigenetyki.",
+      "areas": [
+        "genetyka",
+        "mikrobiologia"
+      ],
+      "open_positions": [
+        {
+          "title": "Asystent Badawczy",
+          "description": "Osoba posiadająca zdolność analitycznego myślenia o doskonałej precyzji w eksperymentach molekularnych. Kreatywny naukowiec z zamiłowaniem do detalicznych analiz sekwencji genetycznych.",
+          "tags": [
+            "analiza sekwencji",
+            "eksperymenty molekularne"
+          ]
+        },
+        {
+          "title": "Technik Laboratorium",
+          "description": "Specjalista wyposażony w umiejętności wykonywania precyzyjnych testów laboratoryjnych. Osoba z pasją do odkrywania tajemnic mikroświata poprzez dynamiczne eksperymenty in vitro.",
+          "tags": [
+            "testy laboratoryjne",
+            "mikroświat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Kwantowa Wizja: Droga do Niewyobrażalnego",
+      "description": "Projekt przenosi uczestników w podróż przez **kwantowe labirynty**, gdzie obliczenia stają się rzeczywistością. Eksplorując potencjał kwantowych technologii, zespół składa puzzle niewyobrażalnych możliwości przyszłych aplikacji.",
+      "areas": [
+        "fizyka kwantowa",
+        "informatyka kwantowa"
+      ],
+      "open_positions": [
+        {
+          "title": "Starszy Wykładowca",
+          "description": "Doświadczony wykładowca posiadający bogate doświadczenie w teoriach kwantowych. Kreator inspirujących zajęć o zaskakujących zastosowaniach kwantowych algorytmów i obliczeń.",
+          "tags": [
+            "kwantowe algorytmy",
+            "teorie kwantowe"
+          ]
+        },
+        {
+          "title": "Inżynier Kwantowy",
+          "description": "Specjalista od struktury i implementacji kwantowych systemów obliczeniowych. Profesjonalista w obszarze tworzenia zaawansowanych modeli matematycznych z wykorzystaniem zjawisk kwantowych.",
+          "tags": [
+            "systemy obliczeniowe",
+            "modele matematyczne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Sieć Cyfrowych Tożsamości: Socjologiczne Eksploracje Online",
+      "description": "Projekt ukazuje sieć mediów społecznościowych jako labirynt relacji, skąd wyrasta wielobarwna tożsamość. Analyzując dialogi w wirtualnym świecie, badacze penetrują tajniki konstruowania tożsamości w erze cyfrowej.",
+      "areas": [
+        "socjologia cyfrowa",
+        "badania kulturowe"
+      ],
+      "open_positions": [
+        {
+          "title": "Asystent Badawczy",
+          "description": "Badacz z pasją do interpretacji interakcji online, wyposażony w umiejętność prowadzenia głębokich analiz treści. Anatol rozumiejący subtelności konstruowania internetowych narracji tożsamości.",
+          "tags": [
+            "analiza treści",
+            "interakcje online"
+          ]
+        },
+        {
+          "title": "Etnolog Cyfrowy",
+          "description": "Etnograf cyfrowy mający wrażliwość na kulturowe konteksty wirtualnych światów. Specjalista w odkrywaniu znaczeń ukrytych za pikselami internetowych wytworów kultury.",
+          "tags": [
+            "konteksty kulturowe",
+            "analiza etnograficzna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Ekologia Wsparta Technologią: Zrównoważone Środowisko Przyszłości",
+      "description": "Projekt wiedzie badaczy po ścieżkach zanieczyszczonego środowiska, gdzie spektralne analizy odsłaniają mroczne tajemnice konfliktu człowieka z naturą. Propozycje technologiczne stawiają mosty do odbudowy harmonijnej równowagi z ekosystemem.",
+      "areas": [
+        "chemia środowiska",
+        "monitoring ekologiczny"
+      ],
+      "open_positions": [
+        {
+          "title": "Ekolog Molekularny",
+          "description": "Badacz z pasją do zagadnień mikroekologii, zdolny do głębokiej analizy środowisk. Ekspert w odkrywaniu mikroorganizmów poprzez zaawansowane techniki chromatograficzne.",
+          "tags": [
+            "mikroekologia",
+            "techniki chromatograficzne"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Ochrony Środowiska",
+          "description": "Innowator poszukujący rozwiązań na rzecz ochrony przyrody, z determinacją w poszukiwaniu metod monitoringu i oczyszczania środowiska. Posiadacz umiejętności analizy spektralnej i detekcji zanieczyszczeń.",
+          "tags": [
+            "monitoring środowiska",
+            "oczyści środowisko"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Epidemiologia w Era Danych: Mapowanie Rytmów Chorób",
+      "description": "Projekt przeniesie naukowców w podróż przez labirynt statystycznych modeli, gdzie dane stają się mapą rozprzestrzeniania się chorób. Eksplorując trendy epidemiologiczne, zespół odsłoni główników zagrożeń zdrowotnych w populacjach.",
+      "areas": [
+        "epidemiologia",
+        "zdrowie publiczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Analityk Epidemiologiczny",
+          "description": "Epidemiolog z pasją do modeli statystycznych i interpretacji trendów zdrowotnych. Specjalista w tworzeniu wizualizacji danych poprzez interaktywne mapy epidemiczne.",
+          "tags": [
+            "modele statystyczne",
+            "wizualizacje danych"
+          ]
+        },
+        {
+          "title": "Badacz Zdrowia Publicznego",
+          "description": "Specjalista w dziedzinie promocji zdrowia i zapobiegania chorobom. Profesjonalista z zaangażowaniem w badania epidemiologiczne i analizę czynników ryzyka.",
+          "tags": [
+            "promocja zdrowia",
+            "analiza ryzyka"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    }
+  ]
+}

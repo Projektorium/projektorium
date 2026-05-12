@@ -1,0 +1,256 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "katarzyna.nowak@example.com",
+      "description": "*Młody* programista z pasją do **sztucznej inteligencji**. Studiuję informatykę i chcę rozwijać nowoczesne aplikacje dla przemysłu medycznego.",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "Data Science"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Anna",
+      "last_name": "Woźniak",
+      "email": "anna.wozniak@example.com",
+      "description": "Absolwentka architektury wnętrz z zamiłowaniem do **projektowania UX**. Pragnę tworzyć interaktywne i estetyczne rozwiązania dla użytkowników.",
+      "skills": [
+        "Adobe XD",
+        "UI/UX Design",
+        "Prototyping",
+        "User Research"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Piotr",
+      "last_name": "Jankowski",
+      "email": "piotr.jankowski@example.com",
+      "description": "Humanista z wykształceniem w **językoznawstwie**. Marzę o pracy nad innowacyjnymi metodykami analizy semantycznej tekstu.",
+      "skills": [
+        "Lingwistyka",
+        "Tłumaczenie",
+        "Analiza Dyskursu",
+        "Kognitywistyka"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Szymon",
+      "last_name": "Kowalczyk",
+      "email": "szymon.kowalczyk@example.com",
+      "description": "*Entuzjasta* copywritingu z doświadczeniem w pracy dla agencji reklamowych. Chcę tworzyć treści, które inspirują i angażują odbiorców.",
+      "skills": [
+        "Copywriting",
+        "Content Marketing",
+        "SEO",
+        "Social Media Management"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Dąbrowska",
+      "email": "karolina.dabrowska@example.com",
+      "description": "Badaczka biologii molekularnej z zainteresowaniem w **genomice**. Dążę do odkrywania nowych mechanizmów regulacji genów.",
+      "skills": [
+        "PCR",
+        "Sequencing",
+        "Genomics",
+        "Bioinformatics"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma E-learningowa dla Dzieci 📚🎓",
+      "description": "🌟 *Innowacyjny* projekt edukacyjny dla uczniów szkół podstawowych, integrujący *interaktywne lekcje* oraz *gry edukacyjne*. Platforma ma za zadanie wspierać rozwój kompetencji przyszłości.",
+      "areas": [
+        "Edukacja",
+        "Technologie Edukacyjne",
+        "Gry Edukacyjne"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Grafiki Komputerowej 🎨💻",
+          "description": "Tworzenie atrakcyjnych interfejsów graficznych i animacji dla platformy e-learningowej.",
+          "tags": [
+            "Grafika Komputerowa",
+            "Adobe Creative Suite",
+            "Ilustracje"
+          ]
+        },
+        {
+          "title": "Programista Python 🐍💻",
+          "description": "Opracowywanie algorytmów uczenia maszynowego do personalizacji treści edukacyjnych.",
+          "tags": [
+            "Python",
+            "Machine Learning",
+            "Algorithms"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Aplikacja do Analizy Tekstu NLP 📊🔍",
+      "description": "🔬 Projekt badawczy w obszarze *przetwarzania języka naturalnego* (NLP) z wykorzystaniem **uczenia głębokiego**. Aplikacja ma za zadanie analizę semantyczną i syntaktyczną tekstów w czasie rzeczywistym.",
+      "areas": [
+        "NLP",
+        "Machine Learning",
+        "Big Data",
+        "Analiza Tekstów"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. AI i NLP 🤖🔍",
+          "description": "Rozwój modeli predykcyjnych dla analizy tekstu oraz implementacja algorytmów AI.",
+          "tags": [
+            "Artificial Intelligence",
+            "NLP",
+            "Machine Learning"
+          ]
+        },
+        {
+          "title": "Analityk Danych Text Mining 📊🔍",
+          "description": "Ekstrakcja wiedzy z tekstów poprzez zaawansowane techniki analizy danych tekstowych.",
+          "tags": [
+            "Data Mining",
+            "Text Analysis",
+            "Statistical Modeling"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Projekt Badawczy Genomiki Nowotworów 🧬🔬",
+      "description": "🔍 Badanie związków między *mutacjami genetycznymi* a rozwojem nowotworów. Projekt opiera się na przeglądzie literatury naukowej i analizie sekwenencji DNA pacjentów.",
+      "areas": [
+        "Genomika",
+        "Onkologia",
+        "Bioinformatyka"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Bioinformatyki 🧬💻",
+          "description": "Analiza danych sekwencji DNA w poszukiwaniu markerów genetycznych związanych z nowotworami.",
+          "tags": [
+            "Bioinformatics",
+            "DNA Sequencing",
+            "Genetic Markers"
+          ]
+        },
+        {
+          "title": "Badacz Onkologiczny 🩺🔬",
+          "description": "Analiza wyników badań klinicznych pacjentów w kontekście zmian genetycznych związanych z nowotworami.",
+          "tags": [
+            "Oncology",
+            "Clinical Research",
+            "Genetic Mutations"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Seria Kampanii Marketingowej Social Media 📱💬",
+      "description": "💡 *Innowacyjne* podejście do budowania marki poprzez *kreatywne treści* i interaktywne akcje społecznościowe. Kampanie mają na celu zwiększenie zaangażowania i świadomości marki.",
+      "areas": [
+        "Marketing",
+        "Social Media",
+        "Kampanie Reklamowe"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista SEO i SEM 📈🔍",
+          "description": "Optymalizacja treści pod kątem wyszukiwarek oraz kampanie reklamowe w sieciach społecznościowych.",
+          "tags": [
+            "SEO",
+            "SEM",
+            "Keyword Research"
+          ]
+        },
+        {
+          "title": "Copywriter Marketingowy 📝💬",
+          "description": "Tworzenie treści promocyjnych do kampanii marketingowych w mediach społecznościowych.",
+          "tags": [
+            "Copywriting",
+            "Content Strategy",
+            "Digital Marketing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Aplikacja Mobilna dla Seniorów 💡📱",
+      "description": "👵 *Innowacyjne* narzędzie wspierające codzienne aktywności seniorów. Aplikacja oferuje funkcje ułatwiające komunikację, nawigację oraz zorganizowanie czasu.",
+      "areas": [
+        "E-Health",
+        "Interakcje Człowiek-Komputer",
+        "Opieka Senioralna"
+      ],
+      "open_positions": [
+        {
+          "title": "Programista React Native 📱💻",
+          "description": "Rozwój interfejsu użytkownika oraz integracja z systemami zarządzania bazą danych.",
+          "tags": [
+            "React Native",
+            "Mobile Development",
+            "Frontend Development"
+          ]
+        },
+        {
+          "title": "Specjalista ds. UX/UI 👩‍🎨👨‍💻",
+          "description": "Projektowanie intuicyjnych interfejsów użytkownika z perspektywy potrzeb seniorów.",
+          "tags": [
+            "Usability Design",
+            "User Experience",
+            "Accessibility"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 2
+    }
+  ]
+}

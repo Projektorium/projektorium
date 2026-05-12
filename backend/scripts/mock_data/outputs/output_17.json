@@ -1,0 +1,236 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Karolina",
+      "last_name": "Kowalska",
+      "email": "karolina.kowalska@example.com",
+      "description": "Absolwentka matematyki na Uniwersytecie Warszawskim z zainteresowaniem w praktycznym zastosowaniu *statystyki* w modelowaniu zjawisk społecznych. Doświadczona w analizie dużych zbiorów danych, programowaniu w języku Python oraz **modelowaniu matematycznym**.",
+      "skills": [
+        "Analiza danych",
+        "Programowanie Python",
+        "Modelowanie matematyczne"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Michał",
+      "last_name": "Nowak",
+      "email": "michal.nowak@example.com",
+      "description": "Doktor nauk biologicznych specjalizujący się w badaniach nad *genetyką populacyjną* roślin. Posiada umiejętności w prowadzeniu badań terenowych, analizie sekwencji DNA, oraz *bioinformatyce*. Zainteresowania obejmują też **ekologię molekularną**.",
+      "skills": [
+        "Badania terenowe",
+        "Analiza sekwencji DNA",
+        "Bioinformatyka",
+        "Genetyka populacyjna"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Zielińska",
+      "email": "magdalena.zielinska@example.com",
+      "description": "Asystentka naukowa z zakresu historii sztuki ze szczególnym zainteresowaniem dla *modernizmu w sztuce polskiej*. Specjalizuje się w badaniu wpływu kontekstu społecznego na twórczość artystyczną. Posiada doświadczenie w **analizie ikonograficznej** i historiografii.",
+      "skills": [
+        "Modernizm w sztuce polskiej",
+        "Analiza ikonograficzna",
+        "Historiografia"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Mateusz",
+      "last_name": "Wójcik",
+      "email": "mateusz.wojcik@example.com",
+      "description": "Badacz nauk społecznych z zainteresowaniem dla *socjologii organizacji*. Pracuje nad analizą struktur społecznych w kontekście współczesnych procesów globalizacji. Posiada umiejętności w prowadzeniu badań jakościowych, analizie sieci społecznych oraz **badaniach porównawczych**.",
+      "skills": [
+        "Analiza struktur społecznych",
+        "Badania jakościowe",
+        "Analiza sieci społecznych",
+        "Socjologia organizacji"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Anna",
+      "last_name": "Jastrzębska",
+      "email": "anna.jastrzebska@example.com",
+      "description": "Wykładowczyni literatury polskiej z zainteresowaniem w dziedzinie *teorii literatury*. Specjalizuje się w badaniach nad intersemiotycznymi relacjami w literaturze XX wieku. Posiada doświadczenie w **analizie tekstów literackich**, teorii recepcji oraz retoryce.",
+      "skills": [
+        "Teoria literatury",
+        "Analiza tekstów literackich",
+        "Teoria recepcji",
+        "Retoryka"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Zrównoważone Rozwinięcie Obszarów Wiejskich",
+      "description": "Projekt skupia się na stymulowaniu rozwoju obszarów wiejskich poprzez *spójną politykę lokalną* i zrównoważone wykorzystanie zasobów naturalnych. Wdrażane rozwiązania mają na celu ułatwienie integracji społeczno-ekonomicznej w kontekście **globalizacji**.",
+      "areas": [
+        "Polityka lokalna",
+        "Zrównoważony rozwój",
+        "Społeczno-ekonomiczna integracja"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Rozwoju Lokalnego",
+          "description": "Osoba odpowiedzialna za koordynację działań na rzecz zrównoważonego rozwoju obszarów wiejskich. Wymagana umiejętność analizy potrzeb lokalnych społeczności oraz doświadczenie w zarządzaniu projektami rozwojowymi.",
+          "tags": [
+            "Zrównoważony rozwój",
+            "Zarządzanie projektami",
+            "Analiza społeczna"
+          ]
+        },
+        {
+          "title": "Doradca ds. Polityki Społeczno-Ekonomicznej",
+          "description": "Specjalista zajmujący się tworzeniem strategii polityki społeczno-ekonomicznej na obszarach wiejskich. Osoba powinna mieć doświadczenie w formułowaniu polityki publicznej oraz analizie trendów gospodarczych.",
+          "tags": [
+            "Polityka społeczno-ekonomiczna",
+            "Formułowanie polityki",
+            "Analiza trendów"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Rewitalizacja Dziedzictwa Kulturowego",
+      "description": "Projekt mający na celu przywrócenie blasku zaniedbanych obiektów zabytkowych poprzez *inicjowanie działań społeczno-kulturalnych* i rewitalizację historycznych miejsc. Poprzez odnowę dziedzictwa chcemy ożywić lokalną kulturę i gospodarkę.",
+      "areas": [
+        "Rewitalizacja",
+        "Dziedzictwo kulturowe",
+        "Kultura lokalna"
+      ],
+      "open_positions": [
+        {
+          "title": "Koordynator Projektu Rewitalizacji",
+          "description": "Osoba odpowiedzialna za planowanie i nadzór nad realizacją działań rewitalizacyjnych. Wymagane doświadczenie w zarządzaniu projektami kulturalnymi oraz znajomość prawa zabytkowego.",
+          "tags": [
+            "Zarządzanie projektami kulturalnymi",
+            "Prawo zabytkowe",
+            "Rewitalizacja"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Konserwacji Zabytków",
+          "description": "Ekspert zajmujący się praktycznymi aspektami ochrony i konserwacji zabytków. Poszukiwana osoba z doświadczeniem w praktyce konserwatorskiej oraz wiedzą z zakresu architektury historycznej.",
+          "tags": [
+            "Konserwacja zabytków",
+            "Praktyka konserwatorska",
+            "Architektura historyczna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Ewaluacja Edukacji Artystycznej",
+      "description": "Projekt badawczy mający na celu ocenę skuteczności programów edukacyjnych w obszarze sztuki i kultury. *Interdyscyplinarna analiza efektów edukacji artystycznej* pozwoli na usprawnienie procesu nauczania i rozwijania zdolności twórczych.",
+      "areas": [
+        "Ewaluacja edukacji",
+        "Sztuka i kultura",
+        "Programy edukacyjne"
+      ],
+      "open_positions": [
+        {
+          "title": "Analityk ds. Ewaluacji Programów Edukacyjnych",
+          "description": "Osoba odpowiedzialna za analizę efektywności programów edukacyjnych w obszarze sztuki. Wymagane umiejętności statystyczne, badawcze oraz doświadczenie w dziedzinie edukacji artystycznej.",
+          "tags": [
+            "Ewaluacja programów",
+            "Statystyka",
+            "Badania edukacyjne",
+            "Sztuka"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Innowacje w Biznesie Społecznym",
+      "description": "Badania nad wpływem innowacyjnych rozwiązań na rozwój biznesu społecznego. Projekt skupia się na *wdrażaniu nowatorskich praktyk zarządzania* w organizacjach pożytku publicznego. Celem jest zwiększenie skuteczności działań społecznie odpowiedzialnych.",
+      "areas": [
+        "Biznes społeczny",
+        "Innowacje zarządcze",
+        "Strategie rozwoju"
+      ],
+      "open_positions": [
+        {
+          "title": "Menadżer Innowacji Społecznych",
+          "description": "Osoba odpowiedzialna za kierowanie procesem wprowadzania innowacji społecznych w organizacjach pozarządowych. Wymagane doświadczenie w zarządzaniu projektami społecznymi oraz umiejętność identyfikacji obszarów do zmiany.",
+          "tags": [
+            "Innowacje społeczne",
+            "Zarządzanie projektami społecznymi",
+            "Organizacje pozarządowe"
+          ]
+        },
+        {
+          "title": "Ekspert ds. Strategii Rozwoju Biznesu Społecznego",
+          "description": "Specjalista zajmujący się opracowaniem strategii rozwoju biznesu społecznego opartych na innowacyjnych rozwiązaniach. Wymagane doświadczenie w kreowaniu modeli biznesowych oraz analizie rynku społecznego.",
+          "tags": [
+            "Strategie rozwoju",
+            "Model biznesowy",
+            "Analiza rynku"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Analiza Narracji Wizualnych",
+      "description": "Badania nad sposobami interpretacji narracji wizualnych w sztuce nowoczesnej. Projekt skupia się na *analizie semiotycznej obrazu* oraz rozwoju metod interpretacji dzieł sztuki współczesnej. Celem jest zrozumienie przekazu artystycznego poprzez pryzmat semiotyki i teorii obrazu.",
+      "areas": [
+        "Narracja wizualna",
+        "Sztuka nowoczesna",
+        "Semiotyka obrazu"
+      ],
+      "open_positions": [
+        {
+          "title": "Badacz Narracji Wizualnych",
+          "description": "Osoba odpowiedzialna za prowadzenie badań nad interpretacją narracji wizualnych. Wymagane umiejętności analityczne, przetwarzania obrazu oraz wiedza z zakresu semiotyki.",
+          "tags": [
+            "Narracja wizualna",
+            "Analiza obrazu",
+            "Semiotyka"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

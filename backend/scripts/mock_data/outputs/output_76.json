@@ -1,0 +1,245 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "katarzyna.nowak@example.com",
+      "description": "- Doświadczony analityk danych\n- *Prowadziła projekty ETL*\n- Silne umiejętności programowania\n- *Praca z dużymi zbiorami danych*",
+      "skills": [
+        "Analiza danych",
+        "Programowanie",
+        "ETL"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Artur",
+      "last_name": "Kowalski",
+      "email": "artur.k@example.com",
+      "description": "- *Specjalista ds. sztucznej inteligencji*\n- Doskonale orientuje się w sieciach neuronowych\n- *Praca związana z uczeniem maszynowym*",
+      "skills": [
+        "Sztuczna inteligencja",
+        "Sieci neuronowe",
+        "Uczenie maszynowe"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Weronika",
+      "last_name": "Lewandowska",
+      "email": "weronika.l@example.com",
+      "description": "- *Twórcza projektantka UX*\n- Znajomość prototypowania\n- Komunikacja wizualna na najwyższym poziomie",
+      "skills": [
+        "Projektowanie UX",
+        "Prototypowanie",
+        "Komunikacja wizualna"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Wojciechowski",
+      "email": "piotr.wojciechowski@example.com",
+      "description": "- Specjalista ds. aplikacji mobilnych\n- *Doświadczenie w projektach Flutter*\n- Proaktywny i otwarty na nowe wyzwania",
+      "skills": [
+        "Aplikacje mobilne",
+        "Flutter",
+        "Proaktywność"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Anna",
+      "last_name": "Dąbrowska",
+      "email": "anna.dabrowska@example.com",
+      "description": "- Full-stack developer z pasją\n- *Projekty z użyciem React i Node.js*\n- Innowacyjne podejście do problemów",
+      "skills": [
+        "Full-stack development",
+        "React",
+        "Node.js",
+        "Innowacyjność"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Projekt Interaktywnego Edukacyjnego Portalu",
+      "description": "- *Tworzenie interaktywnych modułów edukacyjnych*\n- Ewaluacja interfejsu pod kątem użytkowników\n- *Integracja platformy z bazą wiedzy edukacyjnej*",
+      "areas": [
+        "Edukacja",
+        "Interaktywność",
+        "Platformy edukacyjne"
+      ],
+      "open_positions": [
+        {
+          "title": "👩‍🏫 Specjalista ds. edukacji",
+          "description": "- Projektowanie interaktywnych modułów\n- Tworzenie materiałów dydaktycznych\n- Ocena skuteczności metod edukacyjnych",
+          "tags": [
+            "Edukacja",
+            "Pedagogika"
+          ]
+        },
+        {
+          "title": "👨‍💻 Frontend Developer",
+          "description": "- Implementacja interfejsu użytkownika\n- Testowanie komponentów interaktywnych\n- Optymalizacja wydajności",
+          "tags": [
+            "Frontend",
+            "Interakcje użytkownika"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Projekt Analizy Big Data w Medycynie",
+      "description": "- *Analiza danych medycznych*\n- Wdrażanie algorytmów uczenia maszynowego\n- *Wykrywanie wzorców w badaniach diagnostycznych*",
+      "areas": [
+        "Big Data",
+        "Medycyna",
+        "Analiza danych"
+      ],
+      "open_positions": [
+        {
+          "title": "🔬 Analityk medyczny",
+          "description": "- Interpretacja wyników badań\n- Przygotowanie raportów z analizy danych\n- Zastosowanie metod statystycznych",
+          "tags": [
+            "Medycyna",
+            "Analiza danych"
+          ]
+        },
+        {
+          "title": "🧪 Programista Python",
+          "description": "- Implementacja algorytmów uczenia maszynowego\n- Wizualizacja danych medycznych\n- Integracja z bazą pacjentów",
+          "tags": [
+            "Python",
+            "Uczenie maszynowe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Projekt Kreatywnej Wizualizacji Danych",
+      "description": "- *Projektowanie interaktywnych wykresów i grafik*\n- Analiza i prezentacja danych w sposób atrakcyjny\n- *Minimalistyczny design podkreślający istotę informacji*",
+      "areas": [
+        "Wizualizacja danych",
+        "Projektowanie graficzne",
+        "Analiza danych"
+      ],
+      "open_positions": [
+        {
+          "title": "🎨 Grafik komputerowy",
+          "description": "- Tworzenie interaktywnych wykresów\n- Dopasowywanie kolorów do treści\n- Zrozumienie istoty przekazywanych danych",
+          "tags": [
+            "Projektowanie graficzne",
+            "Wizualizacja"
+          ]
+        },
+        {
+          "title": "📊 Specjalista ds. analizy danych",
+          "description": "- Przetwarzanie i interpretacja danych\n- Tworzenie raportów wizualnych\n- Optymalizacja procesów prezentacji informacji",
+          "tags": [
+            "Analiza danych",
+            "Wizualizacja"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Projekt Rozwoju Aplikacji Mobilnej w Stylistyce Retro",
+      "description": "- *Tworzenie interfejsu w stylu retro*\n- Implementacja nietypowych rozwiązań UI\n- *Testowanie na różnych platformach i urządzeniach*",
+      "areas": [
+        "Aplikacje mobilne",
+        "Stylizacja UI",
+        "Testowanie oprogramowania"
+      ],
+      "open_positions": [
+        {
+          "title": "📱 Projektant UI",
+          "description": "- Projektowanie interfejsu użytkownika\n- Zaprojektowanie nietypowych elementów UI\n- Testowanie użyteczności na różnych urządzeniach",
+          "tags": [
+            "UI/UX",
+            "Stylizacja aplikacji"
+          ]
+        },
+        {
+          "title": "🧑‍💻 Tester aplikacji mobilnej",
+          "description": "- Wykrywanie i raportowanie błędów\n- Testy wydajności aplikacji\n- Optymalizacja interakcji na ekranach dotykowych",
+          "tags": [
+            "Testowanie",
+            "Optymalizacja"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Projekt Badawczy nad Sztuczną Inteligencją w Muzyce",
+      "description": "- *Analiza wpływu SI na proces tworzenia muzyki*\n- Badanie algorytmów kompozycyjnych\n- *Wykorzystanie sieci neuronowych do generowania dźwięków*",
+      "areas": [
+        "Sztuczna inteligencja",
+        "Muzyka",
+        "Badania nad AI"
+      ],
+      "open_positions": [
+        {
+          "title": "🎼 Kompozytor algorytmów muzycznych",
+          "description": "- Tworzenie unikalnych algorytmów kompozycyjnych\n- Testowanie wygenerowanych dźwięków\n- Integracja z oprogramowaniem muzycznym",
+          "tags": [
+            "Kompozycja",
+            "Algorytmy"
+          ]
+        },
+        {
+          "title": "🧠 Specjalista ds. Sztucznej Inteligencji",
+          "description": "- Implementacja sieci neuronowych w procesie produkcyjnym\n- Optymalizacja algorytmów kompozycyjnych\n- Analiza interakcji człowiek-maszyna",
+          "tags": [
+            "AI",
+            "Neuronowe sieci"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_ids": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "user_id": 2,
+      "project_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "user_id": 3,
+      "project_ids": [
+        1,
+        3
+      ]
+    },
+    {
+      "user_id": 4,
+      "project_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "user_id": 5,
+      "project_ids": [
+        4,
+        5
+      ]
+    }
+  ]
+}

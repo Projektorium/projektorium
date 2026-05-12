@@ -1,0 +1,238 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Magdalena",
+      "last_name": "Kowalska",
+      "email": "magda.kowalska@example.com",
+      "description": "*Sztuka to moje życie.* - powiedziała Magdalena, malarka z pasją tworząca od lat. Jej prace nawiązują do polskiej tradycji ludowej, łącząc ją z nowoczesnym stylem. *Kolory i formy są moim językiem* - dodaje.",
+      "skills": [
+        "Malarstwo",
+        "Sztuka ludowa",
+        "Nowoczesne formy wyrazu"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Nowak",
+      "email": "piotr.nowak@example.com",
+      "description": "**Teatr jest miejscem, gdzie dusza dostaje głos** - mówi Piotr, zdolny reżyser teatralny o niezwykłym wyczuciu dramatu. Jego prace często odnoszą się do polskiej historii i mitologii, ożywiając je na nowo.",
+      "skills": [
+        "Reżyseria teatralna",
+        "Dramaturgia",
+        "Interpretacja kultury polskiej"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Anna",
+      "last_name": "Lis",
+      "email": "anna.lis@example.com",
+      "description": "W swojej pracowni Anna łączy *tradycję z innowacją*, tworząc niezwykłe rzeźby. Jej prace często odwołują się do polskiej przyrody i symboliki. *Każdy kamień ma w sobie duszę* - mówi artystka.",
+      "skills": [
+        "Rzeźba",
+        "Tworzenie instalacji",
+        "Praca z naturalnymi materiałami"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Michał",
+      "last_name": "Zając",
+      "email": "michal.zajac@example.com",
+      "description": "Michał jest mistrzem w *fotografii czarno-białej*. Jego prace uchwycają polskie pejzaże w sposób, który porusza duszę. *Każde zdjęcie to kawałek przeszłości w teraźniejszości* - mówi z uśmiechem.",
+      "skills": [
+        "Fotografia",
+        "Edycja zdjęć",
+        "Fotografia krajobrazowa"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Wójcik",
+      "email": "karolina.wojcik@example.com",
+      "description": "*Moja muzyka to opowieść o Polsce* - mówi Karolina, utalentowana kompozytorka folkowa. Jej utwory niosą w sobie ducha polskiej tradycji, wprowadzając w magiczny świat dźwięków.",
+      "skills": [
+        "Kompozycja muzyczna",
+        "Muzyka folkowa",
+        "Wokalizacja"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Światła Krakowa",
+      "description": "*Magia miasta odkryta na nowo* - tak opisują inicjatywę uczestnicy projektu, który odkrywa uroki Krakowa na nowo. Poprzez sztukę uliczną, fotografię i teatr, projekt stara się oddać niezwykłość polskiej kultury.",
+      "areas": [
+        "Sztuka uliczna",
+        "Fotografia",
+        "Teatr"
+      ],
+      "open_positions": [
+        {
+          "title": "Artysta uliczny",
+          "description": "Poszukujemy artystycznej duszy, która potrafi zmienić ulicę w płótno pełne barw i wzruszeń. *Miasto jest naszym teatrem* - to motto naszej pracy.",
+          "tags": [
+            "Sztuka uliczna",
+            "Kolory",
+            "Interakcja z publicznością"
+          ]
+        },
+        {
+          "title": "Fotograf uliczny",
+          "description": "Potrzebujemy kogoś, kto potrafi uchwycić *ukryte piękno miasta* w kadrze aparatu. *Obraz wart tysiąc słów* - mówią ci, których portretujemy.",
+          "tags": [
+            "Fotografia miejska",
+            "Reportaż",
+            "Kompozycja"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Teatr Marzeń",
+      "description": "W *marzeniach kryje się prawdziwa siła* - głoszą hasło uczestnicy spektaklu, który pozwala widzom przeżyć historyczne wydarzenia Polski na nowo. Poprzez interaktywną wystawę i teatr, inicjatywa łączy przeszłość z teraźniejszością.",
+      "areas": [
+        "Edukacja historyczna",
+        "Teatr interaktywny",
+        "Wystawy tematyczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Organizator wystawy",
+          "description": "Szukamy osoby, która potrafi sprawić, że *przeszłość stanie się teraźniejszością* podczas naszej interaktywnej wystawy. *Historia to nasz drogowskaz* - przewodnik po tamtych czasach.",
+          "tags": [
+            "Historia Polski",
+            "Organizacja wystaw",
+            "Dydaktyka"
+          ]
+        },
+        {
+          "title": "Aktor interaktywny",
+          "description": "Osoba, która potrafi *zatrafić emocje widzów* i przenieść ich w magiczny świat teatru. *Każe słowo to kawałek historii* - z wyczuwalną pasją grają nasi artyści.",
+          "tags": [
+            "Interakcja z publicznością",
+            "Emocje scenicze",
+            "Dramaturgia"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Sztuka Natury",
+      "description": "Wędrując *szlakiem natury* widzowie odkrywają piękno polskich lasów, pól i rzek. Poprzez rzeźbę, fotografię i muzykę, inicjatywa pragnie zwrócić uwagę na potrzebę ochrony środowiska naturalnego.",
+      "areas": [
+        "Sztuka ekologiczna",
+        "Fotografia przyrodnicza",
+        "Muzyka ambientowa"
+      ],
+      "open_positions": [
+        {
+          "title": "Rzeźbiarz natury",
+          "description": "Osoba, która *czuje naturę w każdym kawałku drewna* i potrafi przenieść ją w sztukę. *Kamień ożywa pod dłońmi* - twierdzą ci, którzy widzą artystę w akcji.",
+          "tags": [
+            "Rzeźba naturalna",
+            "Ochrona środowiska",
+            "Kreatywność ekologiczna"
+          ]
+        },
+        {
+          "title": "Fotograf przyrody",
+          "description": "Poszukujemy pasjonata, który potrafi *uchwycić ulotne chwile przyrody* w obiektywie aparatu. *Każdy kadr to ocalenie dla natury* - to nasza filozofia.",
+          "tags": [
+            "Fotografia ekologiczna",
+            "Krajobraz przyrodniczy",
+            "Doświadczenie terenowe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Muzyczne Opowieści",
+      "description": "*Dźwięki to język serca* - zapewniają twórcy koncertu, który opowiada historie polskich legend w muzyce. Poprzez kompozycje folkowe, jazzowe i klasyczne, projekt przenosi odbiorców w różne epoki polskiej kultury muzycznej.",
+      "areas": [
+        "Muzyka klasyczna",
+        "Jazz",
+        "Muzyka folk"
+      ],
+      "open_positions": [
+        {
+          "title": "Kompozytor muzyki klasycznej",
+          "description": "Szukamy geniusza, który potrafi *przeniknąć przez nuty prosto do serca* słuchacza. *Każdy dźwięk to opowieść* - mówią ci, którzy słuchają naszej muzyki.",
+          "tags": [
+            "Kompozycja klasyczna",
+            "Instrumentacja",
+            "Sens melodii"
+          ]
+        },
+        {
+          "title": "Wokalistka folkowa",
+          "description": "Osoba, której głos *niesie tchnienie przeszłości* i ukazuje siłę polskiej tradycji w muzyce. *Pieśń to klucz do serca słuchacza* - oddają to słuchacze naszych koncertów.",
+          "tags": [
+            "Wokal",
+            "Interpretacja folkowa",
+            "Emocjonalne brzmienie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Taniec Polski",
+      "description": "Poprzez *rytmy historyczne* i współczesne interpretacje tańca, ta inicjatywa celebrowa polskie tradycje taneczne. *Każdy krok to podróż w przeszłość* - mówią uczestnicy, zapraszając do wspólnego balu.",
+      "areas": [
+        "Taniec ludowy",
+        "Taniec współczesny",
+        "Edukacja taneczna"
+      ],
+      "open_positions": [
+        {
+          "title": "Choreograf tańca ludowego",
+          "description": "Poszukujemy osoby, która potrafi *przenieść duszę polskiej wsi w taniec* i oczarować publiczność. *Ruch to nasza narracja* - wyrazem naszych tańców.",
+          "tags": [
+            "Choreografia ludowa",
+            "Ruch sceniczny",
+            "Autentyczność kulturowa"
+          ]
+        },
+        {
+          "title": "Tancerz współczesny",
+          "description": "Osoba, która potrafi *ujawnić nowoczesność w tradycji* i przekazać emocje poprzez ruch. *Każdy gest to historia* - to motto naszego zespołu.",
+          "tags": [
+            "Taniec nowoczesny",
+            "Ekspresja ruchowa",
+            "Wrażliwość artystyczna"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 2
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

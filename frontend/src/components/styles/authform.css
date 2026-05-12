@@ -1,0 +1,64 @@
+/* login.css */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+.login-container, .signup-container {
+  height: 100vh;
+  max-width: 400px; /* dostosuj wg potrzeb */
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+  gap: 48px;
+}
+
+
+.login-header, .signup-header {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+  letter-spacing: 0;
+  text-align: left;
+  align-self: flex-start;
+}
+
+
+.login-box, .signup-box {
+  min-width: 388px;
+  top: 244px;
+  left: 446px;
+  border-radius: 16px;
+  border: 1px solid #ccc;
+  padding: 40px;
+  gap: 20px;
+}
+
+.login-button, .signup-button {
+  width: 308px;
+  border-radius: 16px;
+  border: 1px solid #ccc;
+  display: block;
+  margin: 0 auto 20px;
+  background-color: #3182CE;
+}
+
+.login-text, .signup-text {
+  font-size: 16px;
+  color: #4A5568;
+  text-align: left;
+  font-family: Inter, sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: 0;
+  margin-bottom: 12px;
+}
+
+.login-input-box, .signup-input-box{
+  margin-bottom: 20px;
+}
+
+
+
+

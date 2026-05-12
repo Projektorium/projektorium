@@ -1,0 +1,202 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "katarzyna.nowak@example.pl",
+      "description": "Jestem doświadczonym programistą z zamiłowaniem do **nowoczesnych technologii**. Specjalizuję się w tworzeniu aplikacji internetowych oraz systemów zarządzania bazami danych. Moim celem zawodowym jest rozwój umiejętności w obszarze *sztucznej inteligencji*.",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Tworzenie interfejsów użytkownika"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Anna",
+      "last_name": "Kowalska",
+      "email": "anna.kowalska@example.pl",
+      "description": "*Projektowanie UX* to obszar, którym pasjonuję się od lat. Moje doświadczenie obejmuje tworzenie intuicyjnych interfejsów webowych oraz testowanie użyteczności. Chcę rozwijać się również w obszarze analizy danych i *data storytelling*.",
+      "skills": [
+        "Projektowanie interfejsów",
+        "Testowanie użyteczności",
+        "Analiza danych",
+        "Storytelling"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Piotr",
+      "last_name": "Dąbrowski",
+      "email": "piotr.dabrowski@example.pl",
+      "description": "Jestem entuzjastą *biologii molekularnej* i zajmuję się badaniami nad nowymi lekami. Moje umiejętności obejmują analizę sekwencji DNA oraz projektowanie i wdrażanie nowoczesnych metod badawczych.",
+      "skills": [
+        "Biologia molekularna",
+        "Analiza sekwencji DNA",
+        "Badania nad lekami",
+        "Projektowanie metod badawczych"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Aleksandra",
+      "last_name": "Wiśniewska",
+      "email": "aleksandra.wisniewska@example.pl",
+      "description": "Jestem pasjonatką językoznawstwa stosowanego i *tłumaczeń specjalistycznych*. Specjalizuję się w lokalizacji oprogramowania oraz tłumaczeniach medycznych. Chciałabym rozwijać umiejętności w obszarze *interpretacji konferencyjnej*.",
+      "skills": [
+        "Językoznawstwo stosowane",
+        "Lokalizacja oprogramowania",
+        "Tłumaczenia medyczne",
+        "Interpretacja konferencyjna"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Marcin",
+      "last_name": "Lis",
+      "email": "marcin.lis@example.pl",
+      "description": "Jestem kreatywnym copywriterem z bogatym doświadczeniem w pisaniu treści marketingowych dla różnorodnych branż. Moje mocne strony to *sloganizm* oraz tworzenie *tekstów SEO-friendly*.",
+      "skills": [
+        "Copywriting",
+        "Marketing treści",
+        "Sloganizm",
+        "SEO-friendly"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma E-learningowa dla Naukowców 📚🔬",
+      "description": [
+        "🚀 Rozwijamy innowacyjną platformę e-learningową dla naukowców, umożliwiającą dostęp do najnowszych publikacji i kursów akademickich.",
+        "💡 Poszukujemy Specjalisty ds. Analizy Danych, który wesprze nas w tworzeniu algorytmów rekomendujących treści naukowe.",
+        "*Dołącz do nas już dzisiaj i pomóż kształtować przyszłość edukacji!*"
+      ],
+      "areas": [
+        "Sztuczna inteligencja",
+        "Edukacja online"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Analizy Danych",
+          "description": "Wykorzystaj swoją wiedzę w dziedzinie analizy danych do tworzenia innowacyjnych algorytmów rekomendujących treści naukowe.",
+          "tags": [
+            "Analiza danych",
+            "Algorytmy",
+            "Edukacja online"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Aplikacja Mobilna dla Seniorów 📱👵",
+      "description": [
+        "📲 Nasz projekt skupia się na stworzeniu intuicyjnej aplikacji mobilnej dostosowanej do potrzeb seniorów.",
+        "🔍 Poszukujemy UX Designera z doświadczeniem w projektowaniu interfejsów dostępnych dla osób starszych.",
+        "**Dołącz do nas i wprowadź zmiany, które poprawią jakość życia seniorów!**"
+      ],
+      "areas": [
+        "Projektowanie interfejsów",
+        "Opieka zdrowotna"
+      ],
+      "open_positions": [
+        {
+          "title": "UX Designer",
+          "description": "Zaprojektuj intuicyjne interfejsy aplikacji mobilnej, uwzględniając potrzeby i ograniczenia osób starszych.",
+          "tags": [
+            "Projektowanie UX",
+            "Interfejsy dostępne",
+            "Opieka zdrowotna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Badania nad Neuroplastycznością 🧠🔄",
+      "description": [
+        "🔬 Nasze badania skupiają się na neuroplastyczności mózgu i sposobach poprawy pamięci u osób w różnym wieku.",
+        "🌟 Poszukujemy Specjalisty ds. Neuropsychologii z doświadczeniem w przeprowadzaniu badań klinicznych.",
+        "*Dołącz do zespołu badawczego i uczestnicz w odkrywaniu tajemnic ludzkiego mózgu!*"
+      ],
+      "areas": [
+        "Neurobiologia",
+        "Psychologia"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Oprogramowanie CRM dla Małych Firm 💼💻",
+      "description": [
+        "📊 Nasz projekt koncentruje się na opracowaniu nowoczesnego oprogramowania do zarządzania relacjami z klientami dla małych firm.",
+        "🔧 Poszukujemy Programisty Pythona do rozwijania funkcjonalności systemu CRM.",
+        "***Dołącz do naszego zespołu i wspólnie rozwijajmy produkty dostosowane do potrzeb biznesowych!***"
+      ],
+      "areas": [
+        "CRM",
+        "Programowanie"
+      ],
+      "open_positions": [
+        {
+          "title": "Programista Pythona",
+          "description": "Pracuj nad rozbudową systemu CRM dla małych firm, wykorzystując swoje umiejętności programistyczne.",
+          "tags": [
+            "Python",
+            "Tworzenie systemów CRM",
+            "Praca zdalna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Projektowanie Graficzne dla Kampanii Społecznej 🎨🌍",
+      "description": [
+        "🔗 Nasze zadanie polega na stworzeniu kreatywnych materiałów graficznych dla kampanii społecznej o tematyce ekologicznej.",
+        "📌 Poszukujemy Grafika, który pomoże nam w tworzeniu wzornictwa i identyfikacji wizualnej kampanii.",
+        "*Dołącz do nas i wspólnie przyczynijmy się do poprawy świadomości ekologicznej!*"
+      ],
+      "areas": [
+        "Grafika",
+        "Ekologia"
+      ],
+      "open_positions": [
+        {
+          "title": "Grafik",
+          "description": "Zaprojektuj kreatywne materiały graficzne promujące idee związane z ochroną środowiska.",
+          "tags": [
+            "Projektowanie graficzne",
+            "Kampanie społeczne",
+            "Wzornictwo"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

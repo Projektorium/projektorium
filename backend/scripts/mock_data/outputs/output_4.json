@@ -1,0 +1,218 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Kamil",
+      "last_name": "Nowak",
+      "email": "kamil.nowak@example.com",
+      "description": "**Kamil Nowak** is a multidisciplinary artist known for pushing boundaries.",
+      "skills": [
+        "visual arts",
+        "experimental music"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Aneta",
+      "last_name": "Zielińska",
+      "email": "aneta.zielinska@example.com",
+      "description": "*Aneta Zielińska* believes in the transformative power of art reflected in her diverse inspirations:\n- Polish folklore\n- Ewa Demarczyk's music",
+      "skills": [
+        "dance",
+        "theater"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Jakub",
+      "last_name": "Kowalski",
+      "email": "jakub.kowalski@example.com",
+      "description": "Inspired by nature, **Jakub Kowalski** creates immersive experiences.\n- *Nature is the greatest artist*\n- Modernist architecture influence",
+      "skills": [
+        "installation art",
+        "sound design"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Magdalena",
+      "last_name": "Duda",
+      "email": "magdalena.duda@example.com",
+      "description": "Moving between past and future, **Magdalena Duda** explores cultural memories through time.\n- Nostalgia for Polish cinema\n- Novels by Witold Gombrowicz",
+      "skills": [
+        "film-making",
+        "literary arts"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Piotr",
+      "last_name": "Lis",
+      "email": "piotr.lis@example.com",
+      "description": "**Piotr Lis** challenges norms with his provocative art.\n- *Art should disrupt societal comfort*\n- Avant-garde theater influences",
+      "skills": [
+        "performance art",
+        "conceptual art"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Przełamując Granice",
+      "description": "*Projekt Przełamując Granice zbliża ludzi różnych kultur - to prawdziwie inspirujące.*\n- **Wspólne tańce ludowe**\n- Odważne widowiska teatralne",
+      "areas": [
+        "intercultural exchange",
+        "performance art"
+      ],
+      "open_positions": [
+        {
+          "title": "Choreograf",
+          "description": "Pomóż nam stworzyć magiczne tańce oparte na polskich tradycjach!",
+          "tags": [
+            "dance",
+            "folklore"
+          ]
+        },
+        {
+          "title": "Scenograf",
+          "description": "Wyobraź sobie nowe światy inspirowane odważnym teatrem polskiego symbolizmu.",
+          "tags": [
+            "theater",
+            "visual arts"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Dźwiękowa Symbioza",
+      "description": "*Muzyka i sztuka dźwiękowa łączą się w jedno, jak to pięknie ujął nasz kompozytor.*\n- **Eksperymentalne brzmienia**\n- Tradycyjne polskie melodie",
+      "areas": [
+        "music composition",
+        "sound art"
+      ],
+      "open_positions": [
+        {
+          "title": "Kompozytor",
+          "description": "Twórz nowe brzmienia, które przeniosą słuchaczy w magiczne polskie krajobrazy.",
+          "tags": [
+            "music theory",
+            "experimental music"
+          ]
+        },
+        {
+          "title": "Sound designer",
+          "description": "Stwórz ścieżki dźwiękowe uwodzicielskie jak polska poezja.",
+          "tags": [
+            "audio engineering",
+            "poetry"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Światło i Cień",
+      "description": "*Inspiracje z polskiego kina mistrzowsko oddają nasz wizualny projekt.*\n- **Kinematograficzne kompozycje**\n- Nowoczesne animacje",
+      "areas": [
+        "filmography",
+        "animation"
+      ],
+      "open_positions": [
+        {
+          "title": "Reżyser",
+          "description": "Daj wyraz swemu widzeniu kina inspirowanemu polskimi mistrzami.",
+          "tags": [
+            "directing",
+            "cinematography"
+          ]
+        },
+        {
+          "title": "Animator",
+          "description": "Ożyw polskie opowieści poprzez nowoczesne techniki animacji.",
+          "tags": [
+            "motion graphics",
+            "storytelling"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Miasto w Słowach",
+      "description": "*Literacki spektakl, w którym słowa noszą polskie dusze literatury.*\n- **Wibracje mówionego słowa**\n- Eseje polskich klasyków",
+      "areas": [
+        "literary performance",
+        "spoken word"
+      ],
+      "open_positions": [
+        {
+          "title": "Reżyser słowa",
+          "description": "Poprowadź audycję jak mistrz słów, znający tajniki polskiej prozy.",
+          "tags": [
+            "literary analysis",
+            "performance directing"
+          ]
+        },
+        {
+          "title": "Narrator",
+          "description": "Odczytaj z pasją słowa polskich pisarzy, by wprawić publiczność w zachwyt.",
+          "tags": [
+            "story narration",
+            "public speaking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Ruchoma Sztuka",
+      "description": "*Teatr ciała rozkwita w polskiej kreatywności, fantastyczne.*\n- **Ekspresja ciała**\n- Karykaturalne gesty",
+      "areas": [
+        "physical theater",
+        "movement art"
+      ],
+      "open_positions": [
+        {
+          "title": "Mistrz ruchu",
+          "description": "Poprowadź nas w tanecznej wędrówce inspirowanej polskimi tradycjami korowodu.",
+          "tags": [
+            "choreography",
+            "dance movement"
+          ]
+        },
+        {
+          "title": "Kostiumograf",
+          "description": "Stwórz kostiumy, które przeniosą aktorów do świata fantastycznych obrazów polskich malujących.",
+          "tags": [
+            "costume design",
+            "visual storytelling"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

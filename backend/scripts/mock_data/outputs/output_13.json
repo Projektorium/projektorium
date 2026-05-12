@@ -1,0 +1,246 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zofia",
+      "last_name": "Nowak",
+      "email": "zofia.nowak@example.com",
+      "description": "✔️ Doświadczony menedżer z obszernym doświadczeniem w zarządzaniu projektami. ★ Pasjonat innowacji i tworzenia wartościowych relacji biznesowych.",
+      "skills": [
+        "Zarządzanie projektem",
+        "Negocjacje biznesowe",
+        "Analiza rynku"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Jan",
+      "last_name": "Kowalski",
+      "email": "jan.kowalski@example.com",
+      "description": "*Entuzjastyczny entuzjasta start-upów* z solidnym doświadczeniem technicznym. ★️ Zawsze gotowy do wyzwań i rozwoju w dynamicznym środowisku.",
+      "skills": [
+        "Programowanie Python",
+        "Inżynieria oprogramowania",
+        "Analiza danych"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Aleksandra",
+      "last_name": "Wiśniewska",
+      "email": "aleksandra.wisniewska@example.com",
+      "description": "**Ekspertka od e-marketingu** specjalizująca się w strategiach cyfrowych. ★️ Zorientowana na wyniki i precyzyjny target marketing.",
+      "skills": [
+        "SEO",
+        "Facebook Ads",
+        "Content Marketing"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Michał",
+      "last_name": "Dąbrowski",
+      "email": "michal.dabrowski@example.com",
+      "description": "- Doświadczony analityk danych z obszernym portfolio projektów. ✪ Ekspert w uczeniu maszynowym i analizie predykcyjnej.",
+      "skills": [
+        "Machine Learning",
+        "Data Visualization",
+        "Statistical Analysis"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Jankowska",
+      "email": "karolina.jankowska@example.com",
+      "description": "→ Specjalistka ds. rozwoju biznesu z pasją do nowych technologii. **Proaktywna i skoncentrowana na osiągnięciu celu.**",
+      "skills": [
+        "Strategia biznesowa",
+        "Obsługa klienta",
+        "Zarządzanie relacjami"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "TechVision",
+      "description": "★ Platforma innowacyjnych rozwiązań technologicznych dla biznesu. - Oferuje zaawansowane narzędzia analizy danych i uczenie maszynowe.",
+      "areas": [
+        "Sztuczna inteligencja",
+        "Analiza Big Data",
+        "Fintech"
+      ],
+      "open_positions": [
+        {
+          "title": "✪ Specjalista ds. AI",
+          "description": "✪ Poszukujemy eksperta do rozwijania i wdrażania modeli uczenia maszynowego.",
+          "tags": [
+            "Machine Learning",
+            "Deep Learning",
+            "Python"
+          ]
+        },
+        {
+          "title": "★️ Analityk Big Data",
+          "description": "★️ Poszukujemy osoby do analizy i interpretacji dużych zbiorów danych w czasie rzeczywistym.",
+          "tags": [
+            "Data Mining",
+            "Hadoop",
+            "Spark"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "GreenTech Solutions",
+      "description": "✧ Ekologiczne rozwiązania technologiczne dla zrównoważonego rozwoju. *Innowacyjne podejście do energii odnawialnej i recyklingu.*",
+      "areas": [
+        "Energetyka odnawialna",
+        "Recykling",
+        "Smart Cities"
+      ],
+      "open_positions": [
+        {
+          "title": "★️ Specjalista ds. Energetyki Odnawialnej",
+          "description": "★️ Poszukujemy eksperta w zakresie fotowoltaiki i zarządzania zasobami energetycznymi.",
+          "tags": [
+            "Solar Energy",
+            "Energy Management",
+            "Green Technologies"
+          ]
+        },
+        {
+          "title": "✓ Specjalista ds. Smart Cities",
+          "description": "✓ Osoba odpowiedzialna za implementację inteligentnych rozwiązań w obszarze miejskich infrastruktur.",
+          "tags": [
+            "IoT",
+            "Smart Grid",
+            "Urban Planning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "MarketWise",
+      "description": "- Platforma analizy rynkowej i inteligencji biznesowej. **Zaawansowane rozwiązania marketingowe dla celów rekomendacyjnych.**",
+      "areas": [
+        "Marketing cyfrowy",
+        "Business Intelligence",
+        "E-commerce"
+      ],
+      "open_positions": [
+        {
+          "title": "✪ Specjalista ds. Marketingu Cyfrowego",
+          "description": "✪ Osoba odpowiedzialna za tworzenie i monitorowanie strategii marketingowych online.",
+          "tags": [
+            "SEO",
+            "SEM",
+            "Social Media Marketing"
+          ]
+        },
+        {
+          "title": "✓ Analityk Biznesowy",
+          "description": "✓ Poszukujemy osoby do analizy danych biznesowych i rekomendacji dla klientów.",
+          "tags": [
+            "Data Analysis",
+            "Market Research",
+            "Predictive Analytics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "UrbanConnect",
+      "description": "→ Platforma integracyjna dla usług miejskich i transportowych. **Zmieniająca sposób interakcji obywateli z infrastrukturą miejską.**",
+      "areas": [
+        "Mobilność miejska",
+        "Smart Cities",
+        "Obiekt Internetu"
+      ],
+      "open_positions": [
+        {
+          "title": "★️ Kierownik Projektu Smart Cities",
+          "description": "★️ Osoba do zarządzania projektem wdrażania rozwiązań inteligentnych w dużych miastach.",
+          "tags": [
+            "Urban Planning",
+            "Transportation Management",
+            "IoT"
+          ]
+        },
+        {
+          "title": "✔️ Specjalista ds. User Experience",
+          "description": "✔️ Poszukujemy osoby do projektowania interfejsów użytkownika dla naszych aplikacji miejskich.",
+          "tags": [
+            "UI/UX Design",
+            "Human-Centered Design",
+            "Prototyping"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "HealthTech Innovations",
+      "description": "**Innowacyjne rozwiązania medyczne** z zastosowaniem technologii. *Pionierskie podejście do opieki zdrowotnej i monitorowania pacjentów.*",
+      "areas": [
+        "Telemedycyna",
+        "E-zdrowie",
+        "Technologie medyczne"
+      ],
+      "open_positions": [
+        {
+          "title": "→ Specjalista ds. Telemedycyny",
+          "description": "→ Poszukujemy eksperta do projektowania i wdrażania rozwiązań telemedycyny na dużą skalę.",
+          "tags": [
+            "Telehealth",
+            "Medical Informatics",
+            "Health Information Systems"
+          ]
+        },
+        {
+          "title": "✓ Analityk Danych Medycznych",
+          "description": "✓ Osoba odpowiedzialna za analizę i interpretację danych medycznych w celu optymalizacji procesów.",
+          "tags": [
+            "Medical Statistics",
+            "Data Interpretation",
+            "Healthcare Analytics"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    }
+  ]
+}

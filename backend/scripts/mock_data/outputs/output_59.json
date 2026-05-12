@@ -1,0 +1,238 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Kinga",
+      "last_name": "Nowak",
+      "email": "kinganowak@example.com",
+      "description": "Artystka multidyscyplinarna z pasją do folkloru i współczesnego tańca. *Uwielbiam tworzyć nowe wzory i poruszać ludzkie serca.* - mówi Kinga.",
+      "skills": [
+        "Taniec współczesny",
+        "Folklor",
+        "Rzemiosło artystyczne"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Adam",
+      "last_name": "Kowalski",
+      "email": "adamkowalski@example.com",
+      "description": "Malarz modernistyczny z zamiłowaniem do abstrakcji i geometrii. **Sztuka otwiera oczy na piękno, które jest wszędzie wokół nas** - zauważa Adam.",
+      "skills": [
+        "Malarstwo abstrakcyjne",
+        "Geometria w sztuce",
+        "Kolory w ekspresji"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Lis",
+      "email": "magdalenalis@example.com",
+      "description": "Projektantka mody inspirowana polskimi tradycjami ludowymi. *Każdy ubiór to opowieść o historii i kulturze* - podkreśla Magdalena.",
+      "skills": [
+        "Projektowanie ubrań",
+        "Hafty tradycyjne",
+        "Tworzenie wzorów"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Kamil",
+      "last_name": "Wójcik",
+      "email": "kamilwojcik@example.com",
+      "description": "Reżyser teatralny poszukujący nowatorskich form scenicznego wyrazu. - Rozwój sztuki to nieustanne poszukiwanie inspiracji - uważa Kamil.",
+      "skills": [
+        "Reżyseria teatralna",
+        "Scenografia eksperymentalna",
+        "Dramaturgia współczesna"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Weronika",
+      "last_name": "Jankowska",
+      "email": "weronikajankowska@example.com",
+      "description": "Fotografka dokumentująca polskie tradycje i obrzędy. **Obraz ma moc przekazywania emocji i opowieści** - przekonuje Weronika.",
+      "skills": [
+        "Fotografia dokumentalna",
+        "Reportaż fotograficzny",
+        "Portrety z duszą"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Światło i Cień",
+      "description": "Projekt scenograficzny łączący tradycję z nowoczesnością. *Światło jest mostem między przeszłością a teraźniejszością.* - twierdzi Marta, uczestniczka projektu.",
+      "areas": [
+        "Scenografia",
+        "Oświetlenie teatralne",
+        "Projektowanie przestrzeni"
+      ],
+      "open_positions": [
+        {
+          "title": "Scenograf",
+          "description": "Osoba odpowiedzialna za koncepcję wizualną przedstawienia, odnosząca się do symboliki polskiej kultury ludowej.",
+          "tags": [
+            "Koncepcja przestrzenna",
+            "Dekoracje teatralne",
+            "Symbolika folkloru"
+          ]
+        },
+        {
+          "title": "Oświetleniowiec",
+          "description": "Specjalista ds. oświetlenia, wrażliwy na grę świateł i cieni w teatralnych produkcjach.",
+          "tags": [
+            "Oświetlenie artystyczne",
+            "Programowanie efektów świetlnych",
+            "Klimatyczne wnętrza"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Echo Tradycji",
+      "description": "Interaktywny projekt muzyczny inspirowany polskim folklorem. **Nasza muzyka to żywe dziedzictwo minionych pokoleń** - podkreśla Piotr, lider inicjatywy.",
+      "areas": [
+        "Muzyka etniczna",
+        "Interaktywne performance",
+        "Eksploracja dziedzictwa muzycznego"
+      ],
+      "open_positions": [
+        {
+          "title": "Muzyk etniczny",
+          "description": "Osoba posiadająca umiejętność gry na tradycyjnych instrumentach ludowych, odwołujących się do polskiej tradycji muzycznej.",
+          "tags": [
+            "Instrumenty ludowe",
+            "Improwizacja muzyczna",
+            "Muzyka folk"
+          ]
+        },
+        {
+          "title": "Animator kultury",
+          "description": "Osoba koordynująca interakcje z publicznością i integrująca uczestników koncertu poprzez przyśpiewki ludowe.",
+          "tags": [
+            "Animacje kulturowe",
+            "Prowadzenie interakcji",
+            "Integracyjne metody pracy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Artystyczne Wiry",
+      "description": "Przestrzenny projekt artystyczny łączący rzeźbę, malarstwo i fotografię. *Nasza praca tworzy artystyczne wiry, które łączą przeszłość i teraźniejszość.* - mówią twórcy.",
+      "areas": [
+        "Rzeźba przestrzenna",
+        "Malarstwo współczesne",
+        "Fotografia artystyczna"
+      ],
+      "open_positions": [
+        {
+          "title": "Rzeźbiarz",
+          "description": "Artysta o wrażliwości na formę i przestrzeń, tworzący rzeźby inspirowane naturą, mitologią i polskimi tradycjami.",
+          "tags": [
+            "Rzeźba nowoczesna",
+            "Forma przestrzenna",
+            "Interpretacje kultury ludowej"
+          ]
+        },
+        {
+          "title": "Fotograf artystyczny",
+          "description": "Osoba zajmująca się fotografią artystyczną, eksplorująca przyrodę i ludzkie emocje poprzez obiektyw aparatu.",
+          "tags": [
+            "Fotografia eksperymentalna",
+            "Portrety artystyczne",
+            "Krajobrazy kulturowe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Teatr Wersów",
+      "description": "Alternatywny projekt teatralny eksplorujący potencjał słowa w poezji performatywnej. **W słowie tkwi siła wyrazu, która przenika granice sztuki** - podkreśla Marcin, dramaturg inicjatywy.",
+      "areas": [
+        "Poezja performatywna",
+        "Scenariusze dramatyczne",
+        "Eksperymentalne formy teatralne"
+      ],
+      "open_positions": [
+        {
+          "title": "Poeta performer",
+          "description": "Osoba łącząca poezję z performatywnością, poszukująca nowych form teatralnej ekspresji.",
+          "tags": [
+            "Performance poetycki",
+            "Eksperymentalne słowo",
+            "Interaktywne narracje"
+          ]
+        },
+        {
+          "title": "Dźwiękowiec",
+          "description": "Specjalista od dźwięku, tworzący ścieżki dźwiękowe do spektakli, eksperymentujący z brzmieniem i narracją słowną.",
+          "tags": [
+            "Dźwięki teatralne",
+            "Montaż dźwięku",
+            "Narracje audiowizualne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Sztuka Odbicia",
+      "description": "Interdyscyplinarny projekt artystyczny łączący sztukę wizualną, taniec i teatr. *W każdym odbiciu kryje się tajemnica, która prowadzi nas w głąb naszych emocji.* - reflektują artyści.",
+      "areas": [
+        "Sztuki wizualne",
+        "Taniec eksperymentalny",
+        "Scenografia interaktywna"
+      ],
+      "open_positions": [
+        {
+          "title": "Artysta interdyscyplinarny",
+          "description": "Twórca łączący różne dziedziny sztuki w nowatorskie projekty twórcze, poszukujący inspiracji w nurtach postmodernizmu i eksperymentu.",
+          "tags": [
+            "Integracja sztuk",
+            "Kolaboracje artystyczne",
+            "Interakcje multimodalne"
+          ]
+        },
+        {
+          "title": "Tancerz eksperymentalny",
+          "description": "Artysta poszukujący nowych form ekspresji w tancu, eksplorujący granice ludzkiego ciała i emocji.",
+          "tags": [
+            "Eksploracja ciała",
+            "Taniec improwizowany",
+            "Przestrzeń ruchu"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

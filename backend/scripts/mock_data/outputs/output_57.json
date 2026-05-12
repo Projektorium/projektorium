@@ -1,0 +1,250 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Krzysztof",
+      "last_name": "Nowak",
+      "email": "krzysztof.nowak@example.com",
+      "description": "Dr. Krzysztof Nowak is a distinguished researcher in the field of *quantum computing* and *machine learning*. His work focuses on developing innovative algorithms to solve complex computational problems.",
+      "skills": [
+        "Quantum Computing",
+        "Machine Learning",
+        "Algorithms"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Anna",
+      "last_name": "Kowalska",
+      "email": "anna.kowalska@example.com",
+      "description": "Prof. Anna Kowalska is a leading expert in the domain of *bioinformatics* and *computational biology*. Her research combines biological data analysis and mathematical modeling to understand complex biological processes.",
+      "skills": [
+        "Bioinformatics",
+        "Computational Biology",
+        "Data Analysis"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Piotr",
+      "last_name": "Wiśniewski",
+      "email": "piotr.wisniewski@example.com",
+      "description": "Dr. Piotr Wiśniewski is a passionate researcher in the area of *urban planning* and *sustainable architecture*. His innovative approach integrates environmental sustainability with modern urban design principles.",
+      "skills": [
+        "Urban Planning",
+        "Sustainable Architecture",
+        "GIS"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Magdalena",
+      "last_name": "Woźniak",
+      "email": "magdalena.wozniak@example.com",
+      "description": "Prof. Magdalena Woźniak is an accomplished scholar specializing in *linguistics* and *semiotics*. Her interdisciplinary research explores the relationship between language, culture, and cognition.",
+      "skills": [
+        "Linguistics",
+        "Semiotics",
+        "Cognitive Science"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Michał",
+      "last_name": "Duda",
+      "email": "michal.duda@example.com",
+      "description": "Dr. Michał Duda is a dedicated researcher in the field of *renewable energy* and *smart grids*. His work aims to optimize energy distribution networks through advanced computational modeling.",
+      "skills": [
+        "Renewable Energy",
+        "Smart Grids",
+        "Energy Optimization"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Projekt Kwantowych Algorytmów Optymalizacyjnych",
+      "description": "Projekt Kwantowych Algorytmów Optymalizacyjnych (PRAO) jest jak *nurtująca podróż w głąb kwantowych labiryntów*. Celem projektu jest opracowanie nowatorskich algorytmów kwantowych do rozwiązywania skomplikowanych problemów optymalizacyjnych.",
+      "areas": [
+        "Quantum Computing",
+        "Optimization",
+        "Algorithms"
+      ],
+      "open_positions": [
+        {
+          "title": "Asystent Badawczy",
+          "description": "Poszukujemy asystenta badawczego do wsparcia analizy danych eksperymentalnych oraz implementacji algorytmów kwantowych.",
+          "tags": [
+            "Programowanie Kwantowe",
+            "Analiza Danych",
+            "Algorytmy"
+          ]
+        },
+        {
+          "title": "Stażysta Naukowy",
+          "description": "Oferta stażu naukowego dla studenta zainteresowanego zagadnieniami związanymi z kwantowymi obliczeniami i optymalizacją.",
+          "tags": [
+            "Kwantowe Obliczenia",
+            "Optymalizacja",
+            "Matematyka"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Badania Interdyscyplinarne nad Nowoczesną Architekturą Miejską",
+      "description": "Projekt BINA MAIM to *ścieżka odkrywania miasta przyszłości*. Nasza interdyscyplinarna praca zmierza do stworzenia nowatorskich rozwiązań architektonicznych zrównoważonych pod względem ekologicznym i społecznym.",
+      "areas": [
+        "Urban Planning",
+        "Architecture",
+        "Sustainability"
+      ],
+      "open_positions": [
+        {
+          "title": "Architekt Badawczy",
+          "description": "Poszukujemy architekta z doświadczeniem w zrównoważonej architekturze miejskiej do współpracy nad koncepcją przestrzenną projektu.",
+          "tags": [
+            "Architektura Zrównoważona",
+            "Projektowanie Przestrzenne",
+            "Zagospodarowanie Miejskie"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Rozwoju Urbanistycznego",
+          "description": "Pozycja dla specjalisty z obszaru planowania urbanistycznego zainteresowanego tworzeniem innowacyjnych rozwiązań dla miast przyszłości.",
+          "tags": [
+            "Planowanie Przestrzenne",
+            "Zrównoważony Rozwój",
+            "Ekorozwój"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Analiza Semantyczna Wielojęzycznych Korpusów Tekstowych",
+      "description": "Projekt ASWKT to *poszukiwanie sensu w wirze słów i znaczeń*. Nasze badania koncentrują się na analizie semantycznej korpusów tekstowych w różnych językach w celu zrozumienia struktury i ewolucji językowej.",
+      "areas": [
+        "Linguistics",
+        "Semantics",
+        "Text Analysis"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Analizy Tekstów",
+          "description": "W poszukiwaniu specjalisty z doświadczeniem w analizie dużych zbiorów tekstowych oraz modelowania semantycznego.",
+          "tags": [
+            "Analiza Tekstów",
+            "Semantyka",
+            "Lingwistyka Komputerowa"
+          ]
+        },
+        {
+          "title": "Badacz Nadający",
+          "description": "Otwarta pozycja dla badacza zainteresowanego tworzeniem teorii semantyki językowej opartej na analizie korpusów wielojęzycznych.",
+          "tags": [
+            "Semantyka Językowa",
+            "Korpusy Tekstowe",
+            "Analiza Wielojęzycznych Danych"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Zaawansowane Metody Analizy Molekularnej w Biologii Ewolucyjnej",
+      "description": "Projekt ZMAMBE to *eksploracja złożonych labiryntów molekularnych*. Nasze badania skupiają się na wykorzystaniu zaawansowanych metod analitycznych w badaniach ewolucji biologicznej.",
+      "areas": [
+        "Bioinformatics",
+        "Evolutionary Biology",
+        "Molecular Analysis"
+      ],
+      "open_positions": [
+        {
+          "title": "Analityk Molekularny",
+          "description": "Poszukujemy analityka z doświadczeniem w analizie sekwencji genetycznych oraz modelowaniu ewolucji molekularnej.",
+          "tags": [
+            "Analiza Genomów",
+            "Biodiveristyka",
+            "Filogenetyka"
+          ]
+        },
+        {
+          "title": "Badacz Bioinformatyk",
+          "description": "Stań do walki w laboratorium bioinformatyki, gdzie analizujemy duże zbiory danych biologicznych w celu zrozumienia procesów ewolucji genetycznej.",
+          "tags": [
+            "Bioinformatyka",
+            "Analiza Molekularna",
+            "Filogeneza"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Optymalizacja Systemów Energetycznych w Kontekście Zrównoważonego Rozwoju",
+      "description": "Projekt OSEKZR to *skomplikowane tańce między efektywnością a zrównoważeniem*. Nasze badania skupiają się na optymalizacji systemów energetycznych w kontekście ekologicznego i społecznego zrównoważonego rozwoju.",
+      "areas": [
+        "Renewable Energy",
+        "Energy Systems",
+        "Sustainability"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Optymalizacji Systemów Energetycznych",
+          "description": "Pozycja dla specjalisty z doświadczeniem w modelowaniu i optymalizacji sieci energetycznych z wykorzystaniem źródeł odnawialnych.",
+          "tags": [
+            "Odnawialne Źródła Energii",
+            "Systemy Energetyczne",
+            "Modelowanie Energetyczne"
+          ]
+        },
+        {
+          "title": "Konsultant ds. Energetyki Zrównoważonej",
+          "description": "Szukamy eksperta w dziedzinie energetyki zainteresowanego rozwijaniem strategii zrównoważonego rozwoju systemów energetycznych.",
+          "tags": [
+            "Energetyka Odnawialna",
+            "Zrównoważony Rozwój",
+            "Efektywność Energetyczna"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    }
+  ]
+}

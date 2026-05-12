@@ -1,0 +1,251 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "katarzyna.nowak@example.com",
+      "description": "Jestem programistką z pasją do **front-end developmentu** i *designu*. Moje zainteresowania obejmują budowanie interaktywnych interfejsów użytkownika oraz optymalizację doświadczenia użytkownika. Jako entuzjastka **JavaScriptu** i **Reacta**, zawsze staram się rozwijać moje umiejętności.",
+      "skills": [
+        "JavaScript",
+        "React",
+        "CSS",
+        "UI/UX Design"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Adam",
+      "last_name": "Wójcik",
+      "email": "adam.wojcik@example.com",
+      "description": "Jestem studentem biologii molekularnej z zamiłowaniem do analizy danych biologicznych. Moje umiejętności obejmują *analizę sekwencji DNA*, *bioinformatykę* oraz **statystykę**. Chciałbym połączyć swoją pasję do nauki z praktycznym zastosowaniem w badaniach.",
+      "skills": [
+        "Analiza DNA",
+        "Bioinformatyka",
+        "Statystyka",
+        "Badania Biologiczne"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Monika",
+      "last_name": "Kowalczyk",
+      "email": "monika.kowalczyk@example.com",
+      "description": "Jestem tłumaczką literatury zainteresowaną *językoznawstwem* i *redakcją*. Moje doświadczenie obejmuje tłumaczenia literackie oraz prace redakcyjne. Interesuje mnie również *lingwistyka stosowana* i kreowanie treści zgodnych z kulturą odbiorcy.",
+      "skills": [
+        "Tłumaczenia Literackie",
+        "Redakcja",
+        "Lingwistyka Stosowana",
+        "Kreacja Treści"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Paweł",
+      "last_name": "Lewandowski",
+      "email": "pawel.lewandowski@example.com",
+      "description": "Jestem grafikiem komputerowym specjalizującym się w projektowaniu *grafiki 3D* oraz *animacji*. Moje umiejętności obejmują tworzenie realistycznych animacji oraz modelowanie postaci. Pasjonuje mnie również *interaktywny design* i rozwijanie kreatywnych rozwiązań.",
+      "skills": [
+        "Grafika 3D",
+        "Animacja",
+        "Modelowanie Postaci",
+        "Interaktywny Design"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Dąbrowska",
+      "email": "karolina.dabrowska@example.com",
+      "description": "Jestem copywriterką z doświadczeniem w *tworzeniu treści marketingowych* i *kreatywnym copywritingu*. Moje umiejętności obejmują pisaniem skutecznych tekstów reklamowych oraz strategii komunikacji. Chciałabym rozwijać swoje umiejętności w obszarze *content marketingu*.",
+      "skills": [
+        "Copywriting",
+        "Treści Marketingowe",
+        "Strategia Komunikacji",
+        "Content Marketing"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma E-learningowa dla Naukowców",
+      "description": "📘 W ramach tego projektu będziemy tworzyć interaktywną platformę e-learningową *dla naukowców*. Projekt obejmuje rozwój **aplikacji webowej** wspomagającej naukowców w udostępnianiu wiedzy oraz analizie danych. Będziemy pracować nad integracją **algorytmów analizy danych** oraz tworzeniem **responsywnego UI**.",
+      "areas": [
+        "E-learning",
+        "Analiza Danych",
+        "Aplikacje Webowe"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Algorytmów Analizy Danych",
+          "description": "Osoba odpowiedzialna za implementację i optymalizację algorytmów analizy danych na platformę e-learningową.",
+          "tags": [
+            "Analiza Danych",
+            "Algorytmy",
+            "Aplikacje Webowe"
+          ]
+        },
+        {
+          "title": "UI/UX Designer",
+          "description": "Osoba zajmująca się projektowaniem interfejsu użytkownika dla aplikacji webowej na potrzeby naukowców.",
+          "tags": [
+            "UI/UX Design",
+            "Projektowanie Interfejsów",
+            "Aplikacje Webowe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Badania nad Nowoczesnymi Technologiami w Designie Graficznym",
+      "description": "💡 Projekt ten poświęcony jest badaniom nad *nowoczesnymi technologiami* w dziedzinie designu graficznego. Naszym celem jest połączenie **sztucznej inteligencji** z **grafiką komputerową**, aby stworzyć innowacyjne rozwiązania w projektowaniu. Obejmuje to również *badania nad interaktywnymi mediów wizualnymi* oraz *analizę trendów designu*.",
+      "areas": [
+        "Nowoczesne Technologie",
+        "Sztuczna Inteligencja",
+        "Design Graficzny"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Sztucznej Inteligencji",
+          "description": "Osoba zajmująca się implementacją algorytmów AI w kontekście designu graficznego.",
+          "tags": [
+            "Sztuczna Inteligencja",
+            "Projektowanie Graficzne",
+            "Nowoczesne Technologie"
+          ]
+        },
+        {
+          "title": "Badacz Trendów Designu",
+          "description": "Osoba odpowiedzialna za analizę trendów w designie graficznym i wnioskowanie nowych rozwiązań.",
+          "tags": [
+            "Design Graficzny",
+            "Analiza Trendów",
+            "Badania"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Aplikacja Mobilna dla Lekarzy Neurologów",
+      "description": "📱 Nasz projekt zakłada stworzenie aplikacji mobilnej *dla lekarzy neurologów* ułatwiającej diagnozę i monitorowanie pacjentów. Główne funkcje obejmują **telemedycynę**, **zarządzanie danymi medycznymi** oraz *analizę wyników badań*. Będziemy również wspierać interakcję lekarza z pacjentem poprzez **intuicyjny interfejs**.",
+      "areas": [
+        "Medycyna",
+        "Telemedycyna",
+        "Aplikacje Mobilne"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Analizy Medycznej",
+          "description": "Osoba zajmująca się analizą wyników badań medycznych w celu udoskonalenia aplikacji mobilnej.",
+          "tags": [
+            "Analiza Medyczna",
+            "Medycyna",
+            "Aplikacje Mobilne"
+          ]
+        },
+        {
+          "title": "Front-end Developer React Native",
+          "description": "Osoba odpowiedzialna za rozwój interfejsu aplikacji mobilnej przy użyciu React Native.",
+          "tags": [
+            "React Native",
+            "Front-end Development",
+            "Aplikacje Mobilne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Platforma Edukacyjna dla Studentów Filologii",
+      "description": "📚 Projekt ten skupia się na stworzeniu interaktywnej platformy edukacyjnej *dla studentów filologii*. Główne celem projektu to zapewnienie studentom dostępu do **zasobów edukacyjnych online** oraz *platformy do nauki języków obcych*. Obejmuje to rozwój **interaktywnych kursów online** oraz **systemu zarządzania treścią**.",
+      "areas": [
+        "Edukacja Online",
+        "Filologia",
+        "Języki Obce"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Treści Edukacyjnych",
+          "description": "Osoba odpowiedzialna za tworzenie i zarządzanie zasobami edukacyjnymi na platformie dla studentów filologii.",
+          "tags": [
+            "Edukacja Online",
+            "Zarządzanie Treścią",
+            "Filologia"
+          ]
+        },
+        {
+          "title": "Redaktor Językowy",
+          "description": "Osoba zajmująca się redakcją treści edukacyjnych oraz tłumaczeniem treści na różne języki obce.",
+          "tags": [
+            "Redakcja",
+            "Tłumaczenia",
+            "Języki Obce"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Serwis Społecznościowy Dla Artystów Plastycznych",
+      "description": "🎨 Udostępniamy platformę społecznościową *dla artystów plastycznych*, gdzie mogą dzielić się swoimi dziełami oraz inspiracjami. Projekt skupia się na **rozwijaniu kreatywnych talentów** poprzez *współpracę artystyczną* i *tworzenie portfolio* online. Będziemy promować *wystawy online* oraz *kursy rysunku i malarstwa*.",
+      "areas": [
+        "Sztuka",
+        "Społeczności Online",
+        "Portfolio Artystyczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Wystaw Online",
+          "description": "Osoba odpowiedzialna za organizację i promocję wystaw online artystów plastycznych.",
+          "tags": [
+            "Sztuka",
+            "Promocja Wydarzeń",
+            "Portfolio Artystyczne"
+          ]
+        },
+        {
+          "title": "Koordynator Tworzenia Portfolio",
+          "description": "Osoba zarządzająca procesem tworzenia i promocji portfolio artystycznych na platformie społecznościowej.",
+          "tags": [
+            "Sztuka",
+            "Promocja",
+            "Portfolio Artystyczne"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "katarzyna.nowak@example.com",
+      "description": "* Doświadczona analityczka danych z zamiłowaniem do wizualizacji * Zainteresowanie badaniami nad uczeniem maszynowym * Pasjonatka nowoczesnych technologii cyfrowych",
+      "skills": [
+        "Analiza danych",
+        "Wizualizacja danych",
+        "Uczenie maszynowe"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Adam",
+      "last_name": "Kowalczyk",
+      "email": "adam.kowalczyk@example.com",
+      "description": "- Specjalista ds. sztucznej inteligencji z doświadczeniem w pracy nad chatbotami - Entuzjasta etyki w analizie danych ** Praktyk w obszarze przetwarzania języka naturalnego",
+      "skills": [
+        "Sztuczna inteligencja",
+        "Chatboty",
+        "Etyka danych",
+        "Przetwarzanie języka naturalnego"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Joanna",
+      "last_name": "Jasińska",
+      "email": "joanna.jasinska@example.com",
+      "description": "* Graficzka z 5-letnim doświadczeniem w projektowaniu interfejsów * Twórcza designerka z pasją do minimalizmu i prostoty * Zdolna ilustratorka o okiem do detali",
+      "skills": [
+        "Projektowanie interfejsów",
+        "Design graficzny",
+        "Ilustracja"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Michał",
+      "last_name": "Wójcik",
+      "email": "michal.wojcik@example.com",
+      "description": "* Młody naukowiec specjalizujący się w obliczeniach kwantowych * Absolwent fizyki teoretycznej z zamiłowaniem do numeryki ** Entuzjasta rozwijania algorytmów kwantowych",
+      "skills": [
+        "Obliczenia kwantowe",
+        "Fizyka teoretyczna",
+        "Algorytmy kwantowe"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Monika",
+      "last_name": "Adamska",
+      "email": "monika.adamska@example.com",
+      "description": "- Marketingowiec z wieloletnim doświadczeniem w reklamie internetowej - Ekspertka w dziedzinie analizy rynku i trendów ** Kreatywna copywriterka z zamiłowaniem do social mediów",
+      "skills": [
+        "Reklama internetowa",
+        "Analiza rynku",
+        "Copywriting",
+        "Media społecznościowe"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Projekt Smog Stop",
+      "description": "* Innowacyjna aplikacja monitorująca jakość powietrza w czasie rzeczywistym * Wykorzystanie danych sensorycznych i analizy predykcyjnej - Kampania edukacyjna w zakresie ochrony środowiska",
+      "areas": [
+        "Ochrona środowiska",
+        "Analiza danych",
+        "Aplikacje mobilne"
+      ],
+      "open_positions": [
+        {
+          "title": "📊 Analityk danych",
+          "description": "- Analiza danych z sensorów środowiskowych - Współpraca nad modelami predykcyjnymi",
+          "tags": [
+            "Analiza danych",
+            "Modelowanie predykcyjne"
+          ]
+        },
+        {
+          "title": "🌿 Specjalista ds. ekologii",
+          "description": "- Koordynacja działań związanych z ochroną środowiska - Opracowywanie strategii zmniejszania emisji",
+          "tags": [
+            "Ekologia",
+            "Zmniejszanie emisji"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Projekt ArtVision",
+      "description": "- Interaktywna instalacja artystyczna łącząca świat sztuki z technologią * Prezentacja dzieł sztuki w wirtualnej rzeczywistości ** Warsztaty twórcze dla społeczności lokalnej",
+      "areas": [
+        "Sztuka współczesna",
+        "Wirtualna rzeczywistość",
+        "Edukacja artystyczna"
+      ],
+      "open_positions": [
+        {
+          "title": "🎨 Artysta wizualny",
+          "description": "- Tworzenie dzieł sztuki na potrzeby instalacji - Praca z technologią wizyjną",
+          "tags": [
+            "Sztuka wizualna",
+            "Technologia wizyjna"
+          ]
+        },
+        {
+          "title": "🔮 Koordynator projektu",
+          "description": "* Zarządzanie harmonogramem działań kreatywnych - Komunikacja i koordynacja zespołu artystycznego",
+          "tags": [
+            "Zarządzanie projektem",
+            "Komunikacja zespołowa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Projekt QuantumLeap",
+      "description": "* Badania nad wykorzystaniem obliczeń kwantowych w kryptografii * Rozwój algorytmów kryptograficznych opartych na zjawiskach kwantowych - Przygotowanie publikacji naukowych",
+      "areas": [
+        "Kryptografia kwantowa",
+        "Obliczenia kwantowe",
+        "Bezpieczeństwo informatyczne"
+      ],
+      "open_positions": [
+        {
+          "title": "🔒 Specjalista ds. kryptografii",
+          "description": "- Projektowanie i analiza algorytmów kryptograficznych kwantowych - Testowanie odporności kryptografii na ataki kwantowe",
+          "tags": [
+            "Kryptografia kwantowa",
+            "Testowanie bezpieczeństwa"
+          ]
+        },
+        {
+          "title": "📚 Asystent badawczy",
+          "description": "* Wspieranie zespołu w analizie danych i przygotowaniu publikacji - Koordynacja badań terenowych",
+          "tags": [
+            "Analiza danych",
+            "Koordynacja badań"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Projekt FutureTrend",
+      "description": "- Analiza trendów konsumenckich w erze cyfrowej ** Kreowanie strategii marketingowej dla młodych pokoleń * Badanie wpływu nowych technologii na trendy zakupowe",
+      "areas": [
+        "Analiza rynku",
+        "Trendy konsumenckie",
+        "Marketing cyfrowy"
+      ],
+      "open_positions": [
+        {
+          "title": "📊 Analityk rynku",
+          "description": "- Analiza zachowań konsumenckich online i offline - Tworzenie raportów trendów rynkowych",
+          "tags": [
+            "Analiza rynku",
+            "Badanie zachowań konsumenckich"
+          ]
+        },
+        {
+          "title": "💡 Specjalista ds. marketingu cyfrowego",
+          "description": "* Opracowywanie strategii reklamowych w mediach społecznościowych - Monitorowanie efektywności kampanii online",
+          "tags": [
+            "Marketing cyfrowy",
+            "Reklama internetowa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Projekt Sunflower",
+      "description": "* Inicjatywa społeczna wspierająca rozwój edukacji rolniczej na wsiach * Budowanie sieci lokalnych placówek edukacyjnych związanych z uprawą roślin ** Organizacja warsztatów dla dzieci i młodzieży wiejskiej",
+      "areas": [
+        "Edukacja rolnicza",
+        "Społeczna inicjatywa",
+        "Działania lokalne"
+      ],
+      "open_positions": [
+        {
+          "title": "🌻 Koordynator projektu edukacyjnego",
+          "description": "* Planowanie i wdrażanie programu edukacyjnego * Nawiązywanie współpracy z lokalnymi szkołami i placówkami",
+          "tags": [
+            "Planowanie edukacji",
+            "Współpraca lokalna"
+          ]
+        },
+        {
+          "title": "👩‍🌾 Animator społeczny",
+          "description": "- Organizacja wydarzeń kulturalnych na terenach wiejskich - Wspieranie aktywności społeczności lokalnych",
+          "tags": [
+            "Organizacja wydarzeń",
+            "Rozwój społeczności"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

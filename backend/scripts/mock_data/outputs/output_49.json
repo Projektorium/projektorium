@@ -1,0 +1,230 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zofia",
+      "last_name": "Nowak",
+      "email": "zofianowak@example.com",
+      "description": "Artystka wrażliwa na piękno otaczającego świata. Tworzenie jest dla mnie jak *dusza*, nie mogę żyć bez tego. - Zofia Nowak",
+      "skills": [
+        "malarstwo",
+        "rzeźba",
+        "teatr"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Jan",
+      "last_name": "Kowalski",
+      "email": "jankowalski@example.com",
+      "description": "**Sztuka** to dla mnie sposób wyrażania *niewyrażalnego*. - Jan Kowalski",
+      "skills": [
+        "fotografia",
+        "muzyka",
+        "performance"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Aleksandra",
+      "last_name": "Dąbrowska",
+      "email": "adabrowska@example.com",
+      "description": "- W mojej twórczości staram się *łączyć* dziedzictwo z nowoczesnością. - Aleksandra Dąbrowska",
+      "skills": [
+        "literatura",
+        "film",
+        "sztuki wizualne"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Jastrzębski",
+      "email": "piotrjastrzebski@example.com",
+      "description": "Wszystko wokół nas jest **inspiracją**. To, co tworzę, ma *oddziaływać* na ludzi. - Piotr Jastrzębski",
+      "skills": [
+        "design graficzny",
+        "moda",
+        "sztuka ulicy"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Wojciechowska",
+      "email": "karolinawojciechowska@example.com",
+      "description": "Sztuka dla mnie to *jedyny* sposób na zrozumienie świata. - Karolina Wojciechowska",
+      "skills": [
+        "taniec",
+        "sztuka interaktywna",
+        "projektowanie dźwięku"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Mistyka Światła",
+      "description": "Projekt *Mistyka Światła* ma *natchnieniem* w tradycjach ludowych naszego kraju. - Uczestnik",
+      "areas": [
+        "sztuka wizualna",
+        "teatr"
+      ],
+      "open_positions": [
+        {
+          "title": "Reżyser Teatralny",
+          "description": "Poszukujemy reżysera z wrażliwością na *narodową tradycję* teatralną.",
+          "tags": [
+            "reżyseria",
+            "interpretacja tekstów",
+            "dramaturgia"
+          ]
+        },
+        {
+          "title": "Fotograf Sceniczny",
+          "description": "Stworzenie *artystycznych wizji* scenicznych poprzez uchwycenie *światła*.",
+          "tags": [
+            "fotografia",
+            "kreatywność",
+            "oświetlenie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Echo Melodii",
+      "description": "W projekcie *Echo Melodii* dźwięk staje się **parametrem** kształtującym rzeczywistość. - Uczestnik",
+      "areas": [
+        "muzyka",
+        "sztuka dźwięku"
+      ],
+      "open_positions": [
+        {
+          "title": "Kompozytor",
+          "description": "*Łączenie* tradycyjnych dźwięków z *nowatorskimi* rozwiązaniami.",
+          "tags": [
+            "kompozycja",
+            "improwizacja",
+            "aranżacja"
+          ]
+        },
+        {
+          "title": "Kurator Muzyczny",
+          "description": "Kreowanie **artystycznej** wizji koncertów i wydarzeń muzycznych.",
+          "tags": [
+            "koncepcja programu",
+            "organizacja wydarzeń"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Słowo Malowane",
+      "description": "- Literatura to rdzeń projektu *Słowo Malowane*, *życiem* przesiąknięta. - Uczestnik",
+      "areas": [
+        "literatura",
+        "poezja"
+      ],
+      "open_positions": [
+        {
+          "title": "Redaktor Tekstów",
+          "description": "Edycja i *kształtowanie* słowa w literaturze *artystycznej*.",
+          "tags": [
+            "redakcja",
+            "korekta",
+            "tworzenie książek"
+          ]
+        },
+        {
+          "title": "Scenarzysta Poezji Wizualnej",
+          "description": "Tworzenie scenariuszy opartych na **obrazach** *i* *dźwiękach*.",
+          "tags": [
+            "kreacja wierszy",
+            "adaptacja literacka"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Taniec Marzeń",
+      "description": "**Ruch** w projekcie *Taniec Marzeń* *przekracza* granice znanych form. - Uczestnik",
+      "areas": [
+        "taniec",
+        "performance"
+      ],
+      "open_positions": [
+        {
+          "title": "Choreograf",
+          "description": "Kształtowanie *nowych* *powiązań* *między* *ruchem* a *muzyką*.",
+          "tags": [
+            "improwizacja",
+            "choreografia",
+            "interpretacja muzyczna"
+          ]
+        },
+        {
+          "title": "Performing Artist",
+          "description": "Wyraziste *interpretacje* i *emocjonalne podróże* poprzez ruch sceniczny.",
+          "tags": [
+            "interpretacja ruchu",
+            "impresja",
+            "wyrazistość sceniczna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Nowoczesne Sploty",
+      "description": "- W projekcie *Nowoczesne Sploty* sztuka *tkactwa* przekracza swoje granice. - Uczestnik",
+      "areas": [
+        "sztuka rękodzielnicza",
+        "design"
+      ],
+      "open_positions": [
+        {
+          "title": "Projektant Tekstyliów",
+          "description": "*Innowacyjne* spojrzenie na tradycyjne wzornictwo w tkactwie.",
+          "tags": [
+            "projektowanie tkanin",
+            "tworzenie wzorów",
+            "sztuka użytkowa"
+          ]
+        },
+        {
+          "title": "Kurator Wystawy Rękodzieła",
+          "description": "Organizacja i promocja *wystaw* podkreślających *wartość* rękodzieła.",
+          "tags": [
+            "koncepcja wystawy",
+            "promocja kulturalna"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

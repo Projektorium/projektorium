@@ -1,0 +1,258 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zofia",
+      "last_name": "Nowak",
+      "email": "zofia.nowak@example.com",
+      "description": "*Doświadczenie w zarządzaniu zespołami* ✓Sprzedaż i marketing *→Rozwój produktu*",
+      "skills": [
+        "Zarządzanie",
+        "Marketing",
+        "Rozwój produktu"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Wojciech",
+      "last_name": "Kowalski",
+      "email": "wojciech.kowalski@example.com",
+      "description": "**Startup veteran** ★Znajomość rynku →Innowacyjne podejście do biznesu",
+      "skills": [
+        "Przywództwo",
+        "Strategia biznesowa",
+        "Finanse"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Natalia",
+      "last_name": "Dąbrowska",
+      "email": "natalia.dabrowska@example.com",
+      "description": "★★Ojciec biznesu →Startupy społeczne *Inspirujące projekty*",
+      "skills": [
+        "Socjologia",
+        "Fundraising",
+        "Projekty społeczne"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Kamil",
+      "last_name": "Woźniak",
+      "email": "kamil.wozniak@example.com",
+      "description": "*Mobile app guru* ✓User experience design →Data-driven decisions",
+      "skills": [
+        "Aplikacje mobilne",
+        "Projektowanie UX",
+        "Analiza danych"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Małgorzata",
+      "last_name": "Kamińska",
+      "email": "malgorzata.kaminska@example.com",
+      "description": "**E-commerce expert** ★Logistyka i dystrybucja -Analiza rynku produktów",
+      "skills": [
+        "E-commerce",
+        "Logistyka",
+        "Badanie rynku"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "TechVision",
+      "description": "★★Platforma AI **do transformacji biznesu** ✓Innowacyjne rozwiązania technologiczne",
+      "areas": [
+        "Sztuczna inteligencja",
+        "Cybersecurity",
+        "Big Data"
+      ],
+      "open_positions": [
+        {
+          "title": "★CTO z doświadczeniem w AI",
+          "description": "★Kierowanie strategią technologiczną →Zarządzanie zespołem deweloperskim",
+          "tags": [
+            "Sztuczna inteligencja",
+            "Zarządzanie zespołem",
+            "Analiza danych"
+          ]
+        },
+        {
+          "title": "★Specjalista ds. cyberbezpieczeństwa",
+          "description": "★★Odpowiedzialność za zabezpieczenie danych →Rozwój strategii bezpieczeństwa",
+          "tags": [
+            "Cybersecurity",
+            "Bezpieczeństwo danych",
+            "Audyt bezpieczeństwa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "GreenTech Solutions",
+      "description": "**Nowatorski system** do monitorowania środowiska ★Energooszczędne rozwiązania",
+      "areas": [
+        "Odnawialne źródła energii",
+        "Recykling",
+        "Środowisko"
+      ],
+      "open_positions": [
+        {
+          "title": "★Specjalista ds. energii odnawialnej",
+          "description": "★★Zarządzanie projektami ekologicznymi →Analiza efektywności energetycznej",
+          "tags": [
+            "Energia odnawialna",
+            "Zarządzanie projektami",
+            "Efektywność energetyczna"
+          ]
+        },
+        {
+          "title": "★Inżynier ds. recyklingu",
+          "description": "✓Optymalizacja procesów recyklingu →Wsparcie operacyjne",
+          "tags": [
+            "Recykling",
+            "Optymalizacja procesów",
+            "Zrównoważony rozwój"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "HealthTech Innovators",
+      "description": "*Platforma zdrowotna* z personalizowanymi usługami ★Innowacyjne podejście do opieki zdrowotnej",
+      "areas": [
+        "E-zdrowie",
+        "Telemedycyna",
+        "Medycyna personalizowana"
+      ],
+      "open_positions": [
+        {
+          "title": "★Specjalista ds. e-zdrowia",
+          "description": "★Rozwój platformy telemedycznej →Implementacja usług personalizowanych",
+          "tags": [
+            "E-zdrowie",
+            "Telemedycyna",
+            "Implementacja systemów"
+          ]
+        },
+        {
+          "title": "★Analityk medyczny",
+          "description": "**Analiza danych pacjentów** *Wsparcie procesu decyzyjnego*",
+          "tags": [
+            "Analityka medyczna",
+            "Analiza danych",
+            "Wsparcie decyzji lekarskich"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "FoodieTech",
+      "description": "**Platforma** łącząca *smak i technologię* ★Nowoczesne rozwiązania kulinarne",
+      "areas": [
+        "Foodtech",
+        "Gastronomia",
+        "Aplikacje kulinarna"
+      ],
+      "open_positions": [
+        {
+          "title": "★Szef kuchni technologicznej",
+          "description": "★Innowacyjne projekty kulinarne →Zarządzanie zespołem kuchennym",
+          "tags": [
+            "Foodtech",
+            "Innowacje kulinarne",
+            "Zarządzanie kuchnią"
+          ]
+        },
+        {
+          "title": "★Specjalista ds. aplikacji kulinarnych",
+          "description": "*Rozwój interaktywnych przepisów* →Optymalizacja UX aplikacji",
+          "tags": [
+            "Aplikacje kulinarna",
+            "Projektowanie UX",
+            "Rozwój przepisów"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "FinTech Revolution",
+      "description": "★★Platforma finansowa *dla nowej ery* ★Skalowalne rozwiązania bankowości cyfrowej",
+      "areas": [
+        "Finanse",
+        "Bankowość cyfrowa",
+        "Technologie płatnicze"
+      ],
+      "open_positions": [
+        {
+          "title": "★Analityk finansowy",
+          "description": "*Analiza trendów rynkowych* ✓Raportowanie finansowe",
+          "tags": [
+            "Analityka finansowa",
+            "Analiza rynku",
+            "Raportowanie"
+          ]
+        },
+        {
+          "title": "★Specjalista ds. technologii płatniczych",
+          "description": "★★Optymalizacja systemów płatniczych →Rozwój nowych funkcji",
+          "tags": [
+            "Technologie płatnicze",
+            "Optymalizacja systemów",
+            "Rozwój funkcji"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    }
+  ]
+}

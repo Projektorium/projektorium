@@ -1,0 +1,195 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "k.nowak@uni.edu.pl",
+      "description": "Absolwentka nauk *politycznych*, zainteresowana badaniami nad historią polityczną XIX wieku. Specjalizuje się w analizie dyskursu politycznego i teorii społeczno-politycznej. W swojej karierze naukowej osiągnęła znaczące sukcesy publikując prace na temat rewolucji i konfliktów politycznych.",
+      "skills": [
+        "Analiza dyskursu",
+        "Teoria polityki",
+        "Historia polityczna"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Michał",
+      "last_name": "Lewandowski",
+      "email": "m.lewandowski@uni.edu.pl",
+      "description": "Doktor nauk *technicznych*, specjalizuje się w informatyce kwantowej i algorytmach o złożoności obliczeniowej. Jego prace badawcze nad *kwantową symulacją* znalazły uznanie w świecie akademickim. Posiada umiejętności programowania w językach C++, Python i Q#.",
+      "skills": [
+        "Informatyka kwantowa",
+        "Symulacja kwantowa",
+        "Algorytmy"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Anna",
+      "last_name": "Dąbrowska",
+      "email": "a.dabrowska@uni.edu.pl",
+      "description": "Asystentka nauk społecznych specjalizująca się w badaniach nad *psychologią społeczną*. Jej prace koncentrują się na relacjach międzyludzkich i wpływie emocji na decyzje społeczne. Zdobyła nagrodę za najlepszą pracę magisterską z psychologii społecznej.",
+      "skills": [
+        "Psychologia społeczna",
+        "Badania nad emocjami",
+        "Metodologia badawcza"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Wójcik",
+      "email": "p.wojcik@uni.edu.pl",
+      "description": "Profesor nauk humanistycznych z zamiłowaniem do antropologii kultury. Jego zainteresowania badawcze obejmują *interakcje międzykulturowe* i semiotykę obrzędów społecznych. Autor kilku książek uznanych w środowisku naukowym.",
+      "skills": [
+        "Antropologia kultury",
+        "Semiotyka",
+        "Teoria kultury"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Magdalena",
+      "last_name": "Kowalska",
+      "email": "m.kowalska@uni.edu.pl",
+      "description": "Absolwentka nauk *medycznych* z zainteresowaniami w onkologii molekularnej. Jej badania skupiają się na wykorzystaniu terapii genowej w leczeniu nowotworów. Współpracuje z międzynarodowymi zespołami naukowymi w poszukiwaniu innowacyjnych metod terapeutycznych.",
+      "skills": [
+        "Onkologia molekularna",
+        "Terapia genowa",
+        "Badania kliniczne"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Rewolucje Polityczne XIX Wieku",
+      "description": "Projekt bada zawiłe ścieżki politycznych przeobrażeń w XIX wieku, ukazując ich związek z *rewolucją przemysłową*. Badacze zgłębiają analizę społeczno-polityczną tamtych czasów, od słynnych rebelii po tajemnicze spiski.",
+      "areas": [
+        "Historia polityczna",
+        "Rewolucjonizm społeczny"
+      ],
+      "open_positions": [
+        {
+          "title": "Adiunkt",
+          "description": "Poszukujemy osoby z doświadczeniem w historii politycznej do współpracy nad analizą dokumentów historycznych z okresu XIX wieku.",
+          "tags": [
+            "Historia europejska",
+            "Analiza dokumentów"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Kwantowe Symulacje Algorytmów",
+      "description": "Projekt wykorzystuje *kwantowe komputery* do symulacji algorytmów o złożonej strukturze. Badacze poszukują nowatorskich metod obliczeniowych, zmieniając sposób myślenia o klasycznych algorytmach.",
+      "areas": [
+        "Informatyka kwantowa",
+        "Algorytmy obliczeniowe"
+      ],
+      "open_positions": [
+        {
+          "title": "Asystent badawczy",
+          "description": "Poszukujemy osoby z wiedzą z zakresu informatyki kwantowej do udziału w projektach badawczych dotyczących symulacji kwantowej.",
+          "tags": [
+            "Symulacja kwantowa",
+            "Programowanie kwantowe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Emocje a Decyzje Społeczne",
+      "description": "Projekt analizuje rozbudowane sieci społeczne pod kątem wpływu emocji na podejmowanie decyzji społecznych. Badania zapewniają nowe spojrzenie na rozwój teorii psychologii społecznej, analizując złożone interakcje międzyludzkie.",
+      "areas": [
+        "Psychologia społeczna",
+        "Sieci społeczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Stażysta badawczy",
+          "description": "Poszukujemy osoby chętnej do uczestnictwa w badaniach nad wpływem emocji na decyzje społeczne. Doświadczenie w psychologii społecznej mile widziane.",
+          "tags": [
+            "Analiza sieci",
+            "Badania nad emocjami"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Semiotyka Obrzędów Kulturowych",
+      "description": "Projekt analizuje znaczenie semiotyczne obrzędów kulturowych w konstrukcji tożsamości społecznej. Badacze kładą nacisk na interdyscyplinarny charakter interpretacji obrzędów, ujawniając ich symboliczną wartość.",
+      "areas": [
+        "Antropologia kultury",
+        "Semiotyka"
+      ],
+      "open_positions": [
+        {
+          "title": "Profesor nadzwyczajny",
+          "description": "Poszukujemy wybitnego badacza, specjalizującego się w antropologii kultury i semiotyce do kierowania badaniami nad znaczeniem obrzędów kulturowych.",
+          "tags": [
+            "Semiotyka kulturowa",
+            "Badania symboliczne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Nowatorskie Terapie Onkologiczne",
+      "description": "Projekt skupia się na opracowywaniu nowatorskich terapii genowych w leczeniu rzadkich nowotworów. Badacze eksplorują możliwości leczenia genowego w kontekście klinicznych badań nad skutecznością terapii.",
+      "areas": [
+        "Onkologia Molekularna",
+        "Terapie Genowe"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Badań Klinicznych",
+          "description": "Poszukujemy specjalisty z doświadczeniem w badaniach klinicznych w obszarze onkologii molekularnej do udziału w projektach terapeutycznych opartych na terapiach genowych.",
+          "tags": [
+            "Badania kliniczne",
+            "Terapia genowa"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    }
+  ]
+}

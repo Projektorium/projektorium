@@ -1,0 +1,220 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Karolina",
+      "last_name": "Kowalska",
+      "email": "karolina.kowalska@example.com",
+      "description": "*Doświadczenie*: - Zarządzanie projektami IT, - Programowanie w Pythonie, - Analiza danych",
+      "skills": [
+        "Zarządzanie projektem",
+        "Python",
+        "Analiza danych"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Nowak",
+      "email": "piotr.nowak@example.com",
+      "description": "- Inżynieria oprogramowania, - Architektura systemów, - Rozwój aplikacji webowych, *Zainteresowania*: - Sztuczna inteligencja",
+      "skills": [
+        "Inżynieria oprogramowania",
+        "Architektura systemów",
+        "Rozwój aplikacji webowych",
+        "Sztuczna inteligencja"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Anna",
+      "last_name": "Lis",
+      "email": "anna.lis@example.com",
+      "description": "**Zainteresowania**: - Psychologia użytkownika, - Projektowanie interfejsów",
+      "skills": [
+        "Psychologia użytkownika",
+        "Projektowanie interfejsów"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Marek",
+      "last_name": "Wójcik",
+      "email": "marek.wojcik@example.com",
+      "description": "*Doświadczenie*: - Marketing cyfrowy, - Copywriting, - Social media",
+      "skills": [
+        "Marketing cyfrowy",
+        "Copywriting",
+        "Social media"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Agnieszka",
+      "last_name": "Dąbrowska",
+      "email": "agnieszka.dabrowska@example.com",
+      "description": "- Grafika komputerowa, - Ilustracja, **Technologie**: *Adobe Creative Suite*",
+      "skills": [
+        "Grafika komputerowa",
+        "Ilustracja",
+        "Adobe Creative Suite"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Inteligentny System Rekomendacyjny",
+      "description": "*Cel projektu*: - Opracowanie algorytmu rekomendacyjnego opartego na uczeniu maszynowym, - Implementacja interfejsu webowego umożliwiającego dostęp do rekomendacji",
+      "areas": [
+        "Uczenie maszynowe",
+        "Interfejs użytkownika"
+      ],
+      "open_positions": [
+        {
+          "title": "👩‍💻 Specjalista ds. uczenia maszynowego",
+          "description": "- Implementacja algorytmów uczenia maszynowego, - Testowanie efektywności modeli",
+          "tags": [
+            "Uczenie maszynowe",
+            "Implementacja algorytmów"
+          ]
+        },
+        {
+          "title": "🎨 Projektant interfejsów",
+          "description": "- Tworzenie intuicyjnych interfejsów użytkownika, - Optymalizacja UX",
+          "tags": [
+            "Projektowanie interfejsów",
+            "User Experience"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Platforma E-commerce z Elementami Sztucznej Inteligencji",
+      "description": "- Rozwinięcie istniejącej platformy e-commerce o funkcje oparte na Sztucznej Inteligencji, **Narzędzia**: *Python, TensorFlow*",
+      "areas": [
+        "E-commerce",
+        "Sztuczna inteligencja"
+      ],
+      "open_positions": [
+        {
+          "title": "👩‍💼 Analityk e-commerce",
+          "description": "- Analiza zachowań klientów, - Prognozowanie trendów zakupowych",
+          "tags": [
+            "Analiza danych",
+            "E-commerce"
+          ]
+        },
+        {
+          "title": "🧠 Specjalista ds. Sztucznej Inteligencji",
+          "description": "- Implementacja modeli uczenia maszynowego, - Integracja systemów AI",
+          "tags": [
+            "Sztuczna inteligencja",
+            "Machine Learning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Aplikacja Mobilna do Monitorowania Postępów w Sztuce",
+      "description": "**Opis projektu**: - Stworzenie interaktywnej aplikacji mobilnej wspierającej kreatywność artystów, - Możliwość śledzenia postępów w procesie twórczym",
+      "areas": [
+        "Sztuka",
+        "Aplikacje mobilne"
+      ],
+      "open_positions": [
+        {
+          "title": "📱 Programista mobilny",
+          "description": "- Implementacja funkcjonalności aplikacji na systemy iOS i Android, - Optymalizacja wydajności",
+          "tags": [
+            "Aplikacje mobilne",
+            "iOS",
+            "Android"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "System Automatyzacji Procesów Marketingowych",
+      "description": "*Cele projektu*: - Wykorzystanie narzędzi automatyzacji do optymalizacji działań marketingowych, - Analiza danych w celu personalizacji treści marketingowych",
+      "areas": [
+        "Marketing cyfrowy",
+        "Automatyzacja procesów"
+      ],
+      "open_positions": [
+        {
+          "title": "💻 Specjalista ds. Marketing Automation",
+          "description": "- Konfiguracja i testowanie narzędzi automatyzacji marketingu, - Raportowanie wyników działań",
+          "tags": [
+            "Marketing Automation",
+            "Analiza danych"
+          ]
+        },
+        {
+          "title": "📊 Analityk marketingowy",
+          "description": "**Zadania**: - Analiza kampanii marketingowych, - Raportowanie KPI",
+          "tags": [
+            "Analityka marketingowa",
+            "KPI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Kreacja Wizualna Środowiska Wirtualnej Rzeczywistości",
+      "description": "- Projektowanie interaktywnych środowisk VR, *Technologie*: **Unity, Blender**",
+      "areas": [
+        "Wirtualna rzeczywistość",
+        "Grafika komputerowa"
+      ],
+      "open_positions": [
+        {
+          "title": "🎮 Projektant środowisk VR",
+          "description": "- Tworzenie realistycznych światów wirtualnych, - Integracja efektów wizualnych",
+          "tags": [
+            "Projektowanie środowisk VR",
+            "Realizm wirtualnej rzeczywistości"
+          ]
+        },
+        {
+          "title": "🖌️ Grafik 3D",
+          "description": "- Tworzenie modeli 3D, - Optymalizacja wydajności grafiki",
+          "tags": [
+            "Modelowanie 3D",
+            "Optymalizacja grafiki"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 1
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

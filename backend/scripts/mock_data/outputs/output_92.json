@@ -1,0 +1,235 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Anna",
+      "last_name": "Nowak",
+      "email": "anna.nowak@example.com",
+      "description": "Dr. Anna Nowak is an esteemed researcher specializing in *molecular biology* and genetic sequencing. Her work focuses on identifying genetic markers for rare diseases, bringing hope to affected individuals.",
+      "skills": [
+        "Genomic Analysis",
+        "Biostatistics",
+        "PCR Techniques"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Kowalczyk",
+      "email": "piotr.kowalczyk@example.com",
+      "description": "Prof. Piotr Kowalczyk is a seasoned expert in *biomedical engineering* and biomaterials. His groundbreaking research aims to develop implantable devices for tissue regeneration.",
+      "skills": [
+        "Biomaterials Development",
+        "Biomechanics",
+        "Cell Culture Techniques"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Jasińska",
+      "email": "magdalena.jasinska@example.com",
+      "description": "Dr. Magdalena Jasińska is a rising star in the field of *neuroscience* and cognitive psychology. Her research sheds light on the neural mechanisms underlying learning and memory.",
+      "skills": [
+        "Neuroimaging Analysis",
+        "Experimental Design",
+        "Data Interpretation"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Grzegorz",
+      "last_name": "Lis",
+      "email": "grzegorz.lis@example.com",
+      "description": "Prof. Grzegorz Lis is a visionary researcher pioneering *nanotechnology* applications in environmental science. His work on nano-catalysts opens new pathways for sustainable waste management.",
+      "skills": [
+        "Nanostructure Synthesis",
+        "Environmental Analysis",
+        "Catalytic Chemistry"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Sadowska",
+      "email": "karolina.sadowska@example.com",
+      "description": "Dr. Karolina Sadowska is a dedicated scholar with expertise in *social anthropology* and qualitative research methods. Her studies explore the cultural dimensions of community resilience.",
+      "skills": [
+        "Ethnographic Fieldwork",
+        "Qualitative Analysis",
+        "Interview Techniques"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Bioinformatics in Precision Medicine",
+      "description": "The project 'Bioinformatyka w Medycynie Precyzyjnej' is a cutting-edge initiative merging *genomics* and *machine learning*. It aims to revolutionize personalized medicine by predicting individual treatment responses based on genetic profiles.",
+      "areas": [
+        "Bioinformatics",
+        "Genomic Medicine"
+      ],
+      "open_positions": [
+        {
+          "title": "Postdoctoral Researcher",
+          "description": "Join us as a Postdoctoral Researcher to investigate complex genetic interactions in disease susceptibility. We seek expertise in bioinformatics, statistical genetics, and computational modeling.",
+          "tags": [
+            "Genetic Analysis",
+            "Computational Biology"
+          ]
+        },
+        {
+          "title": "Bioinformatics Analyst",
+          "description": "We are looking for a skilled Bioinformatics Analyst to develop algorithms for genomic data processing. This role requires proficiency in Python, R, and genomic database management.",
+          "tags": [
+            "Algorithm Development",
+            "Data Integration"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Smart Materials for Sustainable Energy",
+      "description": "The project 'Materiały Inteligentne dla Zrównoważonej Energii' explores novel *materials science* concepts for renewable energy applications. It envisions a future where smart materials optimize energy conversion efficiency.",
+      "areas": [
+        "Materials Science",
+        "Energy Technology"
+      ],
+      "open_positions": [
+        {
+          "title": "Research Fellow",
+          "description": "Be part of our team as a Research Fellow to design next-generation solar cell materials. Applicants should have a strong background in materials chemistry, photophysics, and device fabrication.",
+          "tags": [
+            "Solar Energy",
+            "Material Characterization"
+          ]
+        },
+        {
+          "title": "Materials Engineer",
+          "description": "We are seeking a talented Materials Engineer to develop sustainable composites for energy storage devices. Proficiency in electrochemical analysis, polymer synthesis, and nanomaterials is essential.",
+          "tags": [
+            "Electrochemistry",
+            "Composite Materials"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Neural Networks for Cognitive Robotics",
+      "description": "The project 'Sieci Neuronowe dla Robotyki Poznawczej' explores the intersection of *artificial intelligence* and *robotics*. It aims to develop cognitive robots capable of adaptive learning and human-like decision-making.",
+      "areas": [
+        "Artificial Intelligence",
+        "Robotics"
+      ],
+      "open_positions": [
+        {
+          "title": "PhD Researcher",
+          "description": "Join our team as a PhD Researcher to investigate neural network architectures for autonomous robotic systems. Candidates should have a strong background in deep learning, computer vision, and robotic control.",
+          "tags": [
+            "Neural Networks",
+            "Autonomous Systems"
+          ]
+        },
+        {
+          "title": "Robotics Engineer",
+          "description": "We are looking for a Robotics Engineer to design sophisticated algorithms for robot perception and decision-making. Expertise in probabilistic modeling, sensor fusion, and motion planning is desired.",
+          "tags": [
+            "Algorithm Optimization",
+            "Sensor Integration"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Environmental Nanocatalysis for Water Treatment",
+      "description": "The project 'Nanokataliza Środowiskowa w Oczyszczaniu Wody' investigates advanced *nanomaterials* for efficient water purification. It envisions a sustainable approach to environmental remediation using nano-catalysts.",
+      "areas": [
+        "Nanotechnology",
+        "Environmental Science"
+      ],
+      "open_positions": [
+        {
+          "title": "Research Scientist",
+          "description": "Join our team as a Research Scientist to develop nano-catalysts for pollutants degradation in water treatment. We are seeking candidates with expertise in heterogeneous catalysis, nanotoxicology, and water quality analysis.",
+          "tags": [
+            "Nano-Environmental Chemistry",
+            "Catalyst Design"
+          ]
+        },
+        {
+          "title": "Environmental Engineer",
+          "description": "We are seeking an Environmental Engineer to optimize nano-catalyst deployment in water remediation systems. Knowledge of environmental impact assessment, reactor design, and wastewater treatment is preferred.",
+          "tags": [
+            "Environmental Remediation",
+            "Catalyst Implementation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Cultural Resilience in Urban Communities",
+      "description": "The project 'Resilience Kulturowa w Miejskich Społecznościach' delves into the dynamics of *community psychology* and urban anthropology. It seeks to understand how cultural practices foster resilience and social cohesion in urban environments.",
+      "areas": [
+        "Community Psychology",
+        "Anthropology"
+      ],
+      "open_positions": [
+        {
+          "title": "Research Assistant",
+          "description": "Join our project as a Research Assistant to conduct fieldwork on community resilience strategies. We welcome applicants with experience in participatory research, qualitative data analysis, and community engagement.",
+          "tags": [
+            "Community Empowerment",
+            "Qualitative Research"
+          ]
+        },
+        {
+          "title": "Anthropological Observer",
+          "description": "We are looking for an Anthropological Observer to document cultural practices promoting urban resilience. This role involves ethnographic fieldwork, participant observation, and narrative analysis.",
+          "tags": [
+            "Cultural Anthropology",
+            "Resilience Studies"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    }
+  ]
+}

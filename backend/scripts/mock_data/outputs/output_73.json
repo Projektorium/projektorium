@@ -1,0 +1,245 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zofia",
+      "last_name": "Kowalska",
+      "email": "zofia.kowalska@example.com",
+      "description": "✔️ Doświadczona managerka z obszaru marketingu i strategii. Ekspertka w budowaniu zespołów i kreatywnych kampaniach. Marzy o redefiniowaniu doświadczeń zakupowych klientów poprzez innowacyjne technologie.",
+      "skills": [
+        "Strategia marketingowa",
+        "Zarządzanie zespołem",
+        "Innowacje technologiczne"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Bartosz",
+      "last_name": "Nowak",
+      "email": "bartosz.nowak@example.com",
+      "description": "*Ambitny* i **kreatywny** programista z pasją do rozwiązywania problemów. Specjalizuje się w developmentcie backendowym i tworzeniu skalowalnych systemów. Chce rewolucjonizować branżę e-commerce poprzez inteligentne algorytmy.",
+      "skills": [
+        "Programowanie backendowe",
+        "Algorytmy",
+        "Skalowalność systemów"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Karolina",
+      "last_name": "Wójcik",
+      "email": "karolina.wojcik@example.com",
+      "description": "- Doświadczona graficzka i UX designerka. Specjalizuje się w tworzeniu interaktywnych i responsywnych interfejsów. Marzy o projektowaniu innowacyjnych rozwiązań w obszarze edukacji online.",
+      "skills": [
+        "Projektowanie UX/UI",
+        "Kreatywność",
+        "Projektowanie interaktywne"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Walczak",
+      "email": "piotr.walczak@example.com",
+      "description": "✨ Innowator z obszaru IoT i automatyki. Specjalizuje się w projektowaniu inteligentnych systemów dla smart city. Chce tworzyć bezpieczne i zrównoważone rozwiązania dla miast przyszłości.",
+      "skills": [
+        "Internet rzeczy (IoT)",
+        "Automatyka",
+        "Smart city"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Natalia",
+      "last_name": "Lipińska",
+      "email": "natalia.lipinska@example.com",
+      "description": "**Doświadczona** analityczka danych z obszaru sztucznej inteligencji. Ekspertka w analizie dużych zbiorów danych i modelowaniu predykcyjnym. Jej misją jest wykorzystanie technologii AI w sektorze ochrony zdrowia.",
+      "skills": [
+        "Analiza danych",
+        "Sztuczna inteligencja",
+        "Modelowanie predykcyjne"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "IntelliSell",
+      "description": "*Platforma e-commerce* z inteligentnymi rekomendacjami zakupowymi. Naszym celem jest personalizacja doświadczenia zakupowego klientów poprzez zaawansowane algorytmy AI.",
+      "areas": [
+        "E-commerce",
+        "Sztuczna inteligencja",
+        "Personalizacja"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista ds. danych",
+          "description": "✔️ Poszukujemy osoby do analizy i interpretacji danych z obszaru zachowań zakupowych klientów. Wymagane doświadczenie w analizie Big Data.",
+          "tags": [
+            "Analiza danych",
+            "Big Data"
+          ]
+        },
+        {
+          "title": "✓ Programista AI",
+          "description": "→ Osoba odpowiedzialna za implementację i optymalizację algorytmów uczenia maszynowego. Wymagane doświadczenie z uczeniem głębokim (deep learning).",
+          "tags": [
+            "Uczenie maszynowe",
+            "Deep Learning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "EduTech Innovators",
+      "description": "- Platforma edukacyjna łącząca najnowsze technologie z interaktywnymi narzędziami. Naszym celem jest umożliwienie dostępu do edukacji na najwyższym poziomie dla każdego ucznia.",
+      "areas": [
+        "Edukacja online",
+        "Technologie edukacyjne",
+        "Interaktywność"
+      ],
+      "open_positions": [
+        {
+          "title": "★ UX/UI Designer",
+          "description": "✔️ Poszukujemy osoby do projektowania interfejsów i doświadczeń użytkownika związanych z edukacją online. Kreatywność i wrażliwość na potrzeby użytkowników mile widziane.",
+          "tags": [
+            "Projektowanie UX/UI",
+            "Kreatywność"
+          ]
+        },
+        {
+          "title": "✨ Developer Frontend",
+          "description": "→ Osoba odpowiedzialna za tworzenie responsywnych interfejsów użytkownika. Wymagane doświadczenie w HTML, CSS i JavaScript.",
+          "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "CitySens",
+      "description": "**Platforma Smart City** oferująca rozwiązania dla zrównoważonego rozwoju miast. Naszym celem jest wykorzystanie IoT i analizy danych do poprawy jakości życia mieszkańców.",
+      "areas": [
+        "Smart City",
+        "Internet rzeczy (IoT)",
+        "Analiza danych"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Data Scientist",
+          "description": "*Specjalista* odpowiedzialny za analizę i interpretację danych miastycznych. Wymagane doświadczenie w tworzeniu modeli predykcyjnych.",
+          "tags": [
+            "Analiza danych",
+            "Modelowanie predykcyjne"
+          ]
+        },
+        {
+          "title": "✓ Specjalista IoT",
+          "description": "→ Poszukujemy osoby do projektowania i wdrażania inteligentnych systemów IoT dla miast. Wymagane doświadczenie w sensorach sieci IoT.",
+          "tags": [
+            "Internet rzeczy (IoT)",
+            "Sieci IoT"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "HealthAI Solutions",
+      "description": "★ Platforma wykorzystująca SI dla precyzyjnej diagnostyki medycznej. Naszym celem jest stworzenie narzędzi wspomagających lekarzy i poprawiających opiekę zdrowotną.",
+      "areas": [
+        "Sztuczna inteligencja",
+        "Ochrona zdrowia",
+        "Diagnostyka medyczna"
+      ],
+      "open_positions": [
+        {
+          "title": "✔️ Analityk danych medycznych",
+          "description": "✔️ Osoba odpowiedzialna za analizę i interpretację danych medycznych. Wymagane doświadczenie w analizie dużych zbiorów danych.",
+          "tags": [
+            "Analiza danych",
+            "Medycyna"
+          ]
+        },
+        {
+          "title": "✨ Specjalista SI",
+          "description": "**Osoba** zajmująca się tworzeniem modeli SI dla zastosowań medycznych. Wymagane doświadczenie w modelowaniu predykcyjnym.",
+          "tags": [
+            "Sztuczna inteligencja",
+            "Modelowanie predykcyjne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "GreenTech Innovators",
+      "description": "→ Startup skupiający się na ekologicznych rozwiązaniach dla sektora technologicznego. Naszym celem jest promowanie zrównoważonego rozwoju poprzez innowacyjne technologie.",
+      "areas": [
+        "Technologie ekologiczne",
+        "Zrównoważony rozwój",
+        "Innowacje technologiczne"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Ekspert ds. Energii odnawialnej",
+          "description": "*Poszukujemy* osoby do analizy i projektowania rozwiązań opartych na energii odnawialnej. Wymagane doświadczenie w branży energetycznej.",
+          "tags": [
+            "Energia odnawialna",
+            "Zrównoważony rozwój"
+          ]
+        },
+        {
+          "title": "✓ Specjalista ds. Recyklingu",
+          "description": "✔️ Osoba odpowiedzialna za rozwój procesów recyklingu w technologiach. Wymagane doświadczenie w zrównoważonym zarządzaniu odpadami.",
+          "tags": [
+            "Recykling",
+            "Zarządzanie odpadami"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

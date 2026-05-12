@@ -1,0 +1,233 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zofia",
+      "last_name": "Sokołowska",
+      "email": "zofia.sokolowska@example.com",
+      "description": "Kocham sztukę od dziecka. *Sztuka jest moją duszą*, a polskie korzenie dodają mi siły do tworzenia nowych dzieł. - Zofia * Sokołowska",
+      "skills": [
+        "Malarstwo",
+        "Teatr",
+        "Pisanie"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Adam",
+      "last_name": "Kowalski",
+      "email": "adam.kowalski@example.com",
+      "description": "Kultura jest jak rytuał w moim życiu. **Pragnę dotknąć serc ludzi poprzez moje dzieła**. - Adam Kowalski",
+      "skills": [
+        "Fotografia",
+        "Taniec",
+        "Reżyseria"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Aleksandra",
+      "last_name": "Nowak",
+      "email": "aleksandra.nowak@example.com",
+      "description": "- Różnorodność kultury inspiruje mnie do tworzenia. Moje serce bije *rytmem polskiego folku*. - Aleksandra Nowak",
+      "skills": [
+        "Rzeźba",
+        "Muzyka",
+        "Wystawy"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Wójcik",
+      "email": "piotr.wojcik@example.com",
+      "description": "Sztuka jest moim sposobem na porozumienie z światem. - Piotr Wójcik. **Moje prace są jak haiku, krótkie i treściwe**.",
+      "skills": [
+        "Grafika",
+        "Kino",
+        "Performance"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Magdalena",
+      "last_name": "Lis",
+      "email": "magdalena.lis@example.com",
+      "description": "*Sztuka to moja przestrzeń wolności*. - Magdalena Lis. - Jestem zainspirowana polską historią i chcę ją odmalować na nowo.",
+      "skills": [
+        "Ilustracja",
+        "Projektowanie",
+        "Sztuka w przestrzeni publicznej"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Nostalgia Narodu",
+      "description": "Projekt *Nostalgia Narodu* pozostawi niezapomniane doświadczenia w sercach uczestników. - Maria, uczestniczka. Ta inicjatywa zawiązała *węzeł z kulturą Polski*.",
+      "areas": [
+        "Teatr",
+        "Literatura",
+        "Film"
+      ],
+      "open_positions": [
+        {
+          "title": "Reżyser",
+          "description": "Szukamy *mistrza narracji* z głębokim zrozumieniem polskiej historii. - Opowieści w nowym ujęciu.",
+          "tags": [
+            "Reżyseria",
+            "Historia"
+          ]
+        },
+        {
+          "title": "Scenograf",
+          "description": "Personifikacja *polskich sentymentów* poprzez przestrzeń sceniczną. - Wejdź w historię.",
+          "tags": [
+            "Scenografia",
+            "Kultura Polska"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Szept Wawelu",
+      "description": "**Szept Wawelu** przeniesie Cię w magiczny świat legend krakowskich. - Michał, uczestnik. *Poczuj dreszcz emocji w polskim klimacie*.",
+      "areas": [
+        "Historia sztuki",
+        "Teatr interaktywny",
+        "Edukacja kulturalna"
+      ],
+      "open_positions": [
+        {
+          "title": "Animator kultury",
+          "description": "*Dobre wibracje, silny głos i miłość do polskiego dziedzictwa* - w to grasz.",
+          "tags": [
+            "Animacja kulturalna",
+            "Edukacja"
+          ]
+        },
+        {
+          "title": "Koordynator wydarzeń",
+          "description": "Funkcjonujemy jak *zegar wawelski* - precyzja i piękno w jednym. - Koordynuj z nami.",
+          "tags": [
+            "Koordynacja",
+            "Organizacja"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Przebudzenie Wisły",
+      "description": "W projekcie *Przebudzenie Wisły* odnajdziesz swoją *muzyczną duszę* na tle polskiej przyrody. - Anita, uczestniczka. *Słuchawki w otoczeniu polskich elementów*.",
+      "areas": [
+        "Muzyka",
+        "Sztuka dźwięku",
+        "Przyroda"
+      ],
+      "open_positions": [
+        {
+          "title": "Producent muzyczny",
+          "description": "*Brzmienia w rytmie Wisły* - dźwięki w harmonii. - Producent z pasją.",
+          "tags": [
+            "Produkcja muzyczna",
+            "Dźwięk"
+          ]
+        },
+        {
+          "title": "Fotograf przyrody",
+          "description": "Ujęcia z *mocą natury polskich rzek* - obiektyw skierowany na piękno. - Fotograficzne marzenie.",
+          "tags": [
+            "Fotografia",
+            "Przyroda"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Łąka Marzeń",
+      "description": "Projekt *Łąka Marzeń* to *eksplozja twórczych inspiracji*. - Artur, uczestnik. **Polscy artyści czują energię miejsc niezwykłych**.",
+      "areas": [
+        "Sztuki wizualne",
+        "Kultura lokalna",
+        "Edukacja artystyczna"
+      ],
+      "open_positions": [
+        {
+          "title": "Kurator sztuki",
+          "description": "*Odkryj złoto wśród traw* - sztuka w naturze. - Koncepcje otwarte na interpretację.",
+          "tags": [
+            "Kuratela",
+            "Sztuka współczesna"
+          ]
+        },
+        {
+          "title": "Animator społeczny",
+          "description": "Rozkwitnij jak *kwiat polskiej łąki* - integracja i artystyczne połączenia. - Social art w praktyce.",
+          "tags": [
+            "Animacja społeczna",
+            "Integracja"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Głos Tradycji",
+      "description": "W projekcie *Głos Tradycji* odkryjesz jak *przesycone jest polskie dziedzictwo kulturowe*. - Jan, uczestnik. - **Zapraszamy Cię do zaklęcia ducha tradycji**.",
+      "areas": [
+        "Folklor",
+        "Rzemiosło artystyczne",
+        "Etnografia"
+      ],
+      "open_positions": [
+        {
+          "title": "Animator folkloru",
+          "description": "Odepchnij nowoczesność i *uwierz w siłę korzeni*. - Wątek tradycji w nowym świetle.",
+          "tags": [
+            "Folklor",
+            "Tradycja"
+          ]
+        },
+        {
+          "title": "Artysta rzemieślnik",
+          "description": "*Formy artystyczne w duchu polskiej tradycji* - Dłonie pełne historii. - Rzeczywistość z misją.",
+          "tags": [
+            "Rzemiosło",
+            "Twórczość"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1,
+      "role": "Malarz"
+    },
+    {
+      "user_id": 2,
+      "project_id": 2,
+      "role": "Tancerz"
+    },
+    {
+      "user_id": 3,
+      "project_id": 3,
+      "role": "Muzyk"
+    },
+    {
+      "user_id": 4,
+      "project_id": 4,
+      "role": "Grafik"
+    },
+    {
+      "user_id": 5,
+      "project_id": 5,
+      "role": "Ilustrator"
+    }
+  ]
+}

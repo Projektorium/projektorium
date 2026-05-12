@@ -1,0 +1,245 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Michał",
+      "last_name": "Nowak",
+      "email": "michal.nowak@email.pl",
+      "description": "Dr. Michał Nowak is a dedicated researcher with a passion for exploring the intersection of philosophy and psychology. His research focuses on **consciousness studies** and the *phenomenological approach*. With expertise in **qualitative research**, **epistemology**, and **cognitive science**, Dr. Nowak aims to uncover hidden connections between subjective experiences.",
+      "skills": [
+        "Qualitative Research",
+        "Epistemology",
+        "Cognitive Science"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Karolina",
+      "last_name": "Kowalska",
+      "email": "karolina.kowalska@email.pl",
+      "description": "Prof. Karolina Kowalska is a leading figure in the field of environmental science. Her research delves into the complexities of **ecosystem dynamics** and the *sustainability paradigm*. With expertise in **climate modeling**, **biodiversity conservation**, and **environmental policy**, Prof. Kowalska is committed to finding innovative solutions for global environmental challenges.",
+      "skills": [
+        "Climate Modeling",
+        "Biodiversity Conservation",
+        "Environmental Policy"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Piotr",
+      "last_name": "Wójcik",
+      "email": "piotr.wojcik@email.pl",
+      "description": "Dr. Piotr Wójcik is a prolific researcher specializing in **urban planning** and *spatial analysis*. His work transcends traditional boundaries through the lens of **social geography**, **geographic information systems (GIS)**, and **sustainable urban development**. Dr. Wójcik's interdisciplinary approach aims to reshape urban landscapes for the better.",
+      "skills": [
+        "Social Geography",
+        "GIS",
+        "Sustainable Urban Development"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Anna",
+      "last_name": "Dąbrowska",
+      "email": "anna.dabrowska@email.pl",
+      "description": "Prof. Anna Dąbrowska is a renowned scholar in the field of **linguistics** and *language acquisition*. Her research illuminates the nuances of **cross-cultural communication**, **psycholinguistics**, and **linguistic anthropology**. Through innovative methodologies and theoretical insights, Prof. Dąbrowska aims to bridge linguistic divides and foster global understanding.",
+      "skills": [
+        "Cross-cultural Communication",
+        "Psycholinguistics",
+        "Linguistic Anthropology"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Marcin",
+      "last_name": "Lis",
+      "email": "marcin.lis@email.pl",
+      "description": "Dr. Marcin Lis is a visionary researcher exploring the frontiers of **artificial intelligence** and *machine learning*. His work encompasses **neural networks**, **deep learning algorithms**, and **computational linguistics** to push the boundaries of artificial cognition. Dr. Lis's research endeavors to unlock the potential of AI for humanity's benefit.",
+      "skills": [
+        "Neural Networks",
+        "Deep Learning Algorithms",
+        "Computational Linguistics"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Zrównoważony Rozwój w Miastach",
+      "description": "Projekt 'Zrównoważony Rozwój w Miastach' to jak podróż po labiryncie współczesnych wyzwań urbanistycznych. Gęsty las **innowacyjnych rozwiązań** oraz *społeczne implikacje* tworzą panoramę możliwych przyszłości. Celem jest odkrycie **nowych strategii planowania** miejskiego i *kształtowanie przestrzeni z myślą o ekologii*.",
+      "areas": [
+        "Urban Planning",
+        "Sustainable Development"
+      ],
+      "open_positions": [
+        {
+          "title": "Asystent Badawczy",
+          "description": "Asystent Badawczy będzie odpowiedzialny za dogłębną analizę danych dotyczących wzorców przestrzennych w kontekście zrównoważonego rozwoju miast. Osoba zajmująca to stanowisko powinna posiadać umiejętności z zakresu **analizy przestrzennej**, **statystyki**, oraz *modelowania urbanistycznego*.",
+          "tags": [
+            "Analiza Przestrzenna",
+            "Statystyka",
+            "Modelowanie Urbanistyczne"
+          ]
+        },
+        {
+          "title": "Ekspert ds. Polityki Miejskiej",
+          "description": "Ekspert ds. Polityki Miejskiej będzie odpowiedzialny za tworzenie strategii zarządzania przestrzenią miejską z uwzględnieniem zrównoważonego rozwoju. Poszukiwana osoba powinna mieć doświadczenie w **polityce publicznej**, **konsultacjach społecznych**, oraz *planowaniu strategicznym*.",
+          "tags": [
+            "Polityka Publiczna",
+            "Konsultacje Społeczne",
+            "Planowanie Strategiczne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Rola Języka w Konfliktach Kulturowych",
+      "description": "Projekt 'Rola Języka w Konfliktach Kulturowych' to jak taniec dwóch języków utkanego w sieć społecznych relacji. Kwiat **interkulturowej komunikacji** przeplata się z *lingwistycznymi paradoksami*, odsłaniając nowe aspekty konfliktów. Celem jest zrozumienie **wpływu języka na budowanie tożsamości** oraz *procesy integracyjne*.",
+      "areas": [
+        "Linguistics",
+        "Cultural Studies"
+      ],
+      "open_positions": [
+        {
+          "title": "Linguista Terenowy",
+          "description": "Linguista Terenowy będzie odpowiedzialny za zdobycie unikalnych danych linguistycznych z obszarów o wysokim stopniu wielojęzyczności. Kandydat powinien posiadać umiejętności z zakresu **transkrypcji fonetycznej**, **analizy dyskursu**, oraz *badania terenowego*.",
+          "tags": [
+            "Transkrypcja Fonetyczna",
+            "Analiza Dyskursu",
+            "Badania Terenowe"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Komunikacji Międzykulturowej",
+          "description": "Specjalista ds. Komunikacji Międzykulturowej będzie odpowiedzialny za opracowanie strategii komunikacyjnych w kontekście różnorodności językowej i kulturowej. Osoba na tym stanowisku powinna mieć doświadczenie w **negocjacjach międzykulturowych**, **mediacji językowej**, oraz *dydaktyce języka*.",
+          "tags": [
+            "Negocjacje Międzykulturowe",
+            "Mediacja Językowa",
+            "Dydaktyka Języka"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Inteligencja Obliczeniowa dla Analizy Dużych Danych",
+      "description": "Projekt 'Inteligencja Obliczeniowa dla Analizy Dużych Danych' to jak symfonia algorytmów wykonana przez sieć neuronów. Światło **technologicznych odkryć** niech prowadzi nas ku *nowym horyzontom danych*. Celem jest stworzenie **efektywnych narzędzi uczenia maszynowego** oraz *rozwiązań optymalizacyjnych*.",
+      "areas": [
+        "Artificial Intelligence",
+        "Machine Learning"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Sieci Neuronowych",
+          "description": "Specjalista ds. Sieci Neuronowych będzie odpowiedzialny za implementację zaawansowanych modeli uczenia maszynowego opartych na architekturach neuronowych. Osoba na tym stanowisku powinna posiadać umiejętności w **programowaniu głębokich sieci**, **analizie danych**, oraz *eksploracji zbiorów danych*.",
+          "tags": [
+            "Programowanie Głębokich Sieci",
+            "Analiza Danych",
+            "Eksploracja Danych"
+          ]
+        },
+        {
+          "title": "Inżynier Danych",
+          "description": "Inżynier Danych będzie odpowiedzialny za opracowanie infrastruktury do przetwarzania dużych zbiorów danych oraz ekstrakcję wartościowych informacji. Osoba na tym stanowisku powinna posiadać umiejętności w **inżynierii danych**, **analizie predykcyjnej**, oraz *opracowywaniu algorytmów*.",
+          "tags": [
+            "Inżynieria Danych",
+            "Analiza Predykcyjna",
+            "Opracowywanie Algorytmów"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Psychologia Społeczna w Era Wirtualnej Rzeczywistości",
+      "description": "Projekt 'Psychologia Społeczna w Era Wirtualnej Rzeczywistości' to jak eksploracja nieodkrytych zakamarków ludzkiej interakcji na cyberprzestrzeni. Wszechobecny **wpływ nowych technologii** snuje intrygujące *wątki badawcze* w kontekście społecznym. Celem jest zrozumienie **psychologicznych aspektów interakcji w świecie wirtualnym** oraz *implikacje dla relacji międzyludzkich*.",
+      "areas": [
+        "Social Psychology",
+        "Virtual Reality"
+      ],
+      "open_positions": [
+        {
+          "title": "Badacz Interakcji Społecznych w Wirtualnej Rzeczywistości",
+          "description": "Badacz Interakcji Społecznych w Wirtualnej Rzeczywistości będzie odpowiedzialny za analizę wzorców komunikacyjnych oraz zachowań społecznych w odniesieniu do środowisk wirtualnych. Osoba zajmująca to stanowisko powinna posiadać umiejętności w **badaniu empirycznym**, **analizie wideo**, oraz *tworzeniu eksperymentów społecznych*.",
+          "tags": [
+            "Badanie Empiryczne",
+            "Analiza Wideo",
+            "Eksperymenty Społeczne"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Cyberpsychologii",
+          "description": "Specjalista ds. Cyberpsychologii będzie odpowiedzialny za analizę psychologicznych mechanizmów zachowań ludzkich w kontekście świata wirtualnego. Osoba na tym stanowisku powinna mieć doświadczenie w **psychologii społecznej**, **badaniach nad percepcją**, oraz *analizie danych behawioralnych*.",
+          "tags": [
+            "Psychologia Społeczna",
+            "Badania nad Percepcją",
+            "Analiza Danych Behawioralnych"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Ochrona Ekosystemów Morskich w Obliczu Zmian Klimatu",
+      "description": "Projekt 'Ochrona Ekosystemów Morskich w Obliczu Zmian Klimatu' to jak walka piratów o skarb natury na szachownicy oceanów. Odporne **struktury ekosystemów** splatają się z *wyzwaniami klimatycznymi*, kreując nowe formy ekologicznej walki. Celem jest zachowanie **bioróżnorodności mórz** oraz *ekosystemów odpornych na zmiany klimatu*.",
+      "areas": [
+        "Marine Biology",
+        "Climate Change"
+      ],
+      "open_positions": [
+        {
+          "title": "Biolog Morski",
+          "description": "Biolog Morski będzie odpowiedzialny za prowadzenie badań nad strukturami i funkcjonowaniem ekosystemów morskich w kontekście zmian klimatycznych. Osoba posiadająca te umiejętności powinna specjalizować się w **badaniach terenowych**, **monitoringu populacji**, oraz *ocenie stanu środowiska*.",
+          "tags": [
+            "Badania Terenowe",
+            "Monitoring Populacji",
+            "Ocena Środowiska"
+          ]
+        },
+        {
+          "title": "Ekspert ds. Zrównoważonego Rybołówstwa",
+          "description": "Ekspert ds. Zrównoważonego Rybołówstwa będzie odpowiedzialny za opracowanie strategii ochrony zasobów rybackich oraz promocję zrównoważonego wykorzystania mórz. Poszukiwana osoba powinna mieć doświadczenie w **zarządzaniu zasobami morskimi**, **polityce rybackiej**, oraz *analizie ekonomicznej rybołówstwa*.",
+          "tags": [
+            "Zarządzanie Zasobami Morskimi",
+            "Polityka Rybacka",
+            "Analiza Ekonomiczna Rybołówstwa"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    }
+  ]
+}

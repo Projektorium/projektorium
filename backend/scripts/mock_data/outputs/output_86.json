@@ -1,0 +1,244 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Aleksandra",
+      "last_name": "Kowalska",
+      "email": "aleksandra.kowalska@example.com",
+      "description": "*Doświadczenie w analizie danych* \n- Znajomość narzędzi BI \n- **Zainteresowania statystyką**",
+      "skills": [
+        "Analiza danych",
+        "Business Intelligence",
+        "Statystyka"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Nowak",
+      "email": "piotr.nowak@example.com",
+      "description": "- **Projektowanie interfejsów użytkownika** \n- Doświadczenie w UX/UI",
+      "skills": [
+        "UX/UI Design",
+        "Projektowanie interfejsów",
+        "Design Thinking"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Monika",
+      "last_name": "Wiśniewska",
+      "email": "monika.wisniewska@example.com",
+      "description": "*Specjalizacja w medycynie* \n- Badania kliniczne \n- **Komunikatywność**",
+      "skills": [
+        "Badania kliniczne",
+        "Medycyna",
+        "Komunikacja interpersonalna"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Maciej",
+      "last_name": "Lis",
+      "email": "maciej.lis@example.com",
+      "description": "*Pasja do programowania* \n- Znajomość Pythona \n- **Bazy danych**",
+      "skills": [
+        "Python",
+        "Programowanie",
+        "Bazy danych"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Anna",
+      "last_name": "Jabłońska",
+      "email": "anna.jablonska@example.com",
+      "description": "- **Digital marketing** \n- Content creation",
+      "skills": [
+        "Marketing cyfrowy",
+        "Tworzenie treści",
+        "SEO"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Projekt Zrównoważonej Mobilności",
+      "description": "- Celem jest stworzenie systemu transportu publicznego łączącego miasto z przedmieściami *z minimalnym wpływem na środowisko*",
+      "areas": [
+        "Transport",
+        "Środowisko",
+        "Innowacje technologiczne"
+      ],
+      "open_positions": [
+        {
+          "title": "🚌 Inżynier pojazdów elektrycznych",
+          "description": "- Projektowanie i testowanie elektrycznych autobusów\n- Doświadczenie w akumulatorach litowo-jonowych",
+          "tags": [
+            "Elektromobilność",
+            "Inżynieria pojazdów"
+          ]
+        },
+        {
+          "title": "🌿 Specjalista ds. ekologii miejskiej",
+          "description": "- Monitorowanie wpływu transportu na środowisko\n- Znajomość norm ekologicznych",
+          "tags": [
+            "Ekologia",
+            "Zrównoważony rozwój"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Projekt Design Thinking w Usługach Finansowych",
+      "description": "*Innowacyjne podejście do usprawnienia interakcji klienta z produktami finansowymi*",
+      "areas": [
+        "Finanse",
+        "Design Thinking",
+        "Usługi Bankowe"
+      ],
+      "open_positions": [
+        {
+          "title": "💳 UX Designer",
+          "description": "- Kreowanie intuicyjnych interfejsów dla aplikacji bankowych\n- Doświadczenie w testowaniu użytkowników",
+          "tags": [
+            "UX Design",
+            "Testowanie użytkowników"
+          ]
+        },
+        {
+          "title": "💻 Analityk systemów bankowych",
+          "description": "- Analiza i optymalizacja systemów transakcyjnych\n- Znajomość branży bankowej",
+          "tags": [
+            "Bankowość",
+            "Analiza systemów"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Badania Kliniczne Nowego Leku",
+      "description": "- Przeprowadzanie badań klinicznych dla nowego leku *skoncentrowanego na onkologii*",
+      "areas": [
+        "Badania kliniczne",
+        "Onkologia",
+        "Farmakologia"
+      ],
+      "open_positions": [
+        {
+          "title": "💉 Koordynator badań klinicznych",
+          "description": "- Zarządzanie procesem testowania nowego leku\n- Komunikacja z uczestnikami badań",
+          "tags": [
+            "Koordynacja badań",
+            "Badania kliniczne"
+          ]
+        },
+        {
+          "title": "📊 Analityk danych medycznych",
+          "description": "- Analiza rezultatów badań i tworzenie raportów\n- Znajomość statystyki medycznej",
+          "tags": [
+            "Analiza danych",
+            "Statystyka medyczna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Platforma E-commerce z Elementami Sztucznej Inteligencji",
+      "description": "- Tworzymy platformę wykorzystującą *AI do personalizacji ofert produktowych*",
+      "areas": [
+        "E-commerce",
+        "Sztuczna inteligencja",
+        "Marketing"
+      ],
+      "open_positions": [
+        {
+          "title": "🛒 Specjalista ds. e-commerce",
+          "description": "- Optymalizacja procesów sprzedaży online\n- Doświadczenie w SEO i SEM",
+          "tags": [
+            "E-commerce",
+            "Marketing online"
+          ]
+        },
+        {
+          "title": "🤖 Programista AI",
+          "description": "- Implementacja algorytmów uczenia maszynowego\n- Znajomość Pythona i TensorFlow",
+          "tags": [
+            "Sztuczna inteligencja",
+            "Machine Learning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Kampania Społeczna Edukacji Cyfrowej",
+      "description": "*Promujemy wiedzę i bezpieczeństwo online dla wszystkich grup wiekowych*",
+      "areas": [
+        "Edukacja",
+        "Bezpieczeństwo online",
+        "Społeczeństwo cyfrowe"
+      ],
+      "open_positions": [
+        {
+          "title": "👩‍🏫 Trener cyfrowej edukacji",
+          "description": "- Prowadzenie warsztatów z zakresu cyberbezpieczeństwa\n- Doświadczenie w nauczaniu online",
+          "tags": [
+            "Edukacja online",
+            "Cyberbezpieczeństwo"
+          ]
+        },
+        {
+          "title": "🔍 Specjalista ds. analizy danych",
+          "description": "- Analiza wyników kampanii społecznych\n- Tworzenie raportów edukacyjnych",
+          "tags": [
+            "Analiza danych",
+            "Edukacja społeczna"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_ids": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "user_id": 2,
+      "project_ids": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "user_id": 3,
+      "project_ids": [
+        1,
+        3
+      ]
+    },
+    {
+      "user_id": 4,
+      "project_ids": [
+        4
+      ]
+    },
+    {
+      "user_id": 5,
+      "project_ids": [
+        2,
+        5
+      ]
+    }
+  ]
+}

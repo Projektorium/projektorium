@@ -1,0 +1,236 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zofia",
+      "last_name": "Wójcik",
+      "email": "zofia.wojcik@firma.com",
+      "description": "*Doświadczony specjalista w dziedzinie e-commerce* ✓ *Pasjonat tworzenia innowacyjnych rozwiązań* → *Ekspert w obszarze customer experience*",
+      "skills": [
+        "e-commerce",
+        "innowacje",
+        "customer experience"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Kacper",
+      "last_name": "Lis",
+      "email": "kacper.lis@biznes.pl",
+      "description": "**Specjalista ds. marketingu z obszaru nowych mediów** ★ *Inicjator kreatywnych kampanii reklamowych* ✓ *Zorientowany na budowanie marki w sieci*",
+      "skills": [
+        "marketing",
+        "nowe media",
+        "kampanie reklamowe"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Karolina",
+      "last_name": "Adamczyk",
+      "email": "karolina.adamczyk@start.com",
+      "description": "✓ **Założycielka startupu zajmującego się medycyną precyzyjną** → *Wizjonerka zmian w sektorze zdrowia* ★ *Ekspertka w analizie big data w medycynie*",
+      "skills": [
+        "medycyna precyzyjna",
+        "big data",
+        "sektor zdrowia"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Michał",
+      "last_name": "Kowalski",
+      "email": "michal.kowalski@poczta.pl",
+      "description": "*Specjalista ds. rozwoju biznesu w branży nowych technologii* ✓ **Innowacyjny myśliciel w obszarze IoT** → *Ekspert w kwestiach automatyzacji procesów",
+      "skills": [
+        "rozwój biznesu",
+        "IoT",
+        "automatyzacja"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Natalia",
+      "last_name": "Nowak",
+      "email": "natalia.nowak@firmtech.net",
+      "description": "*CEO z pasją do implementacji smart city* ✓ ★ *Specjalistka w dziedzinie cybersecurity* → *Wizjonerka budowy inteligentnych miast*",
+      "skills": [
+        "smart city",
+        "cybersecurity",
+        "zarządzanie"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "LunaBot",
+      "description": "★ **Platforma do automatyzacji obsługi klienta** → *Oparta na zaawansowanej analizie języka naturalnego* ✓ **Integracja z wieloma kanałami komunikacji**",
+      "areas": [
+        "sztuczna inteligencja",
+        "automatyzacja",
+        "komunikacja"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista AI do rozwoju języka naturalnego",
+          "description": "→ *Projektowanie nowoczesnych algorytmów NLP* ✓ *Implementacja zaawansowanych modeli uczenia maszynowego*",
+          "tags": [
+            "NLP",
+            "machine learning"
+          ]
+        },
+        {
+          "title": "✓ Data Scientist z doświadczeniem w analizie big data",
+          "description": "**Rozwój strategii analizy danych** → *Wdrażanie technik eksploracji danych*",
+          "tags": [
+            "data science",
+            "big data"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Growify",
+      "description": "*Platforma wspierająca rozwój startupów* ✓ **Narzędzia do monitorowania postępów biznesowych** → *Wsparcie w uzyskiwaniu finansowania i biznesowych kontaktów*",
+      "areas": [
+        "startupy",
+        "finanse",
+        "wspieranie biznesu"
+      ],
+      "open_positions": [
+        {
+          "title": "✓ Specjalista ds. rozwoju biznesu i partnerstw",
+          "description": "*Aktywne poszukiwanie nowych możliwości biznesowych* → **Tworzenie trwałych relacji z partnerami**",
+          "tags": [
+            "rozwój biznesu",
+            "partnerstwa"
+          ]
+        },
+        {
+          "title": "★ Programista Python z doświadczeniem w rozwoju webowego",
+          "description": "→ *Rozwój backendu aplikacji webowych* ✓ *Implementacja nowych funkcji i usprawnień*",
+          "tags": [
+            "Python",
+            "web development"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "MediGen",
+      "description": "**Platforma do analizy genomów** → *Wsparcie diagnostyki i terapii genetycznych* ✓ *Umożliwia dostęp do najnowszych technologii medycznych*",
+      "areas": [
+        "medycyna",
+        "genetyka",
+        "badania medyczne"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Genetyk z doświadczeniem w analizie genomów",
+          "description": "**Przeprowadzanie analizy sekwencji DNA** → *Obsługa nowoczesnych narzędzi informatycznych*",
+          "tags": [
+            "genetyka",
+            "sekwencjonowanie DNA"
+          ]
+        },
+        {
+          "title": "✓ Specjalista IT do rozwoju systemów medycznych",
+          "description": "*Implementacja rozwiązań informatycznych dla sektora medycznego* → **Wsparcie techniczne dla zespołu medycznego**",
+          "tags": [
+            "IT healthcare",
+            "systemy medyczne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "GreenTech Solutions",
+      "description": "*Startup zajmujący się rozwojem technologii ekologicznych* ✓ **Innowacyjne projekty w obszarze odnawialnych źródeł energii** → *Wsparcie ekologicznych inwestycji i budów*",
+      "areas": [
+        "technologie ekologiczne",
+        "odnawialne źródła energii",
+        "ekologia"
+      ],
+      "open_positions": [
+        {
+          "title": "✓ Ekspert ds. energetyki odnawialnej",
+          "description": "*Projektowanie systemów fotowoltaicznych* → **Wsparcie w analizie efektywności energetycznej**",
+          "tags": [
+            "fotowoltaika",
+            "efektywność energetyczna"
+          ]
+        },
+        {
+          "title": "★ Specjalista ds. ekologii przemysłowej",
+          "description": "**Monitorowanie wpływu działań przemysłowych na środowisko** → *Wdrażanie programów zrównoważonego rozwoju*",
+          "tags": [
+            "ekologia",
+            "zrównoważony rozwój"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "FoodGenius",
+      "description": "*Innowacyjny projekt w dziedzinie żywienia*",
+      "areas": [
+        "technologie żywieniowe",
+        "zdrowe odżywianie",
+        "gastronomia"
+      ],
+      "open_positions": [
+        {
+          "title": "✓ Dietetyk z doświadczeniem w analizie żywieniowej",
+          "description": "→ *Tworzenie spersonalizowanych planów dietetycznych* ✓ *Konsultacje związane z odżywianiem*",
+          "tags": [
+            "dietetyka",
+            "planowanie żywieniowe"
+          ]
+        },
+        {
+          "title": "★ Data Analyst specjalizujący się w analizie gastronomicznej",
+          "description": "**Analiza trendów żywieniowych** → *Raportowanie wyników analizy danych*",
+          "tags": [
+            "analiza danych",
+            "gastronomia"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

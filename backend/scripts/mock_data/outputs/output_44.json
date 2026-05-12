@@ -1,0 +1,252 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Magdalena",
+      "last_name": "Nowak",
+      "email": "magda.nowak@example.com",
+      "description": "Od najmłodszych lat wędrowała po polach, szukając *piękna* w otaczającej ją przyrodzie. Jej sztuka to połączenie tradycji ludowych z ekspresją nowoczesności. *Praca rąk* i duszy, jak mawiała jej babcia, kształtuje jej twórczość.",
+      "skills": [
+        "sztuka ludowa",
+        "rzeźba",
+        "malarstwo"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Kamil",
+      "last_name": "Wójcik",
+      "email": "kamil.wojcik@example.com",
+      "description": "Kamil odnajduje harmonię w **chaosie** ulicznych murali. *Kolory* i linie mówią do niego po swojemu, a on przekłada tę rozmowę na wielkoformatowe dzieła sztuki ulicznej. Jest *głosem* dla tych, których rzeczywistość często milknie.",
+      "skills": [
+        "sztuka uliczna",
+        "malarstwo",
+        "graffiti"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Aleksandra",
+      "last_name": "Lis",
+      "email": "ala.lis@example.com",
+      "description": "Poezja i muzyka to dla Aleksandry jak dwie struny skrzypiec, które *brzmią* w jej sercu. *Nuty* stają się słowami, a słowa ożywają dźwiękiem. Jej twórczość jest mostem między przeszłością a teraźniejszością.",
+      "skills": [
+        "poezja",
+        "muzyka",
+        "pieśni ludowe"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Lukasz",
+      "last_name": "Jaworski",
+      "email": "lukasz.jaworski@example.com",
+      "description": "Innowacje spotykają tradycję w pracach Łukasza. Jego *unikalna* wizja sztuki współczesnej odnajduje korzenie w polskich obrzędach i legendach. *Pasja* to jego przewodnik po labiryncie kreatywności.",
+      "skills": [
+        "sztuka współczesna",
+        "instalacje artystyczne",
+        "nowe media"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Agnieszka",
+      "last_name": "Kowalska",
+      "email": "aga.kowalska@example.com",
+      "description": "Dla Agnieszki sztuka jest jak *spełnienie marzeń*. Mieszka w świcie pełnej kolorów i fantazji, gdzie rzeczywistość styka się z surrealistycznymi snami. Tworzy jak *malarz* swoje dzieła, malując świat według własnych zasad.",
+      "skills": [
+        "malarstwo surrealistyczne",
+        "ilustracja",
+        "sztuka konceptualna"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Czarodziejski Plac Zabaw",
+      "description": "Projekt 'Czarodziejski Plac Zabaw' to *miejsce* magiczne, gdzie dzieci mogą *marzyć* i odkrywać świat poprzez sztukę. W naszej krainie *wolności* i kreatywności każde dziecko może odnaleźć swoją tajemniczą drogę.",
+      "areas": [
+        "edukacja artystyczna",
+        "sztuka interaktywna"
+      ],
+      "open_positions": [
+        {
+          "title": "Animator Kultury Dziecięcej",
+          "description": "Poszukujemy osoby, która potrafi *inspirować* maluchów do twórczości i odkrywania własnego talentu. *Praca z dziećmi* to magia, którą razem możemy rozszerzać.",
+          "tags": [
+            "edukacja artystyczna",
+            "animacja dla dzieci"
+          ]
+        },
+        {
+          "title": "Instruktor Rysunku i Malarstwa",
+          "description": "Jeśli masz dar do *malowania* serc, dołącz do nas! Twórzmy *sztukę* razem, dając dzieciom *skrzydła* wyobraźni.",
+          "tags": [
+            "malarstwo dziecięce",
+            "rysunek",
+            "edukacja plastyczna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Dźwięki Carpathii",
+      "description": "W projekcie 'Dźwięki Carpathii' odnajdziesz echa *prastarej* muzyki ludowej, która *rozbrzmiewa* w sercach wybrańców. *Tradycja* żyje w każdym dźwięku, a my jesteśmy mostem między *przeszłością* a teraźniejszością.",
+      "areas": [
+        "muzyka ludowa",
+        "folklor"
+      ],
+      "open_positions": [
+        {
+          "title": "Bandżijka Tradycyjna",
+          "description": "Jeśli *muzyka* jest twoim oddechem, a tradycja - sercem, zapraszamy do naszego zespołu. Razem *ozwalamy* pieśni przodków, by dźwięczyły w naszych sercach.",
+          "tags": [
+            "instrumenty ludowe",
+            "śpiew tradycyjny",
+            "folk"
+          ]
+        },
+        {
+          "title": "Kierownik Projectu Folklorem",
+          "description": "Poszukujemy osoby z pasją do *folkloru*, która potrafi *inspirować* i *koordynować* projekty muzyczne. *Tradycja* i *nowoczesność* spotykają się u nas w harmonii.",
+          "tags": [
+            "folklor polski",
+            "organizacja eventów muzycznych",
+            "koordynacja projektów"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Sny Malarskie",
+      "description": "Projekt 'Sny Malarskie' to *podróż* w świat surrealistycznych wizji, gdzie *rzeczywistość* splata się z *fantazją*. Nasi artyści kreują *życie* na płótnie, malując świat pełen barw i tajemnic.",
+      "areas": [
+        "malarstwo surrealistyczne",
+        "sztuka współczesna"
+      ],
+      "open_positions": [
+        {
+          "title": "Asystent Malarza Surrealistycznego",
+          "description": "Jeśli interesuje cię surrealizm i chcesz *uczyć się* od mistrza, to właśnie do nas *pasujesz*. Razić marzenia na płótnie to nasza codzienność.",
+          "tags": [
+            "surrealizm",
+            "sztuka konceptualna",
+            "asystent artysty"
+          ]
+        },
+        {
+          "title": "Kurator Wystaw Artystycznych",
+          "description": "Chcemy *pokazać* światu dzieła, które poruszają duszę. Jeśli *organizacja* i *estetyka* to twoje mocne strony, dołącz do naszego zespołu!",
+          "tags": [
+            "kuratela sztuki",
+            "organizacja wystaw",
+            "promocja artystów"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Baśnie Obrzędy Tradycje",
+      "description": "W 'Baśniach Obrzędów Tradycji' wędrujesz *ścieżkami* dawnych zwyczajów i legend. *Kultura ludowa* ożywa w każdym geste, w każdej melodii. Nasze spotkania to podróż po magicznym dziedzictwie.",
+      "areas": [
+        "folklor",
+        "etnografia"
+      ],
+      "open_positions": [
+        {
+          "title": "Opowiadacz Historii Ludowych",
+          "description": "Szukamy osoby, która ma talent do snucia historii, która nie istnieje. Tworzymy *magię* słowa, budując opowieści nasycone *tradycją* i *tajemniczością*.",
+          "tags": [
+            "folklorystyka",
+            "opowiadanie historii",
+            "mitologia"
+          ]
+        },
+        {
+          "title": "Tancerz Tańców Ludowych",
+          "description": "Chcesz *czuć* rytm dawnych czasów w swoich żyłach? Dołącz do nas i odkryj pieśń swej duszy w tańcu. Tradycja *wuwczas* życie w każdym kroku.",
+          "tags": [
+            "taniec ludowy",
+            "rytuały",
+            "dźwięki tradycji"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Kino Nostalgia",
+      "description": "'Kino Nostalgia' to *przepełnione* emocjami seanse filmowe, które *przenoszą* nas w czasy minionych kinematografii. *Czar* starego srebrnego ekranu uwodzi kolejne pokolenia kinomanów, przenosząc ich w świat nostalgii.",
+      "areas": [
+        "kinematografia",
+        "kultura filmowa"
+      ],
+      "open_positions": [
+        {
+          "title": "Scenarzysta Filmowy",
+          "description": "Jeśli twoje *historie* czują się jak kinowy scenariusz, to czekamy na twoje *opowieści*. *Słowa* są kluczem do magicznych światów filmowej rzeczywistości.",
+          "tags": [
+            "pisanie scenariuszy",
+            "tworzenie dialogów filmowych",
+            "adaptacje literackie"
+          ]
+        },
+        {
+          "title": "Ekipa Produkcji",
+          "description": "Poszukujemy *kreatywnych* i zaangażowanych osób, które chcą *tworzyć* historie na srebrnym ekranie. Kino to *magia* dźwięku i obrazu - razem możemy stworzyć coś wyjątkowego.",
+          "tags": [
+            "produkcja filmowa",
+            "realizacja planu zdjęciowego",
+            "koordynacja ekipy filmowej"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 5
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 2
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    }
+  ]
+}

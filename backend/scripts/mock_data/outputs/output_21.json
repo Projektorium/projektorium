@@ -1,0 +1,232 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Marta",
+      "last_name": "Kowalczyk",
+      "email": "marta.kowalczyk@example.com",
+      "description": "🎨 Zajmuję się sztuką malarską od ponad 10 lat.\n- *Specjalizuję się w pejzażach i portretach*.\n- Od kilku lat eksperymentuję z abstrakcją i nowoczesnymi technikami.",
+      "skills": [
+        "Malarstwo",
+        "Rysunek",
+        "Kompozycja"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Nowakowski",
+      "email": "piotr.nowakowski@example.com",
+      "description": "📐 Architekt z zamiłowaniem do nowoczesnej koncepcji przestrzeni.\n- **Doświadczenie w projektowaniu budynków użyteczności publicznej**.\n- *Specjalizacja w zrównoważonej architekturze*.",
+      "skills": [
+        "Projektowanie",
+        "AutoCAD",
+        "Budownictwo"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Anna",
+      "last_name": "Lis",
+      "email": "anna.lis@example.com",
+      "description": "🔬 Pracuję jako microbiologist w laboratorium medycznym.\n- *Znajomość najnowszych technik analizy mikroorganizmów*.\n- Specjalizacja w dziedzinie diagnostyki molekularnej.",
+      "skills": [
+        "Mikrobiologia",
+        "PCR",
+        "Bioinformatyka"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Krzysztof",
+      "last_name": "Jastrzębski",
+      "email": "krzysztof.jastrzebski@example.com",
+      "description": "**Inżynier oprogramowania** z pasją do tworzenia aplikacji mobilnych.\n- *Doświadczenie w programowaniu w Java i Kotlin*.\n- **Praca w zespole przy projektach z zakresu sztucznej inteligencji**.",
+      "skills": [
+        "Java",
+        "Kotlin",
+        "Aplikacje mobilne"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Alicja",
+      "last_name": "Wójcik",
+      "email": "alicja.wojcik@example.com",
+      "description": "📝 Copywriter z doświadczeniem w tworzeniu treści dla różnych mediów.\n- *Tworzenie strategii content marketingowych dla marek modowych*.\n- *Redakcja tekstów SEO oraz publikacji społecznościowych*.",
+      "skills": [
+        "Copywriting",
+        "Marketing treści",
+        "SEO"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Projekt Ogród Marzeń",
+      "description": "🌳 Projekt mający na celu stworzenie zrównoważonego miejsca rekreacyjnego z wykorzystaniem roślinności rodzimej.\n- *Opracowanie koncepcji ogrodu botanicznego*.\n- Realizacja elementów małej architektury przestrzennej.",
+      "areas": [
+        "Architektura krajobrazu",
+        "Botanika",
+        "Ochrona środowiska"
+      ],
+      "open_positions": [
+        {
+          "title": "🔍 Specjalista ds. projektowania ogrodów",
+          "description": "- *Planowanie i aranżacja terenów zielonych*.\n- *Dobór roślin odpornych na warunki klimatyczne*.",
+          "tags": [
+            "Projektowanie ogrodów",
+            "Florystyka",
+            "Botanika"
+          ]
+        },
+        {
+          "title": "🌿 Pracownik ds. roślinności rodzimej",
+          "description": "- *Poszukiwanie i selekcja rodzimych gatunków roślin*.\n- *Propagacja roślin rzadkich*.",
+          "tags": [
+            "Botanika",
+            "Ochrona przyrody"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Interaktywna Instalacja Artystyczna",
+      "description": "🎭 Projekt tworzący interaktywną instalację artystyczną, która angażuje widza w proces tworzenia sztuki.\n- **Założenie platformy łączącej sztukę audiowizualną z interaktywnym doświadczeniem**.",
+      "areas": [
+        "Sztuka współczesna",
+        "Interaktywne instalacje",
+        "Technologia kreatywna"
+      ],
+      "open_positions": [
+        {
+          "title": "🖌️ Grafik komputerowy",
+          "description": "- *Tworzenie koncepcji wizualnych instalacji*.\n- *Projektowanie interfejsów do obsługi interaktywnych elementów*.",
+          "tags": [
+            "Grafika komputerowa",
+            "Design interaktywny"
+          ]
+        },
+        {
+          "title": "🎨 Programista interakcji",
+          "description": "- *Tworzenie algorytmów reagujących na interakcje widza*.\n- *Implementacja efektów wizualnych generowanych w czasie rzeczywistym*.",
+          "tags": [
+            "Interaktywne instalacje",
+            "Programowanie kreatywne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Badania Mikrobiologiczne Źródeł Wód Mineralnych",
+      "description": "🔬 Projekt mający na celu analizę mikrobiologiczną wód mineralnych do ustalenia ich czystości i właściwości zdrowotnych.\n- *Badanie bakterii i pierwotniaków w próbkach wody*.",
+      "areas": [
+        "Mikrobiologia wód",
+        "Analiza bakteriologiczna",
+        "Higiena wody"
+      ],
+      "open_positions": [
+        {
+          "title": "🧫 Analityk mikrobiologiczny",
+          "description": "- *Przygotowanie próbek do analizy*.\n- *Wykonywanie testów mikrobiologicznych*.",
+          "tags": [
+            "Mikrobiologia",
+            "Bakteriologia",
+            "Analiza wody"
+          ]
+        },
+        {
+          "title": "💧 Specjalista ds. badań jakości wody",
+          "description": "- *Interpretacja wyników badań mikrobiologicznych*.\n- *Sporządzanie raportów z analizy wody pitnej*.",
+          "tags": [
+            "Higiena wody",
+            "Chemia środowiskowa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Aplikacja Mobilna dla Edukacji Muzycznej",
+      "description": "🎵 Aplikacja mobilna umożliwiająca naukę podstaw muzycznych dzieciom poprzez interaktywne gry i quizy.\n- *Intuicyjny interfejs graficzny dostosowany do różnych grup wiekowych*.",
+      "areas": [
+        "Edukacja muzyczna",
+        "Aplikacje mobilne",
+        "Game Design"
+      ],
+      "open_positions": [
+        {
+          "title": "📱 Programista aplikacji mobilnych",
+          "description": "- *Implementacja funkcjonalności interaktywnych gier edukacyjnych*.\n- *Optymalizacja wydajności aplikacji pod kątem urządzeń mobilnych*.",
+          "tags": [
+            "Tworzenie aplikacji",
+            "Unity",
+            "Gamedev"
+          ]
+        },
+        {
+          "title": "🎹 Specjalista ds. edukacji muzycznej",
+          "description": "- *Konsultacje przy opracowywaniu treści muzycznych*.\n- *Testowanie gier pod kątem efektywności edukacyjnej*.",
+          "tags": [
+            "Edukacja muzyczna",
+            "Pedagogika muzyczna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Kampania Marketingowa Dla Start-Upu",
+      "description": "🚀 Oryginalna kampania marketingowa mająca na celu promocję nowej marki na rynku.\n- **Tworzenie strategii reklamowej obejmującej media społecznościowe i influencerów**.",
+      "areas": [
+        "Marketing",
+        "Social Media",
+        "Branding"
+      ],
+      "open_positions": [
+        {
+          "title": "📢 Specjalista ds. marketingu internetowego",
+          "description": "- *Tworzenie kampanii reklamowych online*.\n- *Optymalizacja treści pod kątem SEO*.",
+          "tags": [
+            "Marketing internetowy",
+            "SEO",
+            "Kampanie reklamowe"
+          ]
+        },
+        {
+          "title": "🤳 Social Media Manager",
+          "description": "- *Monitorowanie aktywności na platformach społecznościowych*.\n- *Tworzenie treści viralowych w mediach społecznościowych*.",
+          "tags": [
+            "Social Media",
+            "Kreowanie wizerunku"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

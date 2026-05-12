@@ -1,0 +1,223 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Kamil",
+      "last_name": "Nowak",
+      "email": "kamil.nowak@biz.com",
+      "description": "Doświadczony przedsiębiorca i innowator ★ Specjalizuje się w rozwijaniu startupów ✓ Potrafi kierować zespołem → Posiada duże doświadczenie w marketingu internetowym",
+      "skills": [
+        "Digital Marketing",
+        "Startup Development",
+        "Team Leadership"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Anna",
+      "last_name": "Kowalska",
+      "email": "anna.kowalska@biz.com",
+      "description": "*Ekspertka z branży IT* ✓ Specjalizuje się w rozwoju oprogramowania → Doskonale radzi sobie z analizą ryzyka i strategii biznesowej",
+      "skills": [
+        "Software Development",
+        "Risk Analysis",
+        "Business Strategy"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Piotr",
+      "last_name": "Wójcik",
+      "email": "piotr.wojcik@biz.com",
+      "description": "★ CEO z pasją do nowych technologii ✓ Specjalista od negocjacji → Doskonała znajomość rynków finansowych i e-commerce",
+      "skills": [
+        "Negotiation",
+        "Financial Markets",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Magdalena",
+      "last_name": "Lis",
+      "email": "magdalena.lis@biz.com",
+      "description": "**Specjalistka od UX/UI designu** ✓ Doświadczona w projektowaniu interfejsów → Twórcza myślicielka z zamiłowaniem do detali",
+      "skills": [
+        "UX/UI Design",
+        "Interface Design",
+        "Creative Thinking"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Marcin",
+      "last_name": "Adamczyk",
+      "email": "marcin.adamczyk@biz.com",
+      "description": "✓ Doświadczony manager projektów *ekspert od budowania relacji* → Posiada umiejętność identyfikowania trendów i przewidywania zmian rynkowych",
+      "skills": [
+        "Project Management",
+        "Relationship Building",
+        "Trend Identification"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Innowacyjne Rozwiązania AI",
+      "description": "★ Wyjątkowe narzędzia do analizy danych ✓ Platforma wspierająca inteligencję biznesową → Rozwój sztucznej inteligencji dla biznesu",
+      "areas": [
+        "Artificial Intelligence",
+        "Business Intelligence"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista ds. Machine Learning",
+          "description": "**Doświadczony programista** → Odpowiedzialny za rozwój algorytmów AI",
+          "tags": [
+            "Machine Learning",
+            "Algorithm Development"
+          ]
+        },
+        {
+          "title": "☆ Analityk Biznesowy z doświadczeniem",
+          "description": "★ Zadanie polega na analizie danych i raportowaniu wyników → Konieczne doświadczenie w analizie biznesowej",
+          "tags": [
+            "Business Analysis",
+            "Data Reporting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "E-commerce Revolution",
+      "description": "*Platforma zmieniająca świat e-commerce!* ✓ Zapewniamy innowacyjne rozwiązania sprzedażowe → Doskonała szansa na dynamiczny rozwój",
+      "areas": [
+        "E-commerce",
+        "Sales Solutions"
+      ],
+      "open_positions": [
+        {
+          "title": "★ CTO z doświadczeniem w e-commerce",
+          "description": "☆ Zarządzanie technicznym aspektem platformy → Wymagane doświadczenie w e-commerce",
+          "tags": [
+            "CTO",
+            "E-commerce"
+          ]
+        },
+        {
+          "title": "☆ Specjalista ds. UX/UI Design",
+          "description": "**Doskonała znajomość trendów designu** → Projektowanie interfejsów dla platformy e-commerce",
+          "tags": [
+            "UI/UX Design",
+            "Design Trends"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Zielone Technologie Energii",
+      "description": "★ Innowacyjne rozwiązania dla sektora energetycznego ✓ Redukcja zużycia energii w biznesie → Ochrona środowiska i oszczędność kosztów",
+      "areas": [
+        "Green Energy Technologies",
+        "Energy Efficiency"
+      ],
+      "open_positions": [
+        {
+          "title": "☆ Specjalista ds. Energii Odnawialnej",
+          "description": "**Zapewnienie zasilania z odnawialnych źródeł** → Koordynacja projektów związanych z energią",
+          "tags": [
+            "Renewable Energy",
+            "Project Coordination"
+          ]
+        },
+        {
+          "title": "★ Ekspert ds. Efektywności Energii",
+          "description": "☆ Audyt energetyczny i optymalizacja kosztów → Doświadczenie w efektywnym zużyciu energii",
+          "tags": [
+            "Energy Efficiency",
+            "Cost Optimization"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Nowoczesne Rozwiązania Mobilne",
+      "description": "✓ Aplikacje mobilne dla biznesu i użytkowników indywidualnych *Revolucyjne narzędzia mobilne* → Innowacyjna technologia w zasięgu ręki",
+      "areas": [
+        "Mobile Applications",
+        "Digital Solutions"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista ds. Aplikacji Mobilnych",
+          "description": "**Doskonała znajomość programowania mobilnego** → Tworzenie aplikacji dla różnych platform",
+          "tags": [
+            "Mobile Development",
+            "Cross-platform Apps"
+          ]
+        },
+        {
+          "title": "☆ Tester Aplikacji z pasją",
+          "description": "★ Odpowiedzialny za bezbłędne funkcjonowanie aplikacji → Doświadczenie w testowaniu aplikacji mobilnych",
+          "tags": [
+            "Application Testing",
+            "Quality Assurance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Platforma Sztucznej Rzeczywistości",
+      "description": "★ Wirtualne doświadczenia na nowym poziomie! ✓ Rozwój technologii AR i VR → Łączenie rzeczywistości z wirtualnym światem",
+      "areas": [
+        "Augmented Reality",
+        "Virtual Reality"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Programista AR z kreatywnym podejściem",
+          "description": "*Twórcze podejście do tworzenia wirtualnych środowisk* → Projektowanie aplikacji AR",
+          "tags": [
+            "AR Development",
+            "Creative Programming"
+          ]
+        },
+        {
+          "title": "☆ Specjalista ds. Treści VR",
+          "description": "★ Kreowanie interaktywnych doświadczeń w rzeczywistości wirtualnej → Doświadczenie w tworzeniu treści VR",
+          "tags": [
+            "VR Content",
+            "Interactive Experiences"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

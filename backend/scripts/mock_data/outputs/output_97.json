@@ -1,0 +1,219 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Aleksandra",
+      "last_name": "Nowak",
+      "email": "aleksandra.nowak@example.com",
+      "description": "Dr Aleksandra Nowak is a passionate researcher in the field of *molecular biology*. Her work focuses on understanding the intricate mechanisms of gene regulation and their implications in disease development. With expertise in *CRISPR-Cas9 technology* and *transcriptomics*, she aims to unravel the complexities of genetic pathways for the betterment of human health.",
+      "skills": [
+        "Molecular Biology",
+        "CRISPR-Cas9",
+        "Transcriptomics"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Kowalski",
+      "email": "piotr.kowalski@example.com",
+      "description": "As a postdoctoral researcher, Dr Piotr Kowalski delves deep into the realm of *quantum physics*. His research explores the fascinating interplay between particles and waves, seeking to unlock the secrets of quantum entanglement and its role in quantum computing. Proficient in *quantum mechanics* and *superposition*, he thrives on pushing the boundaries of theoretical physics.",
+      "skills": [
+        "Quantum Physics",
+        "Quantum Mechanics",
+        "Superposition"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Woźniak",
+      "email": "magdalena.wozniak@example.com",
+      "description": "Dr Magdalena Woźniak is a versatile researcher with a keen interest in *neuroscience* and *neuroplasticity*. Her work explores the brain's remarkable ability to adapt and reorganize in response to environmental stimuli. With a strong background in *electrophysiology* and *neuroimaging techniques*, she delves into the intricate neural pathways underlying cognitive processes.",
+      "skills": [
+        "Neuroscience",
+        "Neuroplasticity",
+        "Electrophysiology"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Grzegorz",
+      "last_name": "Jankowski",
+      "email": "grzegorz.jankowski@example.com",
+      "description": "Dr Grzegorz Jankowski is an esteemed scholar in the field of *bioinformatics* and *computational biology*. His research blends cutting-edge computational analyses with biological insights to decipher complex genomic data. With expertise in *machine learning* and *network biology*, he uncovers hidden patterns in biological systems for novel discoveries.",
+      "skills": [
+        "Bioinformatics",
+        "Computational Biology",
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Anna",
+      "last_name": "Lewandowska",
+      "email": "anna.lewandowska@example.com",
+      "description": "Prof. Anna Lewandowska is a leading authority in the field of *marine ecology*. Her research illuminates the intricate ecosystems of the ocean, deciphering the delicate balance of marine species and their interdependence. With expertise in *coral reef conservation* and *marine biodiversity*, she advocates for sustainable practices to preserve our marine heritage.",
+      "skills": [
+        "Marine Ecology",
+        "Coral Reef Conservation",
+        "Biodiversity"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Odyssey of Light: Exploring Optical Phenomena",
+      "description": "Embark on a wondrous journey into the realms of light and optics, where photons dance in a symphony of colors. This project seeks to unravel the mysteries of *quantum optics* and *light-matter interactions*, paving the way for revolutionary applications in communication and imaging.",
+      "areas": [
+        "Optics",
+        "Quantum Physics"
+      ],
+      "open_positions": [
+        {
+          "title": "Research Associate",
+          "description": "The Research Associate will be responsible for conducting experimental investigations on optical phenomena and analyzing data to uncover novel insights. Candidates should possess expertise in *spectroscopy* and *quantum field theory*.",
+          "tags": [
+            "Spectroscopy",
+            "Quantum Field Theory"
+          ]
+        },
+        {
+          "title": "Postdoctoral Fellow",
+          "description": "The Postdoctoral Fellow will engage in theoretical modeling of light propagation and collaborate with experimental researchers to validate theoretical predictions. Proficiency in *numerical simulations* and *optical design* is required.",
+          "tags": [
+            "Numerical Simulations",
+            "Optical Design"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Neural Symphony: Unraveling Brain Dynamics",
+      "description": "Dive into the mesmerizing symphony of neural signals as the brain orchestrates its cognitive melodies. This project delves into the complexities of *neuronal oscillations* and *brain connectivity*, exploring the rhythm of cognition and consciousness.",
+      "areas": [
+        "Neuroscience",
+        "Cognitive Psychology"
+      ],
+      "open_positions": [
+        {
+          "title": "Research Scientist",
+          "description": "The Research Scientist will lead experimental investigations on brain dynamics and analyze neural data to decipher patterns of cognitive processing. Proficiency in *EEG analysis* and *graph theory* is essential.",
+          "tags": [
+            "EEG Analysis",
+            "Graph Theory"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Genomic Tapestry: Decoding Biological Patterns",
+      "description": "Unravel the intricate patterns woven within the genomic tapestry as biology's mysteries unfold. This project merges *computational genomics* and *biological networks* to explore the hidden connections in genetic data, shaping the future of personalized medicine.",
+      "areas": [
+        "Bioinformatics",
+        "Genomics"
+      ],
+      "open_positions": [
+        {
+          "title": "Bioinformatician",
+          "description": "The Bioinformatician will engage in large-scale genomic data analysis and develop computational tools for biological network exploration. Proficiency in *sequence alignment* and *pathway analysis* is required.",
+          "tags": [
+            "Sequence Alignment",
+            "Pathway Analysis"
+          ]
+        },
+        {
+          "title": "Computational Biologist",
+          "description": "The Computational Biologist will focus on network modeling of biological systems and identify key regulatory elements in complex genomic interactions. Strong skills in *systems biology* and *statistical modeling* are preferred.",
+          "tags": [
+            "Systems Biology",
+            "Statistical Modeling"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Aquatic Rhapsody: Harmonizing Marine Ecosystems",
+      "description": "Immerse yourself in the symphony of marine life as we harmonize the delicate melodies of oceanic ecosystems. This project blends *marine ecology* and *biodiversity conservation*, aiming to preserve the richness of marine environments for generations to come.",
+      "areas": [
+        "Marine Biology",
+        "Environmental Conservation"
+      ],
+      "open_positions": [
+        {
+          "title": "Marine Biologist",
+          "description": "The Marine Biologist will conduct field research on marine species diversity and assess the impact of human activities on marine ecosystems. Experience in *marine taxonomy* and *ecosystem modeling* is valuable.",
+          "tags": [
+            "Marine Taxonomy",
+            "Ecosystem Modeling"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Cosmic Chronicles: Mapping the Universe's Evolution",
+      "description": "Embark on a cosmic journey through the annals of the universe, tracing the evolution of galaxies and cosmic structures. This project combines *astrophysics* and *cosmology* to unravel the mysteries of dark matter, dark energy, and the cosmic web.",
+      "areas": [
+        "Astrophysics",
+        "Cosmology"
+      ],
+      "open_positions": [
+        {
+          "title": "Astrophysicist",
+          "description": "The Astrophysicist will engage in observational studies of cosmic phenomena and theoretical modeling of the universe's evolution. Expertise in *data analysis* and *gravitational theory* is essential.",
+          "tags": [
+            "Data Analysis",
+            "Gravitational Theory"
+          ]
+        },
+        {
+          "title": "Cosmologist",
+          "description": "The Cosmologist will focus on theoretical investigations of the universe's large-scale structure and dark matter distribution. Strong background in *cosmic microwave background radiation* and *inflation theory* is desired.",
+          "tags": [
+            "Cosmic Microwave Background Radiation",
+            "Inflation Theory"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    },
+    {
+      "user_id": 1,
+      "project_id": 5
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

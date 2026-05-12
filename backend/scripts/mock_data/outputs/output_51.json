@@ -1,0 +1,232 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Agnieszka",
+      "last_name": "Kowalska",
+      "email": "agnieszka.kowalska@example.com",
+      "description": "* Pasjonatka nowych technologii\n- Doświadczenie w programowaniu w JavaScript\n- Zainteresowania wizualizacją danych\n** Otwarta na projekty z zakresu IT i analizy danych **",
+      "skills": [
+        "JavaScript",
+        "Wizualizacja danych",
+        "Analiza danych"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Marek",
+      "last_name": "Nowak",
+      "email": "marek.nowak@example.com",
+      "description": "* Absolwent nauk ścisłych\n- Zainteresowany analizą statystyczną\n- ** Umiejętności prezentacyjne **",
+      "skills": [
+        "Statystyka",
+        "Prezentacje",
+        "Analiza danych"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Katarzyna",
+      "last_name": "Wójcik",
+      "email": "katarzyna.wojcik@example.com",
+      "description": "* Studentka designu\n- Kreatywna i otwarta na nowe pomysły\n** Pasjonatka user experience **",
+      "skills": [
+        "Design",
+        "User Experience",
+        "Kreatywność"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Lewandowski",
+      "email": "piotr.lewandowski@example.com",
+      "description": "* Badacz społeczny z zamiłowaniem do danych\n- Doświadczenie w analizie danych społecznych\n** Komunikatywny i gotowy na wyzwania **",
+      "skills": [
+        "Analiza danych społecznych",
+        "Badania społeczne",
+        "Komunikatywność"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Joanna",
+      "last_name": "Mazur",
+      "email": "joanna.mazur@example.com",
+      "description": "* Ambitna studentka psychologii\n- Zainteresowana zastosowaniem doświadczeń w projektach\n** Interesuje się psychologią użytkownika **",
+      "skills": [
+        "Psychologia",
+        "Badania użytkownika",
+        "Analiza danych"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Nowoczesne Rozwiązania dla Handlu",
+      "description": "* Projekt mający na celu zastosowanie najnowszych technologii w sektorze handlu detalicznego\n- Analiza rynku i preferencji klientów\n** Rozwój systemów płatności \n- Wizualizacja danych w czasie rzeczywistym",
+      "areas": [
+        "Handel detaliczny",
+        "Technologie finansowe",
+        "Analiza rynku"
+      ],
+      "open_positions": [
+        {
+          "title": "📊 Specjalista ds. analizy danych",
+          "description": "- Analiza danych konsumenckich\n** Tworzenie modeli predykcyjnych dla trendów rynkowych",
+          "tags": [
+            "Analiza danych",
+            "Modele predykcyjne"
+          ]
+        },
+        {
+          "title": "🎨 Projektant UI/UX",
+          "description": "- Projektowanie interfejsów użytkownika\n** Testowanie użyteczności",
+          "tags": [
+            "UI/UX",
+            "Testowanie użyteczności"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Edukacyjna Platforma E-learningowa",
+      "description": "* Tworzenie innowacyjnej platformy edukacyjnej dostosowanej do różnorodnych grup wiekowych\n** Wprowadzenie gamifikacji do procesu uczenia się",
+      "areas": [
+        "Edukacja online",
+        "Technologie edukacyjne",
+        "Psychologia uczenia się"
+      ],
+      "open_positions": [
+        {
+          "title": "🎓 Pedagog",
+          "description": "- Tworzenie programów nauczania\n** Ocena skuteczności metodyk edukacyjnych",
+          "tags": [
+            "Pedagogika",
+            "Ocena skuteczności"
+          ]
+        },
+        {
+          "title": "🎮 Specjalista ds. gamifikacji",
+          "description": "- Projektowanie gier edukacyjnych\n** Badanie motywacji uczniów",
+          "tags": [
+            "Gamifikacja",
+            "Psychologia edukacyjna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Analiza Danych Społecznych",
+      "description": "* Badanie zachowań społecznych z wykorzystaniem zaawansowanych technik analitycznych\n** Ocena wpływu czynników społeczno-ekonomicznych",
+      "areas": [
+        "Badania socjologiczne",
+        "Analiza danych",
+        "Polityka społeczna"
+      ],
+      "open_positions": [
+        {
+          "title": "📈 Analityk danych społecznych",
+          "description": "- Analiza zbiorów danych społecznych\n** Prezentacja wyników w formie raportów",
+          "tags": [
+            "Analiza danych społecznych",
+            "Prezentacje raportów"
+          ]
+        },
+        {
+          "title": "📚 Asystent badawczy",
+          "description": "- Współpraca przy zbieraniu danych\n** Analiza ankiet i wywiadów",
+          "tags": [
+            "Badania społeczne",
+            "Ankiety i wywiady"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Innowacyjne Rozwiązania dla Zdrowia Psychicznego",
+      "description": "* Praca nad aplikacją mobilną wspierającą samokontrolę emocjonalną\n- Integrowanie danych z urządzeń monitorujących\n** Badanie wpływu interakcji społecznych na jakość życia",
+      "areas": [
+        "Zdrowie psychiczne",
+        "Technologie mobilne",
+        "Psychologia kliniczna"
+      ],
+      "open_positions": [
+        {
+          "title": "💬 Specjalista ds. wsparcia emocjonalnego",
+          "description": "- Tworzenie treści wspierających\n** Konsultacje zdalne z psychologiem",
+          "tags": [
+            "Wsparcie emocjonalne",
+            "Konsultacje zdalne"
+          ]
+        },
+        {
+          "title": "📱 Programista aplikacji mobilnych",
+          "description": "- Implementacja funkcjonalności aplikacji\n** Testowanie wydajności i interakcji użytkownika",
+          "tags": [
+            "Programowanie mobilne",
+            "Testowanie aplikacji"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Innowacje w Przemyśle Spożywczym",
+      "description": "* Identyfikacja nowych technologii poprawiających procesy wytwarzania\n- Badania nad zastosowaniem automatyzacji\n** Analiza trendów konsumpcyjnych",
+      "areas": [
+        "Przemysł spożywczy",
+        "Automatyzacja procesów",
+        "Badania trendów rynkowych"
+      ],
+      "open_positions": [
+        {
+          "title": "🔬 Specjalista ds. badań nad żywnością",
+          "description": "- Analiza składników odżywczych\n** Ocena jakości produktów",
+          "tags": [
+            "Badania żywności",
+            "Ocena jakości"
+          ]
+        },
+        {
+          "title": "🤖 Inżynier procesów produkcyjnych",
+          "description": "- Optymalizacja linii produkcyjnych\n** Monitorowanie efektywności procesów",
+          "tags": [
+            "Inżynieria produkcyjna",
+            "Monitorowanie procesów"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 1
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

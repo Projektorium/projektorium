@@ -1,0 +1,230 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Agata",
+      "last_name": "Kowalska",
+      "email": "agata.kowalska@example.com",
+      "description": "*Sztuka to moje powietrze, moje życie.* - Agata jest mistrzynią akwareli inspirowanych polską wsią i jej kulturą ludową. Jej prace emanują ciepłem i nostalgicznością, zapraszając do refleksji nad tradycją. *Jestem zachwycona bogactwem folkloru polskiego.*",
+      "skills": [
+        "malarstwo",
+        "kultura ludowa"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Tomasz",
+      "last_name": "Nowak",
+      "email": "tomasz.nowak@example.com",
+      "description": "**Graffiti to dla mnie forma wypowiedzi.** Inspirowany historią Polski, tworzy wulgarne murale uwydatniające społeczne napięcia. *Moje prace mają potężny przekaz społeczny.*",
+      "skills": [
+        "graffiti",
+        "street art"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Karolina",
+      "last_name": "Wójcik",
+      "email": "karolina.wojcik@example.com",
+      "description": "- Jeśli sztuka nie prowokuje, to nie jest sztuką. - Karolina, choreografka zajmująca się tanecznym eksperymentem, poszukuje nowych form wyrazu. *Moje tance odzwierciedlają ducha polskiej ziemi.*",
+      "skills": [
+        "taniec współczesny",
+        "eksperyment w choreografii"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Lewandowski",
+      "email": "piotr.lewandowski@example.com",
+      "description": "Wiersze dla mnie są jak oddech. *Każde słowo skradzione z natury.* - Piotr, poeta eksperymentujący z językiem i formą, jest mistrzem haiku. *Natura Polski ukryta w perełkach liter.*",
+      "skills": [
+        "pisanie poezji",
+        "haiku"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Małgorzata",
+      "last_name": "Sikora",
+      "email": "malgorzata.sikora@example.com",
+      "description": "*Moja praca skupia się na historii Polski.* - Małgorzata, scenografka teatralna, w swoich realizacjach łączy nowoczesność z tradycją. **Każdy detal ma znaczenie**. Jej scenografie ożywiają opowieści ze słowiańskiego folkloru.",
+      "skills": [
+        "scenografia",
+        "teatr"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Źródła Polskiej Sztuki Ludowej",
+      "description": "*Tradycja tkwi w sercach.* - Inicjatywa mająca na celu ocalenie i promocję sztuki ludowej Polski. **Dołącz do nas i wnieś oddech historii do teraźniejszości.**",
+      "areas": [
+        "sztuka ludowa",
+        "rzemiosło artystyczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Malarz Ludowy",
+          "description": "Dołącz do nas, aby oddać hołd polskiej tradycji malarskiej. *Każdy pociągnięty pędzlem kryje opowieść*.",
+          "tags": [
+            "malarstwo",
+            "sztuka ludowa"
+          ]
+        },
+        {
+          "title": "Krawiec Ludowy",
+          "description": "Odkryj piękno polskiego rzemiosła w tkaninach i haftach. **Każdy szew to wędrówka w czasie.**",
+          "tags": [
+            "rzemiosło",
+            "hafty"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Nowoczesne Murale Stolicy",
+      "description": "- Warszawa to nasza paleta kolorów. - Projekt mający na celu odświeżenie miejskiego krajobrazu poprzez sztukę uliczną. *Każdy murale to opowieść o historii i teraźniejszości Polski.*",
+      "areas": [
+        "sztuka uliczna",
+        "historia miasta"
+      ],
+      "open_positions": [
+        {
+          "title": "Graffiti Artist",
+          "description": "**Twoje ulice, twoje dzieła.** Dołącz do nas w kreowaniu nowej narracji miasta.",
+          "tags": [
+            "graffiti",
+            "sztuka uliczna"
+          ]
+        },
+        {
+          "title": "Koordynator Projektu",
+          "description": "*Zmieniamy miasto razem.* Poszukujemy osoby kreatywnej z doświadczeniem w organizacji wydarzeń artystycznych.",
+          "tags": [
+            "koordynacja",
+            "sztuka"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Eksperyment w Tańcu",
+      "description": "**Ruch to nasza mowa.** Inicjatywa kierująca się poszukiwaniem nowych form wyrazu w tańcu. *Nasze ciała to pędzel i płótno kultury polskiej.*",
+      "areas": [
+        "taniec współczesny",
+        "eksperyment w sztuce"
+      ],
+      "open_positions": [
+        {
+          "title": "Choreograf",
+          "description": "Kreuj nieoczywiste formy tańca. *Nasze kroki przekazują emocje jak poezja.*",
+          "tags": [
+            "choreografia",
+            "eksperyment"
+          ]
+        },
+        {
+          "title": "Tancerz",
+          "description": "Włącz w taniec swoją duszę. **Każdy ruch drzemie w tradycji**.",
+          "tags": [
+            "taniec",
+            "interpretacja"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Haiku Współczesne",
+      "description": "*Krótkie słowa, wielkie znaczenia.* Projekt promujący tradycję haiku w nowoczesnym wydaniu. **Każdy zdanie ma swoje piękno**.",
+      "areas": [
+        "poezja",
+        "literatura współczesna"
+      ],
+      "open_positions": [
+        {
+          "title": "Haiku Poet",
+          "description": "*Słowa, które zatańczą na papierze.* Dołącz, aby odkrywać piękno w skromności słów.",
+          "tags": [
+            "pisanie",
+            "haiku"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Słowiańskie Opowieści na Scenie",
+      "description": "- Dramat to nasza prawda. - Spektakle teatralne inspirowane słowiańską mitologią i folklorem. **Odtwórzmy legendy w nowoczesnym świetle.**",
+      "areas": [
+        "teatr",
+        "słowiańskie historie"
+      ],
+      "open_positions": [
+        {
+          "title": "Scenograf",
+          "description": "*Każdy rekwizyt nosi legendę.* Stwórz świeżą narrację wizualną naszych opowieści.",
+          "tags": [
+            "scenografia",
+            "teatr"
+          ]
+        },
+        {
+          "title": "Reżyser",
+          "description": "**Spojrzenie, które ujawni duszę historii.** Znajdź nowy wymiar w interpretacji słowiańskich legend.",
+          "tags": [
+            "reżyseria",
+            "interpretacja"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zofia",
+      "last_name": "Kowalczyk",
+      "email": "zofia.kowalczyk@example.com",
+      "description": "*Szukam inspiracji w naturze...*\n- Realizuję swoje marzenia jednym pociągnięciem pędzla.\n- **Sztuka to dla mnie nieustanny dialog z przestrzenią.**",
+      "skills": [
+        "Malarstwo",
+        "Inspiracja naturą",
+        "Ekspresjonizm"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Karol",
+      "last_name": "Nowak",
+      "email": "karol.nowak@example.com",
+      "description": "_Moja sztuka to odbicie życia..._\n- Uwielbiam eksperymentować z teksturami i kolorami.\n- Tworzę, by poruszyć dusze ludzi.",
+      "skills": [
+        "Rzeźba",
+        "Eksperymentowanie z kolorami",
+        "Nowoczesne formy wyrazu"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Aleksandra",
+      "last_name": "Wójcik",
+      "email": "aleksandra.wojcik@example.com",
+      "description": "**Każdy obraz to opowieść...**\n- *Moje prace emanują energią i życiem.*\n- Wnoszę do sztuki emocje i autentyczność.",
+      "skills": [
+        "Sztuka narracyjna",
+        "Emocjonalne obrazy",
+        "Kolory w ekspresji"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Mazur",
+      "email": "piotr.mazur@example.com",
+      "description": "*Sztuka to język, którym się posługuję...*\n- **Każde dzieło ma swoją historię i uczucie.**\n- Poszukuję nowych form wyrazu w tradycyjnych mediach malarskich.",
+      "skills": [
+        "Realizm",
+        "Historia obrazu",
+        "Eksperymentowanie z technikami"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Magdalena",
+      "last_name": "Kaczmarek",
+      "email": "magdalena.kaczmarek@example.com",
+      "description": "_Sztuka to moje życie..._\n- Pozwalam emocjom sterować pędzlem.\n- *Każdy obraz to dla mnie nowa podróż w głąb siebie.*",
+      "skills": [
+        "Abstrakcja",
+        "Interpretacja emocji",
+        "Wpływ kolorów na psychikę"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Światło i Cień",
+      "description": "*Otoczony polską mistyką...*\n- **Projekt łączący nowoczesność ze staropolskim klimatem.**\n- _To miejsce, gdzie sztuka mistyczna spotyka się z rzeczywistością._",
+      "areas": [
+        "Malarstwo",
+        "Fotografia",
+        "Teatr"
+      ],
+      "open_positions": [
+        {
+          "title": "Scenograf",
+          "description": "_Kreowanie przestrzeni pełnej tajemnicy i magii..._\n- *Poszukujemy kreatywnego artyzmu z głębokim zrozumieniem mistycznych korzeni polskiego folkloru.*",
+          "tags": [
+            "Mistycyzm",
+            "Tworzenie przestrzeni",
+            "Folklor"
+          ]
+        },
+        {
+          "title": "Fotograf",
+          "description": "**Uchwyć magię polskiego krajobrazu...**\n- - Doskonałe oko do detalii i chwytliwy obiektyw mile widziane.\n- *Pełny szacunek dla natury i tajemnicy otaczającego świata w obiektywie.*",
+          "tags": [
+            "Fotografia krajobrazowa",
+            "Detal",
+            "Natura"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Echo Sztuki",
+      "description": "_Przenikające odgłosy polskiej kultury..._\n- **Spotkanie tradycji z nowoczesnością w przestrzeni dźwięku.**\n- *Każe zastanowić się nad korzeniami i rozwojem kultury muzycznej.*",
+      "areas": [
+        "Muzyka",
+        "Performance",
+        "Etnografia"
+      ],
+      "open_positions": [
+        {
+          "title": "Kompozytor",
+          "description": "**Tworzenie melodiis inspirujących korzeniami...**\n- *W poszukiwaniu dzwięków, które przeniosą nas w odległe czasy i przestrzenie.*",
+          "tags": [
+            "Nowoczesne kompozycje",
+            "Muzyka etniczna",
+            "Historia dźwięku"
+          ]
+        },
+        {
+          "title": "Tancerz",
+          "description": "_Ruch, który opowiada historie..._\n- **Wyrazistość ruchu i precyzja podkreślające znaczenie tradycji w nowoczesności.**",
+          "tags": [
+            "Taniec narracyjny",
+            "Tradycyjne formy ruchu",
+            "Eksperymenty taneczne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Wzrok i Dotyk",
+      "description": "**Szukając emocji w materii...**\n- _Projekt badający relacje między wzrokiem a materialnością._\n- *Dotykamy sztuki poprzez zmysły i emocje, imperium jest stworzone z uczuć.*",
+      "areas": [
+        "Rzeźba",
+        "Tekstylia",
+        "Nowe media"
+      ],
+      "open_positions": [
+        {
+          "title": "Tekstylny Artyzm",
+          "description": "*Tworzenie tkaniny, która opowiada historie...*\n- **Czuły dotyk i delikatność materiału wzbogacone kolorami i fakturami.**",
+          "tags": [
+            "Rękodzieło",
+            "Historia tkactwa",
+            "Eksperymenty materiałowe"
+          ]
+        },
+        {
+          "title": "Kreator mediów",
+          "description": "_Łączymy sztukę ze światem wirtualnym..._\n- *Kreowanie nowych form wyrazu poprzez połączenie rzeczywistości z cyfrowym wszechświatem.*",
+          "tags": [
+            "Digital art",
+            "Wirtualna rzeczywistość",
+            "Kreacje cyfrowe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Nurt Wspólnoty",
+      "description": "*Sztuka, która zbliża serca ludzi...*\n- **Tworzymy atmosferę wspólnoty poprzez kolory i kształty.**\n- _Każda kropla farby to moment z nami spędzony._",
+      "areas": [
+        "Malarstwo",
+        "Edukacja artystyczna",
+        "Grafika"
+      ],
+      "open_positions": [
+        {
+          "title": "Edukator artystyczny",
+          "description": "**Przekazywanie sztuki w sposób inspirujący...**\n- _Kreatywne podejście do edukacji poprzez sztukę i praktykę artystyczną._",
+          "tags": [
+            "Pedagogika artystyczna",
+            "Tworzenie aktywnych warsztatów",
+            "Towarzyszenie w sztuce"
+          ]
+        },
+        {
+          "title": "Grafik",
+          "description": "_Tworzenie wizji łączących naturę z abstrakcją..._\n- *Inspiracje z otaczającego świata przeniesione w barwne kompozycje tworzące klimat miejsca.*",
+          "tags": [
+            "Grafika cyfrowa",
+            "Kolory w grafice",
+            "Symbolizm natury"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Melodia Wyobraźni",
+      "description": "_Wszystko zaczyna się w malutkim tonie..._\n- *Projekt eksplorujący ścieżki dźwięku w malarstwie.*\n- **Przenikanie się sztuki dźwięku i obrazu w poszukiwaniu harmonii.**",
+      "areas": [
+        "Malarstwo dźwiękowe",
+        "Eksploracja sensoryczna",
+        "Poetyka dźwięku"
+      ],
+      "open_positions": [
+        {
+          "title": "Malarz Dźwięku",
+          "description": "**Tworzenie dźwiękowych obrazów...**\n- _Połączenie abstrakcji dźwięku z emocjonalnymi barwami malarskimi._",
+          "tags": [
+            "Skrzypek dźwięku",
+            "Malowanie muzyki",
+            "Improwizacja w dźwięku"
+          ]
+        },
+        {
+          "title": "Kreator Poetyki",
+          "description": "*Tworzenie słów, które dźwięczą w malarstwie...*\n- **Odsłanianie harmonii śladami dźwięku pozostawionymi w barwach.**",
+          "tags": [
+            "Poezja dźwiękowa",
+            "Malarstwo słowem",
+            "Kreacja zmysłów"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

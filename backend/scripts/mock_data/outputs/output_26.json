@@ -1,0 +1,236 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Aleksandra",
+      "last_name": "Kowalczyk",
+      "email": "aleksandra.kowalczyk@example.com",
+      "description": "🎓 Magister Psychologii\n- *Doświadczenie w badaniach behawioralnych*\n- *Zaawansowane umiejętności interpersonalne*\n- *Analiza danych i raportowanie*\n- Zainteresowania: psychologia kliniczna, neuropsychologia, psychometria",
+      "skills": [
+        "Analiza danych",
+        "Psychometria",
+        "Badania behawioralne"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Marcin",
+      "last_name": "Lis",
+      "email": "marcin.lis@example.com",
+      "description": "🎨 Artysta Wizualny\n- **Ilustracja komputerowa**\n- *Projektowanie interfejsów użytkownika*\n- *Animacja 2D*\n- Zajmuje się tworzeniem grafik, animacji oraz designem interaktywnym.",
+      "skills": [
+        "Ilustracja komputerowa",
+        "Projektowanie interfejsów",
+        "Animacja 2D"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Karolina",
+      "last_name": "Dąbrowska",
+      "email": "karolina.dabrowska@example.com",
+      "description": "*🖥️ Informatyk\n- Specjalista ds. baz danych*\n- **Programowanie w języku Python**\n- *Zaawansowane umiejętności w pracy z SQL*",
+      "skills": [
+        "Bazy danych",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Tomasz",
+      "last_name": "Adamczyk",
+      "email": "tomasz.adamczyk@example.com",
+      "description": "🔬 Naukowiec\n- **Biotechnologia molekularna**\n- **Badania laboratoryjne**\n- Zajmuje się badaniami nad nowymi metodami diagnostyki molekularnej.",
+      "skills": [
+        "Biotechnologia molekularna",
+        "Badania laboratoryjne",
+        "Techniki diagnostyczne"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Wiktoria",
+      "last_name": "Mazurek",
+      "email": "wiktoria.mazurek@example.com",
+      "description": "*📚 Pedagog\n- **Specjalista w pracy z dziećmi autystycznymi**\n- *Twórcze metody nauczania*\n- *Badania nad integracją sensoryczną i autyzmem*",
+      "skills": [
+        "Praca z dziećmi autystycznymi",
+        "Metody nauczania",
+        "Integracja sensoryczna"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Projekt EKO+: Zrównoważony rozwój w praktyce",
+      "description": "*Projekt EKO+ ma na celu wprowadzenie zrównoważowanych praktyk w obszarze rolnictwa i przemysłu spożywczego.*\n- *Analiza cyklu życia żywności*\n- **Projektowanie opakowań przyjaznych środowisku**\n- Realizacja szkoleń dotyczących ekologii społecznej",
+      "areas": [
+        "Ekologia",
+        "Rolnictwo",
+        "Zrównoważony rozwój"
+      ],
+      "open_positions": [
+        {
+          "title": "🌿 Specjalista ds. zrównoważonego rozwoju",
+          "description": "- *Tworzenie strategii zrównoważonego rozwoju organizacji*\n- **Analiza wpływu działań na środowisko naturalne**",
+          "tags": [
+            "Zrównoważony rozwój",
+            "Ekonomia ekologiczna"
+          ]
+        },
+        {
+          "title": "🔬 Analityk ekologiczny",
+          "description": "- *Przygotowywanie raportów na temat oddziaływania działalności na środowisko*\n- **Modelowanie efektywności energetycznej**",
+          "tags": [
+            "Analiza ekologiczna",
+            "Modelowanie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Projekt ARTmotion: Inspiracja poprzez sztukę",
+      "description": "**Projekt ARTmotion łączy sztukę, technologię i interakcję społeczną.**\n- *Tworzenie interaktywnych instalacji artystycznych*\n- **Organizacja warsztatów kreatywnych**\n- Promocja lokalnych artystów",
+      "areas": [
+        "Sztuka",
+        "Technologia",
+        "Edukacja"
+      ],
+      "open_positions": [
+        {
+          "title": "🎨 Grafik komputerowy",
+          "description": "- *Tworzenie efektownych grafik wizualnych*\n- **Zorientowany na detale i estetykę**",
+          "tags": [
+            "Ilustracja",
+            "Design graficzny"
+          ]
+        },
+        {
+          "title": "💻 Specjalista ds. interakcji użytkownika",
+          "description": "- **Projektowanie intuicyjnych interfejsów użytkownika**\n- *Testowanie user experience*",
+          "tags": [
+            "User Interface",
+            "UX Design"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Projekt MEDlab: Innowacje w diagnostyce medycznej",
+      "description": "*Projekt MEDlab dąży do opracowania nowych technologii i metod diagnostycznych w medycynie.*\n- **Analiza badań laboratoryjnych**\n- *Implementacja sztucznej inteligencji w diagnostyce lekarskiej*\n- Współpraca z lekarzami klinicznymi",
+      "areas": [
+        "Medycyna",
+        "Innowacje",
+        "Technologie medyczne"
+      ],
+      "open_positions": [
+        {
+          "title": "🔬 Analityk medyczny",
+          "description": "- **Interpretacja wyników badań laboratoryjnych**\n- *Przygotowywanie raportów diagnostycznych*",
+          "tags": [
+            "Diagnostyka medyczna",
+            "Interpretacja wyników"
+          ]
+        },
+        {
+          "title": "👩‍⚕️ Asystentka badawcza",
+          "description": "- *Wsparcie w prowadzeniu eksperymentów*\n- **Dokumentowanie wyników i analiza statystyczna**",
+          "tags": [
+            "Badania kliniczne",
+            "Eksperymenty laboratoryjne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Projekt EDUtech: Nowoczesne narzędzia dydaktyczne",
+      "description": "**Projekt EDUtech skupia się na tworzeniu innowacyjnych rozwiązań edukacyjnych wspierających nauczycieli i uczniów.**\n- *Rozwój interaktywnych platform e-learningowych*\n- **Integracja nowych technologii w proces nauczania**\n- Badanie efektywności metod dydaktycznych",
+      "areas": [
+        "Edukacja",
+        "Nowe technologie",
+        "Pedagogika"
+      ],
+      "open_positions": [
+        {
+          "title": "👩‍🏫 Developer e-learningowy",
+          "description": "- **Tworzenie modułów e-learningowych**\n- *Optymalizacja platformy pod kątem user experience*",
+          "tags": [
+            "Tworzenie kursów online",
+            "Platformy edukacyjne"
+          ]
+        },
+        {
+          "title": "📊 Analityk edukacyjny",
+          "description": "- **Analiza wyników badań edukacyjnych**\n- *Opracowywanie raportów z analizy danych uczniów*",
+          "tags": [
+            "Badania edukacyjne",
+            "Ocena efektywności"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Projekt VRgardening: Wirtualna rzeczywistość w ogrodnictwie",
+      "description": "*VRgardening wprowadza innowacyjne rozwiązania w sektorze ogrodnictwa, wykorzystując technologię wirtualnej rzeczywistości.*\n- **Projektowanie wirtualnych ogrodów i parków**\n- *Symulacja wzrostu roślin w środowisku VR*\n- Szkolenia dla architektów krajobrazu",
+      "areas": [
+        "Ogrodnictwo",
+        "Technologie VR",
+        "Architektura krajobrazu"
+      ],
+      "open_positions": [
+        {
+          "title": "🌼 Architekt krajobrazu VR",
+          "description": "- *Projektowanie wirtualnych terenów zielonych*\n- **Kreowanie realistycznych scenografii ogrodowych**",
+          "tags": [
+            "Projektowanie terenów zielonych",
+            "Wirtualna rzeczywistość"
+          ]
+        },
+        {
+          "title": "🌿 Botanik wirtualny",
+          "description": "- **Analiza cyklu wzrostu roślin w VR**\n- *Tworzenie interaktywnych encyklopedii roślin*",
+          "tags": [
+            "Rozwój roślin w VR",
+            "Edukacja botaniczna"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 1,
+      "project_id": 4
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 2
+    }
+  ]
+}

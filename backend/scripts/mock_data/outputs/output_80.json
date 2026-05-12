@@ -1,0 +1,283 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Aleksandra",
+      "last_name": "Kowalczyk",
+      "email": "aleksandra.kowalczyk@example.com",
+      "description": "Z wykształcenia inżynier oprogramowania z zamiłowaniem do *projektowania UX*. Doświadczona w obszarze **JavaScript** i **React**. Zainteresowania: psychologia użytkownika, rozwój aplikacji mobilnych.",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Projektowanie UX",
+        "Psychologia Użytkownika"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Nowak",
+      "email": "piotr.nowak@example.com",
+      "description": "Specjalista ds. analizy danych z zamiłowaniem do *machine learning*. Znajomość *Pythona* i **SQL**. Pasjonat algorytmów i problemów optymalizacyjnych.",
+      "skills": [
+        "Machine Learning",
+        "Python",
+        "SQL",
+        "Algorytmy"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Woźniak",
+      "email": "magdalena.wozniak@example.com",
+      "description": "*Copywriter* z doświadczeniem w marketingu treści. Zajmuje się również SEO i analizą rynku. Zainteresowania: kreacja tekstów, tworzenie strategii contentowych.",
+      "skills": [
+        "Copywriting",
+        "Marketing Treści",
+        "SEO",
+        "Analiza Rynku"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Kamil",
+      "last_name": "Jankowski",
+      "email": "kamil.jankowski@example.com",
+      "description": "**Eksperct od cybersecurity** z bogatym doświadczeniem w sieciach komputerowych. Specjalizuje się w analizie ryzyka. Języki programowania: **C++**, **Java**.",
+      "skills": [
+        "Cybersecurity",
+        "Sieci Komputerowe",
+        "Analiza Ryzyka",
+        "C++",
+        "Java"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Adamczyk",
+      "email": "karolina.adamczyk@example.com",
+      "description": "Absolwentka *biologii molekularnej* z zamiłowaniem do badan naukowych. Pasjonuje się **genetyką** i **biochemią**. Umiejętności laboratoryjne: PCR, elektroforeza.",
+      "skills": [
+        "Biologia Molekularna",
+        "Genetyka",
+        "Biochemia",
+        "PCR",
+        "Elektroforeza"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma E-learningowa",
+      "description": [
+        "📚 Stworzenie interaktywnej platformy e-learningowej dla studentów.",
+        "🔍 Opracowanie systemu **rekomendacji** treści dopasowanych do potrzeb użytkowników.",
+        "💡 Implementacja *interfejsu użytkownika* przyjaznego i intuicyjnego.",
+        "💻 Wdrażanie rozwiązań umożliwiających zdalne wykłady i sprawdziany online."
+      ],
+      "areas": [
+        "Edukacja Online",
+        "Rekomendacyjne Systemy",
+        "Projektowanie Interfejsów",
+        "Zdalne Nauczanie"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. UX/UI 💻",
+          "description": "Odpowiedzialny za projektowanie przyjaznego interfejsu użytkownika.",
+          "tags": [
+            "Projektowanie UX",
+            "Projektowanie UI",
+            "Interakcje Człowiek-Komputer"
+          ]
+        },
+        {
+          "title": "Analityk Danych Edukacyjnych 🔍",
+          "description": "Analiza statystyk korzystania z platformy oraz rekomendacji treści.",
+          "tags": [
+            "Analityka Danych",
+            "E-learning",
+            "Statystyki"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Aplikacja Mobilna do Fitness",
+      "description": [
+        "🏋️‍♂️ Projektowanie i implementacja aplikacji mobilnej wspierającej treningi fitness.",
+        "🍏 Monitorowanie postępów użytkowników oraz dostarczanie personalizowanych planów ćwiczeń.",
+        "💪 Integracja z zegarkami sportowymi i platformami zdrowotnymi.",
+        "📊 Generowanie statystyk aktywności fizycznej i diety."
+      ],
+      "areas": [
+        "Fitness",
+        "Aplikacje Mobilne",
+        "Monitorowanie Zdrowia",
+        "Integracje Systemów"
+      ],
+      "open_positions": [
+        {
+          "title": "Programista React Native 💻",
+          "description": "Tworzenie interfejsu aplikacji na platformy mobilne.",
+          "tags": [
+            "React Native",
+            "JavaScript",
+            "Programowanie Mobilne"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Integracji Zew. Systemów 📲",
+          "description": "Implementacja integracji z urządzeniami sportowymi i aplikacjami zdrowotnymi.",
+          "tags": [
+            "Integracje Systemów",
+            "Aplikacje Zdrowotne",
+            "Sport"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Badania Genetyczne nad Nowotworami",
+      "description": [
+        "🔬 Analiza danych genetycznych pacjentów w celu identyfikacji genów ryzyka nowotworów.",
+        "🧬 Badania z wykorzystaniem technik **NGS** i PCR.",
+        "💊 Opracowanie terapii ukierunkowanych genetycznie.",
+        "🧪 Badanie interakcji gen-środowisko w rozwoju onkologii."
+      ],
+      "areas": [
+        "Genetyka Nowotworów",
+        "Badania Kliniczne",
+        "Terapie Personalizowane",
+        "NGS"
+      ],
+      "open_positions": [
+        {
+          "title": "Biotechnolog 🔬",
+          "description": "Przeprowadzanie badań genetycznych metodą NGS i analiza wyników.",
+          "tags": [
+            "Genetyka Molekularna",
+            "Techniki PCR",
+            "Analiza Genetyczna"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Terapii Personalizowanej 💊",
+          "description": "Opracowanie indywidualnych terapii opartych na analizie genetycznej pacjenta.",
+          "tags": [
+            "Terapie Personalizowane",
+            "Analiza Genów",
+            "Oncologia"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Aplikacja do Analizy Ryzyka Cybernetycznego",
+      "description": [
+        "🛡️ Stworzenie aplikacji wspomagającej analizę ryzyka cybernetycznego w przedsiębiorstwach.",
+        "🔍 Monitorowanie aktywności sieciowej i identyfikacja niebezpieczeństw.",
+        "💻 Implementacja systemu działającego w czasie rzeczywistym.",
+        "**📈 Generowanie raportów z analizy ryzyka**."
+      ],
+      "areas": [
+        "Cyberbezpieczeństwo",
+        "Analiza Ryzyka",
+        "Sieci Komputerowe",
+        "Monitorowanie Sieci"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Cybersecurity 🛡️",
+          "description": "Odpowiedzialny za analizę ryzyka i implementację środków zapobiegawczych.",
+          "tags": [
+            "Cybersecurity",
+            "Analiza Ryzyka",
+            "Sieci Komputerowe"
+          ]
+        },
+        {
+          "title": "Analityk Sieciowy 🔍",
+          "description": "Monitorowanie aktywności sieciowej i identyfikacja potencjalnych zagrożeń.",
+          "tags": [
+            "Monitorowanie Sieci",
+            "Analiza Zdarzeń",
+            "Cyberbezpieczeństwo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Platforma e-commerce z Systemem Rekomendacji",
+      "description": [
+        "🛒 Projekt i implementacja platformy internetowej z systemem rekomendacji produktów.",
+        "🕵️‍♀️ Analiza zachowań użytkowników w celu dostarczenia spersonalizowanych propozycji.",
+        "💻 Optymalizacja procesu zakupowego oraz integracja z płatnościami online.",
+        "📊 Generowanie statystyk sprzedażowych i prognoz rynkowych."
+      ],
+      "areas": [
+        "E-commerce",
+        "Rekomendacyjne Systemy",
+        "Analiza Danych Użytkowników",
+        "Integracje Płatności"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Personalizacji 🕵️‍♂️",
+          "description": "Tworzenie algorytmów rekomendacyjnych i analiza zachowań klientów.",
+          "tags": [
+            "Rekomendacyjne Systemy",
+            "E-commerce",
+            "Analiza Danych"
+          ]
+        },
+        {
+          "title": "Inżynier Integracji Systemów 💻",
+          "description": "Odpowiedzialny za integrację platformy z systemami płatności online.",
+          "tags": [
+            "Integracje Systemów",
+            "Płatności Online",
+            "Bezpieczeństwo Transakcji"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 5
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 3
+    }
+  ]
+}

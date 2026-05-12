@@ -1,0 +1,250 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Alicja",
+      "last_name": "Kowalska",
+      "email": "alicja.kowalska@example.com",
+      "description": "*Doświadczony programista Python* - pasjonat analizy danych",
+      "skills": [
+        "Python",
+        "Analiza danych",
+        "Programowanie obiektowe"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Nowak",
+      "email": "piotr.nowak@example.com",
+      "description": "- *Specjalista od UI/UX* z kilkuletnim doświadczeniem",
+      "skills": [
+        "UI/UX Design",
+        "Prototypowanie",
+        "Interakcje użytkownika"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Zając",
+      "email": "magdalena.zajac@example.com",
+      "description": "- **Data Scientist** z zamiłowaniem do analizy predykcyjnej",
+      "skills": [
+        "Statystyka",
+        "Machine Learning",
+        "Data Visualization"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Grzegorz",
+      "last_name": "Jaworski",
+      "email": "grzegorz.jaworski@example.com",
+      "description": "*Twórca treści multimedialnych* - długoletnie doświadczenie w branży filmowej",
+      "skills": [
+        "Edycja wideo",
+        "Produkcja filmowa",
+        "Montaż dźwięku"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Dąbrowska",
+      "email": "karolina.dabrowska@example.com",
+      "description": "*Kreatywna copywriterka* - uwielbia wyzwania tekstowe",
+      "skills": [
+        "Copywriting",
+        "SEO",
+        "Content Marketing"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Wizualizacja danych medycznych 360°",
+      "description": "- Rozwój interaktywnego narzędzia do prezentacji danych medycznych",
+      "areas": [
+        "Zdrowie Publiczne",
+        "Analiza Danych",
+        "Technologie Medyczne"
+      ],
+      "open_positions": [
+        {
+          "title": "📈 Analityk Danych",
+          "description": "- Analiza i wizualizacja danych medycznych",
+          "tags": [
+            "Analiza danych",
+            "Wizualizacja",
+            "Medycyna"
+          ]
+        },
+        {
+          "title": "💻 Programista Frontend",
+          "description": "- Implementacja interfejsu użytkownika z wykorzystaniem nowoczesnych technologii",
+          "tags": [
+            "Frontend Development",
+            "HTML/CSS",
+            "JavaScript"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Projekt Smart City: Mobilność Przyszłości",
+      "description": "*Rozwój systemu zarządzania ruchem miejskim opartego na sztucznej inteligencji*",
+      "areas": [
+        "Transport Publiczny",
+        "IoT",
+        "Sztuczna Inteligencja"
+      ],
+      "open_positions": [
+        {
+          "title": "🚗 Specjalista ds. Mobilitacji",
+          "description": "- Implementacja rozwiązań mobilności opartych na analizie ruchu miejskiego",
+          "tags": [
+            "Transport Publiczny",
+            "Analiza danych",
+            "Inżynieria Ruchu"
+          ]
+        },
+        {
+          "title": "🤖 Inżynier Sztucznej Inteligencji",
+          "description": "- Projektowanie i implementacja algorytmów uczenia maszynowego w kontekście inteligentnego miasta",
+          "tags": [
+            "Machine Learning",
+            "Deep Learning",
+            "Algorytmy AI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Platforma Edukacyjna dla Dzieciaków",
+      "description": "- Kreacja interaktywnej platformy edukacyjnej wspierającej rozwój dzieci",
+      "areas": [
+        "Edukacja Dzieci",
+        "Technologie Edukacyjne",
+        "Gry Edukacyjne"
+      ],
+      "open_positions": [
+        {
+          "title": "🎨 Grafik Interaktywny",
+          "description": "- Projektowanie grafik interfejsu i elementów edukacyjnych",
+          "tags": [
+            "Grafika komputerowa",
+            "Interaktywne projekty",
+            "Edukacja"
+          ]
+        },
+        {
+          "title": "🎮 Animator Edukacji",
+          "description": "- Tworzenie gier i zadań wspierających procesy uczenia się dzieci",
+          "tags": [
+            "Gry Edukacyjne",
+            "Animacje 2D",
+            "Tworzenie Zadań"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Platforma Kulturowa dla Artystów",
+      "description": "*Stworzenie platformy wspierającej artystów w prezentacji i sprzedaży swoich prac*",
+      "areas": [
+        "Sztuka Współczesna",
+        "E-commerce",
+        "Promocja Artystów"
+      ],
+      "open_positions": [
+        {
+          "title": "🎭 Kurator Sztuki",
+          "description": "- Zarządzanie i kuracją treści artystycznych na platformie",
+          "tags": [
+            "Sztuka Wizualna",
+            "Wystawy",
+            "Historia Sztuki"
+          ]
+        },
+        {
+          "title": "📸 Fotograf Prod. Artystycznej",
+          "description": "- Wykonywanie profesjonalnych sesji zdjęciowych do promocji prac artystycznych",
+          "tags": [
+            "Fotografia Artystyczna",
+            "Sesje Zdjęciowe",
+            "Katalogowanie Sztuki"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Projekt Badawczy: Cyfrowa Przyszłość",
+      "description": "- Badania nad wpływem cyfrowej transformacji na społeczeństwo",
+      "areas": [
+        "Cyfryzacja",
+        "Społeczeństwo Cyfrowe",
+        "Innowacje Technologiczne"
+      ],
+      "open_positions": [
+        {
+          "title": "🔬 Badacz Społeczny",
+          "description": "- Analyza społecznych aspektów cyfrowego rozwoju",
+          "tags": [
+            "Badania Społeczne",
+            "Cyfryzacja",
+            "Innowacje Społeczne"
+          ]
+        },
+        {
+          "title": "📊 Specjalista ds. Analizy Trendów",
+          "description": "- Analiza trendów związanych z rozwojem technologii cyfrowych",
+          "tags": [
+            "Analiza Trendów",
+            "Technologie Cyfrowe",
+            "Prognozowanie"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 1,
+      "project_id": 4
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Agata",
+      "last_name": "Kowalska",
+      "email": "agata.kowalska@example.com",
+      "description": "Studiuję informatykę na Politechnice. Interesuję się programowaniem i uczeniem maszynowym. Chcę rozwinąć swoje umiejętności w projektach związanymi z analizą danych i sztuczną inteligencją.",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Analiza Danych"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Michał",
+      "last_name": "Nowak",
+      "email": "michal.nowak@example.com",
+      "description": "*Designer* i *web developer* z 3-letnim doświadczeniem. Pasjonuje mnie *projektowanie UX/UI* oraz tworzenie responsywnych aplikacji internetowych. Poszukuję nowych wyzwań w obszarze interakcji człowiek-komputer.",
+      "skills": [
+        "Projektowanie UX/UI",
+        "HTML/CSS",
+        "Responsive Design"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Karolina",
+      "last_name": "Czarnecka",
+      "email": "karolina.czarnecka@example.com",
+      "description": "**Copywriter** z zamiłowaniem do słowa pisanego. Specjalizuję się w tworzeniu treści marketingowych i copy do mediów społecznościowych. Chciałabym współpracować przy projektach promocyjnych dla marek modowych.",
+      "skills": [
+        "Copywriting",
+        "Content Marketing",
+        "Social Media Management"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Wójcik",
+      "email": "piotr.wojcik@example.com",
+      "description": "Absolwent biologii molekularnej z pasją do badania genomiki. Mam doświadczenie w analizie danych z sekwencjonowania nowej generacji. Interesuje mnie praca przy projektach z dziedziny biotechnologii.",
+      "skills": [
+        "Genomika",
+        "Sekwencjonowanie DNA",
+        "Analiza Biologiczna"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Alicja",
+      "last_name": "Dąbrowska",
+      "email": "alicja.dabrowska@example.com",
+      "description": "Studiuję językoznawstwo ze szczególnym uwzględnieniem semantyki językowej. Interesuje mnie tłumaczenie literatury pięknej z języka angielskiego na polski. Szukam okazji do współpracy przy projektach kulturoznawczych.",
+      "skills": [
+        "Językoznawstwo",
+        "Tłumaczenie Literatury",
+        "Semantyka"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma E-learningowa dla Małych Firm 🎓💼",
+      "description": [
+        "🌟 Rozwój platformy e-learningowej wspierającej szkolenia pracowników małych firm.",
+        "**Technologie**: React, Node.js",
+        "*Zadania*:",
+        "- Tworzenie interaktywnych modułów szkoleniowych.",
+        "- Implementacja systemu monitorowania postępów nauki.",
+        "- Optymalizacja modułów pod kątem responsywności."
+      ],
+      "areas": [
+        "Edukacja Online",
+        "Zarządzanie Firmą"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Frontendu React 💻",
+          "description": "Odpowiedzialny za rozwój interfejsu użytkownika platformy e-learningowej.",
+          "tags": [
+            "React",
+            "Javascript",
+            "CSS"
+          ]
+        },
+        {
+          "title": "Analityk Użytkownika 📊",
+          "description": "Zajmuje się analizą zachowań użytkowników oraz optymalizacją interakcji z platformą.",
+          "tags": [
+            "UX/UI",
+            "Analiza Danych",
+            "User Experience"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Aplikacja Mobilna do Monitorowania Zdrowia 📱💊",
+      "description": [
+        "🌟 Tworzenie aplikacji mobilnej umożliwiającej monitorowanie parametrów zdrowotnych.",
+        "**Technologie**: Flutter, Firebase",
+        "*Zadania*:",
+        "- Projektowanie interfejsu aplikacji zgodnego z zasadami Material Design.",
+        "- Implementacja bazy danych do przechowywania informacji medycznych.",
+        "- Integracja z aplikacjami zewnętrznymi do analizy wyników."
+      ],
+      "areas": [
+        "e-Zdrowie",
+        "Aplikacje Mobilne"
+      ],
+      "open_positions": [
+        {
+          "title": "Programista Flutter 📱",
+          "description": "Odpowiada za rozwój aplikacji mobilnej na platformę Android i iOS.",
+          "tags": [
+            "Flutter",
+            "Mobile Development",
+            "Dart"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Bezpieczeństwa Danych 🔒",
+          "description": "Monitoruje i zapewnia zgodność aplikacji z przepisami dotyczącymi ochrony danych osobowych.",
+          "tags": [
+            "Bezpieczeństwo Danych",
+            "Ochrona Prywatności"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Projekt Badawczy nad Kreatywnością Artystyczną 🎨✨",
+      "description": [
+        "🌟 Projekt mający na celu zbadanie czynników wpływających na kreatywność w procesie twórczym.",
+        "**Obszary Badawcze**: Psychologia Twórczości, Sztuka Nowoczesna",
+        "*Cele Projektu*:",
+        "- Analiza czynników motywacyjnych w procesie tworzenia sztuki.",
+        "- Badanie związków pomiędzy teorią działań a twórczością.",
+        "- Opracowanie modelu rozwoju kreatywności artystycznej."
+      ],
+      "areas": [
+        "Psychologia",
+        "Sztuka"
+      ],
+      "open_positions": [
+        {
+          "title": "Badacz Psychologii Twórczości 🧠",
+          "description": "Przeprowadza badania nad związkami pomiędzy procesem twórczym a psychologicznymi uwarunkowaniami.",
+          "tags": [
+            "Psychologia",
+            "Badania",
+            "Psychologia Twórczości"
+          ]
+        },
+        {
+          "title": "Asystent ds. Analizy Sztuki 🎨",
+          "description": "Wsparcie w analizie dzieł sztuki w kontekście teorii twórczości i procesu artystycznego.",
+          "tags": [
+            "Sztuka Nowoczesna",
+            "Teoria Sztuki"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Platforma E-commerce dla Małych Projektantów Modowych 👗👠",
+      "description": [
+        "🌟 Stworzenie platformy umożliwiającej sprzedaż i promocję projektów projektantów modowych.",
+        "**Technologie**: Magento, PHP",
+        "*Zadania*:",
+        "- Budowa funkcjonalności e-sklepu z modną odzieżą i akcesoriami.",
+        "- Opracowanie systemu płatności online z użyciem popularnych bramek.",
+        "- Optymalizacja platformy pod kątem SEO i SEM."
+      ],
+      "areas": [
+        "E-commerce",
+        "Moda"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista Magento i PHP 👚🛒",
+          "description": "Odpowiedzialny za rozwój i utrzymanie platformy e-commerce opartej na Magento 2 z użyciem PHP.",
+          "tags": [
+            "Magento",
+            "PHP",
+            "e-commerce"
+          ]
+        },
+        {
+          "title": "Ekspert ds. Marketingu Modowego 👠📈",
+          "description": "Zajmuje się promocją i strategią marketingową dla projektantów prezentujących swoje produkty na platformie.",
+          "tags": [
+            "Marketing Modowy",
+            "SEO",
+            "Social Media"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "System Zarządzania Projektami Naukowymi 📊🔬",
+      "description": [
+        "🌟 Rozwój kompleksowego systemu do zarządzania procesem badawczym w jednostkach naukowo-badawczych.",
+        "**Technologie**: Python, Django, PostgreSQL",
+        "*Zadania*:",
+        "- Implementacja modułów do monitorowania postępów projektów i alokacji zasobów.",
+        "- Opracowanie mechanizmów raportowania wyników badań oraz prognoz finansowych.",
+        "- Integracja z systemami zewnętrznymi do analizy danych naukowych."
+      ],
+      "areas": [
+        "Zarządzanie Projektami",
+        "Nauka"
+      ],
+      "open_positions": [
+        {
+          "title": "Python Developer z Erfahrung 💻",
+          "description": "Tworzenie i rozwijanie modułów systemu zarządzania projektami w oparciu o Python i Django.",
+          "tags": [
+            "Python",
+            "Django",
+            "Zarządzanie Projektem"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Analizy Danych Naukowych 🔬📈",
+          "description": "Odpowiedzialny za implementację mechanizmów analizy wyników badań w kontekście naukowych projektów.",
+          "tags": [
+            "Analiza Danych Naukowych",
+            "Prognozy Finansowe"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 5
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    }
+  ]
+}

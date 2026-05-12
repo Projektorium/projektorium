@@ -1,0 +1,253 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zuzanna",
+      "last_name": "Nowak",
+      "email": "zuzanna.nowak@biznesmail.pl",
+      "description": "✔ Doświadczony specjalista z obszaru finansów. *Główny cel: przekształcenie tradycyjnych modeli biznesowych w oparte na technologiach chmurowych. Wizja: rozwiązania cyfrowe dla sektora MSP.",
+      "skills": [
+        "Finanse",
+        "Transformacja cyfrowa",
+        "Zarządzanie projektem"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Filip",
+      "last_name": "Wójcik",
+      "email": "filip.wojcik@biznesmail.pl",
+      "description": "**CEO** z sukcesami w tworzeniu ekosystemów startupowych. ★ Specjalizacja: budowanie relacji biznesowych, rozwój strategii marketingowych dla globalnych rynków.",
+      "skills": [
+        "Budowanie sieci kontaktów",
+        "Strategie marketingowe",
+        "Negocjacje biznesowe"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Iga",
+      "last_name": "Kowalska",
+      "email": "iga.kowalska@biznesmail.pl",
+      "description": "✔ Ekspertka w dziedzinie IT Security. *Misja: zwiększenie świadomości bezpieczeństwa cyfrowego w spółkach informatycznych. Nowoczesne podejście do audytów bezpieczeństwa.",
+      "skills": [
+        "Bezpieczeństwo informacji",
+        "Audyt bezpieczeństwa",
+        "Kryptografia"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Jaworski",
+      "email": "piotr.jaworski@biznesmail.pl",
+      "description": "✓ Specjalista od analizy danych big data. - Docelowe tworzenie systemów rekomendacyjnych dla e-commerce. Innowacyjne podejście do analizy danych.",
+      "skills": [
+        "Analiza big data",
+        "Machine Learning",
+        "Bazy danych"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Katarzyna",
+      "last_name": "Dąbrowska",
+      "email": "katarzyna.dabrowska@biznesmail.pl",
+      "description": "→ Doświadczona marketerka z obszaru social media. *Strategia: tworzenie angażujących treści marketingowych z użyciem neuro-marketingu.",
+      "skills": [
+        "Marketing w social media",
+        "Neuro-marketing",
+        "Zarządzanie kampaniami"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "CyberGuard",
+      "description": "★ Platforma bezpieczeństwa dla małych i średnich przedsiębiorstw. - Innowacyjne rozwiązania w zakresie detekcji ataków i zarządzania incydentami.",
+      "areas": [
+        "Cybersecurity",
+        "Cloud Computing"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista ds. Cybersecurity",
+          "description": "★ Realizacja strategii bezpieczeństwa IT, audyty bezpieczeństwa i zarządzanie incydentami.",
+          "tags": [
+            "Bezpieczeństwo IT",
+            "Audyty IT",
+            "Zarządzanie incydentami"
+          ]
+        },
+        {
+          "title": "✓ DevOps Engineer",
+          "description": "- Wdrażanie ciągłych integracji i dostarczania. Zarządzanie infrastrukturą IT.",
+          "tags": [
+            "DevOps",
+            "Continuous Integration",
+            "Zarządzanie infrastrukturą"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "DataInsight",
+      "description": "**Inteligencja danych dla e-commerce**. *Rozwiązania analityczne oferujące rekomendacje zakupowe oparte na machine learning.",
+      "areas": [
+        "Big Data Analytics",
+        "E-commerce"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Data Scientist",
+          "description": "★ Analiza danych, tworzenie modeli rekomendacyjnych. Wsparcie w analizie biznesowej.",
+          "tags": [
+            "Data Science",
+            "Machine Learning",
+            "Analiza biznesowa"
+          ]
+        },
+        {
+          "title": "✓ Front-end Developer",
+          "description": "- Projektowanie responsywnych interfejsów użytkownika. Implementacja nowych funkcjonalności.",
+          "tags": [
+            "Front-end Development",
+            "UI/UX Design",
+            "Responsywne projekty"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "GreenEco",
+      "description": "→ Ekologiczne rozwiązania dla sektora B2B. **Oszczędność energii i organiczne technologie produkcji**.",
+      "areas": [
+        "Sustainability",
+        "Renewable Energy"
+      ],
+      "open_positions": [
+        {
+          "title": "→ Specjalista ds. Energetyki odnawialnej",
+          "description": "→ Optymalizacja procesów energetycznych, analiza efektywności ekologicznych systemów.",
+          "tags": [
+            "Energetyka odnawialna",
+            "Efektywność energetyczna",
+            "Zrównoważony rozwój"
+          ]
+        },
+        {
+          "title": "✓ Business Development Manager",
+          "description": "- Rozwój nowych partnerstw biznesowych, strategia sprzedaży. Negocjacje kontraktów B2B.",
+          "tags": [
+            "Development biznesowy",
+            "Negocjacje B2B",
+            "Planowanie strategiczne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "MedTech Vision",
+      "description": "*Innowacyjne technologie dla sektora medycznego*. ✓ Rozwiązania wizyjne wspierające diagnostykę medyczną.",
+      "areas": [
+        "MedTech",
+        "Healthcare IT"
+      ],
+      "open_positions": [
+        {
+          "title": "→ Specjalista ds. AI w medycynie",
+          "description": "→ Wdrożenie systemów diagnostycznych opartych na sztucznej inteligencji. Analiza danych medycznych.",
+          "tags": [
+            "AI w medycynie",
+            "Diagnostyka medyczna",
+            "Sztuczna inteligencja"
+          ]
+        },
+        {
+          "title": "*Product Manager*",
+          "description": "*Zarządzanie cyklem życia produktu. Analiza rynku i konkurencji.",
+          "tags": [
+            "Product Management",
+            "Analiza rynku",
+            "Cykl życia produktu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Edulight",
+      "description": "★ Nowoczesna platforma edukacyjna nauczająca przez wizualizację. - Rozwój umiejętności w oparciu o treści interaktywne.",
+      "areas": [
+        "EdTech",
+        "E-learning"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Edukator wizualny",
+          "description": "★ Tworzenie interaktywnych materiałów edukacyjnych. Wsparcie w procesie nauczania zdalnego.",
+          "tags": [
+            "Edukacja wizualna",
+            "Tworzenie treści",
+            "Nauczanie zdalne"
+          ]
+        },
+        {
+          "title": "✓ UX/UI Designer",
+          "description": "- Projektowanie intuicyjnych interfejsów użytkownika. Optymalizacja doświadczeń edukacyjnych.",
+          "tags": [
+            "UX Design",
+            "UI Design",
+            "Optymalizacja doświadczeń"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 1,
+      "project_id": 5
+    }
+  ]
+}

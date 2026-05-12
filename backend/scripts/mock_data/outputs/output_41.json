@@ -1,0 +1,243 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Alicja",
+      "last_name": "Kowalska",
+      "email": "alicja.kowalska@email.pl",
+      "description": "* Doświadczony programista z pasją do nowych technologii\n- Otwarty na współpracę i innowacyjne podejścia\n**- Specjalizuje się w tworzeniu aplikacji webowych**",
+      "skills": [
+        "Programowanie w Pythonie",
+        "Projektowanie interfejsów użytkownika",
+        "Bazy danych",
+        "Testowanie oprogramowania"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Michał",
+      "last_name": "Nowak",
+      "email": "michal.nowak@email.pl",
+      "description": "**- Grafik z doświadczeniem w brandingowaniu\n* Kreatywny i pomysłowy w realizacji projektów\n- Doskonała znajomość Adobe Creative Suite**",
+      "skills": [
+        "Projektowanie graficzne",
+        "Branding",
+        "Ilustracja",
+        "UI/UX Design"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Karolina",
+      "last_name": "Wójcik",
+      "email": "karolina.wojcik@email.pl",
+      "description": "- Absolwentka psychologii z zamiłowaniem do analizy danych\n* Zdolna do wyciągania wniosków na podstawie danych\n**- Engagement specialist w obszarze e-commerce**",
+      "skills": [
+        "Analiza danych",
+        "Psychometria",
+        "Marketing cyfrowy",
+        "Badania UX"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Lis",
+      "email": "piotr.lis@email.pl",
+      "description": "* Entuzjasta nowych technologii\n**- Specjalizuje się w machine learningu**\n- Zainteresowany zastosowaniami sztucznej inteligencji w medycynie",
+      "skills": [
+        "Machine Learning",
+        "Python",
+        "Algorytmy",
+        "Deep Learning"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Patrycja",
+      "last_name": "Włodarczyk",
+      "email": "patrycja.wlodarczyk@email.pl",
+      "description": "- Studentka architektury z zamiłowaniem do nowych trendów\n* Posiadająca umiejętności projektowania przestrzeni\n**- Specjalizacja w ekologicznych materiałach budowlanych**",
+      "skills": [
+        "Architektura wnetrz",
+        "Sztuka krajobrazu",
+        "Projektowanie zrównoważone",
+        "AutoCAD"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Projekt Ekoinnowacji",
+      "description": "* Ekologiczny startup zmieniający sposób korzystania z energii\n- Celem jest wprowadzenie eco-tech rozwiązań do codziennego życia\n**- Poszukujemy pasjonatów z doświadczeniem w zielonych technologiach**",
+      "areas": [
+        "Energetyka odnawialna",
+        "Innowacje ekologiczne"
+      ],
+      "open_positions": [
+        {
+          "title": "🌿 Ekspert ds. energii odnawialnej",
+          "description": "- Opracowywanie strategii zrównoważonego rozwoju\n**- Tworzenie projektów w obszarze fotowoltaiki**",
+          "tags": [
+            "Energetyka słoneczna",
+            "Zielone technologie"
+          ]
+        },
+        {
+          "title": "🔬 Specjalista ds. badań biopaliw",
+          "description": "* Analiza efektywności ekologicznych paliw\n- Rozwój nowych metod pozyskiwania energii",
+          "tags": [
+            "Biopaliwa",
+            "Badania ekologiczne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Projekt Virtualny Świat Sztuki",
+      "description": "**- Platforma VR łącząca artystów i miłośników sztuki\n- Kreatywne środowisko do wymiany doświadczeń**\n* Poszukujemy osób z pasją do sztuki i nowoczesnych technologii",
+      "areas": [
+        "Sztuka wirtualna",
+        "VR i AR"
+      ],
+      "open_positions": [
+        {
+          "title": "🎨 Animator VR",
+          "description": "* Tworzenie interaktywnych wizualizacji\n- Rozwijanie koncepcji artystycznych w przestrzeni wirtualnej",
+          "tags": [
+            "Animacja komputerowa",
+            "Projektowanie VR"
+          ]
+        },
+        {
+          "title": "🖌️ Grafik 3D",
+          "description": "- Tworzenie realistycznych modeli\n**- Oparte na technologii ray tracing**",
+          "tags": [
+            "Modelowanie 3D",
+            "Renderowanie grafiki"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Projekt Psychotechnologiczny",
+      "description": "- Innowacyjna platforma analizująca zachowania online\n**- Integracja psychologii z technologią**\n* Szukamy osób z doświadczeniem w analizie zachowań użytkowników",
+      "areas": [
+        "Psychologia online",
+        "Technologie śledzenia"
+      ],
+      "open_positions": [
+        {
+          "title": "🧠 Specjalista ds. psychologii behawioralnej",
+          "description": "- Badanie wzorców zachowań online\n**- Implementacja strategii personalizacji**",
+          "tags": [
+            "Behawioryzm",
+            "Psychologia online"
+          ]
+        },
+        {
+          "title": "📊 Analityk danych użytkowników",
+          "description": "* Analiza big data w kontekście psychologii\n- Tworzenie raportów i rekomendacji",
+          "tags": [
+            "Analiza danych behawioralnych",
+            "Segmentacja rynku"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Projekt Inteligentnego Miasta",
+      "description": "* Innowacyjne rozwiązania dla zrównoważonego rozwoju miejskiego\n**- Wykorzystanie IoT w zarządzaniu infrastrukturą miejską**\n- Poszukujemy ekspertów od inteligentnych systemów miejskich",
+      "areas": [
+        "Smart Cities",
+        "Internet Rzeczy"
+      ],
+      "open_positions": [
+        {
+          "title": "🏙️ Urbanista cyfrowy",
+          "description": "- Projektowanie przestrzeni miejskiej z wykorzystaniem technologii\n**- Optymalizacja komunikacji miejskiej z użyciem IoT**",
+          "tags": [
+            "Zarządzanie infrastrukturą",
+            "Planowanie urbanistyczne"
+          ]
+        },
+        {
+          "title": "🚗 Ekspert ds. inteligentnych transportów",
+          "description": "* Rozwój systemów transportu publicznego opartych na sztucznej inteligencji\n- Integracja usług miejskich",
+          "tags": [
+            "Transport inteligentny",
+            "Rozwój miast"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Projekt Edukacyjny 2.0",
+      "description": "**- Nowoczesne podejście do edukacji online\n* Platforma interaktywna dostosowana do potrzeb uczniów**\n- Zespół poszukuje edukatorów i specjalistów od e-learningu",
+      "areas": [
+        "Edukacja online",
+        "Nowe technologie w edukacji"
+      ],
+      "open_positions": [
+        {
+          "title": "👩‍🏫 Specjalista ds. treści edukacyjnych",
+          "description": "- Opracowywanie interaktywnych materiałów dydaktycznych\n**- Personalizacja ścieżek nauczania**",
+          "tags": [
+            "E-learning",
+            "Pedagogika online"
+          ]
+        },
+        {
+          "title": "💻 Administrator LMS",
+          "description": "* Zarządzanie platformą e-learningową\n- Wsparcie techniczne i utrzymanie systemu",
+          "tags": [
+            "Learning Management System",
+            "Administrowanie platformą"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_ids": [
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "user_id": 2,
+      "project_ids": [
+        2,
+        3
+      ]
+    },
+    {
+      "user_id": 3,
+      "project_ids": [
+        1,
+        3
+      ]
+    },
+    {
+      "user_id": 4,
+      "project_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "user_id": 5,
+      "project_ids": [
+        1
+      ]
+    }
+  ]
+}
