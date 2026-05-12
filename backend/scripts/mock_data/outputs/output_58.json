@@ -1,0 +1,241 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zofia",
+      "last_name": "Kowalczyk",
+      "email": "z.kowalczyk@biz.pl",
+      "description": "Experienced marketer with a passion for building sustainable brands. ★ Brand strategist ► Start-up enthusiast seeking disruptive ideas.",
+      "skills": [
+        "Digital Marketing",
+        "Brand Management",
+        "Market Research"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Adam",
+      "last_name": "Nowak",
+      "email": "adam.nowak@biz.pl",
+      "description": "Innovative software developer specializing in AI and machine learning. ✓ Strong problem solver and adaptable tech enthusiast.",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Nina",
+      "last_name": "Wójcik",
+      "email": "nina.wojcik@biz.pl",
+      "description": "Business development expert with a knack for scaling start-ups. → Data-driven decision maker with a keen eye for growth opportunities.",
+      "skills": [
+        "Strategic Planning",
+        "Sales Management",
+        "Market Expansion"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Mikołaj",
+      "last_name": "Piotrowski",
+      "email": "m.piotrowski@biz.pl",
+      "description": "**Innowacyjny** programista z pasją do tworzenia interaktywnych rozwiązań. ★ Ekspert w aplikacjach mobilnych i webowych.",
+      "skills": [
+        "JavaScript",
+        "UI/UX Design",
+        "Mobile Development"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Anastazja",
+      "last_name": "Jaworska",
+      "email": "a.jaworska@biz.pl",
+      "description": "Experienced finance professional with a strategic mindset. ✓ Strong analytical skills and passion for disruptive innovation.",
+      "skills": [
+        "Financial Modeling",
+        "Strategic Planning",
+        "Market Analysis"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "AquaTech Polska",
+      "description": "*Innowacyjna* firma zajmująca się nowoczesnymi rozwiązaniami dla ochrony środowiska. ✓ Misją jest zapewnienie zrównoważonej gospodarki wodnej.",
+      "areas": [
+        "Environmental Technology",
+        "Sustainable Development"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista ds. Badań Wodnych",
+          "description": "→ Poszukujemy eksperta do analizy jakości wody i opracowania nowych technologii oczyszczania.",
+          "tags": [
+            "Chemistry",
+            "Water Quality",
+            "Research"
+          ]
+        },
+        {
+          "title": "★ Kierownik Działu Sprzedaży",
+          "description": "→ Osoba odpowiedzialna za rozwój rynków zbytu dla naszych innowacyjnych produktów.",
+          "tags": [
+            "Sales Management",
+            "Market Development",
+            "Negotiation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Polis HealthTech",
+      "description": "Startup zajmujący się technologiami z zakresu zdrowia i medycyny. ★ Naszą wizją jest udostępnienie innowacyjnych usług medycznych online.",
+      "areas": [
+        "Healthcare Technology",
+        "Telemedicine"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Data Analyst w Opiece Zdrowotnej",
+          "description": "✓ Poszukujemy analityka do pracy nad analizą danych medycznych i weryfikacją nowych rozwiązań.",
+          "tags": [
+            "Data Analysis",
+            "Healthcare",
+            "Privacy Regulations"
+          ]
+        },
+        {
+          "title": "★ Specjalista ds. Rozwoju Oprogramowania Medycznego",
+          "description": "→ Osoba do projektowania i programowania oprogramowania służącego obszarowi zdrowia i opieki medycznej.",
+          "tags": [
+            "Software Development",
+            "Medical Software",
+            "Health Informatics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "EkoDrive",
+      "description": "**Zrównoważona** firma oferująca rozwiązania z zakresu elektromobilności. ► Naszym celem jest zmniejszenie emisji CO2 poprzez nowoczesne technologie transportu.",
+      "areas": [
+        "Electric Vehicles",
+        "Green Energy"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista ds. Badań nad Bateriami",
+          "description": "✓ Poszukujemy eksperta do prac badawczych nad wydajnością i trwałością baterii ładowanych słonecznymi panelami.",
+          "tags": [
+            "Battery Technology",
+            "Solar Energy",
+            "Research"
+          ]
+        },
+        {
+          "title": "★ Kierownik ds. Rozwoju Rynku Elektromobilności",
+          "description": "*Osoba z doświadczeniem* w budowaniu strategii marketingowej dla sektora zrównoważonej mobilności.",
+          "tags": [
+            "Marketing Strategy",
+            "Sustainable Mobility",
+            "Market Analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "FoodTech Labs",
+      "description": "Startup specjalizujący się w technologiach dla przemysłu spożywczego. ★ Naszą misją jest zwiększenie efektywności produkcji żywności.",
+      "areas": [
+        "Food Industry",
+        "Agrotechnology"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Inżynier ds. Produkcji żywności",
+          "description": "► Odpowiedzialny za optymalizację procesów wytwarzania i wdrażanie nowych technologii.",
+          "tags": [
+            "Food Production",
+            "Process Optimization",
+            "Quality Control"
+          ]
+        },
+        {
+          "title": "★ Specjalista ds. Innowacji Żywnościowych",
+          "description": "✓ Poszukujemy kreatywnej osoby do opracowywania nowych produktów spożywczych na bazie innowacyjnych składników.",
+          "tags": [
+            "Food Innovation",
+            "Product Development",
+            "Nutrition Science"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "FinTech Connect",
+      "description": "Innowacyjna platforma FinTech łącząca start-upy z inwestorami. ★ Naszą wizją jest demokratyzacja dostępu do inwestycji finansowych.",
+      "areas": [
+        "Financial Technology",
+        "Investment Services"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Blockchain Developer",
+          "description": "→ Poszukujemy programisty do rozwijania i wdrażania technologii blockchain w naszej platformie.",
+          "tags": [
+            "Blockchain Development",
+            "Cryptocurrency",
+            "Smart Contracts"
+          ]
+        },
+        {
+          "title": "★ Specjalista ds. Relacji Inwestorskich",
+          "description": "✓ Osoba odpowiedzialna za budowanie relacji z inwestorami oraz pozyskiwanie środków na rozwój firmy.",
+          "tags": [
+            "Investor Relations",
+            "Fundraising",
+            "Financial Markets"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

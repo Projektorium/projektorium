@@ -1,0 +1,260 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Anna",
+      "last_name": "Kowalska",
+      "email": "anna.kowalska@example.com",
+      "description": "Moja pasja to *analiza danych* i **programowanie**. Z wykształcenia jestem *matematyczką* z zamiłowaniem do *statystyki*. Chciałabym rozwijać się w dziedzinie *sztucznej inteligencji*.",
+      "skills": [
+        "Python",
+        "Analiza danych",
+        "Statystyka",
+        "Sztuczna inteligencja"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Nowak",
+      "email": "piotr.nowak@example.com",
+      "description": "*Designer* z zamiłowaniem do **projektowania UI/UX**. Interesuję się również *grafiką komputerową* oraz *animacją*. Dążę do doskonalenia umiejętności w obszarze *interakcji człowiek-komputer*.",
+      "skills": [
+        "Projektowanie UI/UX",
+        "Grafika komputerowa",
+        "Animacja",
+        "Interakcja człowiek-komputer"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Emilia",
+      "last_name": "Woźniak",
+      "email": "emilia.wozniak@example.com",
+      "description": "**Tłumaczka** z pasją do języków. Specjalizuję się w *tłumaczeniach literackich* oraz *technicznych*. Chciałabym poszerzyć swoje umiejętności o *lokalizację oprogramowania*.",
+      "skills": [
+        "Tłumaczenia literackie",
+        "Tłumaczenia techniczne",
+        "Języki obce",
+        "Lokalizacja oprogramowania"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Mikołaj",
+      "last_name": "Lewandowski",
+      "email": "mikolaj.lewandowski@example.com",
+      "description": "Absolwent *biologii molekularnej* z zamiłowaniem do **genetyki**. Interesuje mnie również *bioinformatyka*. Chciałbym uczestniczyć w projektach **badawczych** z wykorzystaniem *technologii DNA*.",
+      "skills": [
+        "Biologia molekularna",
+        "Genetyka",
+        "Bioinformatyka",
+        "Badania naukowe",
+        "Technologie DNA"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Katarzyna",
+      "last_name": "Szymańska",
+      "email": "katarzyna.szymanska@example.com",
+      "description": "Jestem *copywriterką* z wieloletnim doświadczeniem. Moją specjalizacją są **treści marketingowe**. Interesuję się również *SEO* oraz *tworzeniem strategii marketingowych*.",
+      "skills": [
+        "Copywriting",
+        "Treści marketingowe",
+        "SEO",
+        "Strategie marketingowe"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma E-learningowa dla Dzieci",
+      "description": [
+        "📚 Projekt zakłada stworzenie interaktywnej platformy e-learningowej dla dzieci.",
+        "🎨 Platforma ma zawierać **kursy online** z różnych dziedzin nauki.",
+        "👩‍🏫 Szukamy specjalisty ds. **UI/UX** oraz programisty **Frontend**.",
+        "🧠 Dołącz do naszej drużyny i wspólnie rozwijajmy wiedzę młodych ludzi!"
+      ],
+      "areas": [
+        "Pedagogika",
+        "Informatyka Edukacyjna"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. UI/UX 💻🎨",
+          "description": "Tworzenie intuicyjnego interfejsu platformy e-learningowej",
+          "tags": [
+            "UI/UX",
+            "Informatyka Edukacyjna"
+          ]
+        },
+        {
+          "title": "Programista Frontend 💻🌐",
+          "description": "Implementacja funkcjonalności interaktywnych kursów online",
+          "tags": [
+            "Frontend",
+            "Web Development"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Blog Kulinarny z Recepturami Tradycyjnymi",
+      "description": [
+        "🍲 Celem projektu jest stworzenie bloga kulinarnego prezentującego tradycyjne polskie przepisy.",
+        "📸 Poszukujemy pasjonatów gotowania i fotografii.",
+        "📝 **Redaktorzy** zainteresowani kulturą kulinarą mile widziani!",
+        "🍽️ Dołącz do nas, aby promować dziedzictwo kulinarnego Polski!"
+      ],
+      "areas": [
+        "Kuchnia Polska",
+        "Fotografia Kulinarna"
+      ],
+      "open_positions": [
+        {
+          "title": "Fotograf Kulinarny 📸🍴",
+          "description": "Wykonanie profesjonalnych zdjęć potraw i dań tradycyjnych",
+          "tags": [
+            "Fotografia",
+            "Kuchnia"
+          ]
+        },
+        {
+          "title": "Redaktor Tekstów Kulinarnych 🥗📝",
+          "description": "Pisanie unikalnych treści związanych z kulinariami tradycyjnymi",
+          "tags": [
+            "Redakcja",
+            "Kuchnia Polska"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Aplikacja Mobilna dla Entuzjastów Astronomii",
+      "description": [
+        "🌌 Projekt zakłada stworzenie interaktywnej aplikacji mobilnej dla miłośników astronomii.",
+        "🔭 Planujemy umożliwić obserwację *gwiazd* i *planet* z dowolnego miejsca.",
+        "📱 Szukamy programistów **Android** i **iOS** do zespołu.",
+        "🚀 Dołącz do nas, aby wspólnie odkrywać tajemnice kosmosu!"
+      ],
+      "areas": [
+        "Astronomia",
+        "Aplikacje Mobilne"
+      ],
+      "open_positions": [
+        {
+          "title": "Programista Android 📱🤖",
+          "description": "Tworzenie funkcjonalności aplikacji na system Android",
+          "tags": [
+            "Android",
+            "Java"
+          ]
+        },
+        {
+          "title": "Programista iOS 📱🍎",
+          "description": "Opracowywanie interfejsu aplikacji na system iOS",
+          "tags": [
+            "iOS",
+            "Swift"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Portal Społecznościowy dla Stuletnich",
+      "description": [
+        "👵 Projekt ma na celu stworzenie platformy społecznościowej dla osób starszych.",
+        "🧓 Szukamy designerów **Senior** oraz programistów **Backend** z doświadczeniem.",
+        "👴 Dołącz do nas, aby ułatwić seniorom wsparcie społecznościowe!"
+      ],
+      "areas": [
+        "Gerontologia",
+        "Interakcja Społeczna"
+      ],
+      "open_positions": [
+        {
+          "title": "Designer Senior 👵🎨",
+          "description": "Zaprojektowanie intuicyjnego interfejsu dla osób starszych",
+          "tags": [
+            "Projektowanie UI/UX",
+            "Interakcja społeczna"
+          ]
+        },
+        {
+          "title": "Programista Backend 🧓💻",
+          "description": "Opracowywanie logiki biznesowej platformy społecznościowej",
+          "tags": [
+            "Backend",
+            "Bazy danych"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "System Automatyzacji Procesów Biurowych",
+      "description": [
+        "🖥️ Projekt ma na celu stworzenie systemu automatyzacji procesów biurowych.",
+        "🕵️‍♂️ Szukamy *specjalistów od analizy danych* i programistów **Python**.",
+        "💼 Dołącz do nas, aby usprawnić działanie biura poprzez technologię!"
+      ],
+      "areas": [
+        "Automatyzacja Biurowa",
+        "Analiza Danych"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Analizy Danych 📊💾",
+          "description": "Tworzenie modeli predykcyjnych i raportów z danych biznesowych",
+          "tags": [
+            "Analiza danych",
+            "Raporty biznesowe"
+          ]
+        },
+        {
+          "title": "Programista Python 🐍💻",
+          "description": "Programowanie algorytmów automatyzujących procesy biurowe",
+          "tags": [
+            "Python",
+            "Automatyzacja"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 1,
+      "project_id": 5
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 2
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 2
+    }
+  ]
+}

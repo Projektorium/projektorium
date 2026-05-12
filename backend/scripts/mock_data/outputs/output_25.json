@@ -1,0 +1,258 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Hanna",
+      "last_name": "Kowalska",
+      "email": "hanna.kowalska@example.com",
+      "description": "Z wykształcenia jestem **inżynierem oprogramowania** z zamiłowaniem do *projektowania UX*. Chcę rozwijać aplikacje, które pomagają użytkownikom w codziennym życiu. Aktualnie uczę się nowych technologii i metodologii programistycznych.",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "Projektowanie UX"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Kamil",
+      "last_name": "Nowak",
+      "email": "kamil.nowak@example.com",
+      "description": "*Specjalista ds. analizy danych* z zamiłowaniem do algorytmów i statystyki. Moje doświadczenie obejmuje przetwarzanie dużych zbiorów danych w celu wyciągnięcia istotnych informacji. Chcę kontynuować pracę nad rozwijaniem modeli predykcyjnych.",
+      "skills": [
+        "Analiza danych",
+        "Machine Learning",
+        "Statystyka"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Duda",
+      "email": "magda.duda@example.com",
+      "description": "Absolwentka *filologii angielskiej* z zainteresowaniem za tłumaczenia literatury pięknej. Moje marzenie to przetłumaczyć bestsellery na język polski, aby uczynić je dostępnymi dla szerszej publiczności.",
+      "skills": [
+        "Tłumaczenie",
+        "Redakcja",
+        "Znajomość literatury obcej"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Adam",
+      "last_name": "Lis",
+      "email": "adam.lis@example.com",
+      "description": "Zawodowy *fotograf i grafik* z bogatym portfolio w branży reklamowej. Specjalizuję się w tworzeniu wizualnie przyciągających treści. Chcę współpracować przy projektach, które angażują kreatywność i nowatorskie podejście.",
+      "skills": [
+        "Fotografia",
+        "Projektowanie graficzne",
+        "Adobe Creative Suite"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Piotr",
+      "last_name": "Wójcik",
+      "email": "piotr.wojcik@example.com",
+      "description": "*Biolog molekularny* z pasją do badań nad genomem ludzkim. Pragnę kontynuować moją pracę nad identyfikacją nowych sekwencji genowych związanych z chorobami genetycznymi.",
+      "skills": [
+        "Biologia molekularna",
+        "Genetyka",
+        "Sekwencjonowanie DNA"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma Edukacyjna Online",
+      "description": [
+        "📚 *Platforma edukacyjna online* ma na celu umożliwienie dostępu do wysokiej jakości materiałów naukowych dla uczniów w różnym wieku.",
+        "🎓 Kluczowymi funkcjonalnościami będą interaktywne lekcje, testy z automatyczną oceną oraz panel dla nauczycieli do zarządzania materiałami.",
+        "🖥️ Poszukujemy *programistów* do implementacji nowych funkcji oraz *grafików* do opracowania atrakcyjnego interfejsu użytkownika."
+      ],
+      "areas": [
+        "Edukacja Online",
+        "Programowanie",
+        "Grafika Komputerowa"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. programowania interfejsów użytkownika 🖥️",
+          "description": "Odpowiedzialny za projektowanie i implementację interaktywnych elementów interfejsu użytkownika.",
+          "tags": [
+            "User Interface",
+            "React",
+            "JavaScript"
+          ]
+        },
+        {
+          "title": "Grafik komputerowy 🎨",
+          "description": "Zadaniem będzie stworzenie spójnego i atrakcyjnego wizualnie wyglądu platformy edukacyjnej.",
+          "tags": [
+            "Design",
+            "User Experience",
+            "Adobe Creative Suite"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Badania nad Sztuczną Inteligencją",
+      "description": [
+        "🤖 Projekt *badawczy nad sztuczną inteligencją* ma na celu rozwinięcie zaawansowanych algorytmów uczenia maszynowego.",
+        "🔬 W ramach projektu planujemy analizę dużych zbiorów danych w celu budowy modeli predykcyjnych dla różnych branż.",
+        "💻 Poszukujemy *specjalistów ds. analizy danych* oraz *programistów* z doświadczeniem w implementacji algorytmów ML."
+      ],
+      "areas": [
+        "Sztuczna Inteligencja",
+        "Analiza Danych",
+        "Algorytmy Uczenia Maszynowego"
+      ],
+      "open_positions": [
+        {
+          "title": "Data Scientist 🔬",
+          "description": "Odpowiedzialny za analizę danych, budowę modeli predykcyjnych i optymalizację algorytmów.",
+          "tags": [
+            "Machine Learning",
+            "Data Analysis",
+            "Statystyka"
+          ]
+        },
+        {
+          "title": "Programista AI 💻",
+          "description": "Zajmie się implementacją zaawansowanych algorytmów uczenia maszynowego w praktycznych zastosowaniach.",
+          "tags": [
+            "Artificial Intelligence",
+            "Python",
+            "TensorFlow"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Projekt Tłumaczeniowy Literatury Pięknej",
+      "description": [
+        "📖 Celem projektu tłumaczeniowego jest przekład istotnych dzieł literatury pięknej na język polski, aby poszerzyć dostępność literatury światowej dla polskich czytelników.",
+        "🌍 Zależy nam na zachowaniu oryginalnego klimatu i stylu każdego tłumaczenia, aby oddać pierwotną wartość dzieł.",
+        "🖋️ Szukamy *tłumaczy* z doskonałą znajomością języków obcych oraz zainteresowaniem literaturą piękną."
+      ],
+      "areas": [
+        "Tłumaczenia",
+        "Literatura",
+        "Kultura"
+      ],
+      "open_positions": [
+        {
+          "title": "Tłumacz Literatury Obcej 📘",
+          "description": "Zadaniem będzie tłumaczenie i adaptacja literatury obcej na język polski z dbałością o szczegóły kulturowe.",
+          "tags": [
+            "Tłumaczenie Literatury",
+            "Językoznawstwo",
+            "Redakcja"
+          ]
+        },
+        {
+          "title": "Asystent Redakcji 📝",
+          "description": "Osoba będzie odpowiedzialna za wspomaganie procesu redakcyjnego i przygotowywanie tekstu do publikacji.",
+          "tags": [
+            "Redakcja",
+            "Korekta Tekstu",
+            "Literatura"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Kampania Fotograficzna dla Nowej Marki Modowej",
+      "description": [
+        "📸 Projekt *kampanii fotograficznej* ma na celu stworzenie wizualnie przyciągających zdjęć promocyjnych dla nowej marki modowej.",
+        "👗 Planujemy sesje fotograficzne z profesjonalnymi modelkami oraz specjalistyczną obróbką graficzną.",
+        "💄 Poszukujemy *fotografa* oraz *grafika* do współpracy przy tworzeniu materiałów reklamowych."
+      ],
+      "areas": [
+        "Fotografia",
+        "Moda",
+        "Reklama"
+      ],
+      "open_positions": [
+        {
+          "title": "Fotograf 👓",
+          "description": "Zadaniem będzie tworzenie zdjęć reklamowych prezentujących nową markę modową w ciekawy i intrygujący sposób.",
+          "tags": [
+            "Fotografia Reklamowa",
+            "Stylizacja",
+            "Photoshop"
+          ]
+        },
+        {
+          "title": "Grafik Projektowy 💻",
+          "description": "Odpowiedzialny za graficzną obróbkę zdjęć, projektowanie materiałów reklamowych i kreowanie spójnego wizerunku marki.",
+          "tags": [
+            "Projektowanie Graficzne",
+            "Kreatywność",
+            "Adobe Creative Suite"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Badania nad Genomem Ludzkim",
+      "description": [
+        "🧬 Projekt badawczy nad genomem ludzkim skupia się na identyfikacji nowych sekwencji genowych związanych z chorobami genetycznymi.",
+        "🔬 Planujemy analizę danych genomowych oraz eksperymentów laboratoryjnych w celu zrozumienia mechanizmów genetycznych chorób.",
+        "🔍 Poszukujemy *biologów molekularnych* z doświadczeniem w sekwencjonowaniu DNA oraz *analityków danych* specjalizujących się w analizie genomów."
+      ],
+      "areas": [
+        "Biologia Molekularna",
+        "Genetyka",
+        "Badania Naukowe"
+      ],
+      "open_positions": [
+        {
+          "title": "Biolog Molekularny 🧫",
+          "description": "Osoba będzie odpowiedzialna za przeprowadzanie eksperymentów laboratoryjnych i analizę wyników sekwencjonowania DNA.",
+          "tags": [
+            "Laboratorium",
+            "Genomika",
+            "Badania Naukowe"
+          ]
+        },
+        {
+          "title": "Analityk Genomów 🔍",
+          "description": "Zajmie się analizą danych genomowych, identyfikacją sekwencji genów oraz wykrywaniem mutacji genetycznych.",
+          "tags": [
+            "Bioinformatyka",
+            "Analiza Genomów",
+            "Genetyka"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

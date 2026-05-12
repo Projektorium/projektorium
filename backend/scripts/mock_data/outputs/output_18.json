@@ -1,0 +1,246 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zofia",
+      "last_name": "Kowalska",
+      "email": "zofia.kowalska@example.com",
+      "description": "✔️ Doświadczony inżynier oprogramowania z mocnym zacięciem startupowym. Były główny programista w firmie IT, teraz chce stworzyć rewolucyjną platformę e-commerce.",
+      "skills": [
+        "programowanie",
+        "zarządzanie produktem",
+        "analiza rynku"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Mateusz",
+      "last_name": "Nowak",
+      "email": "mateusz.nowak@example.com",
+      "description": "*Innowacyjny designer z miłością do minimalizmu i funkcjonalności. Od lat pracuje nad projektowaniem interfejsów użytkownika, teraz marzy o własnym studiu kreatywnym.",
+      "skills": [
+        "UX/UI design",
+        "grafika komputerowa",
+        "kreatywność"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Aleksandra",
+      "last_name": "Lis",
+      "email": "aleksandra.lis@example.com",
+      "description": "- Menedżerka marketingowa z doświadczeniem w prowadzeniu kampanii reklamowych dla różnorodnych marek. Chce teraz zmienić branżę i pomóc startupom w osiągnięciu sukcesu.",
+      "skills": [
+        "marketing cyfrowy",
+        "analiza danych",
+        "strategia marketingowa"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Jakub",
+      "last_name": "Mazurek",
+      "email": "jakub.mazurek@example.com",
+      "description": "→ Ekspert ds. sztucznej inteligencji z pasją do rozwiązywania problemów biznesowych za pomocą algorytmów i uczenia maszynowego.",
+      "skills": [
+        "machine learning",
+        "data science",
+        "język Python"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Nina",
+      "last_name": "Lewandowska",
+      "email": "nina.lewandowska@example.com",
+      "description": "★ Kreatywna copywriterka z obszernym portfolio kreacji reklamowych. Chce teraz wykorzystać swój talent do wspierania startupów w budowaniu silnej tożsamości marki.",
+      "skills": [
+        "copywriting",
+        "content marketing",
+        "storytelling"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "KoderzyZdrowia",
+      "description": "**Platforma digital health integrująca pacjentów z lekarzami online.** Rozwiązanie umożliwiające zdalne konsultacje lekarskie, monitorowanie parametrów zdrowotnych i elektroniczne recepty.",
+      "areas": [
+        "zdrowie i medycyna",
+        "technologie informacyjne",
+        "e-zdrowie"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Lead Developer z doświadczeniem w e-health",
+          "description": "✔️ Zarządzanie projektem rozwoju platformy, dbanie o bezpieczeństwo danych pacjentów i optymalizacja funkcjonalności systemu.",
+          "tags": [
+            "bezpieczeństwo danych",
+            "telemedycyna",
+            "programowanie webowe"
+          ]
+        },
+        {
+          "title": "✓ Specjalista ds. UX/UI",
+          "description": "*Opracowywanie intuicyjnych interfejsów użytkownika, testowanie użyteczności i ciągłe doskonalenie doświadczenia pacjentów.",
+          "tags": [
+            "projektowanie interfejsów",
+            "testowanie UX",
+            "interakcje użytkownika"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "AgoraSkrzatów",
+      "description": "*Platforma edukacyjna dla dzieci z interaktywnymi zajęciami i grami w celu rozwijania kreatywności i umiejętności poznawczych.",
+      "areas": [
+        "edukacja",
+        "technologie edukacyjne",
+        "rozwój dzieci"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Kierownik ds. Marketingu z pasją do edukacji",
+          "description": "✓ Opracowywanie strategii promocji platformy, kreowanie treści edukacyjnych i zarządzanie kampaniami reklamowymi.",
+          "tags": [
+            "strategia marketingu",
+            "treści edukacyjne",
+            "kampanie reklamowe"
+          ]
+        },
+        {
+          "title": "✓ Full Stack Developer",
+          "description": "✔️ Programowanie aplikacji webowej i mobilnej, integracja z bazą danych i ciągłe udoskonalanie funkcjonalności platformy.",
+          "tags": [
+            "programowanie aplikacji",
+            "integracja baz danych",
+            "tworzenie oprogramowania"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "EcoRiders",
+      "description": "✔️ Innowacyjna platforma ride-sharingowa dla użytkowników poszukujących ekologicznych środków transportu. Misją jest zmniejszenie emisji CO2 poprzez wykorzystanie samochodów elektrycznych i rowerów.",
+      "areas": [
+        "transport i mobilność",
+        "technologie ekologiczne",
+        "sharing economy"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista ds. Ekologii i Transportu",
+          "description": "→ Monitorowanie wpływu usługi na środowisko, współpraca z partnerami ekologicznymi i rozwijanie strategii zrównoważonej mobilności.",
+          "tags": [
+            "ochrona środowiska",
+            "transport publiczny",
+            "polityka zrównoważonego rozwoju"
+          ]
+        },
+        {
+          "title": "✓ Frontend Developer",
+          "description": "*Rozwój interfejsów użytkownika, optymalizacja responsywności i implementacja nowych funkcjonalności zgodnie z trendami technologicznymi.",
+          "tags": [
+            "frontend",
+            "responsywność",
+            "nowe technologie webowe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "FinansowyGeniusze",
+      "description": "✓ Platforma edukacyjna oferująca kursy i poradniki z zakresu finansów osobistych i inwestowania. Misją jest zwiększenie świadomości finansowej społeczeństwa.",
+      "areas": [
+        "finanse i inwestycje",
+        "edukacja finansowa",
+        "technologie fintech"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Analityk Finansowy z doświadczeniem w e-learningu",
+          "description": "**Analiza rynków finansowych, tworzenie treści szkoleniowych i ocena skuteczności programów edukacyjnych.",
+          "tags": [
+            "analiza finansowa",
+            "e-learning",
+            "rynek kapitałowy"
+          ]
+        },
+        {
+          "title": "✓ Specjalista ds. SEO",
+          "description": "✔️ Optymalizacja treści pod kątem wyszukiwarek internetowych, tworzenie strategii pozycjonowania i monitorowanie efektywności działań SEO.",
+          "tags": [
+            "optymalizacja SEO",
+            "marketing internetowy",
+            "słowa kluczowe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "SmartDom",
+      "description": "- Platforma IoT umożliwiająca zarządzanie inteligentnymi urządzeniami w domu z dowolnego miejsca. Rozwiązanie integruje systemy bezpieczeństwa, energii i komfortu mieszkańców.",
+      "areas": [
+        "technologie smart home",
+        "Internet rzeczy",
+        "bezpieczeństwo i komfort"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista ds. Bezpieczeństwa IT",
+          "description": "+ Audyt systemów informatycznych, zapewnienie zgodności z przepisami GDPR i reagowanie na potencjalne zagrożenia cybernetyczne.",
+          "tags": [
+            "bezpieczeństwo IT",
+            "ochrona danych",
+            "audyt bezpieczeństwa"
+          ]
+        },
+        {
+          "title": "✓ Product Manager",
+          "description": "**Zarządzanie cyklem życia produktu, analiza konkurencji i dostosowywanie funkcji platformy do potrzeb użytkowników.",
+          "tags": [
+            "zarządzanie produktem",
+            "analiza konkurencji",
+            "doskonalenie doświadczenia użytkownika"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 4
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 5
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

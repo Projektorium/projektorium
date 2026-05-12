@@ -1,0 +1,219 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "katarzyna.nowak@example.com",
+      "description": "* Doświadczenie w analizie danych *\n- Biegła znajomość Pythona\n- Umiejętność pracy z dużymi zbiorami danych\n- Zainteresowanie uczeniem maszynowym",
+      "skills": [
+        "Analiza danych",
+        "Python",
+        "Uczenie maszynowe"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Kowalski",
+      "email": "piotr.kowalski@example.com",
+      "description": "- Studia z zakresu sztucznej inteligencji\n* Praktyczne doświadczenie w projektach AI *\n- Komunikatywność i umiejętność pracy w zespole",
+      "skills": [
+        "Sztuczna inteligencja",
+        "Komunikacja",
+        "Projekty AI"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Anna",
+      "last_name": "Wiśniewska",
+      "email": "anna.wisniewska@example.com",
+      "description": "* Kreatywna copywriterka z pasją *\n- Doświadczenie w content marketingu\n- Umiejętność tworzenia angażujących tekstów",
+      "skills": [
+        "Copywriting",
+        "Content marketing",
+        "Kreatywność"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Michał",
+      "last_name": "Lis",
+      "email": "michal.lis@example.com",
+      "description": "- Absolwent matematyki stosowanej\n* Entuzjasta analizy finansowej *\n- Doświadczenie z modelowaniem statystycznym",
+      "skills": [
+        "Analiza finansowa",
+        "Modelowanie statystyczne",
+        "Matematyka"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Wójcik",
+      "email": "karolina.wojcik@example.com",
+      "description": "* Pasjonatka designu UX *\n- Znajomość narzędzi Adobe\n- Umiejętność tworzenia interaktywnych prototypów",
+      "skills": [
+        "Design UX",
+        "Adobe",
+        "Prototypowanie"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Projekt Ekoinnowacji",
+      "description": "- Opracowanie ekologicznych technologii\n* Wprowadzenie innowacyjnych rozwiązań ekologicznych *\n- Badania nad zrównoważonym rozwojem",
+      "areas": [
+        "Ekoinnowacje",
+        "Technologie ekologiczne",
+        "Badania naukowe"
+      ],
+      "open_positions": [
+        {
+          "title": "🌿 Specjalista ds. ekoinnowacji",
+          "description": "- Harmonogramowanie badań nad nowymi technologiami\n* Analiza wpływu rozwiązań na środowisko *\n- Opracowywanie strategii zrównoważonego rozwoju",
+          "tags": [
+            "Ekologia",
+            "Badania naukowe",
+            "Analiza środowiskowa"
+          ]
+        },
+        {
+          "title": "🔬 Asystent badawczy",
+          "description": "* Wspieranie prac badawczych *\n- Analiza wyników eksperymentów\n- Opracowywanie raportów naukowych",
+          "tags": [
+            "Badania naukowe",
+            "Eksperymenty laboratoryjne",
+            "Analiza danych"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Projekt Cyfrowe Trendy",
+      "description": "* Analiza trendów w obszarze IT *\n- Wdrażanie innowacyjnych technologii cyfrowych\n- Tworzenie raportów z analiz rynkowych",
+      "areas": [
+        "Trendy IT",
+        "Technologie cyfrowe",
+        "Analiza rynku"
+      ],
+      "open_positions": [
+        {
+          "title": "💻 Specjalista ds. technologii cyfrowych",
+          "description": "- Przygotowywanie strategii cyfrowych\n* Wdrażanie nowych narzędzi technologicznych *\n- Analiza wydajności systemów IT",
+          "tags": [
+            "Technologie cyfrowe",
+            "Strategia IT",
+            "Analiza danych"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Projekt Kultura i Sztuka Online",
+      "description": "- Tworzenie platformy kulturalnej online\n* Wspieranie artystów i twórców cyfrowych *\n- Promowanie wydarzeń artystycznych",
+      "areas": [
+        "Kultura online",
+        "Sztuka cyfrowa",
+        "Promocja kulturalna"
+      ],
+      "open_positions": [
+        {
+          "title": "🎨 Kurator sztuki online",
+          "description": "* Organizacja wystaw wirtualnych *\n- Komunikacja z artystami i galeriami\n- Planowanie działań promocyjnych",
+          "tags": [
+            "Kuratowanie sztuki",
+            "Kultura online",
+            "Promocja artystyczna"
+          ]
+        },
+        {
+          "title": "💬 Kreatywny copywriter",
+          "description": "- Tworzenie tekstów promocyjnych\n* Redagowanie artykułów kulturalnych *\n- Zarządzanie treściami na platformie",
+          "tags": [
+            "Copywriting",
+            "Kultura",
+            "Redagowanie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Projekt Zrównoważony Rozwój Społeczny",
+      "description": "* Realizacja programów społecznych *\n- Działania na rzecz równości genderowej\n- Analiza wskaźników rozwoju społecznego",
+      "areas": [
+        "Równość społeczna",
+        "Programy społeczne",
+        "Analiza społeczna"
+      ],
+      "open_positions": [
+        {
+          "title": "🌐 Specjalista ds. programów społecznych",
+          "description": "- Koordynacja działań wolontariatu\n* Monitorowanie skuteczności działań społecznych *\n- Współpraca z organizacjami non-profit",
+          "tags": [
+            "Programy społeczne",
+            "Wolontariat",
+            "Zarządzanie projektami"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Projekt Nowatorskie Rozwiązania Logistyczne",
+      "description": "- Optymalizacja łańcucha dostaw\n* Wprowadzenie inteligentnych systemów logistycznych *\n- Analiza efektywności procesów magazynowych",
+      "areas": [
+        "Logistyka",
+        "Technologie logistyczne",
+        "Optymalizacja dostaw"
+      ],
+      "open_positions": [
+        {
+          "title": "🚚 Analityk logistyczny",
+          "description": "* Analiza danych logistycznych *\n- Tworzenie prognoz dostaw\n- Optymalizacja tras transportowych",
+          "tags": [
+            "Analityka logistyczna",
+            "Prognozowanie dostaw",
+            "Optymalizacja logistyczna"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

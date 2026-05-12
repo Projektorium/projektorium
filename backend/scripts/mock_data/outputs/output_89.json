@@ -1,0 +1,248 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Aleksandra",
+      "last_name": "Nowak",
+      "email": "aleksandra.nowak@art.pl",
+      "description": "Tworzenie sztuki to dla mnie jak *śpiew ptaków o wschodzie słońca* - niezwykłe i pełne uroku. - punkt Uwielbiam pracować z tradycyjnymi motywami ludowymi inspirowanymi polskim folklorem, wplatając w nie nowoczesne akcenty.",
+      "skills": [
+        "Malarstwo",
+        "Tkanina Ludowa",
+        "Rzeźba"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Michał",
+      "last_name": "Kowalski",
+      "email": "michal.kowalski@kultura.pl",
+      "description": "**Sztuka jest mostem między marzeniem a rzeczywistością.** - punkt Moje prace odzwierciedlają polską historię i narodowe wartości, starając się odkryć nowe przestrzenie w sztuce współczesnej.",
+      "skills": [
+        "Fotografia",
+        "Instalacja",
+        "Awangarda"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Karolina",
+      "last_name": "Duda",
+      "email": "karolina.duda@kultura.art",
+      "description": "W mojej twórczości chcę wyrazić *piękno ukryte w codzienności*. - punkt Inspiruje mnie polska muzyka ludowa, której rytmy oddają puls życia. Pragnę wspólnie z innymi odnaleźć dziedzictwo naszych przodków na nowo.",
+      "skills": [
+        "Taniec Ludowy",
+        "Muzyka Tradycyjna",
+        "Kreacja Teatralna"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Wójcik",
+      "email": "piotr.wojcik@kultura.net",
+      "description": "*Sztuka to dla mnie język uniwersalnej ekspresji.* - punkt Inspiruję się polską architekturą i zderzeniem tradycji z nowoczesnością. Moje prace próbują zgłębiać tajemnice struktury i formy.",
+      "skills": [
+        "Architektura",
+        "Grafika",
+        "Rysunek"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Magdalena",
+      "last_name": "Wiśniewska",
+      "email": "magdalena.wisniewska@art.kultura",
+      "description": "**Sztuka jest głosem duszy wyrażającym to, czego słowa nie potrafią ująć.** - punkt Polska tradycja ludowa stanowi dla mnie niewyczerpane źródło inspiracji i motywacji do tworzenia. Staram się odkrywać nowe brzmienia w starych melodii.",
+      "skills": [
+        "Pisankarstwo",
+        "Haft",
+        "Plastyka"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Mistyka Polskich Lasów",
+      "description": "*Projekt Mistyka Polskich Lasów* to wyjątkowa podróż w głąb natury i tradycji. Jesteśmy przekonani, że poprzez sztukę i muzykę możemy przywrócić lasom duchowe piękno, łącząc je z polskimi legendami i historią.",
+      "areas": [
+        "Sztuka Dźwięku",
+        "Sztuka Wizualna",
+        "Ekologia"
+      ],
+      "open_positions": [
+        {
+          "title": "Kompozytor Dźwięku Natury",
+          "description": "Poszukujemy osoby, która potrafi w dźwiękach odtworzyć harmonię lasu i jego tajemnicze głosy, inspirując słuchaczy do odkrywania głębszego sensu natury.",
+          "tags": [
+            "Kompozycja Muzyczna",
+            "Nagrania Terenowe"
+          ]
+        },
+        {
+          "title": "Artysta Plenerowy",
+          "description": "Osoba, która potrafi oddać piękno lasu na płótnie, tworząc obrazy oddające mistycyzm polskiej przyrody i jej dzikiej strony.",
+          "tags": [
+            "Malarstwo Pejzażowe",
+            "Plener"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Polonez Nowoczesności",
+      "description": "W projekcie *Polonez Nowoczesności* łączymy tradycję z awangardą, tworząc spektakl taneczny, który przenosi polskie tańce ludowe w świat nowoczesnych interpretacji. To spotkanie historii z przyszłością.",
+      "areas": [
+        "Taniec",
+        "Awangarda",
+        "Historia"
+      ],
+      "open_positions": [
+        {
+          "title": "Choreograf",
+          "description": "Artysta, który potrafi zinterpretować tradycyjne tańce polskie w nowoczesnych układach choreograficznych, odkrywając nowe wymiary emocji i dynamiki.",
+          "tags": [
+            "Choreografia",
+            "Reżyseria Taneczna"
+          ]
+        },
+        {
+          "title": "Stylista Kostiumów",
+          "description": "Osoba odpowiedzialna za stworzenie unikalnych kostiumów łączących tradycję z nowoczesnością, które będą dopełnieniem nowatorskiego spojrzenia na polskie tańce.",
+          "tags": [
+            "Kreacja Kostiumów",
+            "Projektowanie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Odsłonić Architekturę",
+      "description": "Naszym celem w projekcie *Odsłonić Architekturę* jest odkrycie ukrytych historii i emocji, tkwiących w polskich zabytkach architektonicznych. Poprzez sztukę oraz fotografię chcemy przybliżyć ludziom bogactwo polskiej architektury i jej znaczenie w historii kraju.",
+      "areas": [
+        "Architektura",
+        "Fotografia",
+        "Historia"
+      ],
+      "open_positions": [
+        {
+          "title": "Fotograf Architektury",
+          "description": "Poszukujemy fotografa, który potrafi uchwycić piękno i tajemniczość polskich zabytków architektonicznych, oddając ich unikalny charakter i historię.",
+          "tags": [
+            "Fotografia Architektury",
+            "Projektowanie Wizerunku"
+          ]
+        },
+        {
+          "title": "Badacz Historyczny",
+          "description": "Osoba z pasją do historii architektury, która pomoże odkryć nieznane fakty i historie związane z polskim dziedzictwem budowlanym.",
+          "tags": [
+            "Historia Architektury",
+            "Architektura Neogotycka"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Słowiańskie Odpowiedzi",
+      "description": "W projekcie *Słowiańskie Odpowiedzi* pragniemy odkryć mitologię i kulturę dawnych Słowian, szukając inspiracji i mądrości w ich wierzeniach i przekazach. Poprzez rzeźbę i plastykę chcemy oddać hołd naszym korzeniom.",
+      "areas": [
+        "Rzeźba",
+        "Plastyka",
+        "Mitologia"
+      ],
+      "open_positions": [
+        {
+          "title": "Rzeźbiarz Słowian",
+          "description": "Poszukujemy artysty, który potrafi w kamieniu i drewnie uchwycić ducha starożytnych wierzeń słowiańskich, tworząc rzeźby oddające pierwotną harmonię.",
+          "tags": [
+            "Rzeźba Drewniana",
+            "Rzeźba Kamienna"
+          ]
+        },
+        {
+          "title": "Plastyk Mytho-Poloniae",
+          "description": "Osoba, która potrafi w swoich dziełach interpretować mitologię słowiańską i polskie legendy, tworząc nowoczesne arcydzieła łączące tradycję z nowatorskim spojrzeniem.",
+          "tags": [
+            "Plastyka Fantastyczna",
+            "Baśnie Słowiańskie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Dźwięki Polskich Podziemi",
+      "description": "Projekt *Dźwięki Polskich Podziemi* to eksploracja ukrytego świata podziemnych jaskiń i kopalni, gdzie poprzez muzyczną narrację oraz instalacje dźwiękowe pragniemy odkryć tajemnice i historię tego skrytego dziedzictwa. Zapraszamy do wspólnej podróży w mroczny świat dźwięków.",
+      "areas": [
+        "Muzyka",
+        "Sztuka Dźwięku",
+        "Historia"
+      ],
+      "open_positions": [
+        {
+          "title": "Kompozytor Podziemnych Harmonii",
+          "description": "Artysta, który potrafi w dźwiękach przekazać tajemniczość i magię podziemnych przestrzeni, tworząc kompozycje dźwiękowe przenoszące odbiorców w mroczne światy dźwięku.",
+          "tags": [
+            "Kompozycja Elektroniczna",
+            "Muzyka Eksperymentalna"
+          ]
+        },
+        {
+          "title": "Artysta Dźwiękowy Podziemnych Labiryntów",
+          "description": "Osoba odpowiedzialna za stworzenie instalacji dźwiękowych zapraszających do interakcji z ukrytym dziedzictwem podziemi, odkrywając niespotykane brzmienia i historie przeszłości.",
+          "tags": [
+            "Sztuka Dźwiękowa",
+            "Montaż Dźwięku"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 2
+    }
+  ]
+}

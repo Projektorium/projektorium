@@ -1,0 +1,207 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "k.nowak@example.com",
+      "description": "Doktor nauk humanistycznych z zamiłowaniem do analizy tekstu i *semantyki*. Specjalizuje się w interpretacji *literatury współczesnej*. Posiada bogate doświadczenie w *badaniach kulturowych*.",
+      "skills": [
+        "analiza tekstu",
+        "semantyka",
+        "literatura współczesna"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Adam",
+      "last_name": "Kowalski",
+      "email": "a.kowalski@example.com",
+      "description": "Absolwent matematyki z zainteresowaniem *uczeniem maszynowym*. Specjalizuje się w *statystyce* oraz analizie danych. Ekspert w programowaniu w języku Python.",
+      "skills": [
+        "uczenie maszynowe",
+        "statystyka",
+        "Python"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Dąbrowska",
+      "email": "m.dabrowska@example.com",
+      "description": "Filozof z pasją do *etyki biznesu* oraz *filozofii społecznej*. Zajmuje się badaniami nad *etyką komputerową* oraz *moralnością sztucznej inteligencji*.",
+      "skills": [
+        "etyka biznesu",
+        "filozofia społeczna",
+        "etyka komputerowa"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Wójcik",
+      "email": "p.wojcik@example.com",
+      "description": "Informatyk specjalizujący się w *bezpieczeństwie sieci* oraz *kryptografii*. Posiada doświadczenie w projektowaniu *systemów rozproszonych*. Entuzjasta *blockchain*.",
+      "skills": [
+        "bezpieczeństwo sieci",
+        "kryptografia",
+        "systemy rozproszone"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Anna",
+      "last_name": "Lis",
+      "email": "a.lis@example.com",
+      "description": "Historyk z zamiłowaniem do *historiografii* oraz *analizy źródeł historycznych*. Posiada wiedzę z zakresu *XX wieku* oraz *historii globalnej*.",
+      "skills": [
+        "historiografia",
+        "analiza źródeł historycznych",
+        "historia globalna"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Wpływ Sztucznej Inteligencji na Etyczne Decyzje Biznesowe",
+      "description": "Projekt bada, jak *sztuczna inteligencja* wpływa na etyczne decyzje w biznesie, porównując zachowania algorytmów do ludzkich norm moralnych. Analiza odnosi się zarówno do *etyki komputerowej*, jak i *zasad moralnych*.",
+      "areas": [
+        "sztuczna inteligencja",
+        "etyka komputerowa"
+      ],
+      "open_positions": [
+        {
+          "title": "Asystent Badawczy",
+          "description": "Osoba odpowiedzialna za zbieranie i analizę danych dotyczących zachowań algorytmów. Niezbędna umiejętność *analizy danych* oraz *badania naukowego*.",
+          "tags": [
+            "analiza danych",
+            "badanie naukowe"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Etyki",
+          "description": "Ekspert zajmujący się oceną i interpretacją decyzji podjętych przez algorytmy. Wymagana wiedza z zakresu *etyki komputerowej*.",
+          "tags": [
+            "etyka komputerowa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Zastosowanie Matematycznych Modeli Prognozowania w Finansach",
+      "description": "Projekt koncentruje się na wykorzystaniu *modeli matematycznych* do prognozowania zachowań finansowych rynków kapitałowych. Analiza obejmuje zarówno *statystykę* jak i *teorię prawdopodobieństwa*.",
+      "areas": [
+        "finanse",
+        "matematyka"
+      ],
+      "open_positions": [
+        {
+          "title": "Analityk Finansowy",
+          "description": "Osoba odpowiedzialna za tworzenie modeli matematycznych prognozowania i analizy ryzyka finansowego. Wymagana umiejętność *statystyki* oraz *modelowania matematycznego*.",
+          "tags": [
+            "statystyka",
+            "modelowanie matematyczne"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Ryzyka Finansowego",
+          "description": "Ekspert zajmujący się oceną ryzyka i analizą prognoz finansowych. Wymagana umiejętność *teorii prawdopodobieństwa*.",
+          "tags": [
+            "teoria prawdopodobieństwa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Analiza Dyskursu w Kulturze Współczesnej",
+      "description": "Badanie dotyczy *analizy dyskursu* w kontekście formowania się tożsamości kulturowej we współczesnym społeczeństwie. Projekt oparty jest na *interpretacji tekstu* oraz *krytycznej analizie mediów*.",
+      "areas": [
+        "analiza dyskursu",
+        "kulturoznawstwo"
+      ],
+      "open_positions": [
+        {
+          "title": "Asystent Badawczy",
+          "description": "Osoba odpowiedzialna za analizę dyskursu w kontekście współczesnych mediów społecznościowych. Wymagana umiejętność *interpretacji tekstu* oraz *analizy społecznej*.",
+          "tags": [
+            "interpretacja tekstu",
+            "analiza społeczna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Bezpieczeństwo Sieci Blockchain w Systemach Rozproszonych",
+      "description": "Projekt skupia się na zapewnieniu *bezpieczeństwa sieci blockchain* w zdecentralizowanych systemach informatycznych. Analiza opiera się na *kryptografii kwantowej* i *teorii sieci*.",
+      "areas": [
+        "bezpieczeństwo sieci",
+        "blockchain"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Bezpieczeństwa Blockchain",
+          "description": "Osoba odpowiedzialna za implementację zabezpieczeń w sieciach blockchain. Wymagana wiedza z zakresu *kryptografii kwantowej*.",
+          "tags": [
+            "kryptografia kwantowa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Rewizja Interpretacji Historycznych w Kontekście Globalnym",
+      "description": "Projekt analizuje *interpretacje historyczne* z różnych kultur pod kątem ich wpływu na globalne narracje historyczne. Badania opierają się na *porównawczej historiografii* oraz *analizie źródeł*.",
+      "areas": [
+        "historiografia",
+        "analiza źródeł historycznych"
+      ],
+      "open_positions": [
+        {
+          "title": "Badacz Historii Globalnej",
+          "description": "Osoba zajmująca się analizą interpretacji historycznych w kontekście globalnym. Wymagana umiejętność *porównawczej historiografii*.",
+          "tags": [
+            "porównawcza historiografia"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 1
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 2
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Szymon",
+      "last_name": "Kowalski",
+      "email": "szymon.kowalski@bizmail.pl",
+      "description": "*10 years experience in IT industry* →Specialized in software development and project management. ✓Passionate about disruptive technologies and creating innovative solutions.",
+      "skills": [
+        "IT project management",
+        "Software development"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Anna",
+      "last_name": "Nowak",
+      "email": "anna.nowak@bizmail.pl",
+      "description": "-Marketing expert with *global campaign experience* ★Excellent communication skills and business development strategies.",
+      "skills": [
+        "Digital marketing",
+        "Strategic planning"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Piotr",
+      "last_name": "Wiśniewski",
+      "email": "piotr.wisniewski@bizmail.pl",
+      "description": "**Startup enthusiast** ✓Experienced in finance and angel investments. →Dedicated to fostering entrepreneurial spirit in the community.",
+      "skills": [
+        "Finance",
+        "Investment management"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Magdalena",
+      "last_name": "Lis",
+      "email": "magdalena.lis@bizmail.pl",
+      "description": "✓Product design expert with *award-winning portfolio*. →Passionate about user-centered innovation and design thinking.",
+      "skills": [
+        "Product design",
+        "User experience design"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Marcin",
+      "last_name": "Szymański",
+      "email": "marcin.szymanski@bizmail.pl",
+      "description": "*5 years in AI research* →Technical visionary and problem solver. ★Advanced algorithms and neural networks specialist.",
+      "skills": [
+        "Artificial Intelligence",
+        "Algorithm development"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "DataGenius",
+      "description": "★Big data analytics platform for companies ✓Transforming data into actionable insights -Data engineering and predictive modeling. ★Innovative data visualization techniques.",
+      "areas": [
+        "Data Analytics",
+        "Data Visualization"
+      ],
+      "open_positions": [
+        {
+          "title": "★Data Scientist z doświadczeniem w ML",
+          "description": "✓Lead data analysis and machine learning efforts -Develop predictive models and algorithms.",
+          "tags": [
+            "Machine Learning",
+            "Data Analysis"
+          ]
+        },
+        {
+          "title": "★Backend Developer - Python/Django",
+          "description": "→Design and implement scalable backend solutions -Integrate external APIs.",
+          "tags": [
+            "Python",
+            "Django",
+            "API Integration"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "EcoBoost",
+      "description": "✓Sustainable energy solutions for urban environments -Solar, wind, and IoT integration. ★Efficient energy storage systems for residential use.",
+      "areas": [
+        "Renewable Energy",
+        "Smart Cities"
+      ],
+      "open_positions": [
+        {
+          "title": "✓Energy Engineer",
+          "description": "★Research and implement renewable energy technologies -Optimize energy consumption.",
+          "tags": [
+            "Renewable Energy",
+            "Energy Optimization"
+          ]
+        },
+        {
+          "title": "★IoT Specialist",
+          "description": "*IoT network design and implementation* →Develop IoT solutions for smart grids.",
+          "tags": [
+            "IoT",
+            "Smart Grids"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "HealthifyMe",
+      "description": "★Personalized health and fitness app -Nutrition tracking and virtual coaching. ✓Health data analysis for personalized recommendations.",
+      "areas": [
+        "HealthTech",
+        "Fitness Apps"
+      ],
+      "open_positions": [
+        {
+          "title": "★Health Data Analyst",
+          "description": "*Analyze health data for insights* →Generate custom health plans and recommendations.",
+          "tags": [
+            "Health Data Analysis",
+            "Health Recommendations"
+          ]
+        },
+        {
+          "title": "✓Mobile App Developer - iOS/Android",
+          "description": "★Develop intuitive mobile apps -Implement responsive UI designs.",
+          "tags": [
+            "iOS Development",
+            "Android Development",
+            "UI Design"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "VIRTUart",
+      "description": "★Virtual reality art gallery platform ✓Revolutionizing art experience through VR -Virtual exhibitions and immersive storytelling.",
+      "areas": [
+        "Virtual Reality",
+        "ArtTech"
+      ],
+      "open_positions": [
+        {
+          "title": "✓VR Content Creator",
+          "description": "★Design immersive virtual art experiences -Create engaging VR content.",
+          "tags": [
+            "VR Content Creation",
+            "Immersive Experiences"
+          ]
+        },
+        {
+          "title": "★Unity Developer",
+          "description": "-Unity 3D development expertise ★VR simulation design.",
+          "tags": [
+            "Unity 3D",
+            "VR Simulation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "GreenPact",
+      "description": "★Sustainability platform promoting eco-friendly choices -Green initiatives tracking and rewards system. ✓Community engagement for a greener planet.",
+      "areas": [
+        "Sustainability",
+        "EcoTech"
+      ],
+      "open_positions": [
+        {
+          "title": "✓Sustainability Analyst",
+          "description": "*Analyze ecological impact data* -Develop sustainable strategies and initiatives.",
+          "tags": [
+            "Sustainability Analysis",
+            "Green Initiatives"
+          ]
+        },
+        {
+          "title": "★Community Manager",
+          "description": "→Engage with users and community -Promote eco-friendly behaviors.",
+          "tags": [
+            "Community Engagement",
+            "Marketing"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 1,
+      "project_id": 4
+    }
+  ]
+}

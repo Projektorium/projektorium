@@ -1,0 +1,258 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zofia",
+      "last_name": "Kowalska",
+      "email": "zofia.kowalska@example.com",
+      "description": "Miłość do teatru w sercu, *blogowanie* o sztuce w duszy. *Teatr* to moja druga skóra. - Zofia",
+      "skills": [
+        "aktorstwo",
+        "recytacja poezji",
+        "analiza dramaturgii"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Marek",
+      "last_name": "Nowak",
+      "email": "marek.nowak@example.com",
+      "description": "Jestem jak ptak - *wolność* w tańcu. Sztuka łączy *serca* ludzi, to moje *przekonanie*. - Marek",
+      "skills": [
+        "taniec współczesny",
+        "koncepcje sceniczne",
+        "improwizacja"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Wójcik",
+      "email": "magdalena.wojcik@example.com",
+      "description": "**Sztuka!** Bez niej jak bez tchu. *Rzeźbienie* w kamieniu, to jest moje źródło energii. - Magdalena",
+      "skills": [
+        "rzeźba",
+        "malarstwo abstrakcyjne",
+        "instalacje artystyczne"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Lis",
+      "email": "piotr.lis@example.com",
+      "description": "Muzyka to moja dusza, *komponowanie* to moje życie. *Folklor* polski to skarbnica inspiracji. - Piotr",
+      "skills": [
+        "kompozycja muzyczna",
+        "instrumentacja",
+        "aranżacja"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Witkowska",
+      "email": "karolina.witkowska@example.com",
+      "description": "Fotografia to moje okno na świat, wyrażam w niej *emocje* i *tęsknoty*. Odbijam *historię* w kadrze. - Karolina",
+      "skills": [
+        "fotografia artystyczna",
+        "retusz zdjęć",
+        "fotoreportaż"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Przebudzenie Sztuki",
+      "description": "W projekcie Przebudzenie Sztuki pragniemy **ożywić** serca publiczności. *Łączymy* w nim tradycję z nowoczesnością, jak oddech z wiatrem. - Andrzej, uczestnik",
+      "areas": [
+        "teatr",
+        "malarstwo",
+        "performance"
+      ],
+      "open_positions": [
+        {
+          "title": "Reżyser",
+          "description": "Poszukujemy kreatywnego reżysera, który potrafi widzieć znaczenie w każdym *geste*. Połącz *tradycję* z *rewolucją*. - Ogólnopolska Grupa Teatralna",
+          "tags": [
+            "reżyseria",
+            "kierowanie aktorami",
+            "interpretacja dramatu"
+          ]
+        },
+        {
+          "title": "Scenograf",
+          "description": "Twórca przestrzeni magicznych, z sercem *zaklęty* w szczegółach. Wykreuj *świat* naszych marzeń na scenie. - Fundacja Artystyczna Kreatywni",
+          "tags": [
+            "scenografia",
+            "projektowanie przestrzeni",
+            "dekoracje sceniczne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Harmonia Dźwięków",
+      "description": "*Muzyka* to język duszy. Projekt Harmonia Dźwięków pragnie połączyć *kultury* dźwiękami, jak most *między* sercami. - Ewa, uczestniczka",
+      "areas": [
+        "muzyka",
+        "sztuka dźwięku",
+        "interaktywne performance"
+      ],
+      "open_positions": [
+        {
+          "title": "Kompozytor",
+          "description": "Twoje nuty to *historia*, której *brakowało*. Kreuj dźwięki, które piszą opowieści ludzkich serc. - Orkiestra Uniwersytetu Muzycznego",
+          "tags": [
+            "kompozycja",
+            "aranżacja muzyczna",
+            "pisanie partytur"
+          ]
+        },
+        {
+          "title": "Dźwiękowiec",
+          "description": "Mistrz *brzmień* i *harmonii*. Przenoś publiczność w *świat* dźwięków, które poruszają duszę. - Studia Nagraniowe Akustikon",
+          "tags": [
+            "technik dźwięku",
+            "miksowanie",
+            "mastering"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Przestrzeń Wizji",
+      "description": "Projekt Przestrzeń Wizji to spotkanie *kolorów* i *form*. Kreujemy sztukę, której brakowało w codzienności. - Julia, uczestniczka",
+      "areas": [
+        "sztuki plastyczne",
+        "fotografia",
+        "instalacje"
+      ],
+      "open_positions": [
+        {
+          "title": "Artysta Multimedialny",
+          "description": "Twoje projekcje to *opowieści* w ruchu. Ożywiaj obrazy i twórz *rzeźby* w świetle. - Galeria Sztuki Emergencja",
+          "tags": [
+            "projekcje multimedialne",
+            "mapping wizualny",
+            "instalacje świetlne"
+          ]
+        },
+        {
+          "title": "Kurator Wystawy",
+          "description": "Twórca narracji, który układa opowieści *w galerii*. Stwórz podróż przez *historie* i *przyszłość*. - Fundacja Sztuki Poligony",
+          "tags": [
+            "kurator",
+            "organizacja wystaw",
+            "interpretacja dzieł"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Światło w Sercu",
+      "description": "Projekt Światło w Sercu jest odbiciem *nadziei* w sztuce. Pragniemy *rozjaśnić* każdy kąt duszy poprzez *światło* twórczości. - Michał, uczestnik",
+      "areas": [
+        "fotografia",
+        "kinetyczne instalacje",
+        "sztuka światła"
+      ],
+      "open_positions": [
+        {
+          "title": "Fotograf Artystyczny",
+          "description": "Twoje kadry to *historie*, które trwają wiecznie. Uchwyt uśmiech i łzy, *chwytając* chwilę. - Pracownia Fotografii Stworzeń",
+          "tags": [
+            "fotografia artystyczna",
+            "sesje plenerowe",
+            "portret"
+          ]
+        },
+        {
+          "title": "Twórca Instalacji Kinetycznych",
+          "description": "Ruch to *życie*, a ruch w sztuce to magia *egzystencji*. Ożyw obrazy i *przestrzenie*. - Fundacja światła Kinetyka",
+          "tags": [
+            "kinetyczne formy sztuki",
+            "interaktywne instalacje",
+            "sztuka ruchu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Słowa w Tańcu",
+      "description": "Słowa mogą tańczyć, a taniec opowiadać *historie*. Projekt Słowa w Tańcu to spotkanie serc *przez* ruch. - Joanna, uczestniczka",
+      "areas": [
+        "taniec",
+        "literatura",
+        "interdyscyplinarne spektakle"
+      ],
+      "open_positions": [
+        {
+          "title": "Choreograf",
+          "description": "Tańcząc można *mówić* więcej niż słowami. Stwórz opowieść w ruchu, jak poezja w *taktach*. - Teatr Tańca Harmonia",
+          "tags": [
+            "choreografia",
+            "improwizacja taneczna",
+            "interpretacja tekstów"
+          ]
+        },
+        {
+          "title": "Liternik",
+          "description": "Twoje litery to *rysunek* w przestrzeni. Oczytaj *historie* w literach i stwórz emocje w *opowieściach*. - Grupa Literacka Prozaika",
+          "tags": [
+            "pisanie",
+            "tworzenie tekstu",
+            "literacka kreacja"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    }
+  ]
+}

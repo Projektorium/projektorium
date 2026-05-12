@@ -1,0 +1,235 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Alicja",
+      "last_name": "Kowalska",
+      "email": "alicja.kowalska@example.com",
+      "description": "🎨 *Absolwentka sztuki* - Rozwinięta wyobraźnia\n- *Kreatywność artystyczna*\n- *Malarka olejna*\n- *Projektowanie graficzne*",
+      "skills": [
+        "Sztuka",
+        "Projektowanie graficzne",
+        "Kreatywność"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Michał",
+      "last_name": "Nowak",
+      "email": "michal.nowak@example.com",
+      "description": "👨‍💻 **Programista Java** z doświadczeniem\n- *Twórca aplikacji mobilnych*\n- *Bazy danych SQL*\n- Java i Spring Boot",
+      "skills": [
+        "Java",
+        "Programowanie aplikacji",
+        "Bazy danych",
+        "Spring Boot"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Ewa",
+      "last_name": "Dąbrowska",
+      "email": "ewa.dabrowska@example.com",
+      "description": "- Absolwentka **biologii molekularnej** z zamiłowaniem do genetyki\n🔬 *Badaczka DNA*\n- *Analiza sekwencji genów i białek*",
+      "skills": [
+        "Biologia molekularna",
+        "Genetyka",
+        "Analiza DNA"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Jastrzębski",
+      "email": "piotr.jastrzebski@example.com",
+      "description": "📚 *Student historii sztuki* z zainteresowaniem do **restauracji dzieł sztuki**\n- *Historia architektury*\n- *Konserwacja malowideł*",
+      "skills": [
+        "Historia sztuki",
+        "Restauracja dzieł sztuki",
+        "Konserwacja"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Magdalena",
+      "last_name": "Wójcik",
+      "email": "magdalena.wojcik@example.com",
+      "description": "📊 **Analityczka danych** z pasją\n- *Modelowanie statystyczne*\n- *Eksploracja danych*\n- *Python i pandas*",
+      "skills": [
+        "Analiza danych",
+        "Statystyka",
+        "Python",
+        "Eksploracja danych"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Artykuły uliczne",
+      "description": "🎵 **Projekt informacyjny dla ulicznego artysty**\n- *Tworzenie wizerunku artysty na Instagramie*\n- *Wspieranie sprzedaży przez e-commerce*",
+      "areas": [
+        "Sztuka uliczna",
+        "Marketing internetowy"
+      ],
+      "open_positions": [
+        {
+          "title": "📸 Fotograf uliczny",
+          "description": "🎨 *Tworzenie artystycznych zdjęć na potrzeby promocji*\n- *Edycja fotografii*\n- *Zorganizowanie sesji zdjęciowej*",
+          "tags": [
+            "Fotografia",
+            "Promocja",
+            "Sztuka uliczna"
+          ]
+        },
+        {
+          "title": "📱 Specjalista ds. marketingu internetowego",
+          "description": "💻 *Kreatywna promocja na mediach społecznościowych*\n- *Zarządzanie kampaniami reklamowymi*\n- *Analiza danych marketingowych*",
+          "tags": [
+            "Marketing internetowy",
+            "Social media",
+            "E-commerce"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Symfonia genomów",
+      "description": "- **Interdyscyplinarny projekt dotyczący analizy genomów**\n🔬 *Badanie struktury DNA w kontekście ewolucji*\n- *Implementacja algorytmów do analizy sekwencji*",
+      "areas": [
+        "Genetyka",
+        "Bioinformatyka"
+      ],
+      "open_positions": [
+        {
+          "title": "🧬 Genetyk molekularny",
+          "description": "🔍 *Badanie i interpretacja sekwencji genów*\n- *Praca z narzędziami bioinformatycznymi*\n- *Analiza mutacji genetycznych*",
+          "tags": [
+            "Genetyka molekularna",
+            "Bioinformatyka",
+            "Analiza DNA"
+          ]
+        },
+        {
+          "title": "👩‍💻 Programista bioinformatyczny",
+          "description": "💻 *Implementacja algorytmów bioinformatycznych*\n- *Programowanie w języku Python*\n- *Analiza danych sekwencyjnych*",
+          "tags": [
+            "Bioinformatyka",
+            "Python",
+            "Algorytmy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Rekonstrukcje historyczne",
+      "description": "🏰 **Projekt rekonstrukcji historii za pomocą nowoczesnych technologii**\n- *Odtwarzanie zabytków w technice 3D*\n- *Interaktywne wizualizacje historycznych wydarzeń*",
+      "areas": [
+        "Historia sztuki",
+        "Technologie w edukacji"
+      ],
+      "open_positions": [
+        {
+          "title": "🎥 Animator 3D",
+          "description": "🎞️ *Animacja wizualizacji zabytkowych obiektów*\n- *Praca z programami do animacji 3D*\n- *Modelowanie 3D*",
+          "tags": [
+            "Animacja 3D",
+            "Modelowanie",
+            "Odtwarzanie zabytków"
+          ]
+        },
+        {
+          "title": "📚 Historyk sztuki",
+          "description": "🖼️ *Badanie historii sztuki*\n- *Analiza i interpretacja dzieł sztuki*\n- *Tworzenie artykułów naukowych*",
+          "tags": [
+            "Historia sztuki",
+            "Badanie dzieł",
+            "Interpretacja sztuki"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Projekt Leksykon",
+      "description": "- **Tworzenie interaktywnego leksykonu dziedziny nauki**\n📚 *Gromadzenie i redagowanie naukowych terminów*\n- *Opracowywanie krótkich opisów naukowych*",
+      "areas": [
+        "Nauka i edukacja",
+        "Lingwistyka"
+      ],
+      "open_positions": [
+        {
+          "title": "🧠 Redaktor naukowy",
+          "description": "📝 *Redagowanie treści naukowych*\n- *Tworzenie klarownych definicji terminów*\n- *Korekta merytoryczna materiałów*",
+          "tags": [
+            "Redagowanie naukowe",
+            "Korekta",
+            "Definicje naukowe"
+          ]
+        },
+        {
+          "title": "🖌️ Ilustrator naukowy",
+          "description": "🎨 *Tworzenie ilustracji naukowych*\n- *Interpretacja graficzna pojęć naukowych*\n- *Praca z narzędziami graficznymi*",
+          "tags": [
+            "Ilustracje naukowe",
+            "Grafika",
+            "Interpretacja naukowa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Dane Ekosystemów",
+      "description": "🌿 **Badanie danych zróżnicowania ekosystemów na skalę globalną**\n- *Analiza parametrów środowiskowych*\n- *Modelowanie różnorodności gatunkowej*",
+      "areas": [
+        "Ekologia",
+        "Nauki środowiskowe"
+      ],
+      "open_positions": [
+        {
+          "title": "🌏 Ekolog terenowy",
+          "description": "🌱 *Zbieranie i analiza próbek terenowych*\n- *Badanie dynamiki populacji*\n- *Doskonalenie metod pomiarowych*",
+          "tags": [
+            "Badania terenowe",
+            "Ekologia",
+            "Biodiversity"
+          ]
+        },
+        {
+          "title": "🔬 Analityk danych środowiskowych",
+          "description": "📊 *Analiza danych środowiskowych*\n- *Modelowanie statystyczne zjawisk ekologicznych*\n- *Raportowanie wyników badań*",
+          "tags": [
+            "Statystyka środowiskowa",
+            "Modelowanie ekologiczne",
+            "Raportowanie badań"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

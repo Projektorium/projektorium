@@ -1,0 +1,227 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Kowalska",
+      "email": "kasia.kowalska@example.com",
+      "description": "🎓 Absolwentka psychologii\n- Specjalistka ds. badań rynkowych\n*Doświadczenie w analizie danych\n- Pasjonatka trendów konsumenckich",
+      "skills": [
+        "Analiza danych",
+        "Badania rynkowe",
+        "Psychologia"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Mateusz",
+      "last_name": "Nowak",
+      "email": "mateusz.nowak@example.com",
+      "description": "*Entuzjasta AI*\n- Programista z doświadczeniem w Pythonie\n- Absolwent matematyki\n- *Zainteresowania wizualizacją danych*",
+      "skills": [
+        "Programowanie w Python",
+        "Matematyka",
+        "Sztuczna inteligencja"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Monika",
+      "last_name": "Wójcik",
+      "email": "monika.wojcik@example.com",
+      "description": "- Inżynier biomedyczny\n*Specjalistka ds. modelowania\n- Pasjonatka nowoczesnych technologii",
+      "skills": [
+        "Modelowanie",
+        "Inżynieria biomedyczna",
+        "Technologie medyczne"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Jankowski",
+      "email": "piotr.jankowski@example.com",
+      "description": "🖌️ Grafik z 5-letnim doświadczeniem\n- Znajomość Adobe Suite\n- *Zaangażowany w projekty społeczne*",
+      "skills": [
+        "Grafika komputerowa",
+        "Adobe Suite",
+        "Projekty społeczne"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Zofia",
+      "last_name": "Witkowska",
+      "email": "zofia.witkowska@example.com",
+      "description": "*Specjalistka w zarządzaniu projektami*\n- Psycholog biznesu\n- Doświadczenie w prowadzeniu warsztatów",
+      "skills": [
+        "Zarządzanie projektami",
+        "Psychologia biznesu",
+        "Facilitation"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Światło i kolor",
+      "description": "🎨 Projekt badawczy nad wpływem światła na percepcję koloru.\n- Badania laboratoryjne\n- *Analiza wyników*\n*Implementacja oprogramowania do pomiarów*",
+      "areas": [
+        "Psychologia",
+        "Badania naukowe"
+      ],
+      "open_positions": [
+        {
+          "title": "🧪 Analityk kolorystyczny",
+          "description": "Konieczna umiejętność analizy barw\n- *Doświadczenie w badaniach laboratoryjnych*",
+          "tags": [
+            "Psychologia barw",
+            "Analiza kolorystyczna"
+          ]
+        },
+        {
+          "title": "💻 Programista Python",
+          "description": "Programowanie w Python od podstaw\n- *Znajomość bibliotek do analizy danych*",
+          "tags": [
+            "Python",
+            "Analiza danych"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Innowacyjne Materiały w Medycynie",
+      "description": "- Badania nad nowymi technologiami medycznymi\n- *Wdrażanie biomateriałów*\n*Testy biokompatybilności",
+      "areas": [
+        "Biotechnologia",
+        "Medycyna"
+      ],
+      "open_positions": [
+        {
+          "title": "🔬 Technolog biomateriałów",
+          "description": "Doświadczenie w badaniach nad materiałami\n- *Znajomość norm biokompatybilności*",
+          "tags": [
+            "Biomateriały",
+            "Biokompatybilność"
+          ]
+        },
+        {
+          "title": "👨‍⚕️ Asystent lekarza",
+          "description": "Wymagana znajomość procedur medycznych\n- *Umiejętność dokumentacji badań*",
+          "tags": [
+            "Medycyna",
+            "Procesy medyczne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Sztuczna Inteligencja w Marketingu",
+      "description": "*Wykorzystanie AI do analizy zachowań konsumenckich*\n- Kreacja spersonalizowanych strategii\n- *Optymalizacja kampanii reklamowych*",
+      "areas": [
+        "Marketing",
+        "Sztuczna inteligencja"
+      ],
+      "open_positions": [
+        {
+          "title": "📊 Specjalista ds. analizy zachowań",
+          "description": "Doświadczenie w analizie danych konsumenckich\n- *Umiejętność interpretacji wyników analitycznych*",
+          "tags": [
+            "Analiza danych",
+            "Zachowania konsumenckie"
+          ]
+        },
+        {
+          "title": "📈 Ekspert AI",
+          "description": "Zaawansowana wiedza z obszaru sztucznej inteligencji\n- *Implementacja algorytmów uczenia maszynowego*",
+          "tags": [
+            "Sztuczna inteligencja",
+            "Machine learning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Projekt Edukacyjny VR",
+      "description": "- Stworzenie edukacyjnej platformy wirtualnej rzeczywistości\n*Tworzenie interaktywnych scenariuszy*\n- *Testowanie oprogramowania pod kątem ucznia",
+      "areas": [
+        "Edukacja",
+        "Technologie VR"
+      ],
+      "open_positions": [
+        {
+          "title": "👩‍🏫 Projektant interakcji VR",
+          "description": "Znajomość tworzenia interaktywnych scenariuszy\n- *Umiejętność dostosowywania treści do potrzeb edukacyjnych*",
+          "tags": [
+            "Edukacja wirtualna",
+            "Interakcje VR"
+          ]
+        },
+        {
+          "title": "🕹️ Tester oprogramowania VR",
+          "description": "Doświadczenie w testowaniu oprogramowania\n- *Umiejętność raportowania błędów*",
+          "tags": [
+            "Testowanie oprogramowania",
+            "Wirtualna rzeczywistość"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Projekt Artystyczny Współczesnej Formy",
+      "description": "*Promowanie nowatorskich prac artystycznych*\n- Organizacja wystaw\n- *Wsparcie twórców w procesie twórczym*",
+      "areas": [
+        "Sztuka",
+        "Kultura"
+      ],
+      "open_positions": [
+        {
+          "title": "🎨 Koordynator wystaw",
+          "description": "Zarządzanie procesem wystawienniczym\n- *Umiejętność komunikacji z artystami*",
+          "tags": [
+            "Organizacja wystaw",
+            "Sztuka współczesna"
+          ]
+        },
+        {
+          "title": "📸 Fotograf artystyczny",
+          "description": "Doświadczenie w fotografii artystycznej\n- *Kreatywność w uchwyceniu uniwersalnych treści*",
+          "tags": [
+            "Fotografia",
+            "Sztuka"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

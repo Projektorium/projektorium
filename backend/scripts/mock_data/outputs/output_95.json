@@ -1,0 +1,275 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "k.nowak@example.com",
+      "description": "Z wykształcenia jestem *informatykiem*, ale moją prawdziwą pasją jest **projektowanie UX**. Interesuję się także psychologią użytkownika. Chcę rozwijać aplikacje przyjazne i intuicyjne.",
+      "skills": [
+        "Projektowanie UX",
+        "Frontend Development",
+        "Psychologia Użytkownika"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Mateusz",
+      "last_name": "Kowalski",
+      "email": "m.kowalski@example.com",
+      "description": "Jestem *grafikiem komputerowym* specjalizującym się w projektowaniu logo i identyfikacji wizualnej. Mam doświadczenie w pracy z klientami oraz zespołami projektowymi.",
+      "skills": [
+        "Projektowanie Logo",
+        "Identyfikacja Wizualna",
+        "Obsługa Klienta"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Wójcik",
+      "email": "m.wojcik@example.com",
+      "description": "Absolwentka biologii molekularnej. Interesuje się badaniami nad *nowotworami*, zwłaszcza w kontekście genetyki. Posiadam umiejętności analityczne oraz doświadczenie laboratoryjne.",
+      "skills": [
+        "Genetyka",
+        "Biologia Molekularna",
+        "Badania Nowotworów"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Lewandowski",
+      "email": "p.lewandowski@example.com",
+      "description": "Jestem pasjonatem językoznawstwa. Specjalizuję się w *semantyce językowej* oraz tłumaczeniach. Chciałbym rozwijać aplikacje wspierające rozumienie tekstu.",
+      "skills": [
+        "Semantyka Językowa",
+        "Tłumaczenia",
+        "Analiza Tekstu"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Anna",
+      "last_name": "Woźniak",
+      "email": "a.wozniak@example.com",
+      "description": "Informatyk z zamiłowaniem do kreatywnego pisania. **Copywriting** to moja mocna strona. Posiadam doświadczenie w pisaniu treści o różnorodnej tematyce.",
+      "skills": [
+        "Copywriting",
+        "Blogging",
+        "Kreatywne Pisanie"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma E-learningowa",
+      "description": [
+        "📚 Stworzenie interaktywnej platformy edukacyjnej dla studentów *praw*.",
+        "👩‍🏫 Wspieranie nauki poprzez różnorodne materiały i testy online.",
+        "💻 Implementacja systemu oceniania i śledzenia postępów studentów.",
+        "🔍 Dobór treści zgodnie z programem nauczania."
+      ],
+      "areas": [
+        "Edukacja Online",
+        "Prawo",
+        "Platformy Edukacyjne"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. E-learningu",
+          "description": "Odpowiedzialność za tworzenie i wdrażanie treści edukacyjnych online.",
+          "tags": [
+            "Platformy Edukacyjne",
+            "Edukacja Online",
+            "Tworzenie Treści"
+          ]
+        },
+        {
+          "title": "Programista Frontend",
+          "description": "Rozwój interfejsu użytkownika platformy e-learningowej.",
+          "tags": [
+            "Frontend Development",
+            "JavaScript",
+            "React"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Badania Genetyczne nad Nowotworami",
+      "description": [
+        "🧬 Badania nad genetycznymi przyczynami *raka piersi*.",
+        "🔬 Analiza występowania mutacji genów związanych z tym typem nowotworu.",
+        "📊 Opracowanie raportów na podstawie zebranych danych.",
+        "🔬 Współpraca z zespołem lekarzy onkologów."
+      ],
+      "areas": [
+        "Genetyka",
+        "Onkologia",
+        "Badania Kliniczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Analityk Genetyczny",
+          "description": "Analiza i interpretacja wyników badań genetycznych.",
+          "tags": [
+            "Badania Genetyczne",
+            "Analiza Danych",
+            "Genetyka Molekularna"
+          ]
+        },
+        {
+          "title": "Koordynator Badań Klinicznych",
+          "description": "Zarządzanie procesem badawczym nad nowotworami.",
+          "tags": [
+            "Onkologia",
+            "Badania Kliniczne",
+            "Zarządzanie Projektem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Kampania Marketingowa dla Startupu",
+      "description": [
+        "🚀 Opracowanie strategii i kreatywna promocja nowego produktu *wearable tech*.",
+        "📱 Poszukiwanie nowatorskich rozwiązań reklamowych w mediach społecznościowych.",
+        "📈 Analiza efektywności kampanii i optymalizacja działań marketingowych.",
+        "💡 Kreowanie treści wideo prezentujących funkcjonalności urządzenia."
+      ],
+      "areas": [
+        "Marketing Cyfrowy",
+        "Technologie Wearable",
+        "Reklama Online"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Marketingu Cyfrowego",
+          "description": "Tworzenie i monitorowanie kampanii reklamowych online.",
+          "tags": [
+            "Marketing Online",
+            "Social Media",
+            "Kampanie Reklamowe"
+          ]
+        },
+        {
+          "title": "Copywriter Marketingowy",
+          "description": "Pisanie skutecznych tekstów promocyjnych i opisów produktów.",
+          "tags": [
+            "Copywriting",
+            "SEO",
+            "Kreatywne Pisanie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Aplikacja Do Analizy Tekstu",
+      "description": [
+        "📑 Tworzenie narzędzia do **automatycznej analizy tekstu** z zastosowaniem *algorytmów ML*.",
+        "💻 Optymalizacja procesu rozpoznawania tekstów z różnych formatów.",
+        "🔍 Implementacja funkcji OCR dla szybkiego skanowania dokumentów.",
+        "📊 Generowanie raportów i statystyk na podstawie analizy treści."
+      ],
+      "areas": [
+        "Technologia Tekstowa",
+        "Inteligencja AI",
+        "Aplikacje Biznesowe"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. OCR i analizy tekstu",
+          "description": "Rozwój algorytmów OCR i analizy semantycznej tekstu.",
+          "tags": [
+            "Technologia Tekstowa",
+            "Analiza Danych",
+            "Inteligencja AI"
+          ]
+        },
+        {
+          "title": "Programista Python",
+          "description": "Programowanie w języku Python dla modułów analizy tekstu.",
+          "tags": [
+            "Python",
+            "Machine Learning",
+            "Data Analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Aplikacja Do Zarządzania Zespołem",
+      "description": [
+        "🤝 Narzędzie dedykowane do zarządzania *procesami w zespole projektowym*.",
+        "📅 Planowanie harmonogramu prac i śledzenie postępów projektu.",
+        "📈 Generowanie raportów dotyczących efektywności działań zespołu.",
+        "📧 Komunikacja wewnętrzna i podział zadań między członkami zespołu."
+      ],
+      "areas": [
+        "Zarządzanie Projektami",
+        "Koordynacja Zespołu",
+        "Oprogramowanie Biznesowe"
+      ],
+      "open_positions": [
+        {
+          "title": "Koordynator Projektu",
+          "description": "Zarządzanie realizacją projektu oraz koordynacja działań zespołu.",
+          "tags": [
+            "Zarządzanie Projektami",
+            "Koordynacja Zespołu",
+            "Planowanie"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Komunikacji Wewnętrznej",
+          "description": "Odpowiedzialność za efektywną komunikację w zespole projektowym.",
+          "tags": [
+            "Komunikacja Wewnętrzna",
+            "Zarządzanie Projektami",
+            "Planowanie"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 5
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    }
+  ]
+}

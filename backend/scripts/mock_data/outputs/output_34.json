@@ -1,0 +1,228 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Magdalena",
+      "last_name": "Kowalska",
+      "email": "magda.kowalska@example.com",
+      "description": "Artystka o *wizji*, która tkwi w pięknie prostoty. Jej prace emanują siłą natury. - Pani Magdalena twierdzi: 'Sztuka jest mostem łączącym duszę z rzeczywistością.'",
+      "skills": [
+        "malarstwo",
+        "rzeźba",
+        "fotografia"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Nowak",
+      "email": "piotr.nowak@example.com",
+      "description": "Piotr to twórca z obsesją na punkcie detali. Inspirujący innowacją, odmienił wielokrotnie oblicze galerii sztuki. - *'Przestrzeń jest płótnem, na którym maluję moje marzenia'*",
+      "skills": [
+        "instalacje",
+        "malarstwo abstrakcyjne",
+        "nowoczesne media"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Kinga",
+      "last_name": "Jankowska",
+      "email": "kinga.jankowska@example.com",
+      "description": "Kinga fascynuje dźwiękiem, łącząc ją z obrazem. Jej performance przełamują granice sztuki. - **'Sztuka jest drogą do serca, a dźwięk jej kluczem.'**",
+      "skills": [
+        "performance art",
+        "sztuka dźwiękowa",
+        "interaktywne instalacje"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Grzegorz",
+      "last_name": "Lis",
+      "email": "grzegorz.lis@example.com",
+      "description": "- Sztuka Grzegorza to podróż w głąb emocji i spojrzenie na świat z nowej perspektywy. *'Kolory są moim językiem, a płótno moim światem.'*",
+      "skills": [
+        "malarstwo ekspresjonistyczne",
+        "ilustracja książkowa",
+        "sztuka konceptualna"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Anna",
+      "last_name": "Wójcik",
+      "email": "annaw@example.com",
+      "description": "**Twórcza myśl Anny to ogniste wyzwanie dla tradycji. Jej prace odkrywają nowe oblicza sztuki ludowej.** - *Kształt tworzy historię, a kolor przekazuje emocje.*",
+      "skills": [
+        "ceramika artystyczna",
+        "tkactwo",
+        "rzeźba w drewnie"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Żywioł - Elementalność sztuki",
+      "description": "Projekt Żywioł pragnie unicestwić granice między naturą a sztuką. - *'Jestem tylko narzędziem w rękach natury.'*",
+      "areas": [
+        "sztuka ekologiczna",
+        "land art",
+        "interakcje z przestrzenią"
+      ],
+      "open_positions": [
+        {
+          "title": "Kurator wystawy",
+          "description": "Zapraszamy osobę, która potrafi wyciągnąć przesłanie natury z dzieł sztuki. - **'Każda roślina to mój kawałek sztuki.'**",
+          "tags": [
+            "sztuka ekologiczna",
+            "kuratorstwo"
+          ]
+        },
+        {
+          "title": "Fotograf przyrody",
+          "description": "Odważny obserwator, który uchwyci piękno przyrody na kliszy. - *'Każde zdjęcie ma swoją opowieść.'*",
+          "tags": [
+            "fotografia przyrodnicza",
+            "reportaż"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Złote Pogranicze - Śpiew ptaków i natura",
+      "description": "Projekt artystyczny, w którym muzyka ptaków staje się symfonią *zwierząt* i ludzi. - **'Wiatr niesie melodię ptaków, a my jesteśmy ich akompaniamentem.'**",
+      "areas": [
+        "sztuka dźwiękowa",
+        "interakcje z naturą",
+        "bioakustyka"
+      ],
+      "open_positions": [
+        {
+          "title": "Koordynator wydarzeń",
+          "description": "Osoba z organizacyjnym geniuszem i pasją do natury. - *'Każda łąka to potencjał wydarzenia.'*",
+          "tags": [
+            "organizacja wydarzeń",
+            "ekologia kultury"
+          ]
+        },
+        {
+          "title": "Kompozytor dźwięku natury",
+          "description": "Kreatywny muzyk, poszukujący ścieżek dźwiękowych w naturze. - **'Ptasie nuty to moje inspiracje.'**",
+          "tags": [
+            "kompozycja dźwiękowa",
+            "bioakustyka"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Miejska Tkanka - Wzory i Historie",
+      "description": "Inicjatywa łącząca sztukę ludową z miejską przestrzenią. - **'Wszystkie kroki miejskiej tkani prowadzą do historii.'**",
+      "areas": [
+        "sztuka ludowa",
+        "urban art",
+        "tkactwo miejskie"
+      ],
+      "open_positions": [
+        {
+          "title": "Artysta muralista",
+          "description": "Pasjonat, który maluje historie na murach miasta. - *'Kolory miasta są moją paletą.'*",
+          "tags": [
+            "malarstwo ścienne",
+            "urban art"
+          ]
+        },
+        {
+          "title": "Instruktor tkactwa",
+          "description": "Osoba, która przekaże sztukę tkactwa nowemu pokoleniu. - **'Nitka to żyła łącząca pokolenia.'**",
+          "tags": [
+            "tkactwo tradycyjne",
+            "edukacja artystyczna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Ogrody Sztuki - Wzorce Natury",
+      "description": "Projekt inspirowany geometrycznymi formami natury, tworzony wspólnie z artystami. - *'Linie w naturze to harmonia kształtująca przestrzeń.'*",
+      "areas": [
+        "geometria natury",
+        "sztuka interaktywna",
+        "inspiracje botaniczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Projektant ogrodów",
+          "description": "Osoba, która tworzy ogrody jak obrazy - pełne kolorów i form geometrycznych. - **'Kwiaty to moje piksele.'**",
+          "tags": [
+            "architektura krajobrazu",
+            "botanika artystyczna"
+          ]
+        },
+        {
+          "title": "Animator interakcji",
+          "description": "Twórca, który wprowadzi dynamizm w statyczne formy sztuki. - *'Sztuka to ruch, a ruch to życie.'*",
+          "tags": [
+            "sztuka interaktywna",
+            "animacja artystyczna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Szepty Kamienia - Rzeźba w Przestrzeni",
+      "description": "Projekt odkrywający piękno kamienia i jego relację z otoczeniem miejskim. - **'Ka­mienny jaśnie­ciciel skrywa w sobie tajemnicę rzeźby.'**",
+      "areas": [
+        "rzeźba urbanistyczna",
+        "interwencje przestrzenne",
+        "kamieniarstwo artystyczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Rzeźbiarz",
+          "description": "Osoba, która w kamieniu dostrzeże magię formy i treści. - *'Kamień to materiał, z którego tworzę moje marzenia.'*",
+          "tags": [
+            "kamieniarstwo",
+            "rzeźba monumentalna"
+          ]
+        },
+        {
+          "title": "Koordynator przestrzeni",
+          "description": "Mistrz organizacji, który przestrzeń miejską zamieni w galerię sztuki. - **'Każdy kamień opowiada swoją historię.'**",
+          "tags": [
+            "urban art",
+            "organizacja wystaw"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

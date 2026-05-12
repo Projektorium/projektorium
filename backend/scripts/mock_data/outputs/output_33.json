@@ -1,0 +1,253 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zofia",
+      "last_name": "Kowalska",
+      "email": "zofia.kowalska@example.com",
+      "description": "✓ Doświadczenie w zarządzaniu projektami IT. Moja wizja to stworzenie platformy e-commerce zorientowanej na ekologię i społeczną odpowiedzialność.",
+      "skills": [
+        "Zarządzanie projektami",
+        "E-commerce",
+        "Zrównoważony rozwój"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Wojciech",
+      "last_name": "Nowak",
+      "email": "wojciech.nowak@example.com",
+      "description": "*Innowacyjny programista Android z pasją do tworzenia aplikacji mobilnych. Chcę wykorzystać sztuczną inteligencję do zmiany sposobu, w jaki ludzie łączą się ze światem.*",
+      "skills": [
+        "Programowanie Android",
+        "Sztuczna inteligencja",
+        "Aplikacje mobilne"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Natalia",
+      "last_name": "Dąbrowska",
+      "email": "natalia.dabrowska@example.com",
+      "description": "- Doświadczenie w marketingu cyfrowym. Moje cele to rozwój startupu technologicznego związane z edukacją online oraz ekspansja na rynki zagraniczne.",
+      "skills": [
+        "Marketing cyfrowy",
+        "Edukacja online",
+        "Międzynarodowa ekspansja"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Łukasiewicz",
+      "email": "piotr.lukasiewicz@example.com",
+      "description": "**Menedżer finansowy z doświadczeniem w bankowości. Chcę zrewolucjonizować sektor fintech poprzez wprowadzenie innowacyjnych usług płatniczych**",
+      "skills": [
+        "Zarządzanie finansami",
+        "Bankowość",
+        "Fintech"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Woźniak",
+      "email": "karolina.wozniak@example.com",
+      "description": "→ Techniczny specjalista ds. cybersecurity z pasją do ochrony danych. Marzę o stworzeniu narzędzia do wykrywania cyberataków o zwiększonej skuteczności i precyzji.",
+      "skills": [
+        "Cybersecurity",
+        "Analiza danych",
+        "Bezpieczeństwo IT"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "EkoLab",
+      "description": "*Platforma e-commerce promująca produkty ekologiczne i społecznie odpowiedzialne. Zintegrujemy przemysł z zieloną przyszłością.*",
+      "areas": [
+        "Zrównoważony rozwój",
+        "E-commerce"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Ekspert ds. Marketingu",
+          "description": "- Poszukujemy doświadczonego specjalisty ds. marketingu do promocji idei zrównoważonego rozwoju.",
+          "tags": [
+            "Marketing",
+            "Zrównoważoność",
+            "Kampanie społeczne"
+          ]
+        },
+        {
+          "title": "✓ Specjalista ds. Logistyki",
+          "description": "→ Osoba odpowiedzialna za zapewnienie efektywnej logistyki w e-commerce z uwzględnieniem wartości ekologicznych.",
+          "tags": [
+            "Logistyka",
+            "Zielona logistyka",
+            "Zarządzanie łańcuchem dostaw"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "MindfulApp",
+      "description": "✓ Aplikacja mobilna zmieniająca sposób codziennego mindfulness. Ułatwiamy ludziom osiągnięcie równowagi i spokoju w dynamicznym świecie.",
+      "areas": [
+        "Zdrowie psychiczne",
+        "Aplikacje mobilne"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista od UX/UI",
+          "description": "**Poszukujemy osoby kreatywnej z doświadczeniem w projektowaniu intuicyjnych interfejsów użytkownika.**",
+          "tags": [
+            "UX/UI",
+            "Projektowanie interfejsów",
+            "Doświadczenie użytkownika"
+          ]
+        },
+        {
+          "title": "✓ Analityk danych",
+          "description": "→ Osoba zajmująca się analizą danych związanych z korzyściami dla zdrowia psychicznego użytkowników.",
+          "tags": [
+            "Analiza danych",
+            "Zdrowie psychiczne",
+            "Badania statystyczne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "EduTechNow",
+      "description": "→ Platforma edukacyjna oferująca innowacyjne narzędzia do nauki online. Jesteśmy liderem w dostarczaniu spersonalizowanych treści edukacyjnych.",
+      "areas": [
+        "Edukacja online",
+        "Technologie edukacyjne"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Menedżer ds. Partnerskich",
+          "description": "- Poszukujemy osoby z doświadczeniem w nawiązywaniu strategicznych partnerstw biznesowych w sektorze edukacji.",
+          "tags": [
+            "Partnerstwa biznesowe",
+            "Edukacja",
+            "Negocjacje"
+          ]
+        },
+        {
+          "title": "✓ Specjalista ds. Treści",
+          "description": "**Osoba odpowiedzialna za tworzenie i redagowanie treści edukacyjnych dostępnych na platformie.**",
+          "tags": [
+            "Tworzenie treści",
+            "Redakcja",
+            "Pedagogika"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "FintechSolutions",
+      "description": "- Platforma fintech oferująca innowacyjne usługi płatnicze dla klientów biznesowych i indywidualnych. Zmieniamy sposób, w jaki płacisz.",
+      "areas": [
+        "Fintech",
+        "Usługi finansowe"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista ds. Ryzyka",
+          "description": "- Osoba odpowiedzialna za monitorowanie i minimalizowanie ryzyka związanego z transakcjami finansowymi.",
+          "tags": [
+            "Ryzyko finansowe",
+            "Analiza ryzyka",
+            "Kontrole finansowe"
+          ]
+        },
+        {
+          "title": "✓ Analityk płatności",
+          "description": "→ Poszukujemy analityka płatności z doświadczeniem w opracowywaniu efektywnych strategii płatniczych.",
+          "tags": [
+            "Analiza płatności",
+            "Strategie płatnicze",
+            "Finanse"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "SecureTech",
+      "description": "✓ Narzędzie analizy i monitorowania cyberataków z zastosowaniem sztucznej inteligencji. Oferujemy najwyższy poziom bezpieczeństwa dla Twoich danych.",
+      "areas": [
+        "Cybersecurity",
+        "Sztuczna inteligencja"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista ds. Bezpieczeństwa IT",
+          "description": "→ Osoba odpowiedzialna za audyt bezpieczeństwa i zapewnienie integralności systemu zabezpieczeń.",
+          "tags": [
+            "Audyt bezpieczeństwa",
+            "Zabezpieczenia IT",
+            "Reagowanie na incydenty"
+          ]
+        },
+        {
+          "title": "✓ Inżynier bezpieczeństwa Cybersecurity",
+          "description": "**Poszukujemy inżyniera z szeroką wiedzą w dziedzinie cybersecurity do analizy i implementacji rozwiązań bezpieczeństwa.**",
+          "tags": [
+            "Inżynieria bezpieczeństwa",
+            "Bezpieczeństwo sieci",
+            "Zabezpieczenia cybernetyczne"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 2
+    }
+  ]
+}

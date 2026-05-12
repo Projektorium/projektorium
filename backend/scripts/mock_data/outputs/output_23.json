@@ -1,0 +1,230 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Aleksandra",
+      "last_name": "Nowak",
+      "email": "aleksandra.nowak@biznes.pl",
+      "description": "✔ Doświadczenie w e-commerce i marketingu internetowym. Dążę do stworzenia innowacyjnego platformy zakupowej, która rewolucjonizuje sposobność, w jaki ludzie robią zakupy online.",
+      "skills": [
+        "Digital Marketing",
+        "E-commerce Management"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Kowalski",
+      "email": "piotr.kowalski@firmapro.pl",
+      "description": "*Entuzjasta nowych technologii.* Doświadczenie w programowaniu i cyberbezpieczeństwie. Marzę o stworzeniu narzędzia do automatyzacji zadań związanych z bezpieczeństwem IT.",
+      "skills": [
+        "Cybersecurity",
+        "Software Development"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Zofia",
+      "last_name": "Dąbrowska",
+      "email": "zofia.dabrowska@techgenius.pl",
+      "description": "**Specjalizacja w analizie danych i sztucznej inteligencji.** Cel to wykorzystanie AI do usprawniania procesów biznesowych w firmach z obszaru finansów i ubezpieczeń.",
+      "skills": [
+        "Data Analysis",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Michał",
+      "last_name": "Wójcik",
+      "email": "michal.wojcik@innowacjaplus.pl",
+      "description": "★ Zarządzanie projektami w dynamicznych startupach technologicznych. Realizacja produktu od koncepcji do wdrożenia. Planuję stworzyć narzędzie wspierające zarządzanie projektami IT.",
+      "skills": [
+        "Project Management",
+        "IT Product Development"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Katarzyna",
+      "last_name": "Lipińska",
+      "email": "katarzyna.lipinska@biomedica.pl",
+      "description": "→ Doświadczenie w biotechnologii i farmacji. Pasjonuję się medycyną przyszłości. Tworzę startup, który wykorzystuje nowoczesne technologie do diagnozowania chorób genetycznych.",
+      "skills": [
+        "Biotechnology",
+        "Medical Research"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "DataVision",
+      "description": "★★ Platforma AI do analizy dużych zbiorów danych. Rozwiązanie oferuje zaawansowane narzędzia wizualizacyjne oraz predykcyjne analizy dla sektora finansowego.",
+      "areas": [
+        "Artificial Intelligence",
+        "Data Analytics"
+      ],
+      "open_positions": [
+        {
+          "title": "★★ Data Scientist",
+          "description": "★★ Poszukujemy osoby z doświadczeniem w analizie big data. Zadania obejmują modelowanie danych, budowę algorytmów predykcyjnych oraz tworzenie raportów biznesowych.",
+          "tags": [
+            "Machine Learning",
+            "Big Data"
+          ]
+        },
+        {
+          "title": "★ Business Development Manager",
+          "description": "★ Osoba odpowiedzialna za rozwijanie strategii biznesowej firmy, nawiązywanie relacji z klientami oraz identyfikację nowych rynków zbytu.",
+          "tags": [
+            "Strategic Planning",
+            "Sales"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "GreenTech Solutions",
+      "description": "*Innowacyjne rozwiązania ekologiczne.* Startup zajmuje się opracowywaniem technologii energooszczędnych dla budownictwa oraz transportu publicznego.",
+      "areas": [
+        "Clean Energy",
+        "Sustainable Development"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Project Manager",
+          "description": "*Zarządzanie projektem związany z wdrażaniem nowych technologii w sektorze komunalnym. Realizacja harmonogramu działań oraz nadzór nad budżetem.",
+          "tags": [
+            "Project Management",
+            "Renewable Energy"
+          ]
+        },
+        {
+          "title": "★ Software Engineer",
+          "description": "*Odpowiedzialny za rozwój oprogramowania wspierającego ekologiczne inicjatywy. Konfiguracja systemów oraz testowanie aplikacji.",
+          "tags": [
+            "Software Development",
+            "Green Technologies"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "EyeCare Innovations",
+      "description": "→ Technologiczne usprawnienie w diagnostyce wzrokowej. Startup korzysta z algorytmów AI do szybkiej analizy obrazów w celu wykrywania schorzeń oczu.",
+      "areas": [
+        "HealthTech",
+        "Medical Imaging"
+      ],
+      "open_positions": [
+        {
+          "title": "★ AI Specialist",
+          "description": "★ Specjalista ds. sztucznej inteligencji do rozwijania nowych algorytmów do analizy obrazów medycznych. Wymagane doświadczenie w branży medycznej.",
+          "tags": [
+            "Artificial Intelligence",
+            "Medical Diagnostics"
+          ]
+        },
+        {
+          "title": "★ Marketing Specialist",
+          "description": "★ Osoba odpowiedzialna za promocję produktów medycznych, budowanie relacji z klientami oraz prowadzenie działań marketingowych online.",
+          "tags": [
+            "Marketing Strategy",
+            "Healthcare Industry"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "SmartAgroTech",
+      "description": "✓ Innowacyjne rozwiązania dla sektora rolniczego. Nasza technologia oparta na IoT i analizie danych wspomaga farmerów w optymalizacji produkcji rolnej.",
+      "areas": [
+        "Agriculture Technology",
+        "IoT Solutions"
+      ],
+      "open_positions": [
+        {
+          "title": "✓ IoT Specialist",
+          "description": "✓ Osoba z doświadczeniem w budowie sieci IoT dla zastosowań rolniczych. Odpowiedzialna za projektowanie i wdrażanie rozwiązań IoT na farmach.",
+          "tags": [
+            "IoT Development",
+            "Agricultural Innovation"
+          ]
+        },
+        {
+          "title": "✓ Agronomist",
+          "description": "✓ Specjalista od rolnictwa i uprawy roślin. Zadania obejmują wsparcie techniczne farmerów oraz monitorowanie plonów w oparciu o technologie cyfrowe.",
+          "tags": [
+            "Agricultural Science",
+            "Crop Monitoring"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "MediTech Solutions",
+      "description": "★★★ Platforma diagnostyczna oparta o sztuczną inteligencję. Nasze rozwiązanie umożliwia szybką identyfikację chorób na podstawie analizy badań medycznych.",
+      "areas": [
+        "Medical Technology",
+        "Healthcare IT"
+      ],
+      "open_positions": [
+        {
+          "title": "★★★ AI Engineer",
+          "description": "**Specjalista od AI do rozwijania algorytmów diagnostycznych. Konieczne doświadczenie w przetwarzaniu obrazów medycznych oraz analizie dużych zbiorów danych.",
+          "tags": [
+            "Medical Imaging AI",
+            "Healthcare Informatics"
+          ]
+        },
+        {
+          "title": "★ Medical Advisor",
+          "description": "★ Lekarz konsultant odpowiedzialny za weryfikację skuteczności algorytmów diagnostycznych. Wymagane doświadczenie kliniczne w danej specjalizacji.",
+          "tags": [
+            "Medical Expertise",
+            "Clinical Validation"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    }
+  ]
+}

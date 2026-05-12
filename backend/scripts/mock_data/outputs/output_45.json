@@ -1,0 +1,231 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Alicja",
+      "last_name": "Kowalska",
+      "email": "alicja.kowalska@example.com",
+      "description": "Jestem absolwentką informatyki z pasją do tworzenia interaktywnych aplikacji. **JavaScript** to mój konik, ale wciąż chętnie rozwijam umiejętności w *projektowaniu UX* i **React**. W wolnym czasie zajmuję się fotografią i podróżowaniem.",
+      "skills": [
+        "JavaScript",
+        "Projektowanie UX",
+        "React",
+        "Fotografia"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Michał",
+      "last_name": "Nowak",
+      "email": "michal.nowak@example.com",
+      "description": "Jestem entuzjastą biologii molekularnej zafascynowanym badaniami nad nowotworami. Moje umiejętności to przede wszystkim *sekwencjonowanie DNA*, **analiza bioinformatyczna** oraz *badania nad rakiem*. W pracy zespołowej stawiam na efektywną komunikację.",
+      "skills": [
+        "Sekwencjonowanie DNA",
+        "Analiza Bioinformatyczna",
+        "Badania nad rakiem",
+        "Komunikacja interpersonalna"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Wójcik",
+      "email": "magdalena.wojcik@example.com",
+      "description": "**Copywriting** to nie tylko praca, to moje życiowe powołanie. Pasjonuję się kreowaniem treści, które nie tylko przyciągają uwagę, ale także oddziałują emocjonalnie. Moje umiejętności to *SEO copywriting*, **Content Marketing** i tworzenie angażujących treści.",
+      "skills": [
+        "Copywriting",
+        "SEO Copywriting",
+        "Content Marketing",
+        "Kreatywność"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Mazurek",
+      "email": "piotr.mazurek@example.com",
+      "description": "Jestem absolwentem filologii z pasją do języków obcych. Moje *specjalizacje to tłumaczenia literackie* oraz **lingwistyka kognitywna**. W ramach kariery chciałbym zbadać wpływ języka na procesy myślowe.",
+      "skills": [
+        "Tłumaczenia literackie",
+        "Lingwistyka kognitywna",
+        "Analiza lingwistyczna"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Lis",
+      "email": "karolina.lis@example.com",
+      "description": "Moja droga zawodowa to nieustanny rozwój w grafice komputerowej. Od *projektowania logo* po **animacje 3D**, lubię wyzwania i podejmuję je z pasją. Współpraca zespołowa jest dla mnie kluczowa.",
+      "skills": [
+        "Projektowanie Logo",
+        "Animacje 3D",
+        "Adobe Suite",
+        "Kreatywność"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma E-learningowa dla Szkół Podstawowych",
+      "description": [
+        "📚 Rozwijamy platformę e-learningową dedykowaną dla szkół podstawowych, umożliwiającą zdalne nauczanie.",
+        "**Poszukujemy specjalisty ds. rozwoju backendu**, który zaprojektuje skalowalną architekturę systemu.",
+        "*Oczekiwane umiejętności*: Python, Django, Bazy danych"
+      ],
+      "areas": [
+        "Edukacja",
+        "Informatyka",
+        "Pedagogika"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Rozwoju Backendu",
+          "description": "Projektowanie, implementacja i utrzymanie backendu platformy e-learningowej.",
+          "tags": [
+            "Python",
+            "Django",
+            "Bazy danych"
+          ]
+        },
+        {
+          "title": "Inżynier Testów",
+          "description": "Tworzenie testów jednostkowych i automatyzacja procesu testowania.",
+          "tags": [
+            "Testowanie oprogramowania",
+            "Automatyzacja testów"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Badania nad Nowotworami Piersi u Młodych Kobiet",
+      "description": [
+        "🔬 Realizujemy badania nad nowotworami piersi u młodych kobiet, skupiając się na genetycznych czynnikach ryzyka.",
+        "*Poszukujemy bioinformatyka* do analizy dużych zbiorów danych genetycznych.",
+        "**Umiejętności wymagane**: Sekwencjonowanie DNA, Analiza bioinformatyczna"
+      ],
+      "areas": [
+        "Onkologia",
+        "Biologia Molekularna",
+        "Genetyka"
+      ],
+      "open_positions": [
+        {
+          "title": "Bioinformatyk",
+          "description": "Analiza danych genetycznych dotyczących nowotworów piersi u młodych kobiet.",
+          "tags": [
+            "Sekwencjonowanie DNA",
+            "Analiza Bioinformatyczna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Kampania Marketingowa dla Nowej Książki Kryminalnej",
+      "description": [
+        "📖 Przygotowujemy kampanię marketingową dla nowej książki kryminalnej, skupiając się na social mediach i blogosferze.",
+        "*Poszukujemy specjalisty ds. content marketingu* do tworzenia angażujących treści promocyjnych.",
+        "*Wymagane umiejętności*: Copywriting, Content Marketing, Kreatywność"
+      ],
+      "areas": [
+        "Marketing",
+        "Publikacje",
+        "Literatura"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Content Marketingu",
+          "description": "Tworzenie i dystrybucja treści promujących nową książkę kryminalną.",
+          "tags": [
+            "Copywriting",
+            "Content Marketing",
+            "Kreatywność"
+          ]
+        },
+        {
+          "title": "Social Media Manager",
+          "description": "Zarządzanie kampanią marketingową na platformach społecznościowych.",
+          "tags": [
+            "Zarządzanie social media",
+            "Kampanie marketingowe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Analiza Lingwistyczna Przekładów Literackich",
+      "description": [
+        "🔍 Przeprowadzamy analizę lingwistyczną przekładów literackich, badając wpływ języka na odbiór tekstu.",
+        "*Szukamy tłumacza literackiego* z doświadczeniem w analizie językowej.",
+        "**Wymagane umiejętności**: Tłumaczenia literackie, Lingwistyka kognitywna"
+      ],
+      "areas": [
+        "Lingwistyka",
+        "Literatura",
+        "Przekłady"
+      ],
+      "open_positions": [
+        {
+          "title": "Tłumacz Literacki",
+          "description": "Analiza językowa i kulturowa przekładów literackich.",
+          "tags": [
+            "Tłumaczenia literackie",
+            "Lingwistyka kognitywna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Projektowanie Graficzne Kreatywnej Kampanii Muzycznej",
+      "description": [
+        "🎨 Realizujemy projektowanie graficzne kreatywnej kampanii promującej nową płytę muzyczną, łącząc multimedia z sztuką.",
+        "**Poszukujemy animatorki 3D** do stworzenia nowatorskich wizualizacji muzycznych.",
+        "*Umiejętności wymagane*: Projektowanie Logo, Animacje 3D, Adobe Suite"
+      ],
+      "areas": [
+        "Grafika",
+        "Multimedia",
+        "Muzyka"
+      ],
+      "open_positions": [
+        {
+          "title": "Animatorka 3D",
+          "description": "Tworzenie animacji trójwymiarowych związanych z promocją płyty muzycznej.",
+          "tags": [
+            "Projektowanie Logo",
+            "Animacje 3D",
+            "Adobe Suite"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

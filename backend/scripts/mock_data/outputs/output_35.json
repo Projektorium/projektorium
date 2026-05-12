@@ -1,0 +1,261 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Karolina",
+      "last_name": "Kowalska",
+      "email": "karolina.kowalska@example.com",
+      "description": "Jestem grafikiem z pasją do **projektowania UX** i tworzenia czystych interfejsów. Fascynuje mnie psychologia koloru i wpływ designu na użytkownika. Moje cele zawodowe to stałe poszerzanie umiejętności i udział w projektach zespołowych.",
+      "skills": [
+        "Projektowanie UX",
+        "Interakcje użytkownika",
+        "UI/UX Research"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Nowak",
+      "email": "piotr.nowak@example.com",
+      "description": "Absolwent biotechnologii z zamiłowaniem do *biologii molekularnej* i genetyki. Interesuję się badaniami nad CRISPR i terapią genową. Marzę o pracy badawczej nad lekami innowacyjnymi.",
+      "skills": [
+        "Biologia molekularna",
+        "Genetyka",
+        "Badania CRISPR"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Dąbrowska",
+      "email": "magdalena.dabrowska@example.com",
+      "description": "Jestem copywriterką z doświadczeniem w **content marketingu**. Zawsze stawiam na jakość tekstu i kreatywne podejście do każdego projektu. Swoje umiejętności doskonale łączę z analizą danych i SEO.",
+      "skills": [
+        "Copywriting",
+        "Content marketing",
+        "SEO",
+        "Analiza danych"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Tomasz",
+      "last_name": "Jaworski",
+      "email": "tomasz.jaworski@example.com",
+      "description": "Lingwista zajmujący się **językoznawstwem** porównawczym i *tłumaczeniem literackim*. Moje badania koncentrują się na językach skandynawskich. Chcę dzielić się wiedzą i uczestniczyć w międzynarodowych projektach lingwistycznych.",
+      "skills": [
+        "Językoznawstwo",
+        "Tłumaczenie literackie",
+        "Języki skandynawskie"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Anna",
+      "last_name": "Wójcik",
+      "email": "anna.wojcik@example.com",
+      "description": "Specjalistka od **analizy danych** z obszernym doświadczeniem w pracy z danymi. Potrafię ekstrahować istotne informacje i tworzyć klarowne raporty. Chętnie uczestniczę w projektach związanych z machine learningiem i sztuczną inteligencją.",
+      "skills": [
+        "Analiza danych",
+        "Raportowanie",
+        "Machine learning",
+        "Sztuczna inteligencja"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma Edukacyjna 2.0",
+      "description": "🎓 *Platforma Edukacyjna 2.0* to innowacyjny projekt, który ma na celu dostarczenie interaktywnych narzędzi edukacyjnych dla uczniów wszystkich szczebli. Rozwój Webowy, EdTech i UI/UX Design to kluczowe obszary, na których skupia się ta inicjatywa.",
+      "areas": [
+        "Rozwój Webowy",
+        "EdTech",
+        "UI/UX Design"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. UI/UX Design",
+          "description": "Odpowiedzialny za tworzenie intuicyjnych interfejsów użytkownika.",
+          "tags": [
+            "Projektowanie UX",
+            "Interakcje użytkownika",
+            "Web Design"
+          ]
+        },
+        {
+          "title": "Frontend Developer",
+          "description": "Zajmuje się implementacją nowoczesnych rozwiązań frontendowych.",
+          "tags": [
+            "JavaScript",
+            "React",
+            "HTML",
+            "CSS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Badanie nad Nowymi Terapiami Genowymi",
+      "description": "🧬 *Badanie nad Nowymi Terapiami Genowymi* to projekt badawczy, który skupia się na poszukiwaniu innowacyjnych metod leczenia opartych na terapii genowej. Neurobiologia, Genetyka i Farmakologia to kluczowe obszary, które są eksplorowane.",
+      "areas": [
+        "Neurobiologia",
+        "Genetyka",
+        "Farmakologia"
+      ],
+      "open_positions": [
+        {
+          "title": "Badacz Genetyki",
+          "description": "Zajmuje się analizą i interpretacją danych genetycznych.",
+          "tags": [
+            "Genetyka",
+            "Analiza danych",
+            "Badania laboratoryjne"
+          ]
+        },
+        {
+          "title": "Specjalista ds. CRISPR",
+          "description": "Odpowiada za opracowywanie technik związanych z CRISPR.",
+          "tags": [
+            "Biologia molekularna",
+            "CRISPR",
+            "Technologia"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Kultura Tekstu w Nowoczesnym Świecie",
+      "description": "📚 *Kultura Tekstu w Nowoczesnym Świecie* to projekt interdyscyplinarny, który bada wpływ tekstu literackiego na współczesną kulturę. Filologia, *teoria literatury* i Socjologia Literatury to kluczowe obszary, których dotyka ta inicjatywa.",
+      "areas": [
+        "Filologia",
+        "Teoria literatury",
+        "Socjologia Literatury"
+      ],
+      "open_positions": [
+        {
+          "title": "Badacz Literatury Porównawczej",
+          "description": "Analizuje zjawiska transkulturowe i intertekstualne w literaturze.",
+          "tags": [
+            "Literatura porównawcza",
+            "Analiza literacka",
+            "Badania kulturowe"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Redakcji",
+          "description": "Zajmuje się edycją i redakcją tekstów literackich.",
+          "tags": [
+            "Redakcja",
+            "Korekta",
+            "Literatura"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Analiza Big Data w Badaniach Lingwistycznych",
+      "description": "🔍 *Analiza Big Data w Badaniach Lingwistycznych* to projekt skupiający się na zastosowaniu zaawansowanych technik analizy danych w badaniach językoznawczych. Językoznawstwo, Statystyka i Informatyka są kluczowymi obszarami, na których skupia się ten projekt.",
+      "areas": [
+        "Językoznawstwo",
+        "Statystyka",
+        "Informatyka"
+      ],
+      "open_positions": [
+        {
+          "title": "Analityk Danych Lingwistycznych",
+          "description": "Odpowiedzialny za analizę lingwistycznych wzorców w dużych zbiorach danych.",
+          "tags": [
+            "Językoznawstwo",
+            "Analiza danych",
+            "Statystyki językowe"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Programowania Lingwistycznego",
+          "description": "Programuje narzędzia wspomagające badania lingwistyczne.",
+          "tags": [
+            "Python",
+            "Lingwistyka komputerowa",
+            "Natural Language Processing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Inteligentne Systemy Wsparcia Decyzji",
+      "description": "🤖 *Inteligentne Systemy Wsparcia Decyzji* to projekt rozwijający technologie wspomagające podejmowanie decyzji oparte na sztucznej inteligencji. Analiza danych, Algorytmy i Decision Science to obszary kluczowe dla tego przedsięwzięcia.",
+      "areas": [
+        "Analiza danych",
+        "Algorytmy",
+        "Decision Science"
+      ],
+      "open_positions": [
+        {
+          "title": "Inżynier Sztucznej Inteligencji",
+          "description": "Tworzy modele predykcyjne dla systemów wspomagania decyzji.",
+          "tags": [
+            "Machine learning",
+            "Sztuczna inteligencja",
+            "Algorithms"
+          ]
+        },
+        {
+          "title": "Analityk Decyzyjny",
+          "description": "Analizuje dane i dostarcza rekomendacje oparte na analizie predykcyjnej.",
+          "tags": [
+            "Analiza danych",
+            "Decision Science",
+            "Statystyka"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

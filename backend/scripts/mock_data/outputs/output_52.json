@@ -1,0 +1,245 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Aleksandra",
+      "last_name": "Wisniewska",
+      "email": "aleksandra.wisniewska@example.com",
+      "description": "Absolwentka biologii molekularnej z zamiłowaniem do *genetyki populacyjnej*. Doświadczona w analizie danych sekwencjonowania DNA oraz analizie filogenetycznej. Zajmuje się również badaniami z zakresu ekologii molekularnej.",
+      "skills": [
+        "Analiza danych",
+        "Genetyka populacyjna",
+        "Filogeneza"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Krzysztof",
+      "last_name": "Nowakowski",
+      "email": "krzysztof.nowakowski@example.com",
+      "description": "Doktor informatyki specjalizujący się w *sztucznej inteligencji*. Posiada bogate doświadczenie w uczeniu maszynowym oraz rozpoznawaniu wzorców w danych. Zainteresowania badawcze obejmują również robotykę i uczenie głębokie.",
+      "skills": [
+        "Sztuczna inteligencja",
+        "Uczenie maszynowe",
+        "Robotyka"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Kowalska",
+      "email": "magdalena.kowalska@example.com",
+      "description": "Asystentka socjologii z zainteresowaniem dla **analizy jakościowej**. Specjalizuje się w badaniach partycypacyjnych oraz teorii społecznych. Posiada doświadczenie w badaniach terenowych i analizie danych jakościowych.",
+      "skills": [
+        "Analiza jakościowa",
+        "Badania partycypacyjne",
+        "Teoria społeczna"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Lewandowski",
+      "email": "piotr.lewandowski@example.com",
+      "description": "Badacz fizyki teoretycznej z pasją do badania *teorii strun*. Specjalizuje się w fizyce cząstek elementarnych oraz kosmologii. Posiada doświadczenie w modelowaniu matematycznym zjawisk fizycznych.",
+      "skills": [
+        "Teoria strun",
+        "Fizyka cząstek",
+        "Kosmologia"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Ewa",
+      "last_name": "Zielinska",
+      "email": "ewa.zielinska@example.com",
+      "description": "Absolwentka historii sztuki z zainteresowaniem dla **analizy dzieł sztuki**. Posiada doświadczenie w badaniach ikonograficznych oraz historii architektury. Zajmuje się również interpretacją dzieł sztuki nowoczesnej.",
+      "skills": [
+        "Analiza dzieł sztuki",
+        "Ikonoografia",
+        "Architektura"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Dynamika Klimatu: Wpływ na Ekosystemy Lądowe",
+      "description": "Projekt bada interakcje pomiędzy zmianami klimatu a ekosystemami lądowymi, porównując je do tańca, gdzie zmiany warunkują ruchy i reakcje partnerów. Poprzez analizę danych ekologicznych i modelowanie matematyczne staramy się odsłonić ukryte wzorce w zachowaniu ekosystemów.",
+      "areas": [
+        "Ekologia",
+        "Zmiany klimatyczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Badacz Ekosystemów",
+          "description": "Poszukujemy osoby do prowadzenia badań nad zmianami ekosystemów lądowych pod wpływem czynników klimatycznych. Wymagane doświadczenie w analizie danych ekologicznych oraz modelowaniu matematycznym.",
+          "tags": [
+            "Analiza danych",
+            "Modelowanie matematyczne",
+            "Ekologia lądowa"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Zmian Klimatycznych",
+          "description": "Osoba odpowiedzialna za analizę wpływu zmian klimatu na strukturę ekosystemów lądowych. Wymagane umiejętności z zakresu ekologii globalnej oraz interpretacji danych klimatycznych.",
+          "tags": [
+            "Zmiany klimatyczne",
+            "Ekologia globalna",
+            "Interpretacja danych"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Nowe Źródła Energii: Matematyczne Modele Prognozowania",
+      "description": "Projekt ten porównuje poszukiwanie nowych źródeł energii do odkrywania skarbów, gdzie matematyczne modele stanowią mapę wskazującą drogę do odkrycia. Poprzez analizę danych energetycznych i tworzenie prognoz staramy się zrewolucjonizować sektor energetyczny.",
+      "areas": [
+        "Energetyka",
+        "Matematyka"
+      ],
+      "open_positions": [
+        {
+          "title": "Analityk Energetyczny",
+          "description": "Osoba analizująca i interpretująca dane dotyczące nowych źródeł energii. Wymagane doświadczenie w analizie szeregów czasowych oraz prognozowaniu na podstawie danych statystycznych.",
+          "tags": [
+            "Analiza szeregów czasowych",
+            "Prognozowanie",
+            "Nowe źródła energii"
+          ]
+        },
+        {
+          "title": "Matematyk Energii Odnawialnej",
+          "description": "Specjalista zajmujący się tworzeniem matematycznych modeli prognozowania w sektorze odnawialnych źródeł energii. Wymagane umiejętności z zakresu matematyki stosowanej i analizy danych energetycznych.",
+          "tags": [
+            "Modelowanie matematyczne",
+            "Energia odnawialna",
+            "Analiza danych"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Demokracja i Partycypacja Społeczna: Wyzwania Współczesności",
+      "description": "Projekt ten opisuje dążenie do demokratycznego społeczeństwa jako podróż ku nieznanemu, gdzie analiza społeczna stanowi kompas wiodący przez zawiłe ścieżki partycypacji. Poprzez badania partycypacyjne i analizę społeczną staramy się kreować wspólną przestrzeń demokratyczną.",
+      "areas": [
+        "Socjologia",
+        "Demokracja"
+      ],
+      "open_positions": [
+        {
+          "title": "Analityk Społeczny",
+          "description": "Osoba odpowiedzialna za analizę danych społecznych związanych z partycypacją społeczną. Wymagane umiejętności z zakresu socjologii oraz analizy danych jakościowych.",
+          "tags": [
+            "Analiza danych społecznych",
+            "Badania partycypacyjne",
+            "Demokratyzacja"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Demokracji",
+          "description": "Poszukujemy specjalisty zajmującego się badaniami demokracji i partycypacji społecznej. Wymagane doświadczenie w analizie jakościowej i teoriach demokratycznych.",
+          "tags": [
+            "Demokracja",
+            "Partycypacja społeczna",
+            "Analiza jakościowa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Światło i Mroczna Materii: Tajemnice Wszechświata",
+      "description": "Projekt skupia się na odsłanianiu tajemnic Wszechświata poprzez badanie wpływu światła i mrocznej materii na jego strukturę, porównując je do dwóch antagonistycznych sił, które współgrają w harmonii. Poprzez badania kosmologiczne i teoretyczne staramy się zgłębić tajemnice Wszechświata.",
+      "areas": [
+        "Fizyka",
+        "Kosmologia"
+      ],
+      "open_positions": [
+        {
+          "title": "Fizyk Teoretyk",
+          "description": "Badacz zajmujący się teorią strun oraz kosmologią. Wymagane umiejętności w modelowaniu matematycznym i analizie danych astronomicznych.",
+          "tags": [
+            "Teoria strun",
+            "Kosmologia",
+            "Modelowanie matematyczne"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Mrocznej Materii",
+          "description": "Osoba do badania mrocznej materii i jej wpływu na strukturę Wszechświata. Wymagane doświadczenie w badaniach kosmologicznych i analizie danych astronomicznych.",
+          "tags": [
+            "Mroczna materia",
+            "Kosmologia",
+            "Badania astronomiczne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Sztuka Nowoczesna: Interpretacje i Konteksty",
+      "description": "Projekt skupia się na analizie dzieł sztuki nowoczesnej jako mapie, która prowadzi przez labirynt współczesnych kontekstów i interpretacji. Poprzez badania ikonograficzne i krytyczne staramy się odkryć nowe znaczenia dzieł sztuki.",
+      "areas": [
+        "Historia Sztuki",
+        "Krytyka Sztuki"
+      ],
+      "open_positions": [
+        {
+          "title": "Historyk Sztuki",
+          "description": "Poszukujemy historyka sztuki zajmującego się analizą dzieł sztuki nowoczesnej. Wymagane umiejętności w interpretacji ikonograficznej oraz teorii sztuki.",
+          "tags": [
+            "Analiza dzieł sztuki",
+            "Interpretacja ikonograficzna",
+            "Teoria sztuki"
+          ]
+        },
+        {
+          "title": "Krytyk Sztuki Nowoczesnej",
+          "description": "Osoba do analizy i oceny dzieł sztuki nowoczesnej w kontekście współczesnej kultury. Wymagane doświadczenie w krytyce artystycznej i historii sztuki.",
+          "tags": [
+            "Krytyka sztuki",
+            "Analiza kulturowa",
+            "Historia sztuki"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

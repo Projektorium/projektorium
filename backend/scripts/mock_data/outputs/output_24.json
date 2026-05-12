@@ -1,0 +1,253 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Adrianna",
+      "last_name": "Kowalska",
+      "email": "adrianna.kowalska@example.com",
+      "description": "Artystka z pasją, inspiracją i wrażliwością. *Tworzenie sztuki to moje powołanie*. - podkreśla Adrianna. Jej prace często nawiązują do polskiej folklorystyki i współczesnej kultury.",
+      "skills": [
+        "malarstwo",
+        "rzeźba",
+        "tkactwo"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Michał",
+      "last_name": "Nowak",
+      "email": "michal.nowak@example.com",
+      "description": "Litery czarują mnie najbardziej. *W każdym słowie kryje się historia*. - rozbudzająca wyobraźnię Michał, wieszczy piękno w literackich dziełach.",
+      "skills": [
+        "pisanie",
+        "redakcja",
+        "tłumaczenie"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Anna",
+      "last_name": "Jagielska",
+      "email": "anna.jagielska@example.com",
+      "description": "Fotografia jest moim oknem na świat. *Każde ujęcie to nowa opowieść*. - wyznaje Anna, odzwierciedlając polskie krajobrazy i codzienność.",
+      "skills": [
+        "fotografia",
+        "retusz",
+        "fotoreportaż"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Tomasz",
+      "last_name": "Wójcik",
+      "email": "tomasz.wojcik@example.com",
+      "description": "Teatr to magia, która skłania do refleksji i wzruszeń. **Sceny pełne emocji i symboli** - Tomasz kreuje niezwykłe historie, zatopione w polskiej dramaturgii.",
+      "skills": [
+        "reżyseria",
+        "scenografia",
+        "aktorstwo"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Adamczyk",
+      "email": "karolina.adamczyk@example.com",
+      "description": "Muzyka to mój oddech i melodia mojego życia. - *Dźwięki skrywają wiele tajemnic*. - Karolina połączyła polskie tradycje muzyczne z nowoczesnością.",
+      "skills": [
+        "śpiew",
+        "kompozycja",
+        "instrumentalizacja"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Mistyczne Malowidła",
+      "description": "Projekt nacechowany magią i mistycyzmem. *Sztuka, która łączy przeszłość z teraźniejszością*. - zapewnia jedna z uczestniczek. Inspiracje czerpane z polskich legend i sztuki ludowej.",
+      "areas": [
+        "malarstwo",
+        "sztuka ludowa"
+      ],
+      "open_positions": [
+        {
+          "title": "Kurator wystawy",
+          "description": "Koordynacja artystyczna i tematyczna. **Odpowiedzialność za przekaz kulturowy**. - wymagane doświadczenie w projektach kulturowych.",
+          "tags": [
+            "kurator",
+            "koordynator",
+            "sztuka"
+          ]
+        },
+        {
+          "title": "Asystent fotografa",
+          "description": "Wsparcie artystyczne w dokumentacji projektu. *Uchwycanie magii obrazem**. - konieczne umiejętności fotograficzne i kreatywność.",
+          "tags": [
+            "fotografia",
+            "fotoreportaż",
+            "sztuka"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Literackie Labirynty",
+      "description": "Intrygująca podróż między słowami i emocjami. *Każda strona skrywa niezwykłą historię*. - wyznaje jeden z entuzjastów literatury. Projekt inspirowany polskimi pisarzami i poetami.",
+      "areas": [
+        "literatura",
+        "pisarstwo"
+      ],
+      "open_positions": [
+        {
+          "title": "Redaktor Tekstów",
+          "description": "Korekta, redagowanie i dopracowywanie treści. **Kreowanie przejrzystych i pięknych słów**. - mile widziane doświadczenie w dziedzinie edytorstwa.",
+          "tags": [
+            "redakcja",
+            "pisarstwo",
+            "język polski"
+          ]
+        },
+        {
+          "title": "Animator Literacki",
+          "description": "Ożywiający narrację i fabułę. *Tworzenie magicznych opowieści**. - poszukiwany talent do artykulacji treści literackich.",
+          "tags": [
+            "animacja",
+            "narracja",
+            "literatura"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Fotograficzne Opowieści",
+      "description": "Historie uchwycone w kadrach pełnych emocji. **Fotografia, która mówi więcej niż tysiąc słów**. - przekonuje jeden z wielbicieli fotografii. Projekt z naciskiem na zróżnicowane aspekty polskiego krajobrazu.",
+      "areas": [
+        "fotografia",
+        "sztuka wizualna"
+      ],
+      "open_positions": [
+        {
+          "title": "Retuszer Fotograficzny",
+          "description": "Dopracowywanie detali i wyrazistości kadrów. *Magia, która subtelnie uwydatnia emocje**. - wymagana umiejętność dostrzegania piękna w detalu.",
+          "tags": [
+            "retusz",
+            "edycja",
+            "fotografia"
+          ]
+        },
+        {
+          "title": "Asystent Produkcji",
+          "description": "Wsparcie organizacyjne i techniczne projektu. **Kreowanie przestrzeni dla narracji w obrazie**. - doświadczenie w pracy nad produkcją fotograficzną mile widziane.",
+          "tags": [
+            "organizacja",
+            "fotografia",
+            "produkcja"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Teatr Światła i Cienia",
+      "description": "Spektakle odsłaniające miłość, tajemnice i ludzkie emocje. *Sceny, gdzie marzenia stają się rzeczywistością**. - zachwycający inny teatralny entuzjasta. Projekt ucieleśniający polską dramaturgię i teatralne tradycje.",
+      "areas": [
+        "teatr",
+        "dramat"
+      ],
+      "open_positions": [
+        {
+          "title": "Reżyser Spektaklu",
+          "description": "Kreowanie działań scenicznego przedstawienia. **Kierowanie aktorami ku głębokim emocjom**. - poszukiwany talent reżyserski z doświadczeniem w teatrze dramatycznym.",
+          "tags": [
+            "reżyseria",
+            "dramat",
+            "spektakl"
+          ]
+        },
+        {
+          "title": "Scenograf Teatralny",
+          "description": "Koncepcja przestrzeni i wizualizacja scenografii. *Tworzenie magicznych artystycznych światów**. - wymagane portfolio prac scenograficznych.",
+          "tags": [
+            "scenografia",
+            "design",
+            "teatr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Melodia Sentymentalna",
+      "description": "Bogactwo dźwięków i harmonii, ukazujące piękno w każdej nucie. - *Muzyka, która dotyka serc i umysłów*. - zachwycający słuchacze wypowiadają się. Projekt zainspirowany polskimi brzmieniami i tradycją muzyczną.",
+      "areas": [
+        "muzyka",
+        "kompozycja"
+      ],
+      "open_positions": [
+        {
+          "title": "Śpiewak Solowy",
+          "description": "Wyrażanie emocji poprzez unikalny i bogaty głos. **Dźwięki, które przenikają duszę**. - poszukiwany talent wokalny z głębokim przekazem emocjonalnym.",
+          "tags": [
+            "śpiew",
+            "muzyka",
+            "interpretacja"
+          ]
+        },
+        {
+          "title": "Kompozytor Orkiestrowy",
+          "description": "Tworzenie aranżacji i utworów muzycznych. *Symfonie, które malują krajobrazy dźwiękiem**. - wymagane doświadczenie kompozytorskie w muzyce klasycznej.",
+          "tags": [
+            "kompozycja",
+            "aranżacja",
+            "muzyka"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 2
+    }
+  ]
+}

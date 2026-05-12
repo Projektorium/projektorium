@@ -1,0 +1,218 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Agata",
+      "last_name": "Nowak",
+      "email": "agata.nowak@example.com",
+      "description": "Artystka i animatorka kultury. *Kocham tworzyć z ludźmi wrażliwymi na piękno sztuki*. - Agata Nowak",
+      "skills": [
+        "Malarstwo",
+        "Edukacja kulturalna"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Krzysztof",
+      "last_name": "Kowalski",
+      "email": "krzysztof.kowalski@example.com",
+      "description": "**Zanurzony w dźwiękach i pejzażach, przemyśleń malowniczych i muzycznych**. - Krzysztof Kowalski",
+      "skills": [
+        "Fotografia",
+        "Kompozycja dźwiękowa"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Halina",
+      "last_name": "Dąbrowska",
+      "email": "halina.dabrowska@example.com",
+      "description": "Jestem marzycielką, która w każdym kawałku papieru widzi nowy świat pełen możliwości. - Halina Dąbrowska",
+      "skills": [
+        "Rzeźba papierowa",
+        "Projektowanie graficzne"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Karol",
+      "last_name": "Wójcik",
+      "email": "karol.wojcik@example.com",
+      "description": "*Kreatywny entuzjasta sztuki nowoczesnej i redefinicji tradycji. Uwielbiam połączenie dziedzictwa ze współczesnością*. - Karol Wójcik",
+      "skills": [
+        "Sztuka instalacji",
+        "Nowe media"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Natalia",
+      "last_name": "Szczepańska",
+      "email": "natalia.szczepanska@example.com",
+      "description": "Tancerka wrażeń, malarka emocji. - Natalia Szczepańska",
+      "skills": [
+        "Taniec współczesny",
+        "Malarstwo abstrakcyjne"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Światło i Cień",
+      "description": "Inicjatywa artystyczna, która *przenosi widza w krainę światła i cienia, gdzie czas tonie w magii oświetlenia*. - Uczestnik projektu",
+      "areas": [
+        "Sztuka wizualna",
+        "Instalacja świetlna"
+      ],
+      "open_positions": [
+        {
+          "title": "Kuratorka wystawy",
+          "description": "*Poszukujemy osoby o niezwykłym oku na detale i wrażliwość na grę światła*. - Ogłoszenie rekrutacyjne",
+          "tags": [
+            "Kuratorka",
+            "Sztuka światła"
+          ]
+        },
+        {
+          "title": "Asystent scenografa",
+          "description": "Współpraca z mistrzem scenografii, *doświadczenie niekonieczne, pasja wymagana*. - Ogłoszenie rekrutacyjne",
+          "tags": [
+            "Scenografia",
+            "Teatr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Echo Melodii",
+      "description": "**Projekt muzyczny, w którym dźwięki współbrzmią z naturą, a melodie wywołują echa w duszy słuchacza**. - Uczestnik projektu",
+      "areas": [
+        "Muzyka",
+        "Dźwięk"
+      ],
+      "open_positions": [
+        {
+          "title": "Instrumentalista dęty",
+          "description": "**Poszukujemy pasjonata zabarwionych dźwięków, gotowego do współtworzenia magicznej symfonii natury**. - Ogłoszenie rekrutacyjne",
+          "tags": [
+            "Instrumentalista",
+            "Muzyka ambient"
+          ]
+        },
+        {
+          "title": "Animator dźwięku",
+          "description": "*Odszukujemy talent, który poprzez dźwięki otworzy nowe emocje i kierunki artystycznego rozwoju*. - Ogłoszenie rekrutacyjne",
+          "tags": [
+            "Dźwiękowiec",
+            "Produkcja muzyczna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Płótno Wyobraźni",
+      "description": "Projekt, który *przekształca marzenia w realne obrazy, maluje je na płótnie wspólnej wyobraźni*. - Uczestnik projektu",
+      "areas": [
+        "Malarstwo",
+        "Sztuka interaktywna"
+      ],
+      "open_positions": [
+        {
+          "title": "Asystent artysty",
+          "description": "*Poszukujemy wsparcia młodego talentu, gotowego podążać w świat fantazji i przekuwać je w sztukę*. - Ogłoszenie rekrutacyjne",
+          "tags": [
+            "Asystent malarza",
+            "Sztuka kontekstualna"
+          ]
+        },
+        {
+          "title": "Animator kreatywności",
+          "description": "Odbierz wyzwanie i *stań przed płótnem, gdzie wyobraźnia tańczy w rytm barw i form*. - Ogłoszenie rekrutacyjne",
+          "tags": [
+            "Animator",
+            "Sztuka kolażu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "W brzmieniach dekonstrukcji",
+      "description": "*Projekt odrywający dźwięki od rzeczywistości, składający je na nowo w labiryncie dźwiękowych struktur*. - Uczestnik projektu",
+      "areas": [
+        "Dźwięk",
+        "Eksperyment dźwiękowy"
+      ],
+      "open_positions": [
+        {
+          "title": "Dźwiękowy inżynier",
+          "description": "**Szukamy kogoś, kto potrafi wyciągnąć dźwięki z przestrzeni nieznanego, zbudować kolejność dźwiękowych światów**. - Ogłoszenie rekrutacyjne",
+          "tags": [
+            "Inżynier dźwięku",
+            "Dźwięki abstrakcyjne"
+          ]
+        },
+        {
+          "title": "Kompozytor dźwięku",
+          "description": "Twórz z nami dźwięki, które *nie pasują do schematów, tylko wyznaczają nowe granice słyszalności*. - Ogłoszenie rekrutacyjne",
+          "tags": [
+            "Kompozytor",
+            "Dźwiękowa eksploracja"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Tańczące barwy",
+      "description": "**Malarski projekt, w którym kolory stają się tancerzami na płótnie, a pędzel prowadzi w kraj sztuki abstrakcji**. - Uczestnik projektu",
+      "areas": [
+        "Malarstwo",
+        "Sztuka abstrakcyjna"
+      ],
+      "open_positions": [
+        {
+          "title": "Tancerka barw",
+          "description": "Dołącz do nas, aby *oddech kolorytu stał się Twoim tańcem, a krople farby muzyką*. - Ogłoszenie rekrutacyjne",
+          "tags": [
+            "Tancerka",
+            "Malarstwo impresjonistyczne"
+          ]
+        },
+        {
+          "title": "Kreator formy",
+          "description": "*Twórz z nami nowe kształty i wymiary, rozrywając granice malarstwa tradycyjnego*. - Ogłoszenie rekrutacyjne",
+          "tags": [
+            "Kreator",
+            "Sztuka geometryczna"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    },
+    {
+      "user_id": 4,
+      "project_id": 2
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    }
+  ]
+}

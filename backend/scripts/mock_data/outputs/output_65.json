@@ -1,0 +1,245 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Małgorzata",
+      "last_name": "Jankowska",
+      "email": "malgorzata.jankowska@email.pl",
+      "description": "*Doświadczony* front-end developer z pasją do tworzenia interaktywnych interfejsów. Specjalizuję się w React oraz projektowaniu UX. Moim celem zawodowym jest udział w innowacyjnych projektach, które zmieniają sposób korzystania z technologii.",
+      "skills": [
+        "React",
+        "Projektowanie UX",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Kowalczyk",
+      "email": "piotr.kowalczyk@email.pl",
+      "description": "Inżynier *mechanik* z zamiłowaniem do 3D modeling. Posiadam umiejętności w obszarze symulacji numerycznych oraz *automatyzacji procesów*. Moje cele zawodowe skupiają się na kompleksowym rozwoju w branży przemysłowej.",
+      "skills": [
+        "CAD",
+        "Symulacje numeryczne",
+        "Automatyzacja procesów"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Anna",
+      "last_name": "Woźniak",
+      "email": "anna.wozniak@email.pl",
+      "description": "**Konsultantka HR** z doświadczeniem w rekrutacji oraz tworzeniu strategii rozwoju pracowników. Interesują mnie projekty z obszaru *zarządzania zasobami ludzkimi* oraz rozwijanie nowych kompetencji miękkich.",
+      "skills": [
+        "Rekrutacja",
+        "Zarządzanie zasobami ludzkimi",
+        "Rozwój kompetencji"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Karol",
+      "last_name": "Szymański",
+      "email": "karol.szymanski@email.pl",
+      "description": "Biolog molekularny z pasją do *badania genetyki*. Posiadam doświadczenie w analizie sekwencji DNA oraz eksperymentach *in vitro*. Chcę rozwijać się w obszarze terapii genowej.",
+      "skills": [
+        "Biologia Molekularna",
+        "Genetyka",
+        "Sekwencjonowanie DNA"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Julia",
+      "last_name": "Kaczmarek",
+      "email": "julia.kaczmarek@email.pl",
+      "description": "Absolwentka filologii angielskiej z zainteresowaniem *copywritingiem*. Moje umiejętności obejmują *tłumaczenie tekstów* oraz kreację angażujących treści tekstowych. Celuję w projekty z obszaru marketingu i PR.",
+      "skills": [
+        "Tłumaczenie tekstów",
+        "Copywriting",
+        "Marketing"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma E-learningowa dla Dzieci",
+      "description": [
+        ":books: *Platforma e-learningowa dla dzieci* to innowacyjny projekt, który ma na celu ułatwienie zdobywania wiedzy przez młodych uczniów. Projekt skupia się na interaktywnych zajęciach oraz dostosowanych treściach edukacyjnych.",
+        ":computer: Zespół projektowy planuje wprowadzenie *nowatorskich rozwiązań UX* dla dziecięcych użytkowników, zapewniając jednocześnie wysoką jakość treści edukacyjnych.",
+        ":bulb: W ramach projektu będziemy poszukiwać kreatywnych *mistrzów kopiowania* oraz specjalistów od *grafiki komputerowej* do wzbogacenia platformy."
+      ],
+      "areas": [
+        "Edukacja Online",
+        "Projektowanie Interfejsów",
+        "Treści Edukacyjne"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Treści Edukacyjnych 📚",
+          "description": "Poszukujemy osoby do tworzenia ciekawych i pouczających materiałów edukacyjnych dla dzieci.",
+          "tags": [
+            "Pedagogika",
+            "Kreatywne Pisanie"
+          ]
+        },
+        {
+          "title": "Grafik Komputerowy 🎨",
+          "description": "Szukamy osoby kreatywnej, która stworzy atrakcyjne grafiki i ilustracje na platformę edukacyjną.",
+          "tags": [
+            "Adobe Illustrator",
+            "Ilustracje"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Badania Epidemiologiczne w Zdrowiu Publicznym",
+      "description": [
+        ":microscope: Projekt skupia się na przeprowadzaniu *badan epidemiologicznych* mających na celu podniesienie świadomości zdrowotnej społeczeństwa.",
+        ":bar_chart: Celem projektu jest analiza *wskaźników zdrowotnych* oraz ich wpływ na politykę zdrowotną.",
+        ":heartbeat: Zespół projektowy poszukuje ekspertów od *analizy statystycznej* oraz *biologii molekularnej* do kompleksowego podejścia badawczego."
+      ],
+      "areas": [
+        "Epidemiologia",
+        "Statystyka Zdrowia",
+        "Polityka Zdrowotna"
+      ],
+      "open_positions": [
+        {
+          "title": "Analityk Statystyczny 📊",
+          "description": "Poszukujemy specjalisty od analizy danych z doświadczeniem w obszarze zdrowia publicznego.",
+          "tags": [
+            "Statystyka",
+            "Badania Kliniczne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Aplikacja Mobilna dla Seniorów",
+      "description": [
+        ":iphone: *Aplikacja mobilna dla seniorów* ma na celu ułatwienie codziennego życia osób starszych poprzez dostęp do różnorodnych funkcji.",
+        ":round_pushpin: Projekt zakłada stworzenie intuicyjnego interfejsu oraz *personalizowanych opcji dostępu* dla seniorów o różnym stopniu zaawansowania technologicznego.",
+        ":raised_hands: W związku z tym poszukujemy **doświadczonych programistów mobilnych** oraz *specjalistów ds. dostępności cyfrowej* do stworzenia funkcjonalnej i przyjaznej aplikacji."
+      ],
+      "areas": [
+        "Aplikacje Mobilne",
+        "Dostępność Cyfrowa",
+        "Technologia dla Seniorów"
+      ],
+      "open_positions": [
+        {
+          "title": "Programista iOS/Android 📱",
+          "description": "Szukamy osoby z doświadczeniem w tworzeniu responsywnych aplikacji mobilnych dla iOS i Androida.",
+          "tags": [
+            "Swift",
+            "Kotlin",
+            "Responsywność"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Dostępności Cyfrowej ♿",
+          "description": "Poszukujemy eksperta w zakresie tworzenia aplikacji z myślą o dostępności dla osób starszych.",
+          "tags": [
+            "Dostępność",
+            "UX/UI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Analiza Zastosowań Terapii Genowej",
+      "description": [
+        ":dna: Projekt ma na celu przeprowadzenie *analizy zastosowań terapii genowej* w leczeniu chorób genetycznych.",
+        ":hospital: Zespół projektowy skupia się na zbieraniu danych genetycznych pacjentów oraz analizie skuteczności poszczególnych terapii genowych.",
+        ":rocket: Szukamy **doświadczonych biologów molekularnych** oraz ekspertów od *inżynierii genetycznej* do wspólnego badania nad nowatorskimi rozwiązaniami terapeutycznymi."
+      ],
+      "areas": [
+        "Biotechnologia",
+        "Genetyka Medyczna",
+        "Terapia Genowa"
+      ],
+      "open_positions": [
+        {
+          "title": "Biolog Molekularny 🧬",
+          "description": "Poszukujemy osoby z doświadczeniem w analizie sekwencji genetycznych oraz prac laboratoryjnych.",
+          "tags": [
+            "Genomika",
+            "PCR"
+          ]
+        },
+        {
+          "title": "Inżynier Genetyczny 🔬",
+          "description": "Szukamy specjalisty w dziedzinie inżynierii genetycznej z umiejętnościami projektowania terapii genowych.",
+          "tags": [
+            "CRISPR",
+            "Transfekcja"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Platforma Marketingowa dla Małych Firm",
+      "description": [
+        ":chart_with_upwards_trend: *Platforma marketingowa dla małych firm* jest projektem mającym na celu ułatwienie prowadzenia działań marketingowych dla przedsiębiorstw.",
+        ":moneybag: Projektem skupia się na *optymalizacji działań reklamowych* oraz *analizie efektywności kampanii* marketingowych.",
+        ":mag_right: Poszukujemy kreatywnych **specjalistów od copywritingu** oraz *analityków marketingowych* do wsparcia firm korzystających z naszej platformy."
+      ],
+      "areas": [
+        "Marketing Online",
+        "Analityka Marketingowa",
+        "Copywriting"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Copywritingu 📝",
+          "description": "Szukamy osoby o lekkim piórze, gotowej kreować przekonujące treści marketingowe dla naszych klientów.",
+          "tags": [
+            "SEO",
+            "Kreatywne Pisanie"
+          ]
+        },
+        {
+          "title": "Analityk Marketingowy 📊",
+          "description": "Poszukujemy analityka z doświadczeniem w prowadzeniu analiz danych marketingowych dla małych firm.",
+          "tags": [
+            "Google Analytics",
+            "Kampanie Reklamowe"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 5
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    }
+  ]
+}

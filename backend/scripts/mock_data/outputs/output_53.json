@@ -1,0 +1,250 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Emilia",
+      "last_name": "Kowalczyk",
+      "email": "emilia.kowalczyk@biz.pl",
+      "description": "Experienced product manager with a knack for customer research and 🔮innovative product development. In my projects ★ user-centric design and ✔ agile methodologies are key. Passionate about exploring new markets and driving growth.",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Agile Development"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Michał",
+      "last_name": "Lewandowski",
+      "email": "michal.lewandowski@biz.pl",
+      "description": "Tech-savvy entrepreneur with a focus on implementing cutting-edge ✔AI solutions for business optimization. I excel in ★ machine learning algorithms and ✔ predictive analytics. Passionate about building scalable tech products.",
+      "skills": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Natalia",
+      "last_name": "Jankowska",
+      "email": "natalia.jankowska@biz.pl",
+      "description": "Innovative marketing strategist with a talent for crafting impactful ✔ branding strategies and engaging content. My approach involves combining ★ creativity with data-driven insights to deliver tangible results.",
+      "skills": [
+        "Strategic Marketing",
+        "Brand Management",
+        "Content Strategy"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Szymański",
+      "email": "piotr.szymanski@biz.pl",
+      "description": "Seasoned finance professional specialized in ✔ financial modeling and risk management. I have a track record of implementing ★ robust financial strategies that drive sustainable business growth.",
+      "skills": [
+        "Financial Analysis",
+        "Risk Mitigation",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Alicja",
+      "last_name": "Wójcik",
+      "email": "alicja.wojcik@biz.pl",
+      "description": "Dedicated UX/UI designer with a passion for creating seamless digital experiences. I believe in the power of ★ user empathy and ✔ design thinking to shape products that resonate with audiences.",
+      "skills": [
+        "User Experience Design",
+        "UI Prototyping",
+        "Usability Testing"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Interactify",
+      "description": "Revolutionizing customer engagement with ★ interactive AR/VR solutions. ✔ Cutting-edge technology meets immersive experiences to redefine consumer interactions. - Enhancing retail, marketing, and entertainment sectors with innovative AR/VR solutions.",
+      "areas": [
+        "Augmented Reality",
+        "Virtual Reality",
+        "Retail Tech"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Lead AR/VR Developer",
+          "description": "Innovate and implement immersive AR/VR solutions. Develop cutting-edge experiences that push the boundaries of technology.",
+          "tags": [
+            "AR Development",
+            "Unity3D",
+            "3D Modeling"
+          ]
+        },
+        {
+          "title": "✔ Marketing Specialist",
+          "description": "Craft engaging campaigns to promote interactive AR/VR solutions. Drive brand awareness and customer engagement through creative marketing strategies.",
+          "tags": [
+            "Digital Marketing",
+            "Campaign Management",
+            "SEO"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "EcoGrow",
+      "description": "🌿 Sustainable agriculture platform empowering farmers with innovative tech tools. ✔ Harnessing data analytics and IoT to optimize crop production. - Enabling precision farming practices for sustainable food production.",
+      "areas": [
+        "AgriTech",
+        "IoT Solutions",
+        "Sustainability"
+      ],
+      "open_positions": [
+        {
+          "title": "✓ IoT Engineer",
+          "description": "Design and implement IoT solutions for precision agriculture. Develop smart farming technologies that enhance crop yield and resource efficiency.",
+          "tags": [
+            "IoT Development",
+            "Sensor Networks",
+            "Data Analytics"
+          ]
+        },
+        {
+          "title": "✔ Business Development Manager",
+          "description": "Drive strategic partnerships and growth opportunities for sustainable agriculture initiatives. Develop market strategies to expand EcoGrow's market presence.",
+          "tags": [
+            "Business Development",
+            "Partnership Management",
+            "Sustainability"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "HealthSync",
+      "description": "Transforming healthcare with ★ remote patient monitoring and ✔ AI-powered diagnostics. Connect patients with medical professionals for a seamless healthcare experience. - Empowering individuals to take control of their health through digital innovation.",
+      "areas": [
+        "HealthTech",
+        "Telemedicine",
+        "AI in Healthcare"
+      ],
+      "open_positions": [
+        {
+          "title": "★ CTO with AI Experience",
+          "description": "Lead the development of AI algorithms for healthcare applications. Implement cutting-edge technologies to enhance HealthSync's diagnostic capabilities.",
+          "tags": [
+            "AI Development",
+            "Healthcare Technology",
+            "Software Architecture"
+          ]
+        },
+        {
+          "title": "✔ Telemedicine Specialist",
+          "description": "Manage remote patient monitoring systems and teleconsultation services. Ensure seamless communication between patients and healthcare providers.",
+          "tags": [
+            "Telehealth",
+            "Patient Monitoring",
+            "Healthcare Communication"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "FinTechNow",
+      "description": "Revamping financial services with ✔ blockchain technology and ★ automated trading solutions. Empower users with innovative financial tools for secure transactions. - Providing cutting-edge financial services to a global audience.",
+      "areas": [
+        "FinTech",
+        "Blockchain Solutions",
+        "Automated Trading"
+      ],
+      "open_positions": [
+        {
+          "title": "✔ Blockchain Developer",
+          "description": "Implement blockchain solutions for secure financial transactions. Develop decentralized applications to revolutionize the FinTech industry.",
+          "tags": [
+            "Blockchain Development",
+            "Smart Contracts",
+            "Cryptocurrency"
+          ]
+        },
+        {
+          "title": "★ Financial Analyst",
+          "description": "Conduct financial analysis and market research to optimize automated trading strategies. Utilize data insights to drive intelligent financial decisions.",
+          "tags": [
+            "Financial Analysis",
+            "Market Research",
+            "Algorithmic Trading"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "TechEase",
+      "description": "Simplifying tech adoption with ★ user-friendly digital solutions and ✔ IT support services. Enhance IT experiences for businesses and individuals through innovative tech solutions. - Making technology accessible and hassle-free for all users.",
+      "areas": [
+        "Tech Solutions",
+        "IT Services",
+        "User Support"
+      ],
+      "open_positions": [
+        {
+          "title": "★ IT Support Specialist",
+          "description": "Provide technical assistance and troubleshooting for IT systems. Ensure seamless operation and user satisfaction with TechEase solutions.",
+          "tags": [
+            "IT Support",
+            "Troubleshooting",
+            "Customer Service"
+          ]
+        },
+        {
+          "title": "✔ UX/UI Designer",
+          "description": "Design intuitive user interfaces and engaging user experiences. Collaborate with the development team to create visually appealing digital solutions.",
+          "tags": [
+            "UX Design",
+            "UI Development",
+            "User Research"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    }
+  ]
+}

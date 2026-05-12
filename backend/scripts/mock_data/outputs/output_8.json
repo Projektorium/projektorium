@@ -1,0 +1,244 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zofia",
+      "last_name": "Jankowska",
+      "email": "zofia.jankowska@biznesmail.pl",
+      "description": "✔️ Doświadczona analityczka biznesowa z pasją do nowych technologii. ★ Specjalizuje się w analizie rynkowej i strategiach rozwoju firm. *Zawsze gotowa na nowe wyzwania!*",
+      "skills": [
+        "Market Analysis",
+        "Business Strategy",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Oskar",
+      "last_name": "Nowakowski",
+      "email": "oskar.nowakowski@biznesmail.pl",
+      "description": "**Ekspert od customer experience z obszaru e-commerce.** ★ Zaprojektował systemy obsługi klienta dla wielu branż. → Poszukuje innowacyjnych projektów do rozwinięcia.",
+      "skills": [
+        "Customer Experience Design",
+        "E-commerce Solutions",
+        "Project Management"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Natalia",
+      "last_name": "Wójcik",
+      "email": "natalia.wojcik@biznesmail.pl",
+      "description": "→ Ambitna programistka z miłością do front-end developmentu. ✔️ Specjalizuje się w responsywnym designie aplikacji webowych. *Chętnie dzieli się wiedzą z innymi!*",
+      "skills": [
+        "Front-end Development",
+        "Responsive Design",
+        "Javascript"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Adam",
+      "last_name": "Kowalczyk",
+      "email": "adam.kowalczyk@biznesmail.pl",
+      "description": "*Młody i pełen pomysłów.** ✔️ Entuzjasta Internetu Rzeczy, gotowy zrewolucjonizować sektor retail. ★ Poszukuje partnerów do stworzenia czegoś wyjątkowego.",
+      "skills": [
+        "IoT",
+        "Innovation",
+        "Retail Technology"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Hanna",
+      "last_name": "Lis",
+      "email": "hanna.lis@biznesmail.pl",
+      "description": "✔️ **Specjalistka od marketingu influencerów.** -> Zbudowała efektywne kampanie promocyjne dla topowych marek. ★ Motywuje zespół do osiągania sukcesów.",
+      "skills": [
+        "Influencer Marketing",
+        "Campaign Management",
+        "Team Leadership"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Innowacyjne Rozwiązania AI",
+      "description": "★ Rozwijamy zaawansowane algorytmy uczenia maszynowego, zastosowania AI w medycynie i analizie danych. ✔️ Potrzebujemy CTO z doświadczeniem w AI.",
+      "areas": [
+        "Artificial Intelligence",
+        "Health-tech"
+      ],
+      "open_positions": [
+        {
+          "title": "★ CTO z doświadczeniem w AI",
+          "description": "★ Odpowiedzialny za opracowanie i wdrożenie strategii AI. ✔️ Wymagana duża wiedza w dziedzinie uczenia maszynowego i analizy danych.",
+          "tags": [
+            "Machine Learning",
+            "Data Analysis"
+          ]
+        },
+        {
+          "title": "★ Data Scientist",
+          "description": "★ Praca nad procesem analizy danych. ✔️ Poszukujemy osób z doświadczeniem w analizie dużych zbiorów danych.",
+          "tags": [
+            "Data Mining",
+            "Predictive Analytics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Nowoczesne Rozwiązania E-commerce",
+      "description": "✓ Tworzymy innowacyjne narzędzia wspierające sprzedaż online, personalizację zakupów i usprawnienie płatności. **Zapewniamy dynamiczny rozwój w warunkach rynkowej konkurencji.**",
+      "areas": [
+        "E-commerce",
+        "Digital Marketing"
+      ],
+      "open_positions": [
+        {
+          "title": "✓ Specjalista od Personalizacji",
+          "description": "✓ Odpowiedzialny za dostosowanie oferty do indywidualnych potrzeb klientów. **Poszukujemy kreatywnej osoby z doświadczeniem w rekomendacjach produktowych.**",
+          "tags": [
+            "Personalization",
+            "Data-driven Marketing"
+          ]
+        },
+        {
+          "title": "✓ Manager ds. Rozwoju Biznesu Online",
+          "description": "✓ Nadzór nad planowaniem i implementacją strategii sprzedażowej online. -> Wymagane doświadczenie w e-commerce i zarządzaniu projektami.",
+          "tags": [
+            "E-commerce Strategy",
+            "Project Management"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Interaktywne Aplikacje Webowe",
+      "description": "→ Projektujemy innowacyjne interfejsy użytkownika, aplikacje responsywne i użyteczne narzędzia online. **Oferujemy dynamiczną atmosferę twórczej współpracy.**",
+      "areas": [
+        "Web Development",
+        "User Experience Design"
+      ],
+      "open_positions": [
+        {
+          "title": "→ UX/UI Designer",
+          "description": "→ Tworzenie intuicyjnych interfejsów użytkownika. **Poszukujemy osoby z kreatywnym podejściem do projektowania aplikacji webowych.**",
+          "tags": [
+            "UI Design",
+            "User Experience"
+          ]
+        },
+        {
+          "title": "→ Front-end Developer",
+          "description": "→ Programowanie interaktywnych i responsywnych aplikacji webowych. ✔️ Wymagane doświadczenie w HTML, CSS i Javascript.",
+          "tags": [
+            "HTML5",
+            "CSS3",
+            "Javascript"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Technologie Przyszłości w Retailu",
+      "description": "★ Zajmujemy się implementacją nowatorskich rozwiązań IoT w sektorze handlu detalicznego. *Zapewniamy wsparcie startupowym i możliwość kształtowania przyszłości branży.*",
+      "areas": [
+        "Internet of Things (IoT)",
+        "Retail Technology"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista ds. Analizy Danych",
+          "description": "★ Odpowiedzialny za analizę i interpretację danych w sektorze retail. *Oczekujemy umiejętności data storytelling i znajomości branży handlu detalicznego.*",
+          "tags": [
+            "Data Analysis",
+            "Retail Industry Knowledge"
+          ]
+        },
+        {
+          "title": "★ Project Manager ds. Implementacji IoT",
+          "description": "★ Nadzór nad wdrażaniem i testowaniem rozwiązań IoT. -> Wymagane doświadczenie w zarządzaniu projektami technologicznymi.",
+          "tags": [
+            "IoT Implementation",
+            "Project Management"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Influencers & Brand Collaborations",
+      "description": "**Budujemy mosty pomiędzy influencerami a markami, tworząc skuteczne strategie marketingowe oparte na współpracy.** *Spotykamy się z sukcesem w kampaniach influencer marketingowych!*",
+      "areas": [
+        "Influencer Marketing",
+        "Digital Branding"
+      ],
+      "open_positions": [
+        {
+          "title": "**Marketing Manager",
+          "description": "**Odpowiedzialny za strategię promocyjną i relacje z influencerami.** ✔️ Poszukujemy osoby z doświadczeniem w kreowaniu kampanii marketingowych i budowaniu relacji biznesowych.",
+          "tags": [
+            "Marketing Strategy",
+            "Influencer Relations"
+          ]
+        },
+        {
+          "title": "**Social Media Specialist",
+          "description": "**Koordynacja działań na platformach społecznościowych.** → Wymagane umiejętności analityczne i kreatywne podejście do content marketingu.",
+          "tags": [
+            "Social Media Management",
+            "Content Strategy"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 2
+    }
+  ]
+}

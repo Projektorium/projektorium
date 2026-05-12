@@ -1,0 +1,214 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Karolina",
+      "last_name": "Nowak",
+      "email": "karolina.nowak@example.com",
+      "description": "Jestem doświadczonym copywriterem z zamiłowaniem do **content marketingu**. Specjalizuję się w pisaniu kreatywnych tekstów reklamowych oraz *copy* do mediów społecznościowych. Moje umiejętności obejmują również SEO i analizę rynku.",
+      "skills": [
+        "Pisanie Copy",
+        "Marketing Treści",
+        "SEO"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Tomasz",
+      "last_name": "Kowalski",
+      "email": "tomasz.kowalski@example.com",
+      "description": "Jestem programistą **Pythona** z zainteresowaniem w **sztucznej inteligencji**. Moje doświadczenie obejmuje również prace nad aplikacjami webowymi w *Django* oraz *Flask*. Chcę rozwijać swoje umiejętności w obszarze AI.",
+      "skills": [
+        "Python",
+        "Django",
+        "Sztuczna Inteligencja"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Wiktoria",
+      "last_name": "Jankowska",
+      "email": "wiktoria.jankowska@example.com",
+      "description": "*Projektowanie UX* jest moją pasją. Mam doświadczenie w tworzeniu interaktywnych prototypów oraz testowaniu użyteczności. Moje umiejętności obejmują także *grafikę komputerową* i *web design*.",
+      "skills": [
+        "Projektowanie UX",
+        "Prototypowanie",
+        "Grafika Komputerowa"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Grzegorz",
+      "last_name": "Woźniak",
+      "email": "grzegorz.wozniak@example.com",
+      "description": "Jestem lingwistą i **tłumaczem specjalistycznym**, specjalizującym się w tłumaczeniu tekstów medycznych i naukowych. Moje umiejętności obejmują *terminologię medyczną* oraz *językoznawstwo korpusowe*.",
+      "skills": [
+        "Tłumaczenia Specjalistyczne",
+        "Terminologia Medyczna",
+        "Językoznawstwo Korpusowe"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Katarzyna",
+      "last_name": "Lis",
+      "email": "katarzyna.lis@example.com",
+      "description": "Jestem biologiem molekularnym zainteresowanym badaniami nad genetyką nowotworów. Posiadam doświadczenie w **sekwencjonowaniu DNA** oraz analizie danych w programie *R*. Moje umiejętności obejmują również biostatystykę.",
+      "skills": [
+        "Biologia Molekularna",
+        "Sekwencjonowanie DNA",
+        "Biostatystyka"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma E-learningowa dla Naukowców",
+      "description": [
+        "🌟 Platforma e-learningowa dla naukowców, umożliwiająca udostępnianie kursów online",
+        "**Rozwój Webowy** oraz *Sztuczna Inteligencja* są kluczowe dla tego projektu.",
+        "W poszukiwaniu: *Specjalista ds. AI*, *Web Developer*"
+      ],
+      "areas": [
+        "Rozwój Webowy",
+        "Sztuczna Inteligencja"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. AI",
+          "description": "Odpowiedzialny za implementację algorytmów uczących się maszyn w platformie",
+          "tags": [
+            "Sztuczna Inteligencja",
+            "Algorytmy"
+          ]
+        },
+        {
+          "title": "Web Developer",
+          "description": "Projektowanie interfejsu użytkownika oraz implementacja funkcji e-learningowych",
+          "tags": [
+            "Rozwój Webowy",
+            "Front-end"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Badania nad Blockchain w Medycynie",
+      "description": [
+        "🔬 Badania naukowe nad zastosowaniem technologii **blockchain** w dziedzinie medycyny",
+        "*Biologia Molekularna* oraz *Medycyna Precision* są obszarami rozwijanymi w projekcie.",
+        "Poszukiwany: *Specjalista ds. Blockchain*"
+      ],
+      "areas": [
+        "Biologia Molekularna",
+        "Medycyna Precision"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Blockchain",
+          "description": "Badanie zastosowań technologii blockchain w przesyłaniu danych medycznych",
+          "tags": [
+            "Blockchain",
+            "Medycyna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Aplikacja do Śledzenia Postępów w Terapii",
+      "description": [
+        "📱 Innowacyjna aplikacja mobilna do monitorowania postępów w terapiach medycznych",
+        "*Telemedycyna* oraz *Interaktywna Terapia* są kluczowymi elementami projektu.",
+        "Potrzebujemy: *Developer Mobilny*"
+      ],
+      "areas": [
+        "Telemedycyna",
+        "Interaktywna Terapia"
+      ],
+      "open_positions": [
+        {
+          "title": "Developer Mobilny",
+          "description": "Rozwój aplikacji na systemy Android i iOS z wykorzystaniem technologii mobilnych",
+          "tags": [
+            "Programowanie Mobilne",
+            "Android",
+            "iOS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Analiza  Emocji w Tekstach Literackich",
+      "description": [
+        "📚 Badanie emocji wywołanych przez teksty literackie z wykorzystaniem *NLP*",
+        "Projekt łączy *Językoznawstwo* oraz *Analizę Sentymentu*.",
+        "Poszukujemy: *Specjalista ds. NLP*"
+      ],
+      "areas": [
+        "Językoznawstwo",
+        "Analiza Sentymentu"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. NLP",
+          "description": "Analiza semantyczna tekstu oraz wydobywanie informacji emocjonalnych",
+          "tags": [
+            "NLP",
+            "Analiza Tekstu",
+            "Emocje"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "System Uczący do Rozpoznawania Chorób Skóry",
+      "description": [
+        "🌞 System oparty na sieci neuronowej do diagnozowania chorób skóry na zdjęciach",
+        "*Sztuczna Inteligencja* oraz *Medycyna* są kluczowymi obszarami projektu.",
+        "Poszukujemy: *Specjalista ds. AI*"
+      ],
+      "areas": [
+        "Sztuczna Inteligencja",
+        "Medycyna"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. AI",
+          "description": "Tworzenie modeli uczenia maszynowego do diagnozowania chorób skóry",
+          "tags": [
+            "Medycyna",
+            "Sieci Neuronowe",
+            "Diagnostyka"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

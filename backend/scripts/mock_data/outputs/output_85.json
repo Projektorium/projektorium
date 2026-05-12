@@ -1,0 +1,269 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Alicja",
+      "last_name": "Nowak",
+      "email": "alicja.nowak@email.pl",
+      "description": "Z wykształcenia inżynier biotechnolog. Pasjonuje się analizą danych w laboratorium. Chce rozwijać umiejętności związane z analizą statystyczną i **Pythonem**.",
+      "skills": [
+        "Biotechnologia",
+        "Analiza danych",
+        "Python"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Kamil",
+      "last_name": "Kowalski",
+      "email": "kamil.kowalski@email.pl",
+      "description": "*Marketingowiec* z doświadczeniem w reklamie online. Interesuje go **SEO** i tworzenie treści. Chciałby poszerzyć wiedzę z zakresu **copywritingu**.",
+      "skills": [
+        "Marketing online",
+        "SEO",
+        "Copywriting"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Wiktoria",
+      "last_name": "Wisniewska",
+      "email": "wiktoria.wisniewska@email.pl",
+      "description": "Studentka *filologii angielskiej* z zamiłowaniem do literatury. Posiada umiejętność tworzenia **analiz literackich**. Planuje karierę w nauce.",
+      "skills": [
+        "Filologia angielska",
+        "Analizy literackie",
+        "Tworzenie tekstu"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Grzegorz",
+      "last_name": "Adamczyk",
+      "email": "grzegorz.adamczyk@email.pl",
+      "description": "Absolwent *informatyki* specjalizujący się w **programowaniu webowym**. Chce rozwijać umiejętności związane z **Reactem** i **JavaScriptem**.",
+      "skills": [
+        "Informatyka",
+        "Programowanie webowe",
+        "React",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Magdalena",
+      "last_name": "Dabrowska",
+      "email": "magdalena.dabrowska@email.pl",
+      "description": "Psycholog z zamiłowaniem do **neurobiologii**. Interesuje się badaniami nad mózgiem i zachowaniem. Chce rozwijać umiejętności **analizy danych**.",
+      "skills": [
+        "Psychologia",
+        "Neurobiologia",
+        "Badania nad zachowaniem",
+        "Analiza danych"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma E-learningowa dla Szkół Podstawowych",
+      "description": [
+        "📚 Tworzymy interaktywną platformę e-learningową dla szkół podstawowych, umożliwiającą zdobywanie wiedzy w ciekawy sposób.",
+        "*Wdrażamy nowoczesne metody nauczania online.*",
+        "🎓 Poszukujemy osób z doświadczeniem w **grafice komputerowej** i **designie UX**."
+      ],
+      "areas": [
+        "E-learning",
+        "Grafika komputerowa",
+        "Edukacja",
+        "Design UX"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Grafiki Komputerowej 🎨",
+          "description": "Odpowiedzialny za tworzenie atrakcyjnych materiałów edukacyjnych online.",
+          "tags": [
+            "Grafika komputerowa",
+            "Design UX",
+            "Edukacja"
+          ]
+        },
+        {
+          "title": "Projektant UX 👩‍💻",
+          "description": "Projektowanie intuicyjnego interfejsu użytkownika platformy e-learningowej.",
+          "tags": [
+            "Design UX",
+            "Interfejsy użytkownika",
+            "Web design"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Badania nad Nowymi Metodami Leczenia Raka",
+      "description": [
+        "🔬 Celem projektu jest odkrycie nowych, skutecznych metod terapii dla pacjentów z diagnozą nowotworu.",
+        "*Zespół skupi się na badaniach molekularnych.*",
+        "💉 Poszukujemy osób z doświadczeniem w **biologii molekularnej** i **analizie danych**."
+      ],
+      "areas": [
+        "Onkologia",
+        "Biologia molekularna",
+        "Analizy danych",
+        "Badania kliniczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Badacz Molekularny 🔬",
+          "description": "Przeprowadzanie eksperymentów na poziomie molekularnym w celu odkrycia nowych terapii.",
+          "tags": [
+            "Biologia molekularna",
+            "Badania kliniczne",
+            "Laboratorium"
+          ]
+        },
+        {
+          "title": "Analityk Danych Medycznych 💊",
+          "description": "Analiza wyników badań klinicznych oraz opracowywanie raportów z analiz danych.",
+          "tags": [
+            "Analizy danych",
+            "Medycyna",
+            "Badania kliniczne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Projekt Rozwoju Aplikacji Mobilnej dla Seniorów",
+      "description": [
+        "📱 Tworzymy aplikację mobilną dostosowaną do potrzeb seniorów, ułatwiającą codzienne czynności.",
+        "*Nasz projekt stawia na prostotę obsługi i funkcjonalność.*",
+        "👵 Poszukujemy osób z umiejętnościami w **programowaniu mobilnym** i **interfejsach dostosowanych do seniorów**."
+      ],
+      "areas": [
+        "Aplikacje mobilne",
+        "Seniorzy",
+        "UX/UI",
+        "Innowacje technologiczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Programista iOS 📱",
+          "description": "Tworzenie funkcjonalności aplikacji na system iOS z myślą o starszych użytkownikach.",
+          "tags": [
+            "Programowanie mobilne",
+            "iOS",
+            "UX/UI"
+          ]
+        },
+        {
+          "title": "Specjalista ds. UX dla Seniorów 👵",
+          "description": "Zajmowanie się projektowaniem interfejsów z uwzględnieniem potrzeb osób starszych.",
+          "tags": [
+            "Design UX",
+            "Seniorzy",
+            "Testowanie UX"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Analiza Danych Wirusologii Nowoczesnej",
+      "description": [
+        "🦠 Projekt ma na celu analizę danych dotyczących zmienności genetycznej wirusów, ze szczególnym uwzględnieniem wirusów RNA.",
+        "*Stawiamy na integrację wielu źródeł danych i modele predykcyjne.*",
+        "💻 Poszukujemy specjalistów z doświadczeniem w **analizie sekwencji genetycznych** i **biologii komputerowej**."
+      ],
+      "areas": [
+        "Wirusologia",
+        "Analiza danych",
+        "Bioinformatyka",
+        "Modele predykcyjne"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Bioinformatyki 🧬",
+          "description": "Analiza struktur wirusowych i przewidywanie zmienności genetycznej.",
+          "tags": [
+            "Bioinformatyka",
+            "Analizy sekwencji",
+            "Wirusologia"
+          ]
+        },
+        {
+          "title": "Badacz Genetyki Wirusów 🦠",
+          "description": "Badanie zmienności genetycznej wirusów RNA i opracowywanie modeli predykcyjnych.",
+          "tags": [
+            "Genetyka",
+            "Analizy danych",
+            "RNA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Platforma Medytacyjna dla Zwiększenia Dobrostanu",
+      "description": [
+        "🧘 Poszukujemy sposobów na zwiększenie dobrego samopoczucia za pomocą technik medytacyjnych i mindfulness.",
+        "*Projekt opiera się na połączeniu neurobiologii z praktykami medytacyjnymi.*",
+        "🌿 Chcemy znaleźć osób z doświadczeniem w **neurobiologii**, analizie danych i **tworzeniu aplikacji mobilnych**."
+      ],
+      "areas": [
+        "Medytacja",
+        "Neurobiologia",
+        "Psychologia pozytywna",
+        "Zdrowie psychiczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Neurobiologii 🧠",
+          "description": "Badanie wpływu praktyk medytacyjnych na mózg i stan psychiczny.",
+          "tags": [
+            "Neurobiologia",
+            "Badania medyczne",
+            "Dobrostan"
+          ]
+        },
+        {
+          "title": "Programista Aplikacji Mobilnych 📱",
+          "description": "Tworzenie intuicyjnej aplikacji mobilnej wspierającej medytację i mindfulness.",
+          "tags": [
+            "Programowanie mobilne",
+            "UI/UX",
+            "Medytacja"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 1,
+      "project_id": 4
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

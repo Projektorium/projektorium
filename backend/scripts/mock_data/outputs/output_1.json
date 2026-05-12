@@ -1,0 +1,246 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Joanna",
+      "last_name": "Kowalska",
+      "email": "joanna.kowalska@example.com",
+      "description": "- 🎨 *Doświadczony projektant graficzny*\n- **Elastyczny w myśleniu**\n- 🖥️ *Pasjonat UX/UI design*\n- 📱 *Specjalista od kreatywnych rozwiązań w projektach mobilnych*",
+      "skills": [
+        "Projektowanie graficzne",
+        "UX/UI design",
+        "Kreatywność"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Adam",
+      "last_name": "Nowak",
+      "email": "adam.nowak@example.com",
+      "description": "- 💻 **Doświadczony programista**\n- 🌐 *Ekspert w projektach webowych*\n- 💡 *Innowacyjne podejście do rozwiązywania problemów*\n- 📈 *Umiejętności analizy danych*",
+      "skills": [
+        "Programowanie",
+        "Web Development",
+        "Innowacyjność",
+        "Analiza danych"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Karolina",
+      "last_name": "Wójcik",
+      "email": "karolina.wojcik@example.com",
+      "description": "- 📚 *Badacz naukowy w dziedzinie biologii*\n- 💉 **Specjalizacja w genetyce molekularnej**\n- 🧬 *Interesuje się biotechnologią i genetyką*\n- 👩‍🔬 *Doświadczenie w pracy laboratoryjnej*",
+      "skills": [
+        "Biologia",
+        "Genetyka",
+        "Biotechnologia",
+        "Badania naukowe"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Duda",
+      "email": "piotr.duda@example.com",
+      "description": "- 🎭 **Teatrolog z ogromną pasją**\n- 🎬 *Specjalista od analizy filmowej*\n- 📝 *Pisarz i scenarzysta*",
+      "skills": [
+        "Teatrologia",
+        "Analiza filmowa",
+        "Pisanie scenariuszy"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Magdalena",
+      "last_name": "Lis",
+      "email": "magdalena.lis@example.com",
+      "description": "- ⚗️ **Naukowiec chemiczny**\n- 🧪 *Eksperymenty laboratoryjne to moja pasja*\n- 📊 *Analiza danych naukowych*\n- 🧬 *Specjalizacja w chemii organicznej*",
+      "skills": [
+        "Chemia",
+        "Eksperymenty laboratoryjne",
+        "Analiza danych",
+        "Chemia organiczna"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Projekt Interaktywnej Ekspozycji Historycznej",
+      "description": "- 🏛️ **Interaktywne podejście do edukacji historycznej**\n- 🖼️ *Tworzenie wizualizacji 3D z epoki*\n- 💡 *Innowacyjne metody prezentacji historii*",
+      "areas": [
+        "Edukacja historyczna",
+        "Tworzenie wizualizacji 3D"
+      ],
+      "open_positions": [
+        {
+          "title": "🖌️ Grafik komputerowy",
+          "description": "- 🎨 *Kreatywne podejście do tworzenia wizualizacji*\n- 🖥️ *Opanowanie narzędzi graficznych*",
+          "tags": [
+            "Grafika komputerowa",
+            "Wizualizacje 3D"
+          ]
+        },
+        {
+          "title": "🧑‍💻 Programista interakcji",
+          "description": "- 💻 *Umiejętność programowania interakcyjnych elementów*\n- 👁️ *Zrozumienie UX/UI*",
+          "tags": [
+            "Programowanie interaktywne",
+            "UX/UI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Badania nad lekiem przeciwnowotworowym",
+      "description": "- 🧬 **Badania nad nowatorskim podejściem w leczeniu nowotworów**\n- 💊 *Odkrywanie nowych związków chemicznych*\n- 📊 *Analiza danych z eksperymentów*",
+      "areas": [
+        "Onkologia",
+        "Chemia leków"
+      ],
+      "open_positions": [
+        {
+          "title": "👩‍🔬 Asystent badawczy",
+          "description": "- 📚 *Zaangażowanie w badania naukowe*\n- 💉 *Pomoc w eksperymentach laboratoryjnych*",
+          "tags": [
+            "Badania naukowe",
+            "Eksperymenty laboratoryjne"
+          ]
+        },
+        {
+          "title": "📈 Analityk danych",
+          "description": "- 📈 *Zaawansowana analiza statystyczna*\n- 🧪 *Umiejętność interpretacji wyników chemicznych*",
+          "tags": [
+            "Analiza danych",
+            "Statystyka"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Teatralny Projekt Interdyscyplinarny",
+      "description": "- 🎭 **Wykorzystanie nowych technologii w teatrze**\n- 🌐 *Interaktywne prezentacje sceniczne*\n- 📡 *Transmisje online spektakli*",
+      "areas": [
+        "Teatr",
+        "Technologie interaktywne"
+      ],
+      "open_positions": [
+        {
+          "title": "🎥 Operator kamery",
+          "description": "- 📹 *Doświadczenie w filmowaniu spektakli*\n- 🎞️ *Kreatywne podejście do kadrów*",
+          "tags": [
+            "Filmowanie",
+            "Kreatywność w fotografii"
+          ]
+        },
+        {
+          "title": "🔊 Dźwiękowiec",
+          "description": "- 🔈 *Kontrola dźwięku w trakcie spektaklu*\n- 🎤 *Praca z mikrofonami i nagłośnieniem*",
+          "tags": [
+            "Dźwięk",
+            "Nagłośnienie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Projekt Edukacyjny Cyfrowa Biologia",
+      "description": "- 🧬 **Nowoczesne metody nauczania biologii**\n- 📱 *Tworzenie aplikacji do nauki genetyki*\n- 💡 *Innowacyjne pomysły edukacyjne w dziedzinie biologii*",
+      "areas": [
+        "Edukacja biologiczna",
+        "Tworzenie aplikacji edukacyjnych"
+      ],
+      "open_positions": [
+        {
+          "title": "💻 Programista aplikacji mobilnych",
+          "description": "- 🖥️ *Umiejętność tworzenia responsywnych aplikacji*\n- 📚 *Wiedza z zakresu biologii molekularnej*",
+          "tags": [
+            "Programowanie mobilne",
+            "Biologia molekularna"
+          ]
+        },
+        {
+          "title": "📝 Autor treści edukacyjnych",
+          "description": "- 📖 *Umiejętność tworzenia zrozumiałych publikacji naukowych*\n- 🧬 *Specjalizacja w genetyce*",
+          "tags": [
+            "Pisanie naukowe",
+            "Edukacja biologiczna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Film Dokumentalny o Ekologii Morskiej",
+      "description": "- 🌊 **Podnoszenie świadomości ekologicznej**\n- 🎥 *Nagranie życia podwodnego*\n- 🦈 *Edycja filmowa ukazująca piękno oceanu*",
+      "areas": [
+        "Ekologia morska",
+        "Produkcja filmowa"
+      ],
+      "open_positions": [
+        {
+          "title": "🎞️ Montażysta filmowy",
+          "description": "- 🎬 *Doświadczenie w montażu filmów dokumentalnych*\n- 🖥️ *Znajomość programów do edycji video*",
+          "tags": [
+            "Montaż filmowy",
+            "Produkcja video"
+          ]
+        },
+        {
+          "title": "🐟 Specjalista ds. życia morskiego",
+          "description": "- 🐠 *Wiedza na temat ekosystemów morskich*\n- 🦑 *Doświadczenie w badaniach nad życiem morskim*",
+          "tags": [
+            "Ekosystemy morskie",
+            "Badania morskie"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Ewa",
+      "last_name": "Nowak",
+      "email": "ewa.nowak@example.com",
+      "description": "Obsesyjnie zafascynowana *socjologią* społeczeństwa cyfrowego. Jej badania dotyczą analizy sieci społecznych w kontekście nowoczesnych mediów społecznościowych. Posiada umiejętności w zakresie analizy danych, eksploracji społecznych trendów i identyfikacji wpływowych aktorów w sieciach.",
+      "skills": [
+        "Badanie sieci społecznych",
+        "Analiza danych",
+        "Społeczne media cyfrowe"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Karol",
+      "last_name": "Kowalski",
+      "email": "karol.kowalski@example.com",
+      "description": "Doktorant specjalizujący się w teorii *literatury porównawczej*. Jego praca skupia się na analizie intertekstualności w powieściach awangardowych z XX wieku. Posiada kompetencje w interpretacji tekstów literackich, teorii krytycznej oraz analizie semiotycznej.",
+      "skills": [
+        "Interpretacja literacka",
+        "Teoria literatury",
+        "Analiza intertekstualna"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Agnieszka",
+      "last_name": "Wójcik",
+      "email": "agnieszka.wojcik@example.com",
+      "description": "Konserwator dzieł sztuki ze sporym doświadczeniem w odtwarzaniu dzieł *malarstwa* klasycznego. Zajmuje się odtwarzaniem oraz konserwacją obrazów olejnych o uszkodzeniach pierwotnych, przywracając im dawny blask i autentyczność.",
+      "skills": [
+        "Konserwacja obrazów",
+        "Odtwarzanie malowideł",
+        "Techniki malarstwa"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Adam",
+      "last_name": "Mazur",
+      "email": "adam.mazur@example.com",
+      "description": "Zajmujący się badaniem *archeologicznym* prekolumbijskich kultur Ameryki Południowej. Jego prace skupiają się na analizie ceramiki indiańskiej jako kluczowego artefaktu kulturowego. Posiada wiedzę z zakresu technik archeologicznych i metodyk ekspertyzy ceramiki.",
+      "skills": [
+        "Archeologia prekolumbijska",
+        "Analiza ceramiki",
+        "Metody archeologiczne"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Katarzyna",
+      "last_name": "Woźniak",
+      "email": "katarzyna.wozniak@example.com",
+      "description": "Wykładowczyni etyki zajmująca się etyką *medyczną* i bioetyką. Jej badania koncentrują się na analizie dylematów moralnych w praktyce lekarskiej oraz problematyce eutanazji. Zna się na etycznych teoriach, analizie przypadków i prawie medycznym.",
+      "skills": [
+        "Etyka medyczna",
+        "Analiza dylematów moralnych",
+        "Bioetyka"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Odnowienie dziedzictwa kulturowego",
+      "description": "Projekt skupiający się na odnowie zapomnianych *zabytków* regionalnych. Poprzez zastosowanie interdyscyplinarnych metod archeologicznych i konserwatorskich, staramy się przywrócić dawny blask i znaczenie historyczne ruinowanym obiektom. Nasza praca to metafora odradzania się kultury z popiołów przeszłości.",
+      "areas": [
+        "Archeologia",
+        "Konserwacja zabytków"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista od konserwacji zabytków",
+          "description": "Osoba odpowiedzialna za odtwarzanie i konserwację obiektów historycznych. Wymagane doświadczenie w rekonstrukcji elementów architektonicznych oraz znajomość technik konserwatorskich.",
+          "tags": [
+            "Konserwacja zabytków",
+            "Rekonstrukcja historyczna"
+          ]
+        },
+        {
+          "title": "Archelolog terenowy",
+          "description": "Badacz zajmujący się prowadzeniem eksploracji archeologicznych na terenie obiektów zabytkowych. Znajomość metodologii wykopalisk i interpretacji artefaktów jest niezbędna.",
+          "tags": [
+            "Badania archeologiczne",
+            "Eksploracja terenowa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Rewitalizacja literatury awangardowej",
+      "description": "Projekt ma na celu ożywienie i *reinterpretację* awangardowych tekstów literackich z perspektywy współczesnej. Poprzez analizę intertekstualną i eksplorację nowych kontekstów interpretacyjnych, starając się odkryć nowe warstwy znaczeniowe w znanych dziełach awangardowych.",
+      "areas": [
+        "Literatura porównawcza",
+        "Teoria literatury"
+      ],
+      "open_positions": [
+        {
+          "title": "Badacz intertekstualności",
+          "description": "Osoba odpowiedzialna za analizę i interpretację wzajemnych powiązań między tekstami. Wymagana znajomość teorii literatury oraz umiejętność prowadzenia analizy intertekstualnej.",
+          "tags": [
+            "Interpretacja literacka",
+            "Teoria literatury"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Nowoczesne wyzwania etyki medycznej",
+      "description": "Projekt badawczy skupiający się na analizie *nowych* wyzwań, z jakimi styka się etyka medyczna w dobie postępu technologicznego. Poprzez studium przypadków kryzysowych oraz debatę nad granicami etycznej praktyki medycznej, dążymy do poszerzenia horyzontów refleksji bioetycznej.",
+      "areas": [
+        "Etyka medyczna",
+        "Bioetyka"
+      ],
+      "open_positions": [
+        {
+          "title": "Etyk medyczny",
+          "description": "Osoba zajmująca się analizą dylematów etycznych w praktyce klinicznej. Wymagane doświadczenie w interpretacji *prawnych kodeksów* medycznych oraz umiejętność podejmowania decyzji w warunkach moralnego konfliktu.",
+          "tags": [
+            "Analiza dylematów etycznych",
+            "Interpretacja prawa medycznego"
+          ]
+        },
+        {
+          "title": "Badacz zjawisk bioetycznych",
+          "description": "Specjalista od bioetyki zajmujący się analizą nowych problemów etycznych w biomedycynie. Wymagane doświadczenie w studiowaniu etycznych aspektów genetyki oraz znajomość aktualnych debat bioetycznych.",
+          "tags": [
+            "Bioetyka",
+            "Analiza genetyczna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Digitization of Social Networks",
+      "description": "A multidisciplinary project focusing on the digitization **of social networks**. By applying sophisticated data analysis algorithms and machine learning techniques, we aim to uncover hidden patterns in online social interactions and understand the dynamics of virtual communities.",
+      "areas": [
+        "Digital Sociology",
+        "Social Network Analysis"
+      ],
+      "open_positions": [
+        {
+          "title": "Data Scientist",
+          "description": "An expert in data mining and network analysis. Proficient in Python, R, and machine learning algorithms.",
+          "tags": [
+            "Data Analysis",
+            "Machine Learning"
+          ]
+        },
+        {
+          "title": "Social Media Researcher",
+          "description": "A researcher who specializes in social media behavior and trends analysis. Skilled in sentiment analysis and network visualization tools.",
+          "tags": [
+            "Social Media Analysis",
+            "Trend Analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Rethinking Traditional Art Conservation",
+      "description": "An innovative project challenging the norms of traditional art conservation practices. By integrating modern technologies like 3D scanning and *virtual reality*, we aim to revolutionize the way we perceive and preserve cultural heritage artifacts.",
+      "areas": [
+        "Art Conservation",
+        "Digital Heritage"
+      ],
+      "open_positions": [
+        {
+          "title": "Virtual Reality Specialist",
+          "description": "A specialist in creating immersive VR experiences for art conservation purposes. Proficient in Unity, 3D modeling, and VR storytelling techniques.",
+          "tags": [
+            "VR Technology",
+            "Cultural Heritage Preservation"
+          ]
+        },
+        {
+          "title": "Artifact Documentation Expert",
+          "description": "An expert in digital documentation of cultural artifacts. Experience in photogrammetry, archival digitization, and metadata management.",
+          "tags": [
+            "Artifact Preservation",
+            "Digital Documentation"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 4
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 1
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 3
+    },
+    {
+      "user_id": 1,
+      "project_id": 5
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    }
+  ]
+}

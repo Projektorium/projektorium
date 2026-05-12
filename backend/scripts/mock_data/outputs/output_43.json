@@ -1,0 +1,223 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Emilia",
+      "last_name": "Kowalczyk",
+      "email": "emilia.kowalczyk@bizmail.pl",
+      "description": "Entrepreneur with a vision to revolutionize e-commerce in Poland. Experienced in digital marketing and customer acquisition. Striving for ★ innovation, ✓ customer satisfaction, and → market competitiveness.",
+      "skills": [
+        "Digital Marketing",
+        "E-commerce Strategy",
+        "Customer Acquisition"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Tomasz",
+      "last_name": "Nowak",
+      "email": "tomasz.nowak@bizmail.pl",
+      "description": "Tech enthusiast aiming to disrupt the fintech sector. Passionate about **blockchain** technology and its potential impact. Committed to ★ scalability, ✓ security, and → user experience.",
+      "skills": [
+        "Blockchain Development",
+        "Fintech Solutions",
+        "User Experience Design"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Natalia",
+      "last_name": "Adamczyk",
+      "email": "natalia.adamczyk@bizmail.pl",
+      "description": "Experienced startup founder focusing on sustainable fashion. Committed to ★ eco-consciousness, ✓ ethical sourcing, and → brand transparency. *Driven by values* and long-term impact.",
+      "skills": [
+        "Sustainable Fashion",
+        "Brand Management",
+        "Ethical Sourcing"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Wójcik",
+      "email": "piotr.wojcik@bizmail.pl",
+      "description": "Visionary entrepreneur with a knack for AI-driven solutions. Believes in the power of ★ data, ✓ automation, and → intelligent systems. **Innovating for a smarter future**.",
+      "skills": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Magdalena",
+      "last_name": "Kamińska",
+      "email": "magdalena.kaminska@bizmail.pl",
+      "description": "Passionate social entrepreneur dedicated to building educational platforms for underprivileged youth. Advocating for ★ equal access, ✓ quality content, and → community empowerment. *Education is key*.",
+      "skills": [
+        "Educational Technology",
+        "Community Outreach",
+        "Youth Development"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "GuruFit",
+      "description": "Innovative fitness app designed to transform workout routines. ★ Personalized training plans, ✓ interactive challenges, and → seamless community integration. *Revolutionizing fitness*.",
+      "areas": [
+        "HealthTech",
+        "Mobile Applications"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Lead App Developer",
+          "description": "Responsible for **native app** development and continuous optimization. Drive innovation through ★ cutting-edge features, ✓ responsive design, and → scalable architecture.",
+          "tags": [
+            "Mobile Development",
+            "UI/UX Design"
+          ]
+        },
+        {
+          "title": "✓ Marketing Specialist",
+          "description": "Craft compelling campaigns and engage fitness enthusiasts worldwide. Create ★ brand awareness, ✓ user acquisition strategies, and → community growth initiatives.",
+          "tags": [
+            "Digital Marketing",
+            "Community Building"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "GreenByte",
+      "description": "Sustainable food delivery platform promoting local farms and eco-friendly practices. ★ Farm-to-table experience, ✓ carbon-neutral deliveries, and → ethical sourcing standards. *Eating green*.",
+      "areas": [
+        "Sustainability",
+        "FoodTech"
+      ],
+      "open_positions": [
+        {
+          "title": "✓ Supply Chain Manager",
+          "description": "Oversee end-to-end supply chain operations. Ensure ★ sustainable practices, ✓ timely deliveries, and → quality control standards.",
+          "tags": [
+            "Logistics Management",
+            "Sustainability Practices"
+          ]
+        },
+        {
+          "title": "→ UX/UI Designer",
+          "description": "Create intuitive interfaces for a seamless user experience. Embrace ★ user-centric design, ✓ accessibility standards, and **visual storytelling**.",
+          "tags": [
+            "User Experience Design",
+            "Prototyping"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "MindWave",
+      "description": "AI-powered mental health platform offering personalized therapy and mindfulness guidance. ★ Emotional intelligence, ✓ data-driven insights, and → user privacy protection. *Mental health matters*.",
+      "areas": [
+        "Healthcare",
+        "Artificial Intelligence"
+      ],
+      "open_positions": [
+        {
+          "title": "★ CTO with AI Experience",
+          "description": "Lead AI initiatives and technical development. Harness ★ machine learning, ✓ neural network algorithms, and → AI ethics for innovative solutions.",
+          "tags": [
+            "AI Development",
+            "Ethical AI"
+          ]
+        },
+        {
+          "title": "✓ Clinical Psychologist",
+          "description": "Provide virtual therapy sessions and emotional support. Offer ★ mental health expertise, ✓ empathy-driven care, and → holistic healing approaches.",
+          "tags": [
+            "Psychological Counseling",
+            "Mental Health Support"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "TechBrew",
+      "description": "Next-generation smart coffee maker redefining your morning routine. ★ IoT connectivity, ✓ personalized brew settings, and → energy-efficient design. **Tech meets taste**.",
+      "areas": [
+        "IoT",
+        "Consumer Electronics"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Embedded Systems Engineer",
+          "description": "Develop firmware and hardware solutions for IoT integration. Ensure ★ real-time data processing, ✓ remote connectivity, and → smart device functionality.",
+          "tags": [
+            "Embedded Systems",
+            "IoT Development"
+          ]
+        },
+        {
+          "title": "✓ Product Marketing Manager",
+          "description": "Craft product positioning strategies and drive brand awareness. Define ★ target market, ✓ competitive analysis, and → marketing campaigns.",
+          "tags": [
+            "Product Management",
+            "Marketing Strategy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "EduVibe",
+      "description": "Interactive learning platform empowering students with personalized education tools. ★ Adaptive learning paths, ✓ interactive quizzes, and → real-time progress tracking. *Knowledge unlocked*.",
+      "areas": [
+        "EdTech",
+        "E-learning"
+      ],
+      "open_positions": [
+        {
+          "title": "✓ Curriculum Developer",
+          "description": "Design engaging educational content and assessments. Ensure ★ curriculum alignment, ✓ pedagogical innovation, and → student-centered learning.",
+          "tags": [
+            "Curriculum Design",
+            "Educational Technology"
+          ]
+        },
+        {
+          "title": "→ Community Manager",
+          "description": "Foster a supportive online learning community. Engage ★ students, ✓ parents, and → educators for a collaborative learning environment.",
+          "tags": [
+            "Community Building",
+            "Educational Community Management"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

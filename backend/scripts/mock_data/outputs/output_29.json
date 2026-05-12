@@ -1,0 +1,228 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Aniela",
+      "last_name": "Nowak",
+      "email": "aniela.nowak@example.com",
+      "description": "Artystka multidyscyplinarna z misją wyrażania emocji i historii poprzez sztukę. *Tworzenie jest dla mnie jak oddech* - mówi Aniela. - _Każdy obraz to dla mnie nowa podróż, a każda nuta - nowy świat._",
+      "skills": [
+        "Malarstwo",
+        "Taniec",
+        "Słowo pisanie"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Stanisław",
+      "last_name": "Lewandowski",
+      "email": "stanislaw.lewandowski@example.com",
+      "description": "**Muzyka to moje życie** - wyznaje Stanisław. - _W dźwiękach odnajduję sens istnienia._ Jego twórczość oscyluje między klasyczną i elektroniczną.",
+      "skills": [
+        "Kompozycja muzyczna",
+        "Produkcja dźwięku",
+        "Prowadzenie warsztatów"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Katarzyna",
+      "last_name": "Szewczyk",
+      "email": "katarzyna.szewczyk@example.com",
+      "description": "*Słowo ma moc tworzenia całych światów* - przekonuje Katarzyna. - _Każda opowieść ma potęgę zmieniania rzeczywistości._ Pisarka młodego pokolenia, zafascynowana folklorem i historią",
+      "skills": [
+        "Pisanie literatury",
+        "Redagowanie tekstów",
+        "Tworzenie scenariuszy"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Marcin",
+      "last_name": "Zając",
+      "email": "marcin.zajac@example.com",
+      "description": "Fotografując uchwyca chwile, które nigdy nie wrócą. - **Fotografia to sztuka przetrwania** - podkreśla Marcin. - _Każdy kadr to dialog między światłem a cieniem.",
+      "skills": [
+        "Fotografia artystyczna",
+        "Edycja zdjęć",
+        "Fotoreportaż"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Agata",
+      "last_name": "Wójcik",
+      "email": "agata.wojcik@example.com",
+      "description": "Taniec to moja droga do wolności i ekspresji. - _W ruchu odnajduję piękno świata_ - mówi Agata. Niezależna choreografka i pedagog.",
+      "skills": [
+        "Współczesny taniec",
+        "Improwizacja",
+        "Eksploracja ciała"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Przez pryzmat dzwięków",
+      "description": "Projekt łączący dzwięk i sztukę wizualną w unikalną całość. *Muzyka jest mostem między światami* - wyznaje Mojca, jedna z uczestniczek. - **Wszystkie kolory mają swoje dźwięki, a dźwięki swoje kolory.** Inspiracją są tu polskie korzenie muzyczne i artystyczne.",
+      "areas": [
+        "Muzyka",
+        "Sztuka wizualna"
+      ],
+      "open_positions": [
+        {
+          "title": "Sound Designer",
+          "description": "Kreacja dźwięku oparta na polskich tradycjach. **Odsłuchiwać ciszę** - głosi dewiza projektu. Dźwięki same przemawiają.",
+          "tags": [
+            "Projektowanie dźwięku",
+            "Tworzenie efektów dźwiękowych"
+          ]
+        },
+        {
+          "title": "Wizualny Narrator",
+          "description": "Opowieści wizualne inspirowane polską sztuką ludową. - *Każdy obraz to inna strona bajki* - wyjaśnia Marcin, prowadzący projekt.",
+          "tags": [
+            "Sztuka wizualna",
+            "Grafika komputerowa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Literackie Labirynty",
+      "description": "Inicjatywa promująca polską literaturę oryginalną oraz debiutujących autorów. - **Słowo ukrywa niezbadane zakamarki** - przekonuje Kasia, jedna z uczestniczek projektu. - _W każdej linijce tajemnica._",
+      "areas": [
+        "Literatura",
+        "Promocja kultury"
+      ],
+      "open_positions": [
+        {
+          "title": "Redaktor Tekstów",
+          "description": "Kreacja redakcyjna z polskim zacięciem literackim. - *Każde słowo kryje w sobie świat* - twierdzi Ania, redaktorka naczelna projektu.",
+          "tags": [
+            "Redagowanie tekstów",
+            "Kreacja literacka"
+          ]
+        },
+        {
+          "title": "Promotor Literatury",
+          "description": "Kreowanie nowych przestrzeni dla książki i słowa. **Każda strona to nowa podróż** - motto współpracy z czytelnikami.",
+          "tags": [
+            "Promocja książek",
+            "Organizacja wydarzeń literackich"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Kościół św. Fotografii",
+      "description": "Projekt dokumentujący historię polskiej fotografii artystycznej. _Każdy obraz to kawałek epoki_ - podkreśla Piotrek, przywracający zapomniane klisze. - **Światło zatrzymuje czas w kadrze.**",
+      "areas": [
+        "Fotografia",
+        "Historia sztuki"
+      ],
+      "open_positions": [
+        {
+          "title": "Fotograf Archiwista",
+          "description": "Od dobrego kadru do wspaniałej historii. - *Zdjęcia mówią więcej niż tysiąc słów* - motywacja dla poszukiwaczy historii.",
+          "tags": [
+            "Fotografowanie archiwalne",
+            "Praca z negatywami"
+          ]
+        },
+        {
+          "title": "Kustosz Wystawy",
+          "description": "Wystawianie historii na ścianie. **Każda ramka to okno w inną epokę** - inspiracja dla kuratorów projektu.",
+          "tags": [
+            "Organizacja wystaw",
+            "Historia sztuki"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Tańczony Klimat",
+      "description": "Inicjatywa łącząca taniec współczesny z polskim folklorem. - **Rytm w natarciu, taniec w genach** - wyznaje Tomasz, jeden z instruktorów. - _Energia poprzez ruch._",
+      "areas": [
+        "Taniec",
+        "Folklor"
+      ],
+      "open_positions": [
+        {
+          "title": "Choreograf",
+          "description": "Kreujący ruch na polskiej scenie. *Każdy gest to opowieść* - przekonuje Agnieszka, szefowa tanecznego zespołu.",
+          "tags": [
+            "Choreografia",
+            "Kreacja ruchowa"
+          ]
+        },
+        {
+          "title": "Instruktor Tańca",
+          "description": "Edukacja taneczna z polskim akcentem. - **Każdy krok to część kultury** - zapewnienia dla tancerzy.",
+          "tags": [
+            "Nauczanie tańca",
+            "Improwizacja taneczna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Wyobraźnia w Pikselach",
+      "description": "Projekt eksplorujący granice sztuki cyfrowej i tradycyjnej. **Droga do wirtualnej rzeczywistości jest poprzez serce** - tłumaczy Aleksandra, artystka i programistka. - _Każdy piksel to fragment marzeń._",
+      "areas": [
+        "Sztuka cyfrowa",
+        "Grafika komputerowa"
+      ],
+      "open_positions": [
+        {
+          "title": "Programista Visual Design",
+          "description": "Tworzenie wirtualnych światów z polskim akcentem. - *Koduję marzenia* - mówi Paweł, programista projektu.",
+          "tags": [
+            "Tworzenie grafiki 3D",
+            "Implementacja efektów wizualnych"
+          ]
+        },
+        {
+          "title": "Animator Szkicownik",
+          "description": "Ożywianie idei w cyfrowym świecie. **Każdy ruch to impuls wyobraźni** - manifestacja animatorów.",
+          "tags": [
+            "Animacja komputerowa",
+            "Tworzenie storyboardów"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1,
+      "role": "Wizualny Narrator"
+    },
+    {
+      "user_id": 2,
+      "project_id": 1,
+      "role": "Sound Designer"
+    },
+    {
+      "user_id": 3,
+      "project_id": 2,
+      "role": "Redaktor Tekstów"
+    },
+    {
+      "user_id": 4,
+      "project_id": 3,
+      "role": "Fotograf Archiwista"
+    },
+    {
+      "user_id": 5,
+      "project_id": 4,
+      "role": "Choreograf"
+    }
+  ]
+}

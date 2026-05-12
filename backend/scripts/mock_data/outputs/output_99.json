@@ -1,0 +1,238 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Aleksandra",
+      "last_name": "Kowalczyk",
+      "email": "aleksandra.kowalczyk@kultura.pl",
+      "description": "Moje prawdziwe powołanie leży w tworzeniu sztuki, która wzrusza serca ludzi. *Sztuka* pozwala mi dotknąć najgłębszych emocji i wyrazić to, czego słowami nie da się uchwycić. \n\n- Jestem zainspirowana polską sztuką ludową i tradycjami.\n- Moje prace odzwierciedlają piękno polskiej przyrody.\n- *Sztuka rzeźby* to dla mnie język, którym mogę się porozumieć z całym światem.",
+      "skills": [
+        "rzeźba",
+        "malarstwo",
+        "rzeźba w drewnie"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Michał",
+      "last_name": "Nowak",
+      "email": "michal.nowak@art.pl",
+      "description": "Moje życie jest podróżą *pełną kolorów*, gdzie sztuka jest moim przewodnikiem. **Dźwięki i obrazy** są dla mnie kluczem do zrozumienia świata, który mnie otacza. \n\n- Inspiruje mnie polska historia i *mitologia*.\n- Moje prace oddają ducha polskich tradycji artystycznych.\n- W każdym dziele staram się *uwiecznić* polską duszę.",
+      "skills": [
+        "fotografia",
+        "grafika komputerowa",
+        "sztuka dźwięku"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Aneta",
+      "last_name": "Woźniak",
+      "email": "aneta.wozniak@kultura.pl",
+      "description": "Sztuka dla mnie jest jak *oddech*, nie potrafię sobie wyobrazić życia bez możliwości wyrażenia się poprzez nią. **Malowanie** pozwala mi na odkrywanie nowych światów i emocji. \n\n- Nieustannie poszukuję inspiracji w polskim folklorze.\n- Moje prace są próbą zatrzymania czasu i historii Polski.\n- Sztuka dla mnie to sposób na *dialog* z przeszłością i teraźniejszością.",
+      "skills": [
+        "malarstwo",
+        "sztuka współczesna",
+        "ilustracja"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Dąbrowski",
+      "email": "piotr.dabrowski@sztuka.pl",
+      "description": "Mój świat kręci się wokół tworzenia i eksploracji nowych możliwości sztuki. *Tworzenie* jest dla mnie sposobem na wyrażenie swojej osobowości i refleksję nad światem.\n\n- *Kinetyczne formy sztuki* inspirują moje dzieła.\n- Pragnę odkrywać nowe wymiary polskiej kultury.\n- Moje prace to próba połączenia tradycji z nowoczesnością.",
+      "skills": [
+        "kinetyczne rzeźby",
+        "interaktywne instalacje",
+        "nowe media"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Magdalena",
+      "last_name": "Kaczmarek",
+      "email": "magdalena.kaczmarek@artysta.pl",
+      "description": "Sztuka ma w sobie magię, która potrafi zmieniać świat i ludzkie serca. Z oddaniem staram się tworzyć *prace oddziaływujące emocjonalnie* i prowokujące do refleksji. \n\n- Inspirują mnie polskie legendy i baśnie.\n- Moje prace są kontemplacją nad pięknem polskiej przyrody.\n- Sztuka dla mnie to środek wyrazu, który pozwala mi wydobyć najgłębsze uczucia.",
+      "skills": [
+        "rzeźba monumentalna",
+        "sztuka interwencji",
+        "artystyczne performance"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Eteryczne Widzenie",
+      "description": "Projekt *Eteryczne Widzenie* to artystyczna podróż w głąb ludzkiej duszy, inspirowana polskim surrealizmem i mistycyzmem. \n\n\"To miejsce, gdzie marzenia stają się rzeczywistością.\" - uczestnik warsztatów.\n\n- Sfery sztuki nowoczesnej\n- Eksperymenty w dziedzinie instalacji artystycznych",
+      "areas": [
+        "surrealizm",
+        "mystycyzm",
+        "nowoczesna sztuka"
+      ],
+      "open_positions": [
+        {
+          "title": "Kurator wystawy",
+          "description": "Poszukujemy kreatywnej osoby, z głęboką wiedzą o sztuce surrealistycznej, gotowej na nowatorskie rozwiązania. Praca możliwa zdalnie.\n\n\"Twórczość jest kluczem do transformacji.\" - doświadczony kurator.",
+          "tags": [
+            "surrealizm",
+            "kurator",
+            "eksperyment"
+          ]
+        },
+        {
+          "title": "Animator kultury",
+          "description": "Poszukujemy pasjonata, który potrafi inspirować innych poprzez sztukę i kulturę. Oferta pracy w oparciu o wrażliwość i indywidualne podejście do sztuki.\n\n- \"Kultura to most łączący ludzi.\" - animator społeczno-kulturalny.",
+          "tags": [
+            "animacja kultury",
+            "inspiracja",
+            "sztuka społeczna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Oddech Podlasia",
+      "description": "Projekt *Oddech Podlasia* to artystyczna podróż w świat tradycji i historii Podlasia, inspirowana polskim folklorem i przyrodą. \n\n\"Tu każdy kamień ma swoją opowieść.\" - uczestnik warsztatów.\n\n- Folklor podlaski\n- Rzemiosło artystyczne",
+      "areas": [
+        "folklor",
+        "historia lokalna",
+        "rzemiosło"
+      ],
+      "open_positions": [
+        {
+          "title": "Mistrz garncarstwa",
+          "description": "Poszukujemy doświadczonego rzemieślnika, który potrafi przenieść tradycyjne wzory w nowoczesne formy. Praca w oparciu o lokalne surowce i techniki.\n\n- \"Garncarstwo to sztuka kształtowania ziemi.\" - mistrz garncarstwa.",
+          "tags": [
+            "garncarstwo",
+            "rzemieślnik",
+            "twórczość tradycyjna"
+          ]
+        },
+        {
+          "title": "Narrator podlaskich historii",
+          "description": "Poszukujemy opowiadacza, który z pasją przekaże historie związane z Podlasie, tworząc żywe obrazy dla naszych uczestników. Praca oparta na *słowie* i emocjach.\n\n- \"Historie to sposób na ocalenie pamięci.\" - lokalny kronikarz.",
+          "tags": [
+            "opowieści",
+            "tradycje",
+            "narracja"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Hałasy Współczesności",
+      "description": "Projekt *Hałasy Współczesności* to eksperyment w dziedzinie dźwięku, obrazu i interakcji społecznych, inspirowany polską awangardą i współczesnością. \n\n\"Tu każdy dźwięk ma swój obraz.\" - uczestnik happeningu.\n\n- Awangarda dźwiękowa\n- Sztuka interwencji",
+      "areas": [
+        "dźwięk",
+        "interakcja społeczna",
+        "awangarda"
+      ],
+      "open_positions": [
+        {
+          "title": "Kompozytor eksperymentalny",
+          "description": "Poszukujemy twórcy dźwięku, który odważy się na eksperymenty z precyzją i pasją. Praca oparta na współpracy i *kreatywnym chaosie*.\n\n- \"Dźwięk to most łączący przeszłość z przyszłością.\" - eksperymentalny kompozytor.",
+          "tags": [
+            "eksperyment dźwiękowy",
+            "kompozycja",
+            "awangarda"
+          ]
+        },
+        {
+          "title": "Kurator interwencji artystycznej",
+          "description": "Poszukujemy osoby z wrażliwością społeczną, gotowej na podejmowanie interwencji artystycznych w codzienności. Praca obejmuje zarówno organizację, jak i reakcję na sytuacje *improwizowane*.\n\n- \"Sztuka nie zna barier.\" - kurator społeczny.",
+          "tags": [
+            "interwencja artystyczna",
+            "organizacja wydarzeń",
+            "społeczność"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Światło Historii",
+      "description": "Projekt *Światło Historii* to interaktywna lekcja historii poprzez sztukę i multimedia, inspirowana polską tradycją i współczesnością. \n\n\"Tutaj historia nabiera kształtu i kolorów.\" - uczestnik performance'u.\n\n- Edukacja artystyczna\n- Multimedia historyczne",
+      "areas": [
+        "historia sztuki",
+        "edukacja kulturalna",
+        "multimedia"
+      ],
+      "open_positions": [
+        {
+          "title": "Animator edukacji artystycznej",
+          "description": "Poszukujemy osoby z pasją do edukacji, gotowej na tworzenie kreatywnych i interaktywnych lekcji. Praca oparta na *dialogu kulturowym* i wspólnym odkrywaniu historii.\n\n- \"Edukacja to klucz do otwarcia umysłów.\" - animator kulturalny.",
+          "tags": [
+            "edukacja artystyczna",
+            "animacja",
+            "interakcja"
+          ]
+        },
+        {
+          "title": "Design multimedia",
+          "description": "Poszukujemy projektanta z doświadczeniem w tworzeniu treści multimedialnych, pasjonata historii i sztuki w jednym. Praca wymaga kreatywności i umiejętności *łączenia wątków*.\n\n- \"Multimedia to język przyszłości.\" - ekspercki projektant.",
+          "tags": [
+            "multimedia",
+            "design interaktywny",
+            "historia w mediach"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Rytuały Nowoczesności",
+      "description": "Projekt *Rytuały Nowoczesności* to spojrzenie na życie codzienne poprzez pryzmat rytuałów i symboli, inspirowane polskim *minimalizmem* i awangardą. \n\n\"Tu nowoczesność spotyka tradycję.\" - uczestnik ceremonii.\n\n- Sztuka performance'u\n- Minimalistyczne formy sztuki",
+      "areas": [
+        "formance",
+        "symbole",
+        "minimalizm"
+      ],
+      "open_positions": [
+        {
+          "title": "Kurator performance'u",
+          "description": "Poszukujemy kreatywnego kuratora, gotowego na reinterpretację rytuałów codzienności. Praca wymaga *wrażliwości* i umiejętności kreatywnego prowadzenia wydarzeń.\n\n- \"Performance to sztuka bycia obecnym.\" - kurator ceremonii.",
+          "tags": [
+            "performance art",
+            "interpretacja",
+            "reinwencja"
+          ]
+        },
+        {
+          "title": "Projektant symboli nowoczesności",
+          "description": "Poszukujemy designerów, którzy potrafią odnaleźć *nowe znaczenia* w codziennych symbolach. Praca to poszukiwanie piękna w prostocie i znaczenia w formie.\n\n- \"Symbole to język naszej kultury.\" - projektant nowoczesny.",
+          "tags": [
+            "symbole",
+            "design",
+            "minimalizm"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 1
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

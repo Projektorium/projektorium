@@ -1,0 +1,220 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "katarzyna.nowak@email.com",
+      "description": "Jestem przedsiębiorcą z pasją do *projektowania UX* i **programowania Pythona**. Moje cele zawodowe skupiają się na tworzeniu innowacyjnych rozwiązań i doskonaleniu umiejętności z zakresu analizy danych.",
+      "skills": [
+        "Projektowanie UX",
+        "Python",
+        "Analiza danych"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Kowalski",
+      "email": "piotr.kowalski@email.com",
+      "description": "Studiuje neuronaukę i pasjonuje się *fizjologią mózgu*. Moje umiejętności obejmują **analizę danych neurobiologicznych**, co pomaga mi w rozwoju nowoczesnych technik badawczych.",
+      "skills": [
+        "Neuronauka",
+        "Analiza danych neurobiologicznych",
+        "Badania naukowe"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Alicja",
+      "last_name": "Wiśniewska",
+      "email": "alicja.wisniewska@email.com",
+      "description": "Jestem tłumaczką specjalizującą się w *językoznawstwie*. Moje doświadczenie obejmuje pracę nad *tłumaczeniem literatury pięknej* i *specjalistyczną terminologią*. Dążę do rozwoju w obszarze lokalizacji oprogramowania.",
+      "skills": [
+        "Tłumaczenie",
+        "Językoznawstwo",
+        "Literatura piękna"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Mariusz",
+      "last_name": "Lis",
+      "email": "mariusz.lis@email.com",
+      "description": "Moją pasją jest *tworzenie aplikacji mobilnych* i rozwój **interfejsów użytkownika**. Chcę ciągle poszerzać moje umiejętności w obszarze *projektowania interakcji* oraz *optymalizacji UX*.",
+      "skills": [
+        "Tworzenie aplikacji mobilnych",
+        "Interfejsy użytkownika",
+        "Projektowanie interakcji"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Aleksandra",
+      "last_name": "Dąbrowska",
+      "email": "aleksandra.dabrowska@email.com",
+      "description": "Jestem biolożką molekuralną z zamiłowaniem do badania *genetyki*. Moje umiejętności obejmują **analizę sekwencji DNA** oraz *badania nad mutacjami genetycznymi*. Chcę współpracować przy innowacyjnych projektach naukowych.",
+      "skills": [
+        "Biologia molekularna",
+        "Analiza sekwencji DNA",
+        "Genetyka"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma E-learningowa dla Studentów 📚💻",
+      "description": "🌟 Tworzymy interaktywną platformę edukacyjną dla studentów **z różnych kierunków akademickich**. Projekt zakłada rozwój interfejsu użytkownika, implementację zaawansowanych algorytmów **analizy danych** oraz projektowanie treści **dopasowanych do preferencji użytkowników**.",
+      "areas": [
+        "Rozwój Webowy",
+        "Analiza Danych",
+        "Oświatowy"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Frontend 💻🎨",
+          "description": "Poszukujemy osoby do **rozwijania interfejsu użytkownika** i tworzenia atrakcyjnych wizualnie treści edukacyjnych.",
+          "tags": [
+            "Frontend",
+            "Projektowanie Graficzne",
+            "UI/UX"
+          ]
+        },
+        {
+          "title": "Analityk Danych 📊🔍",
+          "description": "Zadaniem osoby na tym stanowisku będzie **analiza działań użytkowników** oraz opracowywanie rekomendacji bazujących na danych statystycznych.",
+          "tags": [
+            "Analiza Danych",
+            "Statystyka",
+            "Rekomendacje"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Projekt Badawczy nad Nowymi Technologiami 🚀🔬",
+      "description": "🔍 Celem projektu jest opracowanie nowych technologii wykorzystujących **sztuczną inteligencję** i **Internet of Things**. Praca obejmuje *implementację algorytmów uczenia maszynowego* oraz testowanie nowatorskich rozwiązań **w warunkach laboratoryjnych**.",
+      "areas": [
+        "Technologie Przyszłości",
+        "Innowacje Technologiczne",
+        "Sztuczna Inteligencja"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. AI 💡🤖",
+          "description": "Osoba na tym stanowisku zajmie się **wdrażaniem algorytmów uczenia maszynowego** oraz zapewnieniem integracji z systemami IoT.",
+          "tags": [
+            "Sztuczna Inteligencja",
+            "Machine Learning",
+            "IoT"
+          ]
+        },
+        {
+          "title": "Inżynier Testów 🧪📝",
+          "description": "Poszukujemy specjalisty do **testowania nowych rozwiązań technologicznych** oraz opracowywania procedur badawczych.",
+          "tags": [
+            "Testowanie Oprogramowania",
+            "Protokoły Testowania",
+            "Inżynieria Jakości"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Aplikacja Mobilna do Pomocy Dzieciom w Nauce Matematyki 🧮📱",
+      "description": "🎉 Nasz projekt ma na celu stworzenie interaktywnej aplikacji **wspierającej naukę matematyki u dzieci**. Prace obejmują rozwój interfejsu, implementację funkcji mobilnych oraz testowanie **skuteczności metod edukacyjnych**.",
+      "areas": [
+        "Edukacja Dzieci",
+        "Aplikacje Mobilne",
+        "Matematyka Edukacyjna"
+      ],
+      "open_positions": [
+        {
+          "title": "Projektant UX/UI 🎨💡",
+          "description": "Osoba na tym stanowisku opracuje **intuicyjny interfejs użytkownika** i zapewni *optymalną przejrzystość* dla użytkowników aplikacji.",
+          "tags": [
+            "Projektowanie UX",
+            "UI/UX",
+            "Interakcje Użytkownika"
+          ]
+        },
+        {
+          "title": "Specjalista ds. EdTech 👩‍🏫👨‍🏫",
+          "description": "Poszukujemy eksperta do **implementacji metod nauczania online** i tworzenia interaktywnych narzędzi wspomagających rozwój umiejętności matematycznych.",
+          "tags": [
+            "E-learning",
+            "Pedagogika",
+            "Metody Nauczania"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Badanie nad Wpływem Języka na Procesy Poznawcze 🧠🗣️",
+      "description": "🔬 Nasze badania koncentrują się na zrozumieniu **jak różne języki wpływają na nasze myślenie**. Projekt zakłada przeprowadzenie eksperymentów **z udziałem kognitywistów i filologów** oraz analizę danych **z zakresu neurolingwistyki**.",
+      "areas": [
+        "Neurobiologia",
+        "Kognitywistyka",
+        "Językoznawstwo"
+      ],
+      "open_positions": [
+        {
+          "title": "Badacz Kognitywista 🧠👥",
+          "description": "Osoba na tym stanowisku zajmie się **analizą danych z zakresu kognitywistyki** oraz tworzeniem raportów dotyczących wyników eksperymentów.",
+          "tags": [
+            "Kognitywistyka",
+            "Badania Eksperymentalne",
+            "Raportowanie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Oprogramowanie do Analizy Struktur Genetycznych 🧬💻",
+      "description": "🧬 Projekt ma na celu opracowanie oprogramowania do *analizy sekwencji DNA* i badania **związków między genami**. Przewidujemy integrację zaawansowanych algorytmów **bioinformatycznych** oraz współpracę z ekspertami z różnych dziedzin naukowych.",
+      "areas": [
+        "Biologia Molekularna",
+        "Bioinformatyka",
+        "Genetyka Komputerowa"
+      ],
+      "open_positions": [
+        {
+          "title": "Programista Biomedicalyczny 🧪💻",
+          "description": "Poszukujemy specjalisty do **tworzenia algorytmów analizy sekwencji DNA** oraz implementacji programów opartych na *technologiach bioinformatycznych*.",
+          "tags": [
+            "Bioinformatyka",
+            "Programowanie Biomedyczne",
+            "Analiza Genomów"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

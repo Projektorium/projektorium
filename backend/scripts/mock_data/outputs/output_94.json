@@ -1,0 +1,239 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Aniela",
+      "last_name": "Kowalska",
+      "email": "aniela.kowalska@example.com",
+      "description": "Jestem artystką kochającą odnajdywać piękno w codziennych szczegółach. Moja filozofia *tworzenia* opiera się na połączeniu tradycyjnych motywów z nowoczesnym stylem. \n\n- Inspiruje mnie polska przyroda\n- **Cykl życia** jest moim głównym tematem twórczości\n- *Szukam harmonii w chaosie*",
+      "skills": [
+        "malarstwo",
+        "rzeźba",
+        "fotografia"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Karol",
+      "last_name": "Nowak",
+      "email": "karol.nowak@example.com",
+      "description": "Moje dzieła odzwierciedlają ducha polskiej historii. *Sztuka jest moim językiem*, a obrazy *są moimi opowieściami*. \n\n- *Polskie pejzaże* stanowią mój główny motyw\n- **Tradycja i nowoczesność** są dla mnie równie istotne\n- *Przedstawiamem świat oczami duszy*",
+      "skills": [
+        "malarstwo",
+        "ilustracja",
+        "sztuka cyfrowa"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Dorota",
+      "last_name": "Kaczmarek",
+      "email": "dorota.kaczmarek@example.com",
+      "description": "Moja twórczość to podróż przez *marzenia i rzeczywistość*. Polskie folkowe wzory stanowią serce mojej sztuki. \n\n- *Moją inspiracją jest polska kultura ludowa*\n- **Kolonialne tkaniny** nadają moim projektom wyjątkowy charakter\n- *Dzięki szyciu odkrywam siebie*",
+      "skills": [
+        "sztuka wizualna",
+        "projektowanie tekstyliów",
+        "haft"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Tomasz",
+      "last_name": "Jankowski",
+      "email": "tomasz.jankowski@example.com",
+      "description": "Każdy obraz, który maluję, to fragment polskiej duszy. **Barwy krajobrazów** inspirują moje prace. \n\n- *Szukam harmonii w kontraście*\n- **Przyroda polska** to moje źródło inspiracji\n- *Tworzę, aby dać życie marzeniom*",
+      "skills": [
+        "malarstwo",
+        "innowacyjne techniki malarskie",
+        "krajobraz"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Magdalena",
+      "last_name": "Wójcik",
+      "email": "magdalena.wojcik@example.com",
+      "description": "Mój teatr łączy odwieczne polskie tradycje z nowoczesnością. *Każda rola to część mojej duszy*. \n\n- **Teatr jako magia** i *spełnienie marzeń*\n- *Polska literatura* jest moją wizją\n- **Scena to moje życie**, *a widzowie moją inspiracją*",
+      "skills": [
+        "aktorstwo",
+        "reżyseria",
+        "adaptacja literacka"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Światła Polskiej Poezji",
+      "description": "Zapraszamy do projektu, który ukazuje *piękno polskich słów* poprzez sztukę sceniczną. \n\n- Anna, uczestniczka: '*Teatr przemyca wiersze do serca. To niesamowite jak słowa potrafią *odbierać* oddech.*'\n- Tomasz, uczestnik: '**Szukam w poezji Polski duszy. To dla mnie jak powrót do korzeni.**'",
+      "areas": [
+        "teatr",
+        "literatura",
+        "sztuka widowiskowa"
+      ],
+      "open_positions": [
+        {
+          "title": "Reżyser",
+          "description": "Poszukujemy **kreatywnej duszy** z doświadczeniem w *inscenizacji literackiej*. \n- Mile widziane referencje teatralne\n- Specjalizacja: *adaptacja poezji*\n- Prosimy o umieszczenie portfolio w zgłoszeniu",
+          "tags": [
+            "adaptacja literacka",
+            "teatr",
+            "kierowanie zespołem"
+          ]
+        },
+        {
+          "title": "Scenograf",
+          "description": "Szukamy kogoś, kto potrafi *przenieść widzów w inne *rzeczywistości*. \n- Konieczne doświadczenie teatralne\n- Kreatywność w *przystosowaniu scenografii*\n- Umiejętność pracy pod presją",
+          "tags": [
+            "sztuka widowiskowa",
+            "scenografia",
+            "projektowanie przestrzeni"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Melodie Polskiego Folkloru",
+      "description": "Projekt, który ożywia dźwięki *polskiej tradycji*. Przekształcamy stare melodie w nowoczesne aranżacje. \n\n- Krzysztof, uczestnik: '*Muzyka to *serce Polski*. Pragnę przekazać to dziedzictwo dalej.*'\n- Magda, uczestniczka: '***Tradycja to nieco nowoczesności. Melodie Polski jak oddech historii.**'",
+      "areas": [
+        "muzyka",
+        "folklor",
+        "aranżacje muzyczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Kompozytor",
+          "description": "Poszukujemy osoby z pasją do *tworzenia nowych dźwięków* inspirowanych polskimi korzeniami. \n- Portfolio muzyczne konieczne\n- **Znajomość polskiego folku** mile widziana\n- Kreatywność ponad wszystko",
+          "tags": [
+            "komponowanie",
+            "muzyka folkowa",
+            "aranżacja instrumentalna"
+          ]
+        },
+        {
+          "title": "Instrumentalista",
+          "description": "Jesteś muzykiem, który *niesie ducha polskiej muzyki* w swoich melodiiach? Zgłoś się do nas! \n- Umiejętności grania na różnych instrumentach\n- Fascynacja *folklorem muzycznym*\n- Zaangażowanie w projekt kulturowy",
+          "tags": [
+            "instrumenty tradycyjne",
+            "muzyka ludowa",
+            "interpretacja muzyczna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Twórcze Rzeźby Polskich Mistrzów",
+      "description": "Przejmujemy tradycję rzeźby w nowoczesnym wydaniu. Dołącz, aby zobaczyć jak *dzieła ożywają*. \n\n- Zofia, uczestniczka: '*Kamień mówi historie. Polska rzeźba to opowieść o naszej *duszy*.*'\n- Piotr, uczestnik: '**Rzeźba to nie kamień, to *fragment myśli*. Chcę odkryć moje pasje w polskim nurcie.**'",
+      "areas": [
+        "rzeźba",
+        "sztuka współczesna",
+        "tworzenie rzeźb"
+      ],
+      "open_positions": [
+        {
+          "title": "Sculptor",
+          "description": "Dołącz do nas, jeśli masz w sobie iskrę twórczości i chcesz ożywić kamień! \n- Znajomość *technik rzeźbiarskich* konieczna\n- Odwaga w eksperymentowaniu ze sztuką\n- Pasja do *tworzenia monumentalnych dzieł*",
+          "tags": [
+            "rzeźba kamienia",
+            "sztuka rzeźby",
+            "posłaniec sztuki"
+          ]
+        },
+        {
+          "title": "Restaurator",
+          "description": "Jesteś mistrzem w przywracaniu *dawnych dzieł sztuki* do życia? Ta rola jest dla Ciebie. \n- Umiejętność prac ręcznych\n- Znajomość *materiałów restauracyjnych*\n- Troska o *niedotykalność oryginałów*",
+          "tags": [
+            "rekonstrukcja dzieł",
+            "historia sztuki",
+            "restauracja rzeźby"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Wizje Polskich Pejzaży",
+      "description": "Zapraszamy do projektu, który ukazuje piękno *polskich krajobrazów*. Praca ta to podróż przez *kolory życia*. \n\n- Marta, uczestniczka: '*Malarstwo krajobrazowe to moje odbicie *wnętrza duszy*. To polskie pejzaże przedstawiają moje marzenia.*'\n- Jan, uczestnik: '**Kolory Polski mówią więcej niż słowa. *Artysta jest tu i teraz* w barwach życia.**'",
+      "areas": [
+        "malarstwo",
+        "krajobraz",
+        "sztuka impresjonistyczna"
+      ],
+      "open_positions": [
+        {
+          "title": "Ekspresjonista",
+          "description": "*Odzyskaj prawdziwy *koloryt życia* poprzez abstrakcję krajobrazów. \n- Zmysł artystyczny i kreatywność\n- Umiejętność *interpretacji natury*\n- Poszukiwanie nowych *form darów natury*",
+          "tags": [
+            "abstrakcja",
+            "ekspresjonizm",
+            "nowoczesne malarstwo"
+          ]
+        },
+        {
+          "title": "Impresjonista",
+          "description": "*Uchwyć chwilę* życia w kroplach farby w stylu impresjonistycznym. \n- Pasja do *odbioru światła*\n- Techniki *kreowania atmosfery*\n- Łączenie *kolorów duszy*",
+          "tags": [
+            "impresjonizm",
+            "realizm romantyczny",
+            "przyroda w malarstwie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Słowa Wielkich Myślicieli",
+      "description": "Stawiamy na merytoryczne dyskusje poparte polskimi sentencjami. *Każde zdanie odnajduje swoje* miejsce w naszych debatach. \n\n- Piotr, uczestnik: '*Filozoficzne rozmowy przynoszą mi zbawienie. Słowa wielkich *filozofów odbierają mój rozum*.*'\n- Katarzyna, uczestniczka: '**Każde zdanie *mądrości* to cząstka naszej *kultury*. Praca nad myślą to praca nad sobą.**'",
+      "areas": [
+        "filozofia",
+        "literatura",
+        "kultura",
+        "wykłady"
+      ],
+      "open_positions": [
+        {
+          "title": "Kurator",
+          "description": "*Kreuj przestrzeń myśli* poprzez wybór słów i treści. \n- Znajomość *polskich myślicieli*\n- Samodzielność w *organizowaniu wydarzeń kulturalnych*\n- Pasja do *przesyłania idei*",
+          "tags": [
+            "kurator wystaw",
+            "filozofia",
+            "historia literatury"
+          ]
+        },
+        {
+          "title": "Organizator",
+          "description": "Dołącz do nas, aby *tkać sieć myśli* i kultury poprzez organizację spotkań. \n- Umiejętność *planowania wydarzeń*\n- *Doskonała koordynacja* działań\n- Zainteresowanie *literaturą filozoficzną* i *dziennikarstwem kulturalnym*",
+          "tags": [
+            "organizacja wydarzeń",
+            "kultura myśli",
+            "PR w kulturze"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 4
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 2
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

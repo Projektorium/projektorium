@@ -1,0 +1,58 @@
+export const people = [
+  {
+    id: "1",
+    name: "Artur Kopytko",
+    description: "Moje zainteresowania obejmują tłumaczenia literackie, szczególnie z zakresu literatury współczesnej i klasycznej. W ramach studiów realizuje dodatkowe zajęcia z teorii tłumaczeń oraz stylistyki, które pozwalają jej zgłębiać niuanse języka. Odbyłam praktyki w wydawnictwie, gdzie współpracowała przy redakcji przekładów literackich. ",
+    image: "https://fastly.picsum.photos/id/797/150/150.jpg?hmac=qFxiqguNGmKvv8cJn_7wYLM1uCYvxMF5cN4DMHyIAqs",
+    tags: ['Filologia', 'Archiwa', 'Dziedzictwo Kulturowe', 'Literatura', 'Historia', 'Inne'],
+  },
+  {
+    id: "2",
+    name: "Anna Podgorska",
+    description: "Moje zainteresowania obejmują tłumaczenia literackie, szczególnie z zakresu literatury współczesnej i klasycznej. W ramach studiów realizuje dodatkowe zajęcia z teorii tłumaczeń oraz stylistyki, które pozwalają jej zgłębiać niuanse języka. Odbyłam praktyki w wydawnictwie, gdzie współpracowała przy redakcji przekładów literackich. ",
+    image: "https://fastly.picsum.photos/id/797/150/150.jpg?hmac=qFxiqguNGmKvv8cJn_7wYLM1uCYvxMF5cN4DMHyIAqs",
+    tags: ['Filologia', 'Archiwa', 'Dziedzictwo Kulturowe', 'Literatura', 'Historia', 'Inne'],
+  },
+  {
+    id: "3",
+    name: "Artur Kopytko",
+    description: "Moje zainteresowania obejmują tłumaczenia literackie, szczególnie z zakresu literatury współczesnej i klasycznej. W ramach studiów realizuje dodatkowe zajęcia z teorii tłumaczeń oraz stylistyki, które pozwalają jej zgłębiać niuanse języka. Odbyłam praktyki w wydawnictwie, gdzie współpracowała przy redakcji przekładów literackich. ",
+    image: "https://fastly.picsum.photos/id/797/150/150.jpg?hmac=qFxiqguNGmKvv8cJn_7wYLM1uCYvxMF5cN4DMHyIAqs",
+    tags: ['Filologia', 'Archiwa', 'Dziedzictwo Kulturowe', 'Literatura', 'Historia', 'Inne'],
+  },
+  {
+    id: "4",
+    name: "Anna Podgorska",
+    description: "Moje zainteresowania obejmują tłumaczenia literackie, szczególnie z zakresu literatury współczesnej i klasycznej. W ramach studiów realizuje dodatkowe zajęcia z teorii tłumaczeń oraz stylistyki, które pozwalają jej zgłębiać niuanse języka. Odbyłam praktyki w wydawnictwie, gdzie współpracowała przy redakcji przekładów literackich. ",
+    image: "https://fastly.picsum.photos/id/797/150/150.jpg?hmac=qFxiqguNGmKvv8cJn_7wYLM1uCYvxMF5cN4DMHyIAqs",
+    tags: ['Filologia', 'Archiwa', 'Dziedzictwo Kulturowe', 'Literatura', 'Historia', 'Inne'],
+  },
+  {
+    id: "5",
+    name: "Artur Kopytko",
+    description: "Moje zainteresowania obejmują tłumaczenia literackie, szczególnie z zakresu literatury współczesnej i klasycznej. W ramach studiów realizuje dodatkowe zajęcia z teorii tłumaczeń oraz stylistyki, które pozwalają jej zgłębiać niuanse języka. Odbyłam praktyki w wydawnictwie, gdzie współpracowała przy redakcji przekładów literackich. ",
+    image: "https://fastly.picsum.photos/id/797/150/150.jpg?hmac=qFxiqguNGmKvv8cJn_7wYLM1uCYvxMF5cN4DMHyIAqs",
+    tags: ['Filologia', 'Archiwa', 'Dziedzictwo Kulturowe', 'Literatura', 'Historia', 'Inne'],
+  },
+  {
+    id: "6",
+    name: "Anna Podgorska",
+    description: "Moje zainteresowania obejmują tłumaczenia literackie, szczególnie z zakresu literatury współczesnej i klasycznej. W ramach studiów realizuje dodatkowe zajęcia z teorii tłumaczeń oraz stylistyki, które pozwalają jej zgłębiać niuanse języka. Odbyłam praktyki w wydawnictwie, gdzie współpracowała przy redakcji przekładów literackich. ",
+    image: "https://fastly.picsum.photos/id/797/150/150.jpg?hmac=qFxiqguNGmKvv8cJn_7wYLM1uCYvxMF5cN4DMHyIAqs",
+    tags: ['Filologia', 'Archiwa', 'Dziedzictwo Kulturowe', 'Literatura', 'Historia', 'Inne'],
+  },
+  {
+    id: "7",
+    name: "Artur Kopytko",
+    description: "Moje zainteresowania obejmują tłumaczenia literackie, szczególnie z zakresu literatury współczesnej i klasycznej. W ramach studiów realizuje dodatkowe zajęcia z teorii tłumaczeń oraz stylistyki, które pozwalają jej zgłębiać niuanse języka. Odbyłam praktyki w wydawnictwie, gdzie współpracowała przy redakcji przekładów literackich. ",
+    image: "https://fastly.picsum.photos/id/797/150/150.jpg?hmac=qFxiqguNGmKvv8cJn_7wYLM1uCYvxMF5cN4DMHyIAqs",
+    tags: ['Filologia', 'Archiwa', 'Dziedzictwo Kulturowe', 'Literatura', 'Historia', 'Inne'],
+  },
+  {
+    id: "8",
+    name: "Anna Podgorska",
+    description: "Moje zainteresowania obejmują tłumaczenia literackie, szczególnie z zakresu literatury współczesnej i klasycznej. W ramach studiów realizuje dodatkowe zajęcia z teorii tłumaczeń oraz stylistyki, które pozwalają jej zgłębiać niuanse języka. Odbyłam praktyki w wydawnictwie, gdzie współpracowała przy redakcji przekładów literackich. ",
+    image: "https://fastly.picsum.photos/id/797/150/150.jpg?hmac=qFxiqguNGmKvv8cJn_7wYLM1uCYvxMF5cN4DMHyIAqs",
+    tags: ['Filologia', 'Archiwa', 'Dziedzictwo Kulturowe', 'Literatura', 'Historia', 'Inne'],
+  },
+]

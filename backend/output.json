@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Jan",
+      "last_name": "Kowalski",
+      "email": "jan.kowalski@example.com",
+      "skills": [
+        "Python",
+        "Data Science",
+        "Analiza Biznesowa"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Alicja",
+      "last_name": "Nowak",
+      "email": "alicja.nowak@example.com",
+      "skills": [
+        "Projektowanie Graficzne",
+        "UX/UI Design",
+        "Adobe Creative Suite"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Hanna",
+      "last_name": "Dąbrowska",
+      "email": "hanna.dabrowska@example.com",
+      "skills": [
+        "Filozofia",
+        "Teoria Literatury",
+        "Tłumaczenie"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Marek",
+      "last_name": "Wojcik",
+      "email": "marek.wojcik@example.com",
+      "skills": [
+        "Java",
+        "Spring Framework",
+        "Architektura Oprogramowania"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Agata",
+      "last_name": "Kubiak",
+      "email": "agata.kubiak@example.com",
+      "skills": [
+        "Neurobiologia",
+        "Biologia Komórkowa",
+        "Genetyka"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Aplikacja E-commerce",
+      "description": "Projekt polegający na opracowaniu nowoczesnej aplikacji e-commerce z intuicyjnym interfejsem użytkownika.",
+      "areas": [
+        "Rozwój Aplikacji Mobilnych",
+        "Marketing Internetowy"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Analiza Literacka",
+      "description": "Badanie analizy porównawczej literatury XX wieku z krytycznym spojrzeniem na postmodernizm.",
+      "areas": [
+        "Literatura Porównawcza",
+        "Teoria Literatury"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Badania nad sztuczną inteligencją",
+      "description": "Projekt badawczy dotyczący rozwijania zaawansowanych algorytmów uczenia maszynowego.",
+      "areas": [
+        "Sztuczna Inteligencja",
+        "Data Science"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Projektowanie Interakcji",
+      "description": "Tworzenie interaktywnych aplikacji z wykorzystaniem najnowszych trendów w UX/UI designie.",
+      "areas": [
+        "Projektowanie Graficzne",
+        "Interakcje Człowiek-Komputer"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Badania nad nowotworami",
+      "description": "Analiza molekularna nowotworów z perspektywy biologii komórkowej i genetyki.",
+      "areas": [
+        "Biologia Molekularna",
+        "Onkologia"
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

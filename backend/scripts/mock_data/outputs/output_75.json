@@ -1,0 +1,266 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Magdalena",
+      "last_name": "Nowak",
+      "email": "magda.nowak@example.com",
+      "description": "Jestem doświadczonym programistą z zamiłowaniem do nowoczesnych technologii. Moją specjalizacją są **aplikacje mobilne** oraz *frontend development*. Chcę rozwijać się w obszarze sztucznej inteligencji.",
+      "skills": [
+        "JavaScript",
+        "React Native",
+        "Machine Learning",
+        "UI/UX Design"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Karolina",
+      "last_name": "Kowalska",
+      "email": "karolina.kowalska@example.com",
+      "description": "Jestem kreatywnym copywriterem z pasją do tworzenia skutecznych treści marketingowych. Moje umiejętności obejmują również **SEO copywriting** oraz *content strategy*.",
+      "skills": [
+        "Copywriting",
+        "Marketing internetowy",
+        "SEO",
+        "Branding"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Piotr",
+      "last_name": "Lewandowski",
+      "email": "piotr.lewandowski@example.com",
+      "description": "Absolwentem studiów z biologii molekularnej z zainteresowaniem w analizie danych genetycznych. Jestem profesjonalistą w obszarze **bioinformatyki** i *analizy sekwencji DNA*.",
+      "skills": [
+        "Bioinformatyka",
+        "Analiza danych",
+        "Genetyka molekularna",
+        "Python"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Dominika",
+      "last_name": "Walczak",
+      "email": "dominika.walczak@example.com",
+      "description": "Jestem pasjonatką językoznawstwa stosowanego z doświadczeniem w tłumaczeniach technicznych. Moją specjalnością są **języki wschodnioazjatyckie** oraz *semantyka językowa*.",
+      "skills": [
+        "Tłumaczenia",
+        "Lingwistyka stosowana",
+        "Tłumaczenia techniczne",
+        "Chiny"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Adam",
+      "last_name": "Zieliński",
+      "email": "adam.zielinski@example.com",
+      "description": "Jestem entuzjastą grafiki komputerowej z doświadczeniem w tworzeniu interaktywnych projektów. Specjalizuję się w **projektowaniu interfejsów użytkownika** oraz *animacji cyfrowej*.",
+      "skills": [
+        "Design interaktywny",
+        "Photoshop",
+        "Adobe XD",
+        "Animacja"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma E-learningowa",
+      "description": [
+        "🎓 Opracowanie interaktywnej platformy e-learningowej dla studentów. Celem projektu jest ułatwienie dostępu do edukacji **online** *z wykorzystaniem najnowszych technologii*.",
+        "🖥️ Integracja funkcji wideokonferencji z modułami e-learningowymi dla lepszej interakcji online.",
+        "💡 Poszukujemy Specjalisty ds. UX/UI do projektowania responsywnego interfejsu i **graficznej oprawy**."
+      ],
+      "areas": [
+        "E-learning",
+        "Technologie Edukacyjne",
+        "Projektowanie Interfejsów",
+        "Internetowe Platformy Edukacyjne"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. UX/UI 💻🎨",
+          "description": "Odpowiedzialny za tworzenie intuicyjnych interfejsów użytkownika oraz zapewnienie spójności w grafice platformy.",
+          "tags": [
+            "Projektowanie UX",
+            "Grafika komputerowa",
+            "Responsywność"
+          ]
+        },
+        {
+          "title": "Developer Java z doświadczeniem w Back-end 💻💾",
+          "description": "Zajmie się rozbudową modułów e-learningowych oraz optymalizacją backendu platformy.",
+          "tags": [
+            "Java",
+            "Back-end",
+            "Bazy danych"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Analiza Genomu Ludzkiego",
+      "description": [
+        "🧬 Projekt badawczy skupiający się na analizie sekwencji genomu ludzkiego. Celem jest identyfikacja genów odpowiedzialnych za *pewne choroby genetyczne*.",
+        "🔬 Przeprowadzenie analizy bioinformatycznej danych genomowych w poszukiwaniu powiązań genotyp-fenotyp.",
+        "🔍 Współpraca z bioinformatykiem, **specjalistą od analizy sekwencji DNA** oraz biologiem molekularnym."
+      ],
+      "areas": [
+        "Bioinformatyka",
+        "Analiza Genetyczna",
+        "Medycyna Genomowa",
+        "Biologia Molekularna"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista od Analizy Genomowej 🧪🔬",
+          "description": "Osoba odpowiedzialna za analizę sekwencji DNA oraz identyfikację genów predysponujących do określonych stanów.",
+          "tags": [
+            "Bioinformatyka",
+            "Analiza Genomowa",
+            "Genotyp-fenotyp"
+          ]
+        },
+        {
+          "title": "Asystent Badawczy w Biologii Molekularnej 🧫📊",
+          "description": "Pomoc w eksperymentach laboratoryjnych oraz analizie wyników z sekwencjonowania DNA.",
+          "tags": [
+            "Biologia Molekularna",
+            "Laboratoria Genetyczne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Kampania Marketingowa dla Nowego Produktu",
+      "description": [
+        "📈 Opracowanie kompleksowej kampanii marketingowej dla nowego produktu na rynek. Projekt ma na celu wykreowanie *pozytywnego wizerunku produktu*.",
+        "📊 Analiza rynku oraz konkurencji w celu opracowania skutecznych strategii reklamowych i promocyjnych.",
+        "💬 Otwarte na współpracę z Content Managerem, **specjalistą SEO** oraz grafikiem online."
+      ],
+      "areas": [
+        "Marketing Produktu",
+        "Strategie Reklamowe",
+        "Social Media Marketing",
+        "Badania Rynku"
+      ],
+      "open_positions": [
+        {
+          "title": "Content Manager 👨‍💻✏️",
+          "description": "Tworzenie treści marketingowych, prowadzenie kampanii social media oraz analizowanie skuteczności działań.",
+          "tags": [
+            "Content Marketing",
+            "Kampanie Reklamowe",
+            "Social Media Management"
+          ]
+        },
+        {
+          "title": "Specjalista SEO i SEM 🔍💻",
+          "description": "Optymalizacja pod kątem SEO treści na stronie oraz prowadzenie kampanii Google Ads.",
+          "tags": [
+            "SEO",
+            "SEM",
+            "Google Ads"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Aplikacja Mobilna dla Sportowców",
+      "description": [
+        "⚽ Stworzenie innowacyjnej aplikacji mobilnej wspierającej treningi sportowców amatorów. Aplikacja ma ułatwić *planowanie treningów* i *monitorowanie postępów*.",
+        "📱 Implementacja funkcji analizy wyników treningów i porównywania osiągnięć z innymi użytkownikami aplikacji.",
+        "🏋️‍♀️ Szukamy Programisty Flutter z pasją do sportu oraz **doświadczeniem w tworzeniu aplikacji mobilnych**."
+      ],
+      "areas": [
+        "Aplikacje Mobilne",
+        "Fitness i Sport",
+        "Planowanie Treningów",
+        "Analiza Wyników Treningowych"
+      ],
+      "open_positions": [
+        {
+          "title": "Programista Flutter 💪📱",
+          "description": "Opracowanie aplikacji mobilnej wspierającej treningi sportowców oraz implementacja funkcji monitorowania postępów.",
+          "tags": [
+            "Flutter",
+            "Aplikacje mobilne",
+            "Firebase"
+          ]
+        },
+        {
+          "title": "Tester Aplikacji Mobilnych 🧪📱",
+          "description": "Przeprowadzenie testów użytkowalności, wykrywanie błędów oraz raportowanie poprawek.",
+          "tags": [
+            "Testowanie Aplikacji",
+            "Użyteczność Aplikacji"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Serwis Informacyjny o Nauce i Technologii",
+      "description": [
+        "🔬 Tworzenie platformy informacyjnej poświęconej nowinkom naukowym i technologicznym. Celem projektu jest *popularyzacja wiedzy* oraz *edukacja online*.",
+        "📰 Gromadzenie i analiza wielu źródeł informacji, aby dostarczyć użytkownikom najświeższe treści.",
+        "🌐 Poszukujemy Redaktora Naukowego z doświadczeniem w pisaniu artykułów popularyzujących naukę."
+      ],
+      "areas": [
+        "Nauka i Technologia",
+        "Edukacja Online",
+        "Dziennikarstwo Naukowe",
+        "Nowinki Technologiczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Redaktor Naukowy 📚💡",
+          "description": "Pisanie artykułów popularnonaukowych, aktualizacja treści na platformie oraz współpraca z ekspertami branżowymi.",
+          "tags": [
+            "Dziennikarstwo Naukowe",
+            "Popularyzacja Nauki",
+            "Redakcja Tekstów"
+          ]
+        },
+        {
+          "title": "Social Media Specialist 👩‍💻📲",
+          "description": "Zarządzanie profilami społecznościowymi, promocja treści oraz tworzenie interaktywnych kampanii.",
+          "tags": [
+            "Social Media Marketing",
+            "Kampanie Promocyjne",
+            "Analiza Trendów"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    }
+  ]
+}

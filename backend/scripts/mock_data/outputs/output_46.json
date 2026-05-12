@@ -1,0 +1,259 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Agata",
+      "last_name": "Kowalska",
+      "email": "agata.kowalska@example.com",
+      "description": "🎨 *Artystyczna dusza* \n- Zaangażowana w rozmaite projekty **graficzne** \n- Znająca tajniki **web designu** \n- Pasjonatka **fotografii**",
+      "skills": [
+        "Grafika komputerowa",
+        "Web Design",
+        "Fotografia"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Michał",
+      "last_name": "Nowak",
+      "email": "michal.nowak@example.com",
+      "description": "- *Programista z powołania* \n- Tworzący aplikacje **mobilne** i webowe \n- Specjalizujący się w **Pythonie i JavaScript**",
+      "skills": [
+        "Programowanie",
+        "Tworzenie aplikacji",
+        "Python",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Weronika",
+      "last_name": "Świątek",
+      "email": "weronika.swiatek@example.com",
+      "description": "🔬 **Badaczka naukowa** \n- Badająca dziedzinę **neurobiologii** \n- Znająca techniki **bioinformatyczne** \n- Pasjonująca się **genetyką**",
+      "skills": [
+        "Neurobiologia",
+        "Bioinformatyka",
+        "Genetyka"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Karolina",
+      "last_name": "Duda",
+      "email": "karolina.duda@example.com",
+      "description": "- **Scenarzystka filmowa** \n- Tworząca *historie poruszające* widza \n- Pasjonująca się **nowoczesnym kinem**",
+      "skills": [
+        "Scenariusz filmowy",
+        "Tworzenie historii",
+        "Kinematografia"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Piotr",
+      "last_name": "Mazur",
+      "email": "piotr.mazur@example.com",
+      "description": "🎵 *Muzyczny talent* \n- Producent muzyczny **wszechstronny** \n- Specjalista od **masteringu** i miksu \n- Wirtuoz gry na **fortepianie**",
+      "skills": [
+        "Produkcja muzyczna",
+        "Mastering",
+        "Fortepian"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Projekt Wirtualna Rzeczywistość",
+      "description": "🕹️ *Innowacyjna platforma VR* \n- Tworzenie interaktywnych **środowisk wirtualnych** \n- Implementacja zaawansowanych **efektów wizualnych** \n- Badanie wykorzystania VR w **szkoleniach medycznych**",
+      "areas": [
+        "Wirtualna Rzeczywistość",
+        "Grafika komputerowa",
+        "Edukacja medyczna"
+      ],
+      "open_positions": [
+        {
+          "title": "👾 Programista C++ do VR",
+          "description": "🔧 *Implementacja algorytmów 3D* \n- Adaptacja silnika graficznego do **wymagań VR** \n- Optymalizacja kodu **niskopoziomowego**",
+          "tags": [
+            "Programowanie w C++",
+            "Grafika 3D",
+            "Optymalizacja kodu"
+          ]
+        },
+        {
+          "title": "🎮 Animator VR",
+          "description": "- Tworzenie **realistycznych animacji** postaci \n- Dopasowywanie animacji do **interakcji użytkownika**",
+          "tags": [
+            "Animacja 3D",
+            "Animacje postaci",
+            "Interaktywne środowiska"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Projekt Energetyczna Rewolucja",
+      "description": "⚡ *Zrównoważone systemy energetyczne* \n- Projektowanie **źródeł energii odnawialnej** \n- Analiza ekonomiczna **transformacji energetycznej** \n- Wykorzystanie **inteligentnych sieci** w dystrybucji energii",
+      "areas": [
+        "Energetyka Odnawialna",
+        "Analiza Ekonomiczna",
+        "Inteligentne Sieci"
+      ],
+      "open_positions": [
+        {
+          "title": "🔋 Specjalista ds. magazynowania energii",
+          "description": "🔍 *Optymalizacja procesu gromadzenia energii* \n- Implementacja **technologii baterii** nowej generacji \n- Monitorowanie **wydajności magazynów energii**",
+          "tags": [
+            "Magazynowanie energii",
+            "Technologia baterii",
+            "Optymalizacja procesu"
+          ]
+        },
+        {
+          "title": "🌞 Inżynier ds. Odnawialnych Źródeł Energii",
+          "description": "- Projektowanie **instalacji fotowoltaicznych** \n- Ocenianie **opłacalności systemów solarnych**",
+          "tags": [
+            "Fotowoltaika",
+            "Odnawialne Źródła Energii",
+            "Analiza Opłacalności"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Projekt Nowoczesna Biblioteka Cyfrowa",
+      "description": "📚 *Platforma wspierająca czytelnictwo* \n- Kreacja interaktywnych **aplikacji czytelniczych** \n- Integracja **usług bibliotecznych online** \n- Oferowanie **personalizowanych rekomendacji książek**",
+      "areas": [
+        "E-booki",
+        "Usługi Biblioteczne Online",
+        "Rekomendacje Książkowe"
+      ],
+      "open_positions": [
+        {
+          "title": "📱 Frontend Developer",
+          "description": "🖥️ *Tworzenie responsywnego interfejsu webowego* \n- Implementacja **nowoczesnych rozwiązań UX** \n- Testowanie **kompatybilności z różnymi przeglądarkami**",
+          "tags": [
+            "Frontend Development",
+            "User Experience",
+            "Testowanie interfejsu"
+          ]
+        },
+        {
+          "title": "📖 Specjalista ds. Digitalizacji Książek",
+          "description": "- Skanowanie książek do **formatu ebook** \n- Klasyfikacja treści poprzez **OCR**",
+          "tags": [
+            "Digitalizacja książek",
+            "Skanowanie",
+            "Optical Character Recognition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Projekt Zdrowie na Pierwszym Miejscu",
+      "description": "⚕️ *Innowacyjne rozwiązania medyczne* \n- Opracowywanie **aplikacji zdrowotnych** wspierających pacjentów \n- Eksploracja **technologii telemedycznych** \n- Analiza **big data w opiece zdrowotnej**",
+      "areas": [
+        "e-Health",
+        "Telemedycyna",
+        "Big Data w Ochronie Zdrowia"
+      ],
+      "open_positions": [
+        {
+          "title": "🩺 Analityk Danych Medycznych",
+          "description": "📊 *Analiza dużych zbiorów danych klinicznych* \n- Rozwijanie **modeli predykcyjnych w medycynie** \n- Wizualizacja i interpretacja **statystyk zdrowotnych**",
+          "tags": [
+            "Analiza danych klinicznych",
+            "Modelowanie predykcyjne",
+            "Wizualizacja danych"
+          ]
+        },
+        {
+          "title": "👩‍⚕️ UX Designer w Medycynie",
+          "description": "- Projektowanie **intuicyjnych interfejsów medycznych** \n- Adaptacja aplikacji do **potrzeb osób starszych**",
+          "tags": [
+            "User Experience Design",
+            "Interfejsy Medyczne",
+            "Projektowanie dla seniorów"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Projekt Zielone Miasto Przyszłości",
+      "description": "🌳 *Zrównoważone miejskie środowisko* \n- Wprowadzanie **ekologicznych rozwiązań urbanistycznych** \n- Promowanie **transportu publicznego** i rowerowego \n- Analiza **jakości powietrza miejskiego**",
+      "areas": [
+        "Zrównoważony Rozwój",
+        "Miejska Mobilność",
+        "Ekologia Miejska"
+      ],
+      "open_positions": [
+        {
+          "title": "🌱 Ekolog Miejski",
+          "description": "🌍 *Realizacja strategii zrównoważonego rozwoju miejskiego* \n- Wdrażanie **projektów urbanistycznych zielonej architektury** \n- Prowadzenie **działań edukacyjnych dla mieszkańców**",
+          "tags": [
+            "Zrównoważony rozwój",
+            "Urbanistyka",
+            "Edukacja ekologiczna"
+          ]
+        },
+        {
+          "title": "🚌 Eko-Mobilność Specjalista",
+          "description": "- Planowanie tras **linii rowerowych i zielonych ścieżek** transportu publicznego \n- Optymalizacja **ruchu drogowego z perspektywy ekologii**",
+          "tags": [
+            "Mobilność miejska",
+            "Planowanie tras",
+            "Optymalizacja ruchu drogowego"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 2
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

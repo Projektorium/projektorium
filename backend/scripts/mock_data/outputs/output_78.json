@@ -1,0 +1,246 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Natalia",
+      "last_name": "Wójcik",
+      "email": "natalia.wojcik@example.com",
+      "description": "★ Experienced marketing strategist with a passion for disruptive technologies. ✓ Successfully led product launches and brand development initiatives. → Eager to create innovative solutions merging tech and human connection.",
+      "skills": [
+        "Digital Marketing",
+        "Product Management",
+        "Innovation Strategy"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Marek",
+      "last_name": "Kowalczyk",
+      "email": "marek.kowalczyk@example.com",
+      "description": "★ Skilled software engineer specializing in AI and machine learning. ✓ Led multiple projects to successful outcomes through data-driven decision-making. → Committed to developing AI solutions for social good.",
+      "skills": [
+        "Machine Learning",
+        "Python Programming",
+        "Data Analysis"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Alicja",
+      "last_name": "Nowak",
+      "email": "alicja.nowak@example.com",
+      "description": "*Passionate UX/UI designer with a strong eye for detail and user experience. - Experienced in creating seamless interfaces for web and mobile platforms. ✦ Committed to designing products that delight users and drive engagement.",
+      "skills": [
+        "UI/UX Design",
+        "Prototyping",
+        "User Research"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Krzysztof",
+      "last_name": "Lis",
+      "email": "krzysztof.lis@example.com",
+      "description": "→ Finance professional with a track record in investment banking and strategic planning. **Proven ability to identify growth opportunities and optimize financial performance. ✓ Seeking to bring financial acumen to high-potential startups.",
+      "skills": [
+        "Financial Analysis",
+        "Strategic Planning",
+        "Investment Banking"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Magdalena",
+      "last_name": "Adamczyk",
+      "email": "magdalena.adamczyk@example.com",
+      "description": "✦ Creative content creator with a knack for storytelling across multimedia platforms. *Experienced in social media management and digital content strategy. ✓ Committed to building compelling narratives for brands and products.",
+      "skills": [
+        "Content Marketing",
+        "Social Media Management",
+        "Storytelling"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "TechVision",
+      "description": "★ Next-gen platform revolutionizing e-commerce experiences. ✓ Seamlessly integrates AR/VR technology for immersive shopping. → Creating personalized shopping journeys for every user.",
+      "areas": [
+        "E-commerce",
+        "Augmented Reality",
+        "Virtual Reality"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Chief Technology Officer specializing in AR/VR",
+          "description": "✦ Lead the development of cutting-edge AR/VR features. ✓ Drive tech innovation and product scalability. → Collaborate with cross-functional teams to deliver exceptional user experiences.",
+          "tags": [
+            "AR/VR Development",
+            "Tech Innovation",
+            "Scalability"
+          ]
+        },
+        {
+          "title": "★ Senior Frontend Developer with UX focus",
+          "description": "*Create intuitive user interfaces with a focus on customer experience. ✦ Optimize frontend performance and responsiveness. - Collaborate with designers to implement seamless interactions.",
+          "tags": [
+            "Frontend Development",
+            "User Experience",
+            "UI Design"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "GreenSolutions",
+      "description": "✦ Sustainable tech startup advancing renewable energy solutions. ✓ Develops smart grid systems for efficient energy distribution. - Empowering communities to embrace clean energy solutions.",
+      "areas": [
+        "Renewable Energy",
+        "Smart Grid Systems",
+        "Sustainability"
+      ],
+      "open_positions": [
+        {
+          "title": "✓ Senior Energy Analyst with grid optimization expertise",
+          "description": "→ Analyze energy data for grid performance optimization. ✓ Develop strategies for renewable energy integration. ✦ Collaborate with engineers to enhance energy efficiency.",
+          "tags": [
+            "Energy Analysis",
+            "Grid Optimization",
+            "Renewable Energy Integration"
+          ]
+        },
+        {
+          "title": "→ Sustainability Project Manager with community engagement focus",
+          "description": "✓ Drive community adoption of clean energy solutions. ✓ Manage projects to ensure environmental impact reduction. - Collaborate with stakeholders to promote sustainable practices.",
+          "tags": [
+            "Sustainable Projects",
+            "Community Engagement",
+            "Environmental Impact"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "MedTechInnovate",
+      "description": "✦ Pioneering medical technology solutions for personalized healthcare. ✓ Developing AI-driven diagnostics for accurate patient care. - Empowering clinicians with cutting-edge medical innovations.",
+      "areas": [
+        "Medical Technology",
+        "AI Diagnostics",
+        "Healthcare Innovation"
+      ],
+      "open_positions": [
+        {
+          "title": "✓ AI Specialist in healthcare diagnostics",
+          "description": "→ Develop AI algorithms for precise medical diagnostics. ✦ Implement machine learning models for predictive health analytics. ✓ Collaborate with medical experts to validate diagnostic accuracy.",
+          "tags": [
+            "AI Diagnostics",
+            "Healthcare Algorithms",
+            "Predictive Analytics"
+          ]
+        },
+        {
+          "title": "★ Medical Device Engineer for innovative healthcare solutions",
+          "description": "*Design and develop cutting-edge medical devices. ✓ Ensure compliance with healthcare regulations. - Collaborate with medical professionals to enhance patient care.",
+          "tags": [
+            "Medical Device Design",
+            "Regulatory Compliance",
+            "Healthcare Solutions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "FoodTechFuture",
+      "description": "*Revolutionizing food industry with sustainable tech solutions. → Developing AI-powered systems for personalized nutrition. ✦ Empowering consumers with healthy and eco-friendly food choices.",
+      "areas": [
+        "Food Technology",
+        "AI Nutrition",
+        "Sustainable Food Solutions"
+      ],
+      "open_positions": [
+        {
+          "title": "✦ Nutrition Scientist specializing in AI nutrition",
+          "description": "✓ Analyze nutritional data for AI-driven recommendations. → Develop algorithms for personalized dietary plans. ✓ Collaborate with chefs and nutritionists for innovative food solutions.",
+          "tags": [
+            "Nutritional Analysis",
+            "AI Nutrition",
+            "Dietary Plans"
+          ]
+        },
+        {
+          "title": "★ Sustainability Strategist for eco-conscious food solutions",
+          "description": "→ Develop sustainability initiatives for food production. - Ensure eco-friendly practices in supply chain management. ✓ Collaborate with food experts for ethical food sourcing.",
+          "tags": [
+            "Sustainability Strategy",
+            "Eco-Friendly Practices",
+            "Supply Chain Management"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "TravelTechDiscover",
+      "description": "✓ Transforming travel experiences through innovative tech solutions. - Creating AI-based travel planning tools for personalized trips. → Empowering travelers to explore the world with ease and flexibility.",
+      "areas": [
+        "Travel Technology",
+        "AI Travel Planning",
+        "Personalized Trips"
+      ],
+      "open_positions": [
+        {
+          "title": "→ AI Travel Analyst for personalized trip recommendations",
+          "description": "***Analyze travel data to recommend personalized trips. ✓ Develop algorithms for itinerary optimization. → Collaborate with travel experts to enhance user experience.",
+          "tags": [
+            "Travel Analysis",
+            "AI Algorithms",
+            "Itinerary Optimization"
+          ]
+        },
+        {
+          "title": "✓ UX Designer for seamless travel experiences",
+          "description": "→ Design intuitive interfaces for travel planning tools. - Enhance user experience through creative design solutions. *Collaborate with developers to implement user-friendly features.",
+          "tags": [
+            "UX Design",
+            "Interface Design",
+            "User Experience Enhancement"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 4
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 3
+    }
+  ]
+}

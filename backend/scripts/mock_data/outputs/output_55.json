@@ -1,0 +1,225 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Kamil",
+      "last_name": "Dąbrowski",
+      "email": "kamil.dabrowski@example.com",
+      "description": "Zaangażowany entuzjasta IT z zamiłowaniem do rozwiązywania problemów. Specjalizuje się w **pełnym stosie deweloperskim** oraz *projektowaniu UX*. Chętnie rozwija swoje umiejętności z zakresu *sztucznej inteligencji*.",
+      "skills": [
+        "Python",
+        "React",
+        "Projektowanie UX",
+        "Algorytmy",
+        "Sztuczna inteligencja"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Anna",
+      "last_name": "Nowak",
+      "email": "anna.nowak@example.com",
+      "description": "Kreatywna copywriterka z doświadczeniem w tworzeniu treści **SEO** oraz *tekstów reklamowych*. Pasjonatka języka i słowa. Specjalizuje się w *content marketingu*.",
+      "skills": [
+        "Copywriting",
+        "SEO",
+        "Content marketing",
+        "Marketing internetowy",
+        "Pisanie kreatywne"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Piotr",
+      "last_name": "Kowalski",
+      "email": "piotr.kowalski@example.com",
+      "description": "Absolwent biologii molekularnej z zamiłowaniem do *genetyki*. Posiada umiejętności programistyczne w **R** oraz *analizie danych*. Chętnie angażuje się w projekty badawcze.",
+      "skills": [
+        "Biologia molekularna",
+        "Genetyka",
+        "Programowanie w R",
+        "Analiza danych",
+        "Biotechnologia"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Aleksandra",
+      "last_name": "Wójcik",
+      "email": "aleksandra.wojcik@example.com",
+      "description": "Obsesyjna entuzjastka lingwistyki stosowanej. Zainteresowania skupia na *językoznawstwie stosowanym* oraz **tłumaczeniach technicznych**. Poszukuje projektów łączących naukę z praktyką.",
+      "skills": [
+        "Językoznawstwo",
+        "Tłumaczenia techniczne",
+        "Lingwistyka",
+        "Transkrypcja",
+        "NLP"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Marcin",
+      "last_name": "Lewandowski",
+      "email": "marcin.lewandowski@example.com",
+      "description": "Humanista z zamiłowaniem do sztuki transkulturowej. Specjalizuje się w *analizie narracyjnej* oraz **teorii literatury**. Posiada umiejętności z zakresu *krytyki kulturowej*.",
+      "skills": [
+        "Teoria literatury",
+        "Analiza narracyjna",
+        "Krytyka kulturowa",
+        "Sztuka transkulturowa",
+        "Feministyczne nauki humanistyczne"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma e-learningowa dla dzieci",
+      "description": "📚 Tworzymy interaktywną platformę e-learningową dla dzieci w wieku 6-10 lat, zapewniającą kreatywne zajęcia z matematyki i języka polskiego. Projekt zakłada wykorzystanie nowoczesnych narzędzi edukacyjnych oraz *gier edukacyjnych* dla dzieci. Pragniemy promować rozwój intelektualny najmłodszych w atrakcyjny sposób.",
+      "areas": [
+        "Edukacja dziecięca",
+        "Nowoczesne metody nauczania",
+        "Gry edukacyjne"
+      ],
+      "open_positions": [
+        {
+          "title": "Grafik UI/UX 🎨",
+          "description": "Poszukujemy osoby odpowiedzialnej za projektowanie interfejsu użytkownika dla najmłodszych. Praca nad kolorowymi layoutami i animacjami.",
+          "tags": [
+            "Projektowanie interfejsu",
+            "Grafika komputerowa",
+            "Edukacja dziecięca"
+          ]
+        },
+        {
+          "title": "Specjalista ds. treści edukacyjnych 📖",
+          "description": "Osoba odpowiedzialna za opracowywanie treści edukacyjnych dostosowanych do młodego odbiorcy. Tworzenie ciekawych materiałów dydaktycznych.",
+          "tags": [
+            "Pedagogika",
+            "Treści edukacyjne",
+            "Komunikacja dydaktyczna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Badania nad sztuczną inteligencją w medycynie",
+      "description": "🔬 Projekt naukowy koncentrujący się na zastosowaniu *sztucznej inteligencji* w diagnozowaniu chorób. Planujemy wykorzystać algorytmy uczenia maszynowego do analizy obrazów medycznych oraz danych pacjentów. Naszym celem jest opracowanie szybszych i bardziej precyzyjnych metod diagnozowania.",
+      "areas": [
+        "Medycyna",
+        "Sztuczna inteligencja",
+        "Diagnostyka medyczna"
+      ],
+      "open_positions": [
+        {
+          "title": "Analista danych medycznych 💉",
+          "description": "Poszukujemy osoby do analizy i interpretacji danych medycznych przy użyciu narzędzi AI. Doświadczenie w analizie obrazów medycznych mile widziane.",
+          "tags": [
+            "Analiza danych",
+            "Medycyna",
+            "Algorytmy uczenia maszynowego"
+          ]
+        },
+        {
+          "title": "Programista Python 🐍",
+          "description": "Osoba odpowiedzialna za implementację algorytmów uczenia maszynowego w języku Python. Praca nad skalowalnymi modelami diagnostycznymi.",
+          "tags": [
+            "Python",
+            "Machine Learning",
+            "Badania medyczne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Nowoczesne narzędzia dla tłumaczy",
+      "description": "🌐 Projekt mający na celu stworzenie innowacyjnych narzędzi wspomagających pracę tłumaczy. Planujemy rozwój *aplikacji webowej* umożliwiającej efektywne zarządzanie tłumaczeniami oraz *analizę jakości tekstów*. Szukamy rozwiązań z obszaru tłumaczeń technicznych i specjalistycznych.",
+      "areas": [
+        "Tłumaczenia",
+        "Lokalizacja oprogramowania",
+        "Narzędzia dla tłumaczy"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. tłumaczeń technicznych 📚",
+          "description": "Osoba odpowiedzialna za tłumaczenie treści technicznych z obszaru IT i inżynierii. Znajomość terminologii branżowej wymagana.",
+          "tags": [
+            "Tłumaczenia techniczne",
+            "Lokalizacja oprogramowania",
+            "Język specjalistyczny"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Analiza tekstu literackiego",
+      "description": "📝 Projekt badawczy mający na celu analizę tekstów literackich z wykorzystaniem *technik NLP*. Pragniemy opracować narzędzia wspierające interpretację tekstów klasycznych oraz *analizę semantyczną*. Poszukujemy osób zainteresowanych literaturą i nowoczesnymi technologiami.",
+      "areas": [
+        "Literatura",
+        "Analiza tekstu",
+        "Technologie językowe"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista NLP w humanistyce 🌍",
+          "description": "Osoba odpowiedzialna za implementację technik NLP do analizy tekstów literackich. Współpraca z naukowcami zajmującymi się literaturą.",
+          "tags": [
+            "NLP",
+            "Analiza tekstu",
+            "Humanistyka cyfrowa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Innowacyjne metody nauczania matematyki",
+      "description": "🧮 Projekt pedagogiczny skupiony na opracowaniu nowatorskich metod nauczania matematyki w szkołach podstawowych. Planujemy wykorzystać interaktywne aplikacje edukacyjne oraz *gry matematyczne* do rozbudzenia pasji do nauk ścisłych u dzieci. Poszukujemy entuzjastów edukacji i kreatywnych pomysłodawców.",
+      "areas": [
+        "Edukacja matematyczna",
+        "Pedagogika",
+        "Nowoczesne metody nauczania"
+      ],
+      "open_positions": [
+        {
+          "title": "Animator matematyki 🎲",
+          "description": "Osoba odpowiedzialna za tworzenie interaktywnych zajęć matematycznych dla dzieci. Planowanie i prowadzenie zajęć z wykorzystaniem różnorodnych metod aktywizujących.",
+          "tags": [
+            "Edukacja matematyczna",
+            "Gry edukacyjne",
+            "Pedagogika"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    },
+    {
+      "user_id": 1,
+      "project_id": 5
+    }
+  ]
+}

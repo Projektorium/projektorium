@@ -1,0 +1,248 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "k.nowak@example.com",
+      "description": "Rozkwitam jak kwiat, *kwiat paproci* - nieśmiało, ale stanowczo. Moja twórczość to podróż przez polskie lasy, gdzie tchnienie historii wciąż brzmi. *Skażona polska krew*, tą krwią maluję obrazy *naszych przodków*. - *Katarzyna Nowak*",
+      "skills": [
+        "Malarstwo",
+        "Historia sztuki"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Adam",
+      "last_name": "Kowalski",
+      "email": "a.kowalski@example.com",
+      "description": "Kultura jest jak rzeka, płynie przez czas i przestrzeń, niosąc ze sobą historię i marzenia. Moja praca jest mostem między *tradycją* a *nowoczesnością*. *Polska duma* kształtuje moje opowieści. - **Adam Kowalski**",
+      "skills": [
+        "Teatr",
+        "Scenografia"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Joanna",
+      "last_name": "Wójcik",
+      "email": "j.wojcik@example.com",
+      "description": "W moich oczach każdy dźwięk ma kolor, każdy gest – znaczenie. *W Polsce* rodzi się muzyka, która porusza serca. *Niezapomniane melodie* to mój język. - *Joanna Wójcik*",
+      "skills": [
+        "Muzyka",
+        "Kompozycja"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Lis",
+      "email": "p.lis@example.com",
+      "description": "Słowa są jak ptaki, które unoszą się wysoko, ale i tak zawsze wracają, zostawiając ślad. *Wiesz, w Polsce* każda opowieść ma swój początek i koniec, ja staram się, by zamieniając te słowa w sztukę, zatrzymać je na dłużej. - Piotr Lis",
+      "skills": [
+        "Literatura",
+        "Poezja"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Magdalena",
+      "last_name": "Jaworska",
+      "email": "m.jaworska@example.com",
+      "description": "W tańcu odnajduję sens życia, *jak ogniwo w polskiej tradycji*, spajam przeszłość z teraźniejszością. *Polonez serca* bije we mnie nieustannie. - **Magdalena Jaworska**",
+      "skills": [
+        "Taniec",
+        "Choreografia"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Światło Słów",
+      "description": "W *Świetle Słowa* nasze historie nabierają kolorów, stają się kwiatami w *ogrodzie polskiej kultury*. To nie tylko książki, to *malarstwo słów*, które porusza dusze i umysły. - uczestnik",
+      "areas": [
+        "Literatura",
+        "Sztuka słowa"
+      ],
+      "open_positions": [
+        {
+          "title": "Redaktor Naczelny",
+          "description": "Jeśli dla Ciebie każde zdanie śpiewa, a słowa to pędzące konie, stoimy przed tobą otworem. Przyłącz się do nas i *kultywuj sztukę polskiego słowa*. - zespół redakcyjny",
+          "tags": [
+            "Edycja",
+            "Redakcja",
+            "Kreacja tekstu"
+          ]
+        },
+        {
+          "title": "Ilustrator",
+          "description": "Słowo jest obrazem, a obraz mówi tysiąc słów. Dołącz do naszego projektu i *włącz się w barwne światło opowieści* - zespół twórczy",
+          "tags": [
+            "Ilustracja",
+            "Grafika",
+            "Kreacja wizualna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Echo Melodii",
+      "description": "W *Echu Melodii* krajobraz dźwięków ujmuje serca, prowadząc w magiczny świat *muzycznych wspomnień*. To nie tylko koncerty, to *podróż po dziedzictwie muzycznym Polski*. - miłośnik muzyki",
+      "areas": [
+        "Muzyka",
+        "Koncerty"
+      ],
+      "open_positions": [
+        {
+          "title": "Kierownik ds. Artystycznych",
+          "description": "Jeśli dźwięki przemawiają do Ciebie głośniej niż słowa, mamy dla Ciebie misję. Dołącz do nas, by *kierować harmonią w rytmie historii*. - zarząd projektu",
+          "tags": [
+            "Organizacja koncertów",
+            "Dyrygowanie",
+            "Programowanie muzyczne"
+          ]
+        },
+        {
+          "title": "Promotor Wydarzenia",
+          "description": "Dźwięki *Echa* muszą dotrzeć do serc każdego, chcemy, byś *rozgoszczony* naszemu przesłaniu. Prześlij swoją aplikację i *wspieraj misję promocji melodią*. - dział marketingu",
+          "tags": [
+            "Marketing kulturowy",
+            "Public Relations",
+            "Media Społecznościowe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Teatr Współczesny",
+      "description": "W *Teatrze Współczesnym* sceny ujawniają *oblicza polskiego dramatu*, przeplatając historię i współczesność. To nie tylko spektakle, to *przemiana słów w żywą magię*. - widz",
+      "areas": [
+        "Teatr",
+        "Dramat"
+      ],
+      "open_positions": [
+        {
+          "title": "Reżyser",
+          "description": "Jeśli *scena* jest twoim drugim domem, a słowa *budzą w tobie żywe obrazy*, to właśnie szukamy Ciebie. Przyłącz się do nas i *przemieniaj marzenia w rzeczywistość*. - ekipa teatralna",
+          "tags": [
+            "Reżyseria",
+            "Kierownictwo Artystyczne",
+            "Kompozycja sceny"
+          ]
+        },
+        {
+          "title": "Kostiumograf",
+          "description": "Kostiumy to *odzwierciedlenie duszy postaci*, uwińmy je w *tkaniny opowieści*. Jeśli *kochasz modę* i *szycie witryn*, czekamy na Ciebie. - zespół kostiumowy",
+          "tags": [
+            "Kreacja kostiumów",
+            "Desing Kostiumów",
+            "Styling"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Sztuka Wszystkich Dźwięków",
+      "description": "*Sztuka Wszystkich Dźwięków* to spotkanie dźwięku i ciszy, *splecione brzmienia* dają nowe doznania. Tutaj *polonezy tańczą z jazzem*, a *folklor zachwyca jazzmanów*. - uczestnik warsztatów",
+      "areas": [
+        "Muzyka",
+        "Warsztaty muzyczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Nauczyciel Rytmu",
+          "description": "Rytm w sercu, melodia w duszy - *zdobywaj razem z nami tajniki muzyki*. Dołącz do projektu i *stwórz harmonię we wspólnym brzmieniu*. - trener muzyczny",
+          "tags": [
+            "Nauczanie muzyki",
+            "Inspiracja rytmiczna",
+            "Prowadzenie warsztatów muzycznych"
+          ]
+        },
+        {
+          "title": "Scenarzysta Muzyczny",
+          "description": "Słowa i dźwięki *oznaczają tyle samo*, co tchną w muzyczną opowieść życia. Dołącz do nas i *twórz magiczne historie tonami i słowami*. - zespół kreatywny",
+          "tags": [
+            "Scenariusz muzyczny",
+            "Komponowanie muzyki",
+            "Tektst Muzyczny"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Księżycowe Tańce",
+      "description": "W *Księżycowych Tańcach* *szepczą* skryte melodii, a *połysk księżyca* inspiruje każdy ruch. To *tradycja splotła* się z *nowoczesnością* w tańcu. - uczestnik warsztatów tanecznych",
+      "areas": [
+        "Taniec",
+        "Warsztaty taneczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Instruktor Polskich Tańców",
+          "description": "Polskie tańce *trzymają w sobie historię*, przekazuj ją dalej, łącząc tradycję z nowoczesnością. Dołącz do nas i *rozpal serca dźwiękiem stóp*. - trener taneczny",
+          "tags": [
+            "Polskie tańce ludowe",
+            "Etnotaniec",
+            "Kreacja choreograficzna"
+          ]
+        },
+        {
+          "title": "Choreograf",
+          "description": "*Ruch to życie*, a taniec to *pulsujące serca*. Jeśli *twoje ruchy* wyrażają *historię świata*, dołącz do nas i *opowiedz taneczne opowieści*. - zespół kreatywny",
+          "tags": [
+            "Kreacja choreografii",
+            "Taniec współczesny",
+            "Improvisacja ruchowa"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 2
+    }
+  ]
+}

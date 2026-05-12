@@ -1,0 +1,183 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Agnieszka",
+      "last_name": "Michalska",
+      "email": "agnieszka.michalska@example.com",
+      "description": "*Sztuka jest moją duszą* - mówi Agnieszka, pasjonatka rzeźby i malarstwa. Zainspirowana polskim folklorem tworzy wyjątkowe dzieła, kładąc nacisk na naturę i ludzką emocjonalność.",
+      "skills": [
+        "rzeźba",
+        "malarstwo",
+        "sztuka ludowa"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Marek",
+      "last_name": "Nowakowski",
+      "email": "marek.nowakowski@example.com",
+      "description": "**Dźwięki mają moc zmieniania świata** - twierdzi Marek, muzyk i kompozytor. Jego utwory pełne są narodowych motywów i opowieści, tworząc magiczny most między tradycją a współczesnością.",
+      "skills": [
+        "muzyka",
+        "kompozycja",
+        "folk"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Karolina",
+      "last_name": "Dąbrowska",
+      "email": "karolina.dabrowska@example.com",
+      "description": "Czy istnienie ma sens? – pyta Karolina, pisarka i felietonistka. Jej książki pełne są refleksji nad polską historią i duchowością, odkrywając piękno w codzienności.",
+      "skills": [
+        "pisanie",
+        "publicystyka",
+        "historia Polski"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Jan",
+      "last_name": "Kowalski",
+      "email": "jan.kowalski@example.com",
+      "description": "- *Sztuka to język, który wszyscy rozumiemy* - wyznaje Jan, teatralny reżyser. Jego spektakle rzucają nowe światło na polskie tradycje, przewartościowując znaczenie kulturowych symboli.",
+      "skills": [
+        "reżyseria",
+        "teatr",
+        "interpretacja kultury"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Barbara",
+      "last_name": "Wójcik",
+      "email": "barbara.wojcik@example.com",
+      "description": "*Światło i cień - moja metafora życia* - mówi Barbara, fotografka. Jej prace ukazują piękno polskiej przyrody i ludzkich emocji, wprowadzając widza w magiczny świat obrazów.",
+      "skills": [
+        "fotografia",
+        "kompozycja obrazu",
+        "reportaż"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Słowiańska Melodia",
+      "description": "*Muzyka jak powiew wiosny* - tak opisują uczestnicy projektu koncertowego Słowiańska Melodia. Inspirujące dźwięki z całej Europy splatają się z polskimi tradycjami muzycznymi, tworząc unikalne doświadczenie.",
+      "areas": [
+        "muzyka",
+        "folklor"
+      ],
+      "open_positions": [
+        {
+          "title": "Skrzypek/ Skrzypaczka",
+          "description": "Odegraj uczucia - nie nuty. Dołącz do nas, aby szlifować swój talent w sercu słowiańskiej muzyki.",
+          "tags": [
+            "skrzypce",
+            "interpretacja",
+            "folk"
+          ]
+        },
+        {
+          "title": "Perkusjonista",
+          "description": "Bicie w rytm natury i czasu. Poszukujemy kreatywnego artysty, który doda magii naszym brzmieniom.",
+          "tags": [
+            "perkusja",
+            "rytm",
+            "twórczość"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mistyka Słów",
+      "description": "W każdym zdaniu tkwi potęga - mówi Anna, uczestniczka warsztatów literackich Mistyka Słów. Projekt eksploruje polską poezję i prozę, ukazując piękno języka i ludzkich emocji.",
+      "areas": [
+        "literatura",
+        "poezja"
+      ],
+      "open_positions": [
+        {
+          "title": "Redaktor",
+          "description": "Korekta to odkrywanie diamentów w słowach. Dołącz, aby wspólnie polerować literackie klejnoty.",
+          "tags": [
+            "korekta",
+            "redakcja",
+            "język"
+          ]
+        },
+        {
+          "title": "Opowiadacz Opowieści",
+          "description": "W każdym słowie drzemie siła - chcemy, byś odkrył/odkryła ją razem z nami. Przyłącz się!",
+          "tags": [
+            "opowiadanie",
+            "literacki talent",
+            "inspiracja"
+          ]
+        },
+        {
+          "title": "Poeta/Poetka Wędrowny/Wędrowna",
+          "description": "Pióro jak skrzydła - zanurz się w polskiej poezji, by latać nad oceanem słów.",
+          "tags": [
+            "poezja",
+            "twórczość",
+            "interpretacja"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Rzeźba Współczesna",
+      "description": "Forma spotyka treść - mówi Michał, uczestnik warsztatów rzeźby współczesnej. Projekt odkrywa nowe wymiary tej sztuki, inspirując się zarówno naturą jak i istotą ludzkości.",
+      "areas": [
+        "rzeźba"
+      ],
+      "open_positions": [
+        {
+          "title": "Rzeźbiarz/Rzeźbiarka Przestrzeni",
+          "description": "Kamień i marzenie - szukam ciebie, który rzeźbi w kamieniu tajemnice duszy.",
+          "tags": [
+            "rzeźba",
+            "materiał",
+            "interpretacja"
+          ]
+        },
+        {
+          "title": "Artystyczny Alchemik",
+          "description": "Mieszaj i twórz - chcemy, aby twoje ręce formowały marzenia i idee w materię.",
+          "tags": [
+            "tworzenie",
+            "inspiracja",
+            "kreatywność"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 3
+    }
+  ]
+}

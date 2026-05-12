@@ -1,0 +1,236 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Anna",
+      "last_name": "Nowak",
+      "email": "anna.nowak@example.com",
+      "description": "Jestem programistką z pasją do *projektowania UX* i pisania **czystego kodu**. Moje doświadczenie w front-endzie pozwala mi tworzyć interaktywne aplikacje. Chcę rozwijać swoje umiejętności w zakresie **responsywnego designu**.",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Projektowanie UX"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Kowalski",
+      "email": "piotr.kowalski@example.com",
+      "description": "Jestem copywriterem z zamiłowaniem do słowa pisanego. Specjalizuję się w **content marketingu** oraz *SEO copywritingu*. Moje umiejętności pozwalają mi tworzyć spójne narracje dla marek.",
+      "skills": [
+        "Copywriting",
+        "Content Marketing",
+        "SEO",
+        "Kreatywne pisanie"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Woźniak",
+      "email": "magda.wozniak@example.com",
+      "description": "Jestem biolożką molekularną z zamiłowaniem do eksperymentów laboratoryjnych. Posiadam umiejętności w **analizie sekwencji DNA** oraz *klonowaniu genów*. Moje badania skupiają się na rozwijaniu nowych terapii genowych.",
+      "skills": [
+        "Biologia Molekularna",
+        "Analiza DNA",
+        "Klonowanie Genów",
+        "Terapie Genowe"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Kamil",
+      "last_name": "Jaworski",
+      "email": "kamil.jaworski@example.com",
+      "description": "Jestem językoznawcą specjalizującym się w *semantyce językowej*. Moje badania koncentrują się na wykorzystaniu **języka naturalnego** w analizie danych. Posiadam umiejętności w *tłumaczeniu technicznym*.",
+      "skills": [
+        "Językoznawstwo",
+        "Semantyka",
+        "Przetwarzanie Języka Naturalnego",
+        "Tłumaczenia Techniczne"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Michalak",
+      "email": "karolina.michalak@example.com",
+      "description": "Jestem ilustratorką z zamiłowaniem do grafiki komputerowej. Moje prace cechują się *wyjątkową kolorystyką* i **kreatywnym podejściem** do projektowania. Poszukuję nowych wyzwań artystycznych.",
+      "skills": [
+        "Ilustracje",
+        "Grafika Komputerowa",
+        "Kolorystyka",
+        "Projektowanie Kreatywne"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Platforma E-learningowa",
+      "description": [
+        "🎓 Opracowanie interaktywnej platformy **e-learningowej** dla studentów z różnych kierunków.",
+        "🖥️ Implementacja systemu pozwalającego na zdalne wykłady i regularne ćwiczenia.",
+        "💬 Integracja modułów komunikacyjnych dla lepszej interakcji między użytkownikami."
+      ],
+      "areas": [
+        "Edukacja Online",
+        "Technologie Internetowe",
+        "Multimedialne Nauczanie"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. E-learningu i multimediów 📹💻",
+          "description": "Poszukujemy osoby do opracowania i wdrożenia interaktywnych narzędzi dla platformy e-learningowej.",
+          "tags": [
+            "Edukacja",
+            "Multimedia",
+            "Interakcja"
+          ]
+        },
+        {
+          "title": "Inżynier Front-end z doświadczeniem w React",
+          "description": "Poszukujemy programisty do implementacji nowoczesnego interfejsu użytkownika w React.",
+          "tags": [
+            "Front-end",
+            "React",
+            "Interfejs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Badania nad Neurotransmiterami",
+      "description": [
+        "🧠 Projekt badawczy w dziedzinie neurobiologii i **chemii mózgu**.",
+        "🔬 Analiza wpływu neurotransmiterów na funkcje poznawcze i emocjonalne organizmu.",
+        "💡 Poszukiwanie potencjalnych zastosowań w terapiach neuropsychiatrycznych."
+      ],
+      "areas": [
+        "Neurobiologia",
+        "Fizjologia Mózgu",
+        "Chemia Neuroprzekaźników"
+      ],
+      "open_positions": [
+        {
+          "title": "Badacz Neurobiolog",
+          "description": "Poszukujemy osoby do pracy nad analizą neuroprzekaźników i ich wpływu na funkcjonowanie mózgu.",
+          "tags": [
+            "Neurobiologia",
+            "Badania",
+            "Neuroprzekaźniki"
+          ]
+        },
+        {
+          "title": "Technolog z doświadczeniem w Mikroskopii Elektronowej",
+          "description": "Poszukujemy specjalisty z umiejętnościami w mikroskopii elektronowej do analizy struktur mózgowych.",
+          "tags": [
+            "Mikroskopia",
+            "Analiza",
+            "Mózg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Projekt Graficzny dla Kampanii Społecznej",
+      "description": [
+        "🎨 Opracowanie kreatywnej kampanii graficznej dla organizacji charytatywnej.",
+        "🔍 Projektowanie materiałów promocyjnych oraz grafik na potrzeby działań społecznych.",
+        "📢 Tworzenie spójnego wizerunku marki i akcji społecznej."
+      ],
+      "areas": [
+        "Grafika Reklamowa",
+        "Marketing Społeczny",
+        "Design Graficzny"
+      ],
+      "open_positions": [
+        {
+          "title": "Grafik Kampanii Społecznej",
+          "description": "Poszukujemy specjalisty do opracowania koncepcji graficznych dla kampanii z zakresu społecznego.",
+          "tags": [
+            "Grafika",
+            "Kampania Społeczna",
+            "Projektowanie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Analiza Języka Naturalnego w Medycynie",
+      "description": [
+        "📊 Projekt badawczy analizujący zastosowanie **języka naturalnego** w diagnostyce medycznej.",
+        "💉 Analiza tekstu medycznego oraz wykrywanie kluczowych informacji dla lekarzy.",
+        "🔬 Poszukiwanie nowych narzędzi wspomagających pracę diagnostyczną w medycynie."
+      ],
+      "areas": [
+        "Przetwarzanie Języka Naturalnego",
+        "Medycyna",
+        "Badania Kliniczne"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Przetwarzania Języka Naturalnego w Medycynie",
+          "description": "Poszukujemy eksperta w NLP do analizy tekstu medycznego i opracowania narzędzi dla diagnostyki.",
+          "tags": [
+            "Medycyna",
+            "NLP",
+            "Diagnostyka"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Tworzenie Ilustracji dla Książki Dziecięcej",
+      "description": [
+        "📚 Projekt artystyczny polegający na stworzeniu ilustracji do książki edukacyjnej dla dzieci.",
+        "🎨 Wykorzystanie *kreatywnych technik malarskich* i **różnorodnych stylów graficznych**.",
+        "🌈 Tworzenie wizualnie przyciągających elementów do fascynującej historii."
+      ],
+      "areas": [
+        "Ilustracja Książek Dziecięcych",
+        "Edukacja Artystyczna",
+        "Projektowanie Ilustracji"
+      ],
+      "open_positions": [
+        {
+          "title": "Ilustrator Książek Dla Dzieci",
+          "description": "Poszukujemy artysty z doświadczeniem w tworzeniu ilustracji dla książek edukacyjnych.",
+          "tags": [
+            "Ilustracje",
+            "Książki Dla Dzieci",
+            "Edukacja"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

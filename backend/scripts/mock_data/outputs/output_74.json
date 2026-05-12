@@ -1,0 +1,241 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zofia",
+      "last_name": "Kowalska",
+      "email": "zofia.kowalska@example.com",
+      "description": "Artystka poszukująca nowych wyrazów i inspiracji. *Sztuka jest dla mnie sposobem na porozumienie z otaczającym światem.*\n- Zainteresowania: malarstwo abstrakcyjne, performance art, instalacje.",
+      "skills": [
+        "malarstwo",
+        "performance art",
+        "instalacje"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Marek",
+      "last_name": "Nowak",
+      "email": "marek.nowak@example.com",
+      "description": "Muzyk z pasją tworzenia dźwięków, które dotykają duszy odbiorcy. **Dźwięk to najpiękniejsza forma ekspresji.**\n- Specjalizacja: kompozycja muzyki filmowej, jazz, eksperymentalna elektronika.",
+      "skills": [
+        "kompozycja",
+        "jazz",
+        "elektronika"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Aleksandra",
+      "last_name": "Wisniewska",
+      "email": "aleksandra.wisniewska@example.com",
+      "description": "Teatrolożka z zamiłowaniem do eksploracji granic teatru. *Scena to moje drugie miejsce na ziemi.*\n- Umiejętności: dramaturgia, teoria teatru, aktorstwo.",
+      "skills": [
+        "dramaturgia",
+        "teoria teatru",
+        "aktorstwo"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Jan",
+      "last_name": "Lis",
+      "email": "jan.lis@example.com",
+      "description": "Fotograf z pasją do uchwycania nietypowych momentów. **Obiektyw to moje okno na świat.**\n- Zdolności: fotografia dokumentalna, fotografia uliczna, portrety artystyczne.",
+      "skills": [
+        "fotografia dokumentalna",
+        "fotografia uliczna",
+        "portrety"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Karolina",
+      "last_name": "Zalewska",
+      "email": "karolina.zalewska@example.com",
+      "description": "*Słowa są moim pędzlem, a książki płótnem do sztuki literackiej.*\n- Specjalizacja: poezja współczesna, proza poetycka, krótkie formy literackie.",
+      "skills": [
+        "poezja",
+        "proza",
+        "literatura"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Żywa Tradycja",
+      "description": "Inicjatywa promująca polskie tradycje ludowe poprzez sztukę. *Nasze rytuały kryją w sobie tajemnice przodków, które warto zanurzyć w dzisiejszym świecie.*\n- Dziedziny: folklor, rzemiosło ludowe.",
+      "areas": [
+        "folklor",
+        "rzemiosło ludowe"
+      ],
+      "open_positions": [
+        {
+          "title": "Artysta Plastyk",
+          "description": "Poszukujemy artysty zdolnego do interpretacji polskich wzorów ludowych. **Piękno tkwi w detalu.**",
+          "tags": [
+            "rzeźba",
+            "malowanie",
+            "tkactwo"
+          ]
+        },
+        {
+          "title": "Fotograf Etniczny",
+          "description": "Osoba z wrażliwością na piękno ludowego rękodzieła. *Obiektyw uchwyci to, czego oko nie zauważy.*",
+          "tags": [
+            "fotografia",
+            "reportaż",
+            "słowiańskie wzory"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Nowe Brzmienia",
+      "description": "Projekt integrujący tradycyjną muzykę ludową z awangardowymi elementami. **Dźwięk ma moc łączenia pokoleń.**\n- Obszary: muzyka ludowa, eksperyment muzyczny.",
+      "areas": [
+        "muzyka ludowa",
+        "eksperyment muzyczny"
+      ],
+      "open_positions": [
+        {
+          "title": "Aranżer Muzyczny",
+          "description": "Osoba kreatywnie łącząca tradycyjne melodie z nowatorskimi brzmieniami. *Muzyka to język serca.*",
+          "tags": [
+            "aranżacja",
+            "folk",
+            "elektronika"
+          ]
+        },
+        {
+          "title": "Wokalista Eksperymentalny",
+          "description": "Poszukujemy wokalisty gotowego na muzyczne eksperymenty. **Głos to najbardziej uniwersalny instrument.**",
+          "tags": [
+            "śpiew",
+            "improvisation",
+            "soundscapes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Teatr Kreatywny",
+      "description": "Inspirujące spotkania teatralne integrujące tradycję z nowoczesnością. *Scena to przestrzeń transformacji i refleksji.*\n- Obszary: teatr współczesny, teatr interaktywny.",
+      "areas": [
+        "teatr współczesny",
+        "teatr interaktywny"
+      ],
+      "open_positions": [
+        {
+          "title": "Reżyser Teatralny",
+          "description": "Poszukujemy kreatywnego reżysera gotowego na eksplorację granic sztuki teatralnej. **Każdy spektakl to podróż w nieznane.**",
+          "tags": [
+            "reżyseria",
+            "dramat",
+            "interakcja z widzem"
+          ]
+        },
+        {
+          "title": "Scenograf Artystyczny",
+          "description": "Osoba projektująca przestrzenie inscenizacji z dbałością o detale. *Wyobraźnia to klucz do magicznego teatru.*",
+          "tags": [
+            "scenografia",
+            "projektowanie przestrzeni",
+            "kostiumy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Słowo i Obraz",
+      "description": "Projekt eksplorujący związki między poezją a sztuką wizualną. **Słowo staje się obrazem, obraz staje się słowem.**\n- Dziedziny: poezja, malarstwo abstrakcyjne.",
+      "areas": [
+        "poezja",
+        "malarstwo abstrakcyjne"
+      ],
+      "open_positions": [
+        {
+          "title": "Pisarz Piszący",
+          "description": "Poszukujemy twórców zdolnych przenosić piękno słowa na papier. *Każde zdanie to malarski strumień.*",
+          "tags": [
+            "literatura",
+            "poezja",
+            "krótkie formy"
+          ]
+        },
+        {
+          "title": "Malarz Intuicyjny",
+          "description": "Artysta poszukujący nowych form wyrazu w abstrakcji malarskiej. **Kolory są językiem moich emocji.**",
+          "tags": [
+            "malarstwo abstrakcyjne",
+            "ekspresja",
+            "koloryzm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Miasto Świateł",
+      "description": "Interdyscyplinarny projekt odkrywający miasto poprzez światło i dźwięk. *Nasze dociekania pokazują, jak ulice oddychają nocą.*\n- Obszary: instalacje świetlne, dźwiękowe przestrzenie miejskie.",
+      "areas": [
+        "instalacje świetlne",
+        "dźwiękowe przestrzenie miejskie"
+      ],
+      "open_positions": [
+        {
+          "title": "Kurator Sztuki",
+          "description": "Osoba kształtująca przestrzenie miejskie poprzez interakcje z dziełami sztuki. **Miasto staje się płótnem artystycznym.**",
+          "tags": [
+            "artywizm",
+            "krytyka miejska",
+            "kuratorialne praktyki"
+          ]
+        },
+        {
+          "title": "Dźwiękowiec Miejski",
+          "description": "Poszukujemy dźwiękowca gotowego na eksperymenty w tworzeniu ścieżek dźwiękowych miasta. *Dźwięk miasta ukrywa swoje historie.*",
+          "tags": [
+            "dźwiękowe opowieści",
+            "field recording",
+            "akustyka miejska"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    }
+  ]
+}

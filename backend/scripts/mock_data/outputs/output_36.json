@@ -1,0 +1,246 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "katarzyna.nowak@example.com",
+      "description": " - 🎨 *Sztuka i design*\n - 👩‍💻 **Programowanie kreatywne**\n - 📸 Fotografia artystyczna",
+      "skills": [
+        "Programowanie kreatywne",
+        "Projektowanie graficzne",
+        "Fotografia"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Kowalski",
+      "email": "piotr.kowalski@example.com",
+      "description": " - 💻 *Programowanie*\n - 📊 **Analiza danych**\n - 🎬 Tworzenie wideo",
+      "skills": [
+        "Programowanie",
+        "Analiza danych",
+        "Montaż wideo"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Dąbrowska",
+      "email": "magdalena.dabrowska@example.com",
+      "description": " - 🌐 **Tworzenie stron internetowych**\n - 🎤 Wokalista\n - 💡 *Kreatywne rozwiązywanie problemów*",
+      "skills": [
+        "Frontend development",
+        "Wokalista",
+        "Problemy-solving kreatywny"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Artur",
+      "last_name": "Wójcik",
+      "email": "artur.wojcik@example.com",
+      "description": "- 📚 Pisanie artykułów\n - 🖌️ Tworzenie ilustracji\n - 🎵 *Komponowanie muzyki*",
+      "skills": [
+        "Copywriting",
+        "Ilustracje",
+        "Kompozycja muzyczna"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Alicja",
+      "last_name": "Lis",
+      "email": "alicja.lis@example.com",
+      "description": " - 🌱 Ogrodnictwo\n - 🍳 *Kuchnia kreatywna*\n - 💄 Makijaż profesjonalny",
+      "skills": [
+        "Hortikultura",
+        "Kuchnia kreatywna",
+        "Makijaż"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Przyszłość Edukacji Online",
+      "description": "- 📚 *Nowoczesne metody nauczania*\n- 💻 **Platformy e-learningowe**\n- 👥 Adaptacyjne systemy edukacyjne",
+      "areas": [
+        "Edukacja",
+        "Technologia",
+        "Innowacje"
+      ],
+      "open_positions": [
+        {
+          "title": "👩‍🏫 E-learning Specialist",
+          "description": "- 💡 Opracowywanie interaktywnych lekcji\n- 📈 Monitorowanie procesów edukacyjnych",
+          "tags": [
+            "E-learning",
+            "Interakcja",
+            "Monitorowanie"
+          ]
+        },
+        {
+          "title": "🖥️ Frontend Developer",
+          "description": "- 🎨 Projektowanie interfejsów graficznych\n- 🧩 Implementacja rozwiązań UX/UI",
+          "tags": [
+            "Frontend",
+            "UX/UI",
+            "Projektowanie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Zrównoważone Żywności",
+      "description": "- 🌿 **Ekologiczne rolnictwo**\n- 🥗 *Zdrowe odżywianie*\n- 🌽 Lokalne produkty spożywcze",
+      "areas": [
+        "Zrównoważony rozwój",
+        "Żywność",
+        "Ekologia"
+      ],
+      "open_positions": [
+        {
+          "title": "🌿 Specjalista ds. rolnictwa ekologicznego",
+          "description": "- 📊 Analiza zrównoważonych praktyk rolniczych\n- 🌱 Wdrażanie metod agroekologii",
+          "tags": [
+            "Agroekologia",
+            "Analityka",
+            "Rolnictwo"
+          ]
+        },
+        {
+          "title": "🛒 Specjalista ds. żywienia i dietetyki",
+          "description": "- 🍏 Ocena wartości odżywczych\n- 📉 Tworzenie zrównoważonych planów dietetycznych",
+          "tags": [
+            "Dietetyka",
+            "Planowanie diet",
+            "Odżywianie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Platforma Sztuki Współczesnej",
+      "description": "- 🎨 **Wirtualne galerie sztuki**\n- 🎭 *Interaktywne wystawy*\n- 🖼️ Kolekcje online",
+      "areas": [
+        "Sztuka",
+        "Technologia",
+        "Kultura"
+      ],
+      "open_positions": [
+        {
+          "title": "🎨 Kurator wirtualnej galerii",
+          "description": "- 🌍 Tworzenie interaktywnych przestrzeni wystawienniczych\n- 🖌️ Selekcja i prezentacja dzieł sztuki",
+          "tags": [
+            "Kuracja",
+            "Galeria wirtualna",
+            "Sztuka współczesna"
+          ]
+        },
+        {
+          "title": "🎭 Animator kultury online",
+          "description": "- 🎥 Tworzenie multimedialnych narracji\n- 🎟️ Organizacja wydarzeń online",
+          "tags": [
+            "Multimedia",
+            "Narracja",
+            "Organizacja eventów"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Innowacyjne Rozwiązania Transportowe",
+      "description": "- 🚗 *E-mobilność*\n- 🌐 **Inteligentne systemy transportu**\n- 🚲 Alternatywne środki transportu",
+      "areas": [
+        "Transport",
+        "Technologia",
+        "Innowacje"
+      ],
+      "open_positions": [
+        {
+          "title": "🔋 Ekspert ds. e-mobilności",
+          "description": "- 📱 Rozwój infrastruktury ładowania\n- 🚗 Testowanie elektrycznych pojazdów",
+          "tags": [
+            "Infrastruktura ładowania",
+            "Testowanie pojazdów",
+            "E-mobilność"
+          ]
+        },
+        {
+          "title": "🛠️ Inżynier systemów transportowych",
+          "description": "- 🚥 Optymalizacja tras transportowych\n- 🚎 Implementacja inteligentnych systemów zarządzania ruchem",
+          "tags": [
+            "Optymalizacja tras",
+            "Inteligentne systemy",
+            "Zarządzanie ruchem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Kreatywne Centrum Dziecięcej Edukacji",
+      "description": "- 🎨 **Artystyczne warsztaty dla dzieci**\n- 📚 *Kreatywne metody nauczania*\n- 🧩 Rozwój umiejętności interpersonalnych",
+      "areas": [
+        "Edukacja",
+        "Sztuka",
+        "Rozwój dziecka"
+      ],
+      "open_positions": [
+        {
+          "title": "👩‍🎨 Animator do warsztatów plastycznych",
+          "description": "- 🎭 Organizacja zajęć plastycznych\n- 🎨 Kierowanie procesem twórczym",
+          "tags": [
+            "Animator",
+            "Plastyka",
+            "Edukacja artystyczna"
+          ]
+        },
+        {
+          "title": "📚 Menedżer edukacyjny",
+          "description": "- 📊 Planowanie programów edukacyjnych\n- 🖍️ Koordynacja zespołu nauczycieli",
+          "tags": [
+            "Programy edukacyjne",
+            "Koordynacja zespołu",
+            "Edukacja dziecka"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 4
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    },
+    {
+      "user_id": 4,
+      "project_id": 2
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    }
+  ]
+}

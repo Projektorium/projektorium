@@ -1,0 +1,235 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Karolina",
+      "last_name": "Wójcik",
+      "email": "karolinawojcik@example.com",
+      "description": "Dr Karolina Wójcik is a passionate researcher specializing in *computational linguistics* and machine learning. Her work focuses on the semantic analysis of natural language text, exploring the intricacies of language processing. With a background in cognitive science, Karolina delves deep into the nuances of human-computer interaction.",
+      "skills": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Data Analysis"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Tomasz",
+      "last_name": "Jaworski",
+      "email": "tomaszjaworski@example.com",
+      "description": "Profesor Tomasz Jaworski is a pioneering figure in the domain of *bioinformatics* and genetic research. His groundbreaking studies on the human genome have shed light on the intricacies of genetic coding and regulation mechanisms. Tomasz excels in translating complex biological data into meaningful insights.",
+      "skills": [
+        "Bioinformatics",
+        "Genomics",
+        "Data Visualization"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Alicja",
+      "last_name": "Nowak",
+      "email": "alicjanowak@example.com",
+      "description": "Dr Alicja Nowak is a dedicated scholar focusing on sustainable urban planning and environmental architecture. Her research on green infrastructure and urban biodiversity is instrumental in shaping eco-friendly city development. Alicja's interdisciplinary approach integrates ecology with architectural design principles.",
+      "skills": [
+        "Sustainable Architecture",
+        "Urban Planning",
+        "Biodiversity Conservation"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Paweł",
+      "last_name": "Kowalski",
+      "email": "pawelkowalski@example.com",
+      "description": "Profesor Paweł Kowalski is an esteemed figure in the realm of particle physics and quantum field theory. His theoretical investigations on quantum chromodynamics have revolutionized the understanding of subatomic particle interactions. Paweł's expertise lies in bridging theoretical concepts with experimental observations.",
+      "skills": [
+        "Quantum Field Theory",
+        "Particle Physics",
+        "Quantum Chromodynamics"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Joanna",
+      "last_name": "Lis",
+      "email": "joannalis@example.com",
+      "description": "Dr Joanna Lis is an emerging scholar in the field of cognitive psychology and human behavior analysis. Her research on decision-making processes and cognitive biases uncovers the underlying mechanisms shaping human choices. Joanna's empirical studies provide valuable insights into psychological interventions and behavioral economics.",
+      "skills": [
+        "Cognitive Psychology",
+        "Behavioral Analysis",
+        "Decision Making"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Światło i Cień: Ewolucja Architektury Zaawansowanych Struktur",
+      "description": "Projekt 'Światło i Cień' symbolizuje rewolucyjne podejście do integrowania architektury z ekologią. Poprzez połączenie zaawansowanych technologii budowlanych z zazielenionymi przestrzeniami publicznymi, ten projekt zmienia oblicze współczesnych miast. Dołącz do naszej ekscytującej podróży architektonicznej!",
+      "areas": [
+        "Environmental Design",
+        "Smart Cities"
+      ],
+      "open_positions": [
+        {
+          "title": "Architekt Krajobrazu",
+          "description": "Szukamy doświadczonego architekta krajobrazu z pasją do zrównoważonego projektowania. Osoba na tym stanowisku będzie odpowiedzialna za koncepcję i wdrożenie zazielenienia projektowanych obszarów urbanistycznych.",
+          "tags": [
+            "Sustainable Design",
+            "Landscape Architecture"
+          ]
+        },
+        {
+          "title": "Inżynier Budownictwa",
+          "description": "Pozycja inżyniera budownictwa obejmuje nadzór nad wdrażaniem innowacyjnych technologii konstrukcyjnych. Wymagana znajomość nowoczesnych materiałów budowlanych oraz energooszczędnych rozwiązań architektonicznych.",
+          "tags": [
+            "Construction Engineering",
+            "Green Building Technologies"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Kwantowa Wizja: Eksploracja Światów Subatomowych",
+      "description": "Projekt 'Kwantowa Wizja' zaprasza do fascynującej podróży w głąb struktur subatomowych. Odkryj nowe horyzonty fizyki cząstek elementarnych i eksploruj niuanse kwantowej mechaniki. Dołącz do zespołu badawczego, który zmienia spojrzenie na mikroświat!",
+      "areas": [
+        "Particle Physics",
+        "Quantum Mechanics"
+      ],
+      "open_positions": [
+        {
+          "title": "Fizyk Cząstek Elementarnych",
+          "description": "Poszukujemy doświadczonego fizyka, który zgłębia tajemnice struktur subatomowych. Osoba na tym stanowisku będzie odpowiedzialna za teoretyczne modele oddziaływań kwantowych.",
+          "tags": [
+            "Theoretical Physics",
+            "Particle Interaction"
+          ]
+        },
+        {
+          "title": "Asystent Badawczy",
+          "description": "Stanowisko asystenta badawczego wymaga umiejętności wspomagania prac naukowych i analizy wyników eksperymentalnych związanych z fizyką cząstek elementarnych.",
+          "tags": [
+            "Research Assistant",
+            "Experimental Physics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Skrywane Tajemnice: Analiza Kognitywna Zachowań Społecznych",
+      "description": "Projekt 'Skrywane Tajemnice' rzuca światło na niejawne mechanizmy decyzyjne obecnego społeczeństwa. Odkryj ukryte kognitywne bariery i analizuj wzorce zachowań społecznych za pomocą narzędzi psychologii eksperymentalnej. Przyłącz się do naszej misji zmieniania społecznych paradoksów na zrozumiałe strategie interwencji!",
+      "areas": [
+        "Cognitive Psychology",
+        "Behavioral Economics"
+      ],
+      "open_positions": [
+        {
+          "title": "Psycholog Eksperymentalny",
+          "description": "Poszukujemy psychologa eksperymentalnego z pasją do prowadzenia badań empirycznych nad procesami decyzyjnymi. Osoba na tym stanowisku będzie przygotowywać i przeprowadzać eksperymenty z udziałem ochotników.",
+          "tags": [
+            "Experimental Psychology",
+            "Behavioral Experiments"
+          ]
+        },
+        {
+          "title": "Analityk Danych Behawioralnych",
+          "description": "Stanowisko analityka danych behawioralnych obejmuje interpretację i modelowanie zbiorów danych dotyczących zachowań społecznych. Wymagana biegła znajomość narzędzi statystycznych oraz umiejętność wnioskowania na podstawie danych empirycznych.",
+          "tags": [
+            "Behavioral Data Analysis",
+            "Statistical Modeling"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Gra Genów: Rozkodowywanie Sekretów DNA",
+      "description": "Projekt 'Gra Genów' to fascynująca wyprawa w głąb ludzkiego genomu i jego niespotykanej złożoności. Odkryj tajemnice kodowania genetycznego i analizuj ekspresję genów w kontekście dziedziczności fenotypowej. Dołącz do nas, aby odkrywać sekrety życia zapisane w DNA!",
+      "areas": [
+        "Genomics",
+        "Genetic Engineering"
+      ],
+      "open_positions": [
+        {
+          "title": "Genetyk Molekularny",
+          "description": "Poszukujemy genetyka molekularnego, który zrozumie głęboko zakodowane tajemnice ludzkiego genomu. Osoba na tym stanowisku będzie zajmować się analizą sekwencji DNA oraz interpretacją zmienności genetycznej.",
+          "tags": [
+            "Molecular Genetics",
+            "DNA Sequencing"
+          ]
+        },
+        {
+          "title": "Bioinformatyk",
+          "description": "Stanowisko bioinformatyka obejmuje analizę danych genetycznych i prowadzenie badań nad bioinformatyką strukturalną. Wymagane umiejętności programowania i modelowania strukturalnego białek.",
+          "tags": [
+            "Bioinformatics",
+            "Structural Bioinformatics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Wspólnota Zielonych: Rewolucja Ekorozwoju w Miastach",
+      "description": "Projekt 'Wspólnota Zielonych' to manifestacja zrównoważonego rozwoju i harmonii z naturą w miejskich przestrzeniach. Poprzez promowanie wspólnotowej odpowiedzialności za środowisko, ten projekt inspiruje do tworzenia ekologicznych miast przyszłości. Dołącz do nas, aby zmienić perspektywę miast na bardziej zieloną!",
+      "areas": [
+        "Green Urbanism",
+        "Community Development"
+      ],
+      "open_positions": [
+        {
+          "title": "Ekolog Miejski",
+          "description": "Szukamy ekologa miejskiego z pasją do prowadzenia badań nad wpływem urbanizacji na środowisko naturalne. Osoba na tym stanowisku będzie analizować zmiany w środowisku miejskim i proponować strategie zrównoważonego rozwoju miast.",
+          "tags": [
+            "Urban Ecologist",
+            "Environmental Impact Assessment"
+          ]
+        },
+        {
+          "title": "Koordynator Społecznościowy",
+          "description": "Pozycja koordynatora społecznościowego obejmuje organizację wydarzeń ekologicznych i budowanie partnerstw społecznych w obrębie projektów ekorozwojowych. Wymagane umiejętności interpersonalne i zarządzania projektami społecznymi.",
+          "tags": [
+            "Community Coordinator",
+            "Social Partnerships"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 2,
+      "project_id": 4
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    },
+    {
+      "user_id": 4,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 2
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Magdalena",
+      "last_name": "Nowak",
+      "email": "magdalena.nowak@example.com",
+      "description": "Absolwentka Uniwersytetu Warszawskiego z obszaru badań *biologii komórkowej*. Pogłębia wiedzę na temat *genetyki molekularnej* oraz stosuje zaawansowane analizy bioinformatyczne do złożonych danych genetycznych. Posiada biegłość w technikach mikroskopii *konfokalnej* oraz doświadczenie w pracy laboratoryjnej z organizmami modelowymi.",
+      "skills": [
+        "Analiza danych",
+        "Biologia molekularna",
+        "Bioinformatyka"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Kowalski",
+      "email": "piotr.kowalski@example.com",
+      "description": "Doktor nauk humanistycznych specjalizujący się w *historii sztuki krytycznej*. Zainteresowania badawcze koncentrują się na powiązaniach pomiędzy sztuką współczesną a społeczeństwem. Eksploruje również kwestie związane z teorią *estetyki współczesnej* oraz partycypacyjnymi formami sztuki.",
+      "skills": [
+        "Analiza krytyczna",
+        "Historia sztuki",
+        "Teoria estetyki"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Karolina",
+      "last_name": "Dąbrowska",
+      "email": "karolina.dabrowska@example.com",
+      "description": "Asystentka badawcza z zakresu *inżynierii materiałowej*. Posiada doświadczenie w projektowaniu i syntezie zaawansowanych *nanomateriałów* o unikalnych właściwościach mechanicznych. Specjalizuje się w analizie strukturalnej i mikrostrukturalnej materiałów.",
+      "skills": [
+        "Inżynieria materiałowa",
+        "Synteza nanomateriałów",
+        "Analiza strukturalna"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Jakub",
+      "last_name": "Wójcik",
+      "email": "jakub.wojcik@example.com",
+      "description": "Absolwent Akademii Medycznej w Krakowie, obecnie doktorant zajmujący się badaniami w obszarze *neurobiologii komórkowej*. Specjalizuje się w technikach obrazowania *neurotransmiterów* oraz analizie dynamicznych zmian w strukturze neuronów pod wpływem bodźców zewnętrznych.",
+      "skills": [
+        "Neurobiologia",
+        "Obrazowanie komórek",
+        "Analiza neuronalna"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Alicja",
+      "last_name": "Lewandowska",
+      "email": "alicja.lewandowska@example.com",
+      "description": "Badaczka z obszaru *ekonomii behawioralnej* oraz teorii *gier ekonomicznych*. Jej prace koncentrują się na modelowaniu interakcji między jednostkami w różnych scenariuszach rynkowych. Posiada umiejętność analizy danych ekonomicznych oraz rozwiązywania problemów z wykorzystaniem metod matematycznych.",
+      "skills": [
+        "Ekonomia behawioralna",
+        "Modelowanie gier ekonomicznych",
+        "Analiza danych ekonomicznych"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Odkrywanie Nowych Terapii przeciwnowotworowych",
+      "description": "Projekt ma na celu odkrycie nowych terapii przeciwnowotworowych wykorzystując zaawansowane *metody farmakologiczne*. Badania skoncentrowane są na identyfikacji cząsteczek celowanych w procesie nowotworzenia oraz testowaniu ich skuteczności. Poszukiwani są naukowcy z doświadczeniem w analizie *transkryptomiki* oraz w badaniach nad *łagodzeniem efektów ubocznych* terapii.",
+      "areas": [
+        "Farmakologia",
+        "Onkologia",
+        "Biologia molekularna"
+      ],
+      "open_positions": [
+        {
+          "title": "Biochemik Molekularny",
+          "description": "Osoba zajmująca się analizą interakcji białko-cząsteczka oraz udziałem szlaków sygnalizacyjnych w mechanizmach nowotworzenia.",
+          "tags": [
+            "Transkryptomika",
+            "Biotechnologia"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Efektów Ubocznych",
+          "description": "Ekspert w dziedzinie badania i redukcji skutków ubocznych nowych terapii, posiadający doświadczenie kliniczne w leczeniu nowotworów.",
+          "tags": [
+            "Medycyna kliniczna",
+            "Farmakoterapia"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Interakcje Kulturowe w Architekturze Współczesnej",
+      "description": "Projekt wieloaspektowy dotyczący wpływu interakcji kulturowych na procesy projektowania i percepcji architektury współczesnej. Analiza zjawisk migracyjnych, urbanizacyjnych i społeczno-kulturowych w kontekście przestrzeni architektonicznej na skalę globalną.",
+      "areas": [
+        "Architektura",
+        "Socjologia kultury",
+        "Urbanistyka"
+      ],
+      "open_positions": [
+        {
+          "title": "Architekt Badawczy",
+          "description": "Osoba posiadająca doświadczenie w analizie społeczno-kulturowych uwarunkowań projektowania przestrzeni publicznych.",
+          "tags": [
+            "Urbanistyka społeczna",
+            "Architektura postmodernistyczna"
+          ]
+        },
+        {
+          "title": "Socjolog Architektury",
+          "description": "Specjalista w zakresie analizy związków między przestrzenią architektoniczną a społecznymi procesami komunikacji i identyfikacji.",
+          "tags": [
+            "Socjologia architektury",
+            "Antropologia przestrzeni"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Innowacyjne Materiały w Energetyce Przyszłości",
+      "description": "Projekt skupiający się na poszukiwaniu nowych, *ecofriendly* materiałów do zastosowań w energetyce przyszłości. Badania obejmują syntezę nanomateriałów o podwyższonej efektywności energetycznej oraz analizę ich zastosowań w *bateriach litowo-jonowych*. Poszukiwani są badacze z doświadczeniem w spektroskopii *FTIR* oraz technikach *elektrochemicznych*.",
+      "areas": [
+        "Inżynieria materiałowa",
+        "Nanotechnologia",
+        "Energetyka"
+      ],
+      "open_positions": [
+        {
+          "title": "Nanotechnolog",
+          "description": "Specjalista w syntezie i charakteryzacji nanomateriałów stosowanych w aplikacjach energetycznych.",
+          "tags": [
+            "Spektroskopia FTIR",
+            "Fotokatalityczne materiały"
+          ]
+        },
+        {
+          "title": "Ekspert ds. Baterii Litowo-jonowych",
+          "description": "Osoba z wiedzą z zakresu konstrukcji i testowania akumulatorów litowo-jonowych, zainteresowana nowatorskimi materiałami elektrochemicznymi.",
+          "tags": [
+            "Elektrochemia",
+            "Baterie przemysłowe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Neuronowe Mechanizmy Pamięci i Uczenia",
+      "description": "Projekt badawczy mający na celu zrozumienie neuronowych mechanizmów pamięci i uczenia się na poziomie molekularnym i sieciowym. Badania obejmują analizę *plastyczności synaptycznej* oraz modelowanie sieci neuronowych w kontekście funkcji poznawczych. Poszukiwani są badacze z doświadczeniem w badaniach nad *neurotransmiterami* oraz modelowaniu struktur neuronalnych.",
+      "areas": [
+        "Neurobiologia",
+        "Neuroinformatyka",
+        "Psychologia kognitywna"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Plastyczności Synaptycznej",
+          "description": "Osoba z zaawansowaną wiedzą w zakresie neuroplastyczności i zmian strukturalnych w sieciach neuronalnych podczas uczenia się.",
+          "tags": [
+            "Modelowanie neuronowe",
+            "Bioinżynieria"
+          ]
+        },
+        {
+          "title": "Psycholog Kognitywny",
+          "description": "Eksperckie zrozumienie procesów uczenia się i pamięci w kontekście poznawczych mechanizmów neuronowych.",
+          "tags": [
+            "Psychometria",
+            "Neurorobotyka"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Analiza Matematyczna Strategicznych Interakcji Ekonomicznych",
+      "description": "Projekt badawczy z obszaru ekonomii behawioralnej i teorii gier ekonomicznych. Skupia się na analizie matematycznych modeli interakcji pomiędzy podmiotami rynkowymi oraz strategiami podejmowanymi w warunkach rywalizacji. Poszukiwani są eksperci w dziedzinie *teorii gier* oraz *ekonometrii*.",
+      "areas": [
+        "Ekonomia behawioralna",
+        "Teoria gier",
+        "Ekonometria"
+      ],
+      "open_positions": [
+        {
+          "title": "Ekonomista Behawioralny",
+          "description": "Specjalista zajmujący się analizą zachowań rynkowych w warunkach niepełnej informacji i strategii behawioralnych.",
+          "tags": [
+            "Teoria decyzji",
+            "Ekonomia eksperymentalna"
+          ]
+        },
+        {
+          "title": "Ekonometryk",
+          "description": "Osoba opracowująca i analizująca matematyczne modele regresji oraz prognoz ekonomicznych w kontekście złożonych interakcji rynkowych.",
+          "tags": [
+            "Statystyczne metody ekonometryczne",
+            "Analiza empiryczna"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 2
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    }
+  ]
+}

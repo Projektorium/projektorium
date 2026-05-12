@@ -1,0 +1,240 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Karolina",
+      "last_name": "Kowalska",
+      "email": "karolina.kowalska@uni.edu.pl",
+      "description": "Dr. Karolina Kowalska is a dedicated researcher passionate about *quantum physics* and its applications in informational science. Her expertise lies in *quantum algorithms*, quantum cryptography, and quantum teleportation. With a strong background in theoretical physics, Karolina aims to unravel the mysteries of the quantum realm through innovative research methodologies.",
+      "skills": [
+        "Quantum Mechanics",
+        "Algorithm Design",
+        "Cryptography"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Wójcik",
+      "email": "piotr.wojcik@uni.edu.pl",
+      "description": "Dr. Piotr Wójcik, an experienced cognitive psychologist, explores the *neurobiological correlates* of decision-making processes in human behavior. His interdisciplinary research integrates behavioral experiments with fMRI imaging techniques. Piotr's work aims to shed light on cognitive mechanisms underlying complex human choices and their neural underpinnings.",
+      "skills": [
+        "Cognitive Psychology",
+        "Neuroimaging",
+        "Behavioral Experiments"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Aleksandra",
+      "last_name": "Nowak",
+      "email": "aleksandra.nowak@uni.edu.pl",
+      "description": "Prof. Aleksandra Nowak specializes in *computational linguistics* with a focus on natural language processing and machine learning applications. Her research delves into the use of computational models to analyze linguistic structures and develop intelligent language technologies. Aleksandra's work bridges the gap between linguistics and computer science to enhance human-computer interaction.",
+      "skills": [
+        "Computational Linguistics",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Marcin",
+      "last_name": "Duda",
+      "email": "marcin.duda@uni.edu.pl",
+      "description": "Dr. Marcin Duda, an environmental biologist, explores the intricate relationships between organisms and their ecosystems. His research focuses on *biodiversity conservation*, ecosystem resilience, and sustainable resource management. Marcin leverages field studies and data analysis to inform conservation strategies and promote ecological sustainability.",
+      "skills": [
+        "Ecological Research",
+        "Conservation Biology",
+        "Data Analysis"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Anna",
+      "last_name": "Lis",
+      "email": "anna.lis@uni.edu.pl",
+      "description": "Dr. Anna Lis is a pioneering biochemist investigating the biochemical pathways underlying *genetic disorders* in human metabolism. Her research combines biochemical assays with genetic sequencing to elucidate disease mechanisms and develop targeted therapies. Anna's innovative approach to molecular biology aims to translate scientific insights into clinical applications.",
+      "skills": [
+        "Biochemistry",
+        "Genetics",
+        "Molecular Biology"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Światło jako Klucz do Poznania Ukrytych Struktur",
+      "description": "Projekt 'Światło jako Klucz' to mistyczna podróż przez zawiłości *optyki kwantowej*, gdzie promienie *fotonów* odsłaniają zaklęte struktury materii. Eksplorując granice światła i cienia, badacze próbują odkryć *kwantowe tajemnice* ukryte głęboko w strukturze wszechświata.",
+      "areas": [
+        "Quantum Optics",
+        "Quantum Information",
+        "Photonics"
+      ],
+      "open_positions": [
+        {
+          "title": "Starszy Badacz",
+          "description": "Poszukujemy doświadczonego naukowca, który z pasją zgłębia *optykę kwantową* i jest w stanie przełamać barierę pomiędzy klasycznym a kwantowym światem.",
+          "tags": [
+            "Quantum Optics",
+            "Experimental Physics"
+          ]
+        },
+        {
+          "title": "Asystent Badawczy",
+          "description": "Osoba doświadczona w analizie danych kwantowych i posiadająca umiejętność przeprowadzania eksperymentów z wykorzystaniem *fotoniki*.",
+          "tags": [
+            "Quantum Information",
+            "Photonics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Decyzje Ludzkie: Mózg w Labiryncie Wyborów",
+      "description": "Projekt 'Decyzje Ludzkie' to intelektualna eskapada w głąb mózgu ludzkiego, gdzie labirynty neuronów zawierają tajemnice *decyzyjnych procesów* i skomplikowanej *neurobiologii emocji*. Poprzez połączenie psychologii kognitywnej z neurobiologią, naukowcy rozświetlają ciemne korytarze naszych decyzji.",
+      "areas": [
+        "Cognitive Neuroscience",
+        "Decision-Making",
+        "Neurobiology"
+      ],
+      "open_positions": [
+        {
+          "title": "Analiza Danych Neuropsychologicznych",
+          "description": "Poszukujemy specjalisty zdolnego do rozgryzienia *mózgu ludzkiego* poprzez analizę skomplikowanych danych neuropsychologicznych.",
+          "tags": [
+            "Cognitive Psychology",
+            "Neuroimaging"
+          ]
+        },
+        {
+          "title": "Asystent Badawczy w Neurobiologii",
+          "description": "Osoba zainteresowana ptakiem dodo, która chce wziąć udział w badaniach nad *neuromiękkim kodowaniem emocji*.",
+          "tags": [
+            "Emotion Regulation",
+            "Neural Coding"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Język i Maszyny: Wzajemne Spostrzeganie",
+      "description": "Projekt 'Język i Maszyny' to harmonijna symfonia teorii językoznawstwa z praktyką uczenia maszynowego, gdzie dźwięki słów i bity komputerowe tańczą w polifonicznym unisonie. Eksplorując zdolności językowe maszyn, naukowcy tworzą nowe filharmonie *interakcji człowiek-maszyna*.",
+      "areas": [
+        "Computational Linguistics",
+        "Machine Learning",
+        "Human-Computer Interaction"
+      ],
+      "open_positions": [
+        {
+          "title": "Badanie Pojęć Semantycznych",
+          "description": "Poszukujemy myśliciela o głębokim *zrozumieniu języka naturalnego*, który potrafi wplątać się w sieci neuronowe.",
+          "tags": [
+            "Semantic Analysis",
+            "Language Processing"
+          ]
+        },
+        {
+          "title": "Inżynier Języka Cyfrowego",
+          "description": "*Hacker* z zamiłowaniem do *językowych algorytmów*, gotów zaszyć programy językowe owinięte w piksele.",
+          "tags": [
+            "Natural Language Generation",
+            "Algorithm Development"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Zbawienie w Ziemskiej Krainie: Odrodzenie Bioróżnorodności",
+      "description": "Projekt 'Zbawienie w Ziemskiej Krainie' to podróż nadziei w poszukiwaniu *utrwalonej ekologii*, gdzie sieci *ekosystemów* splatają się w unikalne koronki *bioróżnorodności*. Poprzez *ekoinformatykę* i analizę *zróżnicowanych zbiorowisk*, badacze przywracają *ekosystemy* do pierwotnej świetności.",
+      "areas": [
+        "Ecology",
+        "Conservation Biology",
+        "Environmental Science"
+      ],
+      "open_positions": [
+        {
+          "title": "Ekspert Ds. Bioróżnorodności",
+          "description": "Poszukujemy pasjonata przyrody z wrażliwością na subtelne niuanse *biodiwersyfikacji*, gotowego do *reanimacji ekosystemów*.",
+          "tags": [
+            "Ecological Restoration",
+            "Species Conservation"
+          ]
+        },
+        {
+          "title": "Analityk Ekologiczny",
+          "description": "Osoba z zacięciem detektywa dla ukrytych wzorów w *biologicznych danych*, zdolna do rezurekcji zagnieżdżonych informacji ekologicznych.",
+          "tags": [
+            "Data Analysis",
+            "Biodiversity Assessment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Genetyczne Labirynty: Sekrety Metabolicznych Ścieżek",
+      "description": "Projekt 'Genetyczne Labirynty' to ekscytująca wędrówka przez *molekularne tajemnice* genetycznych *patologii metabolicznych*, gdzie DNA splata się w narodziny *terapeutycznych rewolucji*. Poprzez *biochemiczne eksperymenty* i analizę sekwencji genu, naukowcy odsłaniają *genetyczne zawiłości* ludzkiego metabolizmu.",
+      "areas": [
+        "Biochemistry",
+        "Genetics",
+        "Molecular Biology"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Genomiki",
+          "description": "Osoba z obsesją na punkcie *sekwencji DNA*, gotowa do pogłębiania tajemniczych ścieżek *genetycznych oddziaływań*.",
+          "tags": [
+            "Genomics",
+            "DNA Sequencing"
+          ]
+        },
+        {
+          "title": "Technik Laboratoryjny",
+          "description": "Osoba skrupulatna w manipulacjach genetycznych i gotowa do eksploracji *molekularnych konfiguracji* w labiryncie biologicznych reakcji.",
+          "tags": [
+            "Laboratory Techniques",
+            "Genetic Manipulation"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 4
+    }
+  ]
+}

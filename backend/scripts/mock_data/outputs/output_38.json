@@ -1,0 +1,232 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Zuzanna",
+      "last_name": "Kowalska",
+      "email": "zuzanna.kowalska@example.com",
+      "description": "✔️ Doświadczona marketerka z pasją do budowania marek. Ekspertka w reklamie online i customer journey. Ambitnie dążę do rozwoju w dziedzinie e-commerce.",
+      "skills": [
+        "Marketing",
+        "E-commerce",
+        "Customer Journey"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Michał",
+      "last_name": "Nowak",
+      "email": "michal.nowak@example.com",
+      "description": "*Innowacyjny myśliciel* z solidnym doświadczeniem w obszarze IoT. **Założyciel dwóch startupów** w branży technologicznej. Strategiczne podejście do biznesu.",
+      "skills": [
+        "IoT",
+        "Strategic Planning",
+        "Entrepreneurship"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Ada",
+      "last_name": "Wójcik",
+      "email": "ada.wojcik@example.com",
+      "description": "✓ Specjalistka ds. UX/UI z wieloletnim stażem w projektowaniu aplikacji mobilnych. Pasjonatka tworzenia intuicyjnych i estetycznych interfejsów użytkownika.",
+      "skills": [
+        "UX/UI Design",
+        "Mobile Applications",
+        "User Experience"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Duda",
+      "email": "piotr.duda@example.com",
+      "description": "→ Zorientowany na rezultaty menedżer produktu z doświadczeniem w tworzeniu strategii produktowych. Ekspert w analizie rynku i zarządzaniu projektem.",
+      "skills": [
+        "Product Management",
+        "Product Strategy",
+        "Market Analysis"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Katarzyna",
+      "last_name": "Jankowska",
+      "email": "k.jankowska@example.com",
+      "description": "- Entuzjastka startupów social impact. ★ Ekspertka w fundraisingu i partnerstwach biznesowych. Ambasadorka tworzenia pozytywnego wpływu społecznego.",
+      "skills": [
+        "Social Impact Startups",
+        "Fundraising",
+        "Partnership Development"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "LuminTech",
+      "description": "*Innowacyjna firma* zajmująca się rozwojem inteligentnych rozwiązań oświetleniowych. **Technologia LED** z zastosowaniem IoT, zmieniająca sposób postrzegania światła.",
+      "areas": [
+        "Smart Lighting",
+        "IoT",
+        "Energy Efficiency"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista ds. Systemów IoT",
+          "description": "★ Poszukujemy eksperta z doświadczeniem w integracji systemów IoT. Osoba odpowiedzialna za rozwój i utrzymanie naszych platform IoT.",
+          "tags": [
+            "IoT Systems Integration",
+            "Wireless Communication"
+          ]
+        },
+        {
+          "title": "✓ Młodszy Programista Embedded",
+          "description": "✓ Osoba dołączająca do zespołu developerskiego przy pracy nad oprogramowaniem wbudowanym. Tworzenie aplikacji dedykowanych dla naszych systemów oświetleniowych.",
+          "tags": [
+            "Embedded Software Development",
+            "C/C++ Programming"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "GreenGrowth",
+      "description": "→ Startup skupiający się na rozwoju ekologicznych rozwiązań w sektorze rolnictwa. ✔️ Innowacyjne podejście do zrównoważonej produkcji żywności.",
+      "areas": [
+        "Agrotech",
+        "Sustainable Agriculture",
+        "Green Technologies"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Specjalista ds. Zrównoważonego Rozwoju",
+          "description": "★ Osoba odpowiedzialna za badania nad nowoczesnymi technologiami w rolnictwie. Tworzenie strategii zrównoważonego rozwoju dla naszych produktów.",
+          "tags": [
+            "Sustainable Development",
+            "Agricultural Technology"
+          ]
+        },
+        {
+          "title": "→ Analityk Danych Rolniczych",
+          "description": "→ Poszukujemy analityka z umiejętnościami analizy danych z sektora rolniczego. Wsparcie w przetwarzaniu i interpretacji informacji dotyczących produkcji rolnej.",
+          "tags": [
+            "Data Analysis",
+            "Agricultural Data"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "CareConnect",
+      "description": "**Platforma e-zdrowia** ułatwiająca pacjentom kontakt z lekarzami i dostęp do swojej dokumentacji medycznej. ✔️ Innowacyjne narzędzie poprawiające efektywność opieki zdrowotnej.",
+      "areas": [
+        "Healthtech",
+        "Telemedicine",
+        "Health Records Management"
+      ],
+      "open_positions": [
+        {
+          "title": "✓ Frontend Developer React",
+          "description": "✓ Poszukujemy programisty frontend z doświadczeniem w React do rozwoju interfejsu użytkownika dla platformy e-zdrowia.",
+          "tags": [
+            "React.js",
+            "Frontend Development"
+          ]
+        },
+        {
+          "title": "✓ Specjalista ds. Bezpieczeństwa Danych",
+          "description": "✓ Osoba odpowiedzialna za zapewnienie bezpiecznego przetwarzania danych medycznych. Doświadczenie w implementacji standardów bezpieczeństwa IT.",
+          "tags": [
+            "Data Security",
+            "IT Security Standards"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "EcoRide",
+      "description": "- Platforma mobilności elektrycznej zrzeszająca dostawców usług transportowych. ★ Promujemy użytkowanie pojazdów zeroemisyjnych celem ochrony środowiska.",
+      "areas": [
+        "Electric Mobility",
+        "Sustainable Transport",
+        "Green Urban Solutions"
+      ],
+      "open_positions": [
+        {
+          "title": "★ Kierownik ds. Partnerskich Relacji",
+          "description": "★ Poszukujemy osoby do zarządzania partnerstwami z firmami transportowymi. Nawiązywanie i utrzymywanie współpracy biznesowej w obszarze mobilności elektrycznej.",
+          "tags": [
+            "Partnership Management",
+            "Sustainable Transport"
+          ]
+        },
+        {
+          "title": "→ Specjalista ds. Analizy Trendów Transportowych",
+          "description": "→ Osoba do analizy trendów w sektorze transportu i rekomendowania działań optymalizacyjnych dla naszej platformy mobilności elektrycznej.",
+          "tags": [
+            "Transport Trends Analysis",
+            "Market Optimization"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "EduTechLab",
+      "description": "✔️ Platforma edukacyjna dostarczająca narzędzia wspierające zdalne nauczanie. ✅ Innowacyjne rozwiązania dla uczniów, nauczycieli i instytucji edukacyjnych.",
+      "areas": [
+        "Edutech",
+        "Online Learning",
+        "Educational Technology"
+      ],
+      "open_positions": [
+        {
+          "title": "✅ Specjalista ds. Treści Edukacyjnych",
+          "description": "✅ Osoba odpowiedzialna za tworzenie interaktywnych materiałów edukacyjnych. Zapewnienie innowacyjnych treści dostarczających wartość dla użytkowników platformy.",
+          "tags": [
+            "Educational Content Creation",
+            "Interactive Learning"
+          ]
+        },
+        {
+          "title": "✅ Marketing Manager EduTech",
+          "description": "✅ Poszukujemy menedżera marketingu z doświadczeniem w sektorze edukacyjnym. Kreatywne podejście do promocji platformy EduTechLab.",
+          "tags": [
+            "Educational Marketing",
+            "Digital Promotion"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 2,
+      "project_id": 2
+    },
+    {
+      "user_id": 3,
+      "project_id": 3
+    },
+    {
+      "user_id": 4,
+      "project_id": 4
+    },
+    {
+      "user_id": 5,
+      "project_id": 5
+    },
+    {
+      "user_id": 1,
+      "project_id": 4
+    }
+  ]
+}

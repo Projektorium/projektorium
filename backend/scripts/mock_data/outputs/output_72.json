@@ -1,0 +1,250 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "katarzyna.nowak@uni.edu",
+      "description": "Dr. Katarzyna Nowak is a accomplished researcher specializing in *political science* and public policy. With a focus on qualitative research methods, she has published extensively on the intersection of governance structures and citizen participation. Dr. Nowak's skills include discourse analysis, interview techniques, policy evaluation, and data visualization.",
+      "skills": [
+        "Qualitative Research",
+        "Discourse Analysis",
+        "Policy Evaluation",
+        "Data Visualization"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Marek",
+      "last_name": "Wójcik",
+      "email": "marek.wojcik@uni.edu",
+      "description": "Prof. Marek Wójcik is a distinguished scholar in the field of *economics* and finance. His research interests lie in behavioral economics and financial market modeling. Prof. Wójcik has expertise in econometric analysis, risk assessment, time-series forecasting, and financial market simulations.",
+      "skills": [
+        "Behavioral Economics",
+        "Econometric Analysis",
+        "Risk Assessment",
+        "Time-series Forecasting"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Magdalena",
+      "last_name": "Jankowska",
+      "email": "magdalena.jankowska@uni.edu",
+      "description": "Dr. Magdalena Jankowska is a rising star in the field of *psychology* and cognitive neuroscience. Her research focuses on emotion regulation and neural correlates of decision-making processes. Dr. Jankowska is skilled in fMRI data analysis, experimental design, psychophysiological measurements, and statistical modeling.",
+      "skills": [
+        "fMRI Analysis",
+        "Experimental Design",
+        "Psychophysiological Measurements",
+        "Statistical Modeling"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Kowalski",
+      "email": "piotr.kowalski@uni.edu",
+      "description": "Prof. Piotr Kowalski is a prominent expert in *biology* and environmental sciences. His research delves into ecological conservation and biodiversity preservation strategies. Prof. Kowalski's skills encompass ecological modeling, field research techniques, GIS mapping, and species population analysis.",
+      "skills": [
+        "Ecological Modeling",
+        "Field Research",
+        "GIS Mapping",
+        "Population Analysis"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Alicja",
+      "last_name": "Lewandowska",
+      "email": "alicja.lewandowska@uni.edu",
+      "description": "Dr. Alicja Lewandowska is a leading expert in *urban planning* and sustainable development. Her research tackles urban resilience and smart city strategies for future-proof urban environments. Dr. Lewandowska excels in urban design analysis, environmental impact assessment, stakeholder engagement, and urban policy formulation.",
+      "skills": [
+        "Urban Design Analysis",
+        "Environmental Impact Assessment",
+        "Stakeholder Engagement",
+        "Policy Formulation"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Zrównoważony Rozwój Miast",
+      "description": "Projekt 'Zrównoważony Rozwój Miast' to inicjatywa mająca na celu stworzenie modelu zrównoważonych strategii urbanistycznych dla miast przyszłości. Poprzez analizę danych satelitarnych, procesów demograficznych i analizę kosztów korzyści, projekt ten dąży do zdefiniowania ram strategicznych dla rozwoju urbanistycznego. Wsparcie dla tego projektu to krok w kierunku bardziej zrównoważonych i przyjaznych środowisk miejskich.",
+      "areas": [
+        "Urban Planning",
+        "Sustainable Development"
+      ],
+      "open_positions": [
+        {
+          "title": "Starszy Analityk Urbanistyczny",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za analizę danych przestrzennych, prognozy rozwoju urbanistycznego oraz koordynację prac zespołu ekspertów. Wymagane umiejętności to analiza danych przestrzennych, modelowanie urbanistyczne i komunikacja z interesariuszami.",
+          "tags": [
+            "Analiza Danych Przestrzennych",
+            "Modelowanie Urbanistyczne",
+            "Komunikacja"
+          ]
+        },
+        {
+          "title": "Ekspert ds. Zrównoważonego Rozwoju",
+          "description": "Osoba na tym stanowisku będzie zajmowała się strategiami zrównoważonego rozwoju miast oraz identyfikacją kluczowych obszarów do stosowania nowych rozwiązań urbanistycznych. Wymagane umiejętności to analiza kosztów korzyści, badania demograficzne i strategie zrównoważonego rozwoju.",
+          "tags": [
+            "Analiza Kosztów Korzyści",
+            "Badania Demograficzne",
+            "Strategie Rozwoju"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Badania nad Emocjami w Decyzjach Konsumenckich",
+      "description": "Projekt 'Badania nad Emocjami w Decyzjach Konsumenckich' skupia się na identyfikacji wpływu emocji na procesy decyzyjne konsumentów. Poprzez badania EEG oraz analizę behawioralną, projekt ten ma na celu odkrycie mechanizmów regulacji emocji w kontekście wyborów konsumenckich. Wpływ emocji na zakupy to obszar, który ten projekt bada w sposób interdyscyplinarny i innowacyjny.",
+      "areas": [
+        "Psychology",
+        "Consumer Behavior"
+      ],
+      "open_positions": [
+        {
+          "title": "Asystent Badawczy Neuropsychologii",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za analizę danych EEG, przygotowanie eksperymentów oraz współpracę z uczelniami partnerskimi. Wymagane umiejętności to analiza EEG, testowanie behawioralne i współpraca naukowa.",
+          "tags": [
+            "Analiza EEG",
+            "Testowanie Behawioralne",
+            "Współpraca Naukowa"
+          ]
+        },
+        {
+          "title": "Specjalista ds. Decyzji Konsumenckich",
+          "description": "Osoba na tym stanowisku będzie zajmować się analizą danych konsumenckich, badaniem preferencji konsumentów oraz tworzeniem raportów z badań. Wymagane umiejętności to analiza danych konsumenckich, badanie preferencji rynkowych i raportowanie naukowe.",
+          "tags": [
+            "Analiza Danych Konsumenckich",
+            "Badanie Preferencji",
+            "Raportowanie Naukowe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Ochrona i Monitorowanie Bioróżnorodności",
+      "description": "Projekt 'Ochrona i Monitorowanie Bioróżnorodności' koncentruje się na odkrywaniu strategii ochrony różnorodności biologicznej poprzez analizę danych terenowych i modelowanie ekologiczne. Przez współpracę z lokalnymi społecznościami oraz instytucjami naukowymi, ten projekt stara się tworzyć rozwiązania zrównoważone i efektywne w zakresie zachowania bioróżnorodności.",
+      "areas": [
+        "Biology",
+        "Conservation"
+      ],
+      "open_positions": [
+        {
+          "title": "Badacz Terenowy ds. Ekologii",
+          "description": "Osoba na tym stanowisku będzie badała ekosystemy terenowe, prowadziła monitorowanie gatunków zagrożonych oraz analizowała dane dotyczące populacji. Wymagane umiejętności to badania terenowe, monitorowanie ekologiczne i analiza populacji.",
+          "tags": [
+            "Badania Terenowe",
+            "Monitorowanie Ekologiczne",
+            "Analiza Populacji"
+          ]
+        },
+        {
+          "title": "Specjalista ds. GIS w Ekologii",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za tworzenie map GIS ekologicznych, zarządzanie danymi terenowymi oraz analizę powierzchniową. Wymagane umiejętności to GIS ekologiczny, analiza powierzchniowa i zarządzanie danymi.",
+          "tags": [
+            "GIS Ekologiczny",
+            "Analiza Powierzchniowa",
+            "Zarządzanie Danymi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Modelowanie Ekonomiczne Dynamicznych Rynków",
+      "description": "Projekt 'Modelowanie Ekonomiczne Dynamicznych Rynków' zajmuje się tworzeniem zaawansowanych modele ekonomicznych do prognozowania zachowań rynkowych. Poprzez analizę danych finansowych, symulacje giełdowe oraz prognozy ekonomiczne, projekt ten stara się zrozumieć dynamikę rynków finansowych i handlowych. Biorąc pod uwagę ryzyko oraz zróżnicowane strategie inwestycyjne, ten projekt wprowadza nowatorskie podejście do modelowania rynków.",
+      "areas": [
+        "Economics",
+        "Financial Markets"
+      ],
+      "open_positions": [
+        {
+          "title": "Analityk Ryzyka Finansowego",
+          "description": "Osoba na tym stanowisku będzie odpowiedzialna za modelowanie ryzyka finansowego, analizę portfela inwestycyjnego oraz prognozowanie zmienności rynkowej. Wymagane umiejętności to modelowanie ryzyka, analiza portfeli i prognozowanie finansowe.",
+          "tags": [
+            "Modelowanie Ryzyka",
+            "Analiza Portfeli",
+            "Prognozowanie Finansowe"
+          ]
+        },
+        {
+          "title": "Ekspert ds. Symulacji Giełdowych",
+          "description": "Osoba na tym stanowisku będzie zajmować się tworzeniem zaawansowanych symulacji giełdowych, analizą danych finansowych oraz przewidywaniem trendów rynkowych. Wymagane umiejętności to symulacje giełdowe, analiza danych finansowych i przewidywanie trendów.",
+          "tags": [
+            "Symulacje Giełdowe",
+            "Analiza Danych Finansowych",
+            "Przewidywanie Trendów"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Badania nad Neuroplastycznością w Starzejącym się Mózgu",
+      "description": "Projekt 'Badania nad Neuroplastycznością w Starzejącym się Mózgu' koncentruje się na analizie możliwości rewiringu neuronalnego u osób starszych. Poprzez badania neuroobrazowe, testy neuropsychologiczne oraz treningi kognitywne, projekt ten stara się odkryć mechanizmy poprawiające funkcje poznawcze u seniorów. Skuteczne metody stymulacji neuroplastyczności to obszar, w który ten projekt wnosi innowacje i perspektywy medycyny przyszłości.",
+      "areas": [
+        "Neuroscience",
+        "Aging"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. Neuroobrazowania",
+          "description": "Osoba na tym stanowisku będzie zajmować się analizą obrazów mózgu, interpretacją wyników neuroobrazowych oraz współpracą z zespołem badań neuropsychologicznych. Wymagane umiejętności to analiza obrazów mózgu, interpretacja wyników i współpraca interdyscyplinarna.",
+          "tags": [
+            "Analiza Neuroobrazów",
+            "Interpretacja Wyników",
+            "Współpraca Interdyscyplinarna"
+          ]
+        },
+        {
+          "title": "Trener Kognitywny dla Seniorów",
+          "description": "Osoba na tym stanowisku będzie prowadziła treningi kognitywne dla starszych uczestników badania, monitorowała postępy i oceniała efektywność programów interwencyjnych. Wymagane umiejętności to prowadzenie treningów, monitorowanie postępów i ocena funkcji poznawczych.",
+          "tags": [
+            "Treningi Kognitywne",
+            "Monitorowanie Postępów",
+            "Ocena Funkcji Poznawczych"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 1
+    },
+    {
+      "user_id": 1,
+      "project_id": 2
+    },
+    {
+      "user_id": 2,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 4
+    },
+    {
+      "user_id": 4,
+      "project_id": 5
+    },
+    {
+      "user_id": 4,
+      "project_id": 1
+    },
+    {
+      "user_id": 5,
+      "project_id": 2
+    },
+    {
+      "user_id": 5,
+      "project_id": 3
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Katarzyna",
+      "last_name": "Wójcik",
+      "email": "k.wojcik@example.pl",
+      "description": "Dr. Katarzyna Wójcik is a prominent researcher in the field of *molecular biology* and **genetics**. Her work focuses on unraveling the complexities of DNA repair mechanisms.",
+      "skills": [
+        "Bioinformatyka",
+        "Genomika",
+        "Biotechnologia"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Piotr",
+      "last_name": "Nowak",
+      "email": "p.nowak@example.pl",
+      "description": "Prof. Piotr Nowak specializes in *quantum physics* and is known for his groundbreaking contributions to the study of quantum entanglement and teleportation.",
+      "skills": [
+        "Fizyka kwantowa",
+        "Optyka kwantowa",
+        "Informatyka kwantowa"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Alicja",
+      "last_name": "Kowalska",
+      "email": "a.kowalska@example.pl",
+      "description": "Dr. Alicja Kowalska's research in the field of *neuroscience* delves into the intricate neural networks that underlie human cognition and behavior.",
+      "skills": [
+        "Neuroanatomia",
+        "Neurofizjologia",
+        "Neuroplastyczność"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Michał",
+      "last_name": "Lewandowski",
+      "email": "m.lewandowski@example.pl",
+      "description": "Prof. Michał Lewandowski's expertise lies in *environmental economics* and sustainable development. His research aims to create innovative solutions for balancing economic growth and environmental conservation.",
+      "skills": [
+        "Ekonomia środowiska",
+        "Polityka ekologiczna",
+        "Zarządzanie zasobami naturalnymi"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Magdalena",
+      "last_name": "Szymańska",
+      "email": "m.szymanska@example.pl",
+      "description": "Dr. Magdalena Szymańska's work in the field of *cultural anthropology* explores the intersection of globalization and indigenous cultures, shedding light on cultural preservation and adaptation.",
+      "skills": [
+        "Antropologia kulturowa",
+        "Etnografia",
+        "Globalizacja kulturowa"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Rewolucja Kwarkowa: Od Nowych Partii do Uwięzienia Głauera",
+      "description": "Projekt Rewolucja Kwarkowa odkrywa fundamentalne konsekwencje *teorii kwantowych* w wynalazkach fizyki jądrowej. Nasze badania prowadzą do rewolucyjnych wniosków na temat struktury *materiału hadronowego*.",
+      "areas": [
+        "Fizyka jądrowa",
+        "Teoria kwantowa",
+        "QCD"
+      ],
+      "open_positions": [
+        {
+          "title": "Profesor fizyki jądrowej",
+          "description": "Poszukujemy profesora o ugruntowanej reputacji w dziedzinie fizyki jądrowej, który będzie kierować naszym zespołem badawczym.",
+          "tags": [
+            "QCD",
+            "Teoria cząstek",
+            "Jądrowa spektroskopia"
+          ]
+        },
+        {
+          "title": "Badacz kwantowych oddziaływań gluonowych",
+          "description": "Wyjątkowa możliwość studiowania oddziaływań gluonowych w ramach *kwantowej chromodynamiki*.",
+          "tags": [
+            "Kwantowa chromodynamika",
+            "Glueball",
+            "Gluon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ewolucja Mózgu i Świadomości",
+      "description": "Projekt Ewolucja Mózgu i Świadomości bada ewolucyjne podstawy ludzkiej świadomości oraz jej związek z rozwojem struktury *neuronalnej* w mózgu.",
+      "areas": [
+        "Neurobiologia",
+        "Ewolucyjna psychologia",
+        "Świadomość"
+      ],
+      "open_positions": [
+        {
+          "title": "Post-doc w neurobiologii",
+          "description": "Możliwość zaangażowania w badania dotyczące plastyczności neuronalnej w kontekście ewolucji świadomości.",
+          "tags": [
+            "Plastyczność neuronalna",
+            "Ewolucja mózgu",
+            "Neuroanatomia"
+          ]
+        },
+        {
+          "title": "Specjalista od ewolucyjnej psychologii",
+          "description": "Poszukujemy specjalisty przełamującego bariery między psychologią ewolucyjną a neurobiologią.",
+          "tags": [
+            "Psychologia ewolucyjna",
+            "Ewolucja świadomości",
+            "Przemiany kognitywne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Zrównoważona Polska 2050",
+      "description": "Projekt Zrównoważona Polska 2050 ma na celu opracowanie strategii ekonomicznej, społecznej i ekologicznej dla Polski w perspektywie 2050 roku, bazującej na zasadach zrównoważonego rozwoju.",
+      "areas": [
+        "Ekonomia środowiska",
+        "Polityka publiczna",
+        "Rozwój zrównoważony"
+      ],
+      "open_positions": [
+        {
+          "title": "Adiunkt ds. ekonomii środowiskowej",
+          "description": "Osoba zajmująca to stanowisko poprowadzi badania nad efektywnymi politykami ekologicznymi sprzyjającymi rozwojowi zrównoważonemu.",
+          "tags": [
+            "Polityka ekologiczna",
+            "Eco-innowacje",
+            "Zarządzanie zasobami naturalnymi"
+          ]
+        },
+        {
+          "title": "Specjalista od analizy cyklu życia",
+          "description": "Poszukujemy specjalisty w dziedzinie ekologii przemysłowej i analizy cyklu życia produktów.",
+          "tags": [
+            "Ekologiczne oceny",
+            "LCA",
+            "Energooszczędność"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Współczesne Wyzwania Antropologii Kulturowej",
+      "description": "Projekt Współczesne Wyzwania Antropologii Kulturowej bada wpływ globalizacji na tradycyjne społeczeństwa oraz konsekwencje dla dziedzictwa kulturowego i adaptacji społecznej.",
+      "areas": [
+        "Globalizacja",
+        "Antropologia kultury",
+        "Etnologia"
+      ],
+      "open_positions": [
+        {
+          "title": "Badacz przemian społecznych",
+          "description": "Osoba zajmująca to stanowisko przyczyni się do analizy wpływu globalizacji na kształtowanie się identyfikacji kulturowej.",
+          "tags": [
+            "Globalizacja",
+            "Kulturowa adaptacja",
+            "Migracje"
+          ]
+        },
+        {
+          "title": "Specjalista ds. dziedzictwa kulturowego",
+          "description": "Znajomość problematyki dziedzictwa kulturowego w kontekście współczesnych zmian społecznych.",
+          "tags": [
+            "Kulturowa kontynuacja",
+            "Dziedzictwo niematerialne",
+            "Antropologia postkolonialna"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Biotechnologiczne Innowacje w Genomice",
+      "description": "Projekt Biotechnologiczne Innowacje w Genomice skupia się na wykorzystaniu najnowszych osiągnięć w *biotechnologii* do rewolucjonizacji badań *genomicznych*.",
+      "areas": [
+        "Biotechnologia",
+        "Genomika",
+        "Inżynieria genetyczna"
+      ],
+      "open_positions": [
+        {
+          "title": "Specjalista ds. bioinformatyki genomowej",
+          "description": "Osoba na tym stanowisku dostarczy zaawansowane narzędzia bioinformatyczne do analiz genomów pacjentów.",
+          "tags": [
+            "Analiza genomu",
+            "Bioinformatyka medyczna",
+            "Genomika porównawcza"
+          ]
+        },
+        {
+          "title": "Inżynier genomowy",
+          "description": "Poszukujemy kreatywnej osoby zdolnej do projektowania nowatorskich strategii inżynierii genetycznej w badaniach nad genomami roślin.",
+          "tags": [
+            "Nowoczesne techniki genetyczne",
+            "Modyfikacje genetyczne",
+            "Baza danych genetycznych"
+          ]
+        }
+      ]
+    }
+  ],
+  "user_project_links": [
+    {
+      "user_id": 1,
+      "project_id": 5
+    },
+    {
+      "user_id": 2,
+      "project_id": 1
+    },
+    {
+      "user_id": 3,
+      "project_id": 2
+    },
+    {
+      "user_id": 4,
+      "project_id": 3
+    },
+    {
+      "user_id": 5,
+      "project_id": 4
+    },
+    {
+      "user_id": 1,
+      "project_id": 3
+    },
+    {
+      "user_id": 3,
+      "project_id": 5
+    },
+    {
+      "user_id": 5,
+      "project_id": 1
+    }
+  ]
+}
