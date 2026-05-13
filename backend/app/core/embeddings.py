@@ -1,3 +1,4 @@
+import os
 import threading
 from sentence_transformers import SentenceTransformer
 import numpy as np
@@ -12,60 +13,60 @@ class Embedder:
     @property
     def model(self):
         if self._model is None:
-            self._model = SentenceTransformer(self.model_name)
-            # Ensure model is properly loaded before device transfer
-            if hasattr(self._model, 'is_meta') and self._model.is_meta:
-                self._model = self._model.to_empty(device='cpu')
-            else:
-                self._model = self._model.to(device='cpu')
+            token = os.getenv("HF_TOKEN")
+            if not token:
+                raise RuntimeError("Brak HF_TOKEN w środowisku")
+
+            self._model = SentenceTransformer(
+                # "sdadas/st-polish-paraphrase-from-distilroberta",
+                "sdadas/stella-pl",
+                device="cpu",
+                token=token
+            )
         return self._model
 
     @property
     def embedding_size(self) -> int:
         if self._embedding_size is None:
             self._embedding_size = self.model.get_sentence_embedding_dimension()
-        return self._embedding_size     # type: ignore
+        return self._embedding_size
 
     def encode(self, text: str | list[str], batch_size: int = 32) -> np.ndarray:
-        """
-            For each value inside a list generates an embedding.
-            Returns the array of embeddings i.e. res[i] = embedding(text[i]).
-        """
-        return self.model.encode(text, batch_size=batch_size, show_progress_bar=False)   # type: ignore
+        return self.model.encode(text, batch_size=batch_size, show_progress_bar=False)
 
     def encode_chunks(self, chunks: list[str]) -> NDArray[np.float64]:
-        """Generate embeddings for list of chunks and return there mean."""
         if not chunks:
-            # no chunks return 0 vector
-            return np.zeros(self.embedding_size)
+            return np.zeros(self.embedding_size, dtype=np.float64)
 
         embeddings = self.encode(chunks)
-        return np.mean(embeddings, axis=0)
+        return np.mean(embeddings, axis=0, dtype=np.float64)
 
-    def combine_embeddings(self, embeddings: None | list[NDArray[np.float64]],
-                           weights: None | list[float] = None) -> NDArray[np.float64]:
-        """Combines embeddings into weighted embedding (mean if weights is None)"""
+    def combine_embeddings(
+        self,
+        embeddings: None | list[NDArray[np.float64]],
+        weights: None | list[float] = None
+    ) -> NDArray[np.float64]:
         if not embeddings:
-            return np.zeros(self.embedding_size)
+            return np.zeros(self.embedding_size, dtype=np.float64)
 
         if weights is None:
-            return np.mean(embeddings, axis=0)
-        else:
-            if len(weights) != len(embeddings):
-                raise ValueError("Number of values must be same as number of embeddings")
+            return np.mean(embeddings, axis=0, dtype=np.float64)
 
-            # Normalize weights
-            weights_sum = sum(weights)
-            if weights_sum == 0:
-                return np.mean(embeddings, axis=0)
+        if len(weights) != len(embeddings):
+            raise ValueError("Number of values must be same as number of embeddings")
 
-            normalized_weights = [w / weights_sum for w in weights]
+        weights_sum = sum(weights)
+        if weights_sum == 0:
+            return np.mean(embeddings, axis=0, dtype=np.float64)
 
-            weighted_embeddings = np.zeros(self.embedding_size)
-            for emb, weight in zip(embeddings, normalized_weights):
-                weighted_embeddings += emb * weight
+        normalized_weights = [w / weights_sum for w in weights]
 
-            return weighted_embeddings
+        weighted_embeddings = np.zeros(self.embedding_size, dtype=np.float64)
+        for emb, weight in zip(embeddings, normalized_weights):
+            weighted_embeddings += emb * weight
+
+        return weighted_embeddings
+
 
 _embedder_instance = None
 _embedder_lock = threading.Lock()

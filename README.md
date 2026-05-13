@@ -1,239 +1,418 @@
-# Full Stack FastAPI Template
+# Projektorium
 
-<a href="https://github.com/fastapi/full-stack-fastapi-template/actions?query=workflow%3ATest" target="_blank"><img src="https://github.com/fastapi/full-stack-fastapi-template/workflows/Test/badge.svg" alt="Test"></a>
-<a href="https://coverage-badge.samuelcolvin.workers.dev/redirect/fastapi/full-stack-fastapi-template" target="_blank"><img src="https://coverage-badge.samuelcolvin.workers.dev/fastapi/full-stack-fastapi-template.svg" alt="Coverage"></a>
+Platforma łącząca studentów z projektami naukowymi i badawczymi. Użytkownicy mogą przeglądać projekty, aplikować na otwarte stanowiska oraz nawiązywać kontakt z właścicielami projektów.
 
-## Technology Stack and Features
+---
 
-- ⚡ [**FastAPI**](https://fastapi.tiangolo.com) for the Python backend API.
-    - 🧰 [SQLModel](https://sqlmodel.tiangolo.com) for the Python SQL database interactions (ORM).
-    - 🔍 [Pydantic](https://docs.pydantic.dev), used by FastAPI, for the data validation and settings management.
-    - 💾 [PostgreSQL](https://www.postgresql.org) as the SQL database.
-- 🚀 [React](https://react.dev) for the frontend.
-    - 💃 Using TypeScript, hooks, Vite, and other parts of a modern frontend stack.
-    - 🎨 [Chakra UI](https://chakra-ui.com) for the frontend components.
-    - 🤖 An automatically generated frontend client.
-    - 🧪 [Playwright](https://playwright.dev) for End-to-End testing.
-    - 🦇 Dark mode support.
-- 🐋 [Docker Compose](https://www.docker.com) for development and production.
-- 🔒 Secure password hashing by default.
-- 🔑 JWT (JSON Web Token) authentication.
-- 📫 Email based password recovery.
-- ✅ Tests with [Pytest](https://pytest.org).
-- 📞 [Traefik](https://traefik.io) as a reverse proxy / load balancer.
-- 🚢 Deployment instructions using Docker Compose, including how to set up a frontend Traefik proxy to handle automatic HTTPS certificates.
-- 🏭 CI (continuous integration) and CD (continuous deployment) based on GitHub Actions.
+## Spis treści
 
-### Dashboard Login
+- [Stack technologiczny](#stack-technologiczny)
+- [Design aplikacji](#design-aplikacji)
+- [Przypadki użycia](#przypadki-użycia)
+- [Architektura systemu](#architektura-systemu)
+- [Szybki start](#szybki-start)
+- [Konfiguracja projektu](#konfiguracja-projektu)
+- [Alternatywa: Copier](#alternatywa-copier)
+- [Dokumentacja szczegółowa](#dokumentacja-szczegółowa)
+- [Licencja](#licencja)
 
-[![API docs](img/login.png)](https://github.com/fastapi/full-stack-fastapi-template)
+---
 
-### Dashboard - Admin
+## Stack technologiczny
 
-[![API docs](img/dashboard.png)](https://github.com/fastapi/full-stack-fastapi-template)
+### Backend
 
-### Dashboard - Create User
+| Technologia | Zastosowanie |
+|-------------|--------------|
+| [FastAPI](https://fastapi.tiangolo.com) | Framework REST API |
+| [SQLModel](https://sqlmodel.tiangolo.com) | ORM / interakcje z bazą SQL |
+| [Pydantic](https://docs.pydantic.dev) | Walidacja danych i konfiguracji |
+| [PostgreSQL](https://www.postgresql.org) | Relacyjna baza danych |
+| [Alembic](https://alembic.sqlalchemy.org) | Migracje schematu bazy danych |
+| [Pytest](https://pytest.org) | Testy jednostkowe i integracyjne |
 
-[![API docs](img/dashboard-create.png)](https://github.com/fastapi/full-stack-fastapi-template)
+**Funkcjonalności backendu:**
+- Uwierzytelnianie JWT (JSON Web Token)
+- Bezpieczne haszowanie haseł (bcrypt)
+- Odzyskiwanie hasła przez e-mail
+- Automatycznie generowana dokumentacja API (Swagger UI / ReDoc)
 
-### Dashboard - Items
+### Frontend
 
-[![API docs](img/dashboard-items.png)](https://github.com/fastapi/full-stack-fastapi-template)
+| Technologia | Zastosowanie |
+|-------------|--------------|
+| [React](https://react.dev) | Framework UI |
+| TypeScript + Vite | Język i bundler |
+| [Chakra UI](https://chakra-ui.com) | Biblioteka komponentów |
+| [Playwright](https://playwright.dev) | Testy End-to-End |
 
-### Dashboard - User Settings
+**Funkcjonalności frontendu:**
+- Automatycznie generowany klient API (typowany)
+- Wyszukiwarka projektów i użytkowników
+- System wiadomości i powiadomień
+- Rekomendacje projektów
 
-[![API docs](img/dashboard-user-settings.png)](https://github.com/fastapi/full-stack-fastapi-template)
+### Infrastruktura i DevOps
 
-### Dashboard - Dark Mode
+| Technologia | Zastosowanie |
+|-------------|--------------|
+| [Docker Compose](https://www.docker.com) | Środowisko developerskie i produkcyjne |
+| [Traefik](https://traefik.io) | Reverse proxy / load balancer + TLS |
+| GitHub Actions | CI (testy) i CD (deployment) |
 
-[![API docs](img/dashboard-dark.png)](https://github.com/fastapi/full-stack-fastapi-template)
+---
 
-### Interactive API Documentation
+## Design aplikacji
 
-[![API docs](img/docs.png)](https://github.com/fastapi/full-stack-fastapi-template)
+Design został opracowany we współpracy z projektantem w narzędziu Figma, na podstawie naszej wizji i przeprowadzonych badań społecznych.
 
-## How To Use It
+### Logowanie
 
-You can **just fork or clone** this repository and use it as is.
+[![Login](img/Login.png)](img/Login.png)
 
-✨ It just works. ✨
+Strona służy do logowania użytkownika. Pole **Email** przyjmuje adres e-mail, pole **Hasło** przyjmuje hasło. Kliknięcie przycisku logowania inicjuje sesję. Linki **Zapomniałeś hasła** i **Załóż konto** przekierowują odpowiednio do odzyskiwania hasła i rejestracji.
 
-### How to Use a Private Repository
+### Pasek nawigacji (Navbar)
 
-If you want to have a private repository, GitHub won't allow you to simply fork it as it doesn't allow changing the visibility of forks.
+[![Navbar](img/Navbar.png)](img/Navbar.png)
 
-But you can do the following:
+Navbar występuje w dwóch wariantach — z wyszukiwarką projektów/użytkowników lub bez niej. Oba zawierają dzwonek powiadomień oraz menu użytkownika:
 
-- Create a new GitHub repo, for example `my-full-stack`.
-- Clone this repository manually, set the name with the name of the project you want to use, for example `my-full-stack`:
+<p align="center">
+  <img src="img/UserMenu.png" width="250" alt="User Menu" />
+</p>
+
+Opcje menu użytkownika:
+
+| Opcja | Akcja |
+|-------|-------|
+| Zapisane | Przekierowanie do polubionych projektów |
+| Mój profil | Przekierowanie do profilu użytkownika |
+| Moje Projekty | Przekierowanie do projektów użytkownika |
+| Wyloguj | Wylogowanie i przekierowanie do strony logowania |
+
+### Projekt
+
+[![Project](img/Project.png)](img/Project.png)
+
+Kafelek projektu zawiera tytuł, opis i tagi. Kliknięcie otwiera stronę główną projektu. Ikona oka służy do ukrycia projektu, serce — do polubienia.
+
+[![Project Main Page](img/ProjectMainPage.png)](img/ProjectMainPage.png)
+
+Na stronie głównej projektu dostępne są:
+- Przycisk **Kontakt** — do komunikacji z właścicielem projektu
+- Lista otwartych stanowisk z przyciskiem **Aplikuj**
+- Sekcja **Uczestnicy** — lista uczestników z zdjęciem, imieniem i opisem roli
+- Sekcja **Załączniki** — pliki powiązane z projektem
+- Sekcja **Publikacje** — powiązane publikacje naukowe
+
+### Profil użytkownika
+
+[![User Profile](img/UserProfile.png)](img/UserProfile.png)
+
+Profil użytkownika jest analogiczny do strony głównej projektu, z dodatkowym zdjęciem profilowym, sekcją "O mnie", tagami umiejętności oraz listą projektów użytkownika.
+
+### Rekomendacje
+
+[![User Recommendation](img/UserRecommendation.png)](img/UserRecommendation.png)
+
+Rekomendacje prezentowane są jako lista projektów lub użytkowników. Kliknięcie elementu przekierowuje na odpowiednią stronę główną. Na dole strony znajduje się paginacja.
+
+### Wiadomości
+
+[![Messages](img/Messages.png)](img/Messages.png)
+
+Każda wiadomość zawiera tytuł, treść i datę wysłania. Dostępne akcje:
+- **Napisz** — odpowiedź na wiadomość
+- **Udostępnij dane** — wysłanie danych kontaktowych
+
+### Modal
+
+[![Modal](img/Modal.png)](img/Modal.png)
+
+Modalne okna dialogowe używane są w różnych miejscach platformy (np. aplikowanie na stanowisko). Zawierają tytuł (np. **Aplikuj**), treść formularza oraz przycisk **Wyślij**.
+
+---
+
+## Przypadki użycia
+
+### Przypadek 1 — Poszukujący projektu
+
+Typowa ścieżka studenta szukającego projektu naukowego:
+
+1. **Logowanie** — użytkownik otwiera stronę logowania. Jeśli nie ma konta, rejestruje się, po czym wraca do logowania.
+2. **Rekomendacje** — po zalogowaniu użytkownik trafia na stronę główną z rekomendowanymi projektami.
+3. **Uzupełnienie profilu** — przez menu użytkownika przechodzi do *Mój profil*, gdzie dodaje opis, zdjęcie profilowe i tagi umiejętności.
+4. **Wyszukiwanie** — wpisuje zapytanie w wyszukiwarkę na navbarze i przegląda listę pasujących projektów. Polubione projekty zapisuje sercem.
+5. **Przeglądanie projektu** — klika wybrany projekt, czyta opis i listę stanowisk.
+6. **Kontakt** — używa przycisku *Kontakt*, aby napisać do właściciela projektu z pytaniami.
+7. **Aplikowanie** — po wymianie wiadomości klika *Aplikuj* przy interesującym go stanowisku i wysyła formularz przez modal.
+8. **Wylogowanie** — po przyjęciu aplikacji wylogowuje się z platformy.
+
+### Przypadek 2 — Właściciel projektu
+
+Ścieżka prowadzącego projekt badawczego:
+
+1. **Logowanie** — użytkownik loguje się na swoje konto.
+2. **Zarządzanie projektami** — przez menu użytkownika przechodzi do *Moje Projekty* i tworzy nowy projekt przyciskiem plus.
+3. **Konfiguracja projektu** — na stronie projektu dodaje opis, tagi oraz otwarte stanowiska.
+4. **Wyszukiwanie kandydatów** — korzysta z wyszukiwarki, żeby znaleźć użytkowników o odpowiednich umiejętnościach. Po wejściu na profil kandydata kontaktuje go przez wiadomość.
+5. **Obsługa aplikacji** — odbiera aplikacje od użytkowników, którzy znaleźli projekt przez wyszukiwarkę lub rekomendacje, a następnie akceptuje lub odrzuca wybrane.
+6. **Wylogowanie** — kończy sesję po skompletowaniu zespołu.
+
+### Przypadek 3 — Przeglądający (niezalogowany)
+
+Ścieżka użytkownika eksplorującego platformę przed rejestracją:
+
+1. **Przeglądanie projektów** — użytkownik wchodzi na stronę i bez logowania może przeglądać publiczne projekty oraz profile uczestników.
+2. **Szczegóły projektu** — klika wybrany projekt, czyta opis, listę stanowisk i uczestników.
+3. **Profil uczestnika** — klika uczestnika projektu, żeby zobaczyć jego profil i inne projekty, w których bierze udział.
+4. **Rejestracja** — zainspirowany znalezionymi projektami klika *Załóż konto* na stronie logowania, rejestruje się i wraca do przeglądania już jako zalogowany użytkownik z dostępem do aplikowania i wiadomości.
+
+---
+
+## Architektura systemu
+
+Design aplikacji ułatwił zrozumienie przepływu danych, co pozwoliło na modelowanie komunikacji między frontendem a backendem.
+
+### Uwierzytelnianie
+
+Użytkownik przesyła e-mail i hasło do backendu i otrzymuje token JWT, który jest dołączany do każdego żądania modyfikującego stan aplikacji. Projekty i profile są publiczne i nie wymagają uwierzytelnienia.
+
+### Zasoby (Projekty i Profile)
+
+| Zasób | Pola |
+|-------|------|
+| Profil | imię, opis, tagi, lista projektów, zdjęcie profilowe |
+| Projekt | tytuł, opis, stanowiska, uczestnicy, załączniki, publikacje |
+
+Backend udostępnia endpointy GET do odczytu profili i projektów oraz PUT/DELETE do ich aktualizacji i usuwania przez uprawnionych użytkowników.
+
+### Dodatkowe funkcjonalności
+
+- **Aplikowanie** — po kliknięciu *Aplikuj* dane formularza trafiają do bazy; właściciel projektu zostaje powiadomiony.
+- **Wiadomości** — kliknięcie *Wyślij* zapisuje treść wiadomości w bazie i powiadamia odbiorcę.
+- **Polubienia** — endpoint aktualizujący stan polubienia projektu przez użytkownika.
+- **Wyszukiwanie** — wyspecjalizowany endpoint zwracający listę projektów lub użytkowników na podstawie zapytania.
+- **Rekomendacje** — dedykowany endpoint zwracający spersonalizowaną listę projektów i użytkowników.
+
+---
+
+## Wymagania wstępne
+
+Przed pierwszym uruchomieniem zainstaluj poniższe narzędzia.
+
+### Wymagane (ścieżka Docker — zalecana)
+
+| Narzędzie | Minimalna wersja | Instalacja |
+|-----------|-----------------|------------|
+| [Docker Desktop](https://www.docker.com/products/docker-desktop/) (Windows / macOS) lub [Docker Engine](https://docs.docker.com/engine/install/) + [Docker Compose](https://docs.docker.com/compose/install/) (Linux) | Docker Compose **v2.22+** (wymagane przez `watch`) | [docs.docker.com](https://docs.docker.com/get-started/get-docker/) |
+| [Git](https://git-scm.com/) | dowolna | [git-scm.com](https://git-scm.com/downloads) |
+
+> Sprawdź wersję Docker Compose: `docker compose version`
+
+### Opcjonalne (lokalne uruchomienie bez Dockera)
+
+Potrzebne tylko gdy chcesz uruchamiać backend lub frontend **bezpośrednio na hoście** zamiast przez Docker:
+
+| Narzędzie | Wersja | Do czego |
+|-----------|--------|----------|
+| [Python](https://www.python.org/) | 3.10+ | Backend |
+| [uv](https://docs.astral.sh/uv/) | dowolna | Zarządzanie zależnościami Pythona |
+| [Node.js](https://nodejs.org/) | **20** (patrz `frontend/.nvmrc`) | Frontend |
+| [nvm](https://github.com/nvm-sh/nvm) lub [fnm](https://github.com/Schniz/fnm) | dowolna | Zarządzanie wersjami Node.js |
+
+---
+
+## Szybki start
+
+### 1. Klonowanie repozytorium
+
+**Repozytorium publiczne:**
 
 ```bash
 git clone git@github.com:fastapi/full-stack-fastapi-template.git my-full-stack
-```
-
-- Enter into the new directory:
-
-```bash
 cd my-full-stack
 ```
 
-- Set the new origin to your new repository, copy it from the GitHub interface, for example:
+**Repozytorium prywatne** (GitHub nie pozwala zmieniać widoczności forków):
 
 ```bash
+git clone git@github.com:fastapi/full-stack-fastapi-template.git my-full-stack
+cd my-full-stack
+
+# Ustaw nowy origin (Twoje repozytorium)
 git remote set-url origin git@github.com:octocat/my-full-stack.git
-```
 
-- Add this repo as another "remote" to allow you to get updates later:
-
-```bash
+# Zachowaj upstream do pobierania aktualizacji szablonu
 git remote add upstream git@github.com:fastapi/full-stack-fastapi-template.git
-```
 
-- Push the code to your new repository:
-
-```bash
 git push -u origin master
 ```
 
-### Update From the Original Template
+### 2. Konfiguracja `.env`
 
-After cloning the repository, and after doing changes, you might want to get the latest changes from this original template.
+Plik `.env` już istnieje w repozytorium z domyślnymi wartościami gotowymi do lokalnego developmentu — **nie musisz go tworzyć ręcznie**. Jedyna zmiana potrzebna przed pierwszym uruchomieniem to opcjonalne ustawienie własnych haseł (patrz sekcja [Zmienne środowiskowe](#zmienne-środowiskowe)).
 
-- Make sure you added the original repository as a remote, you can check it with:
+Token do embedingów
+HF_TOKEN= 
 
-```bash
-git remote -v
 
-origin    git@github.com:octocat/my-full-stack.git (fetch)
-origin    git@github.com:octocat/my-full-stack.git (push)
-upstream    git@github.com:fastapi/full-stack-fastapi-template.git (fetch)
-upstream    git@github.com:fastapi/full-stack-fastapi-template.git (push)
-```
-
-- Pull the latest changes without merging:
+### 3. Uruchomienie
 
 ```bash
-git pull --no-commit upstream master
+docker compose watch
 ```
 
-This will download the latest changes from this template without committing them, that way you can check everything is right before committing.
+Komenda `watch` uruchamia cały stack i automatycznie synchronizuje zmiany w kodzie z kontenerami (hot-reload). Wymaga Docker Compose **v2.22+**.
 
-- If there are conflicts, solve them in your editor.
+Po uruchomieniu dostępne są:
 
-- Once you are done, commit the changes:
+| Usługa | URL |
+|--------|-----|
+| Frontend | http://localhost:5173 |
+| Backend API | http://localhost:8000 |
+| Swagger UI | http://localhost:8000/docs |
+| ReDoc | http://localhost:8000/redoc |
+| Adminer (DB) | http://localhost:8080 |
+| Traefik UI | http://localhost:8090 |
+| MailCatcher | http://localhost:1080 |
+
+> **Uwaga:** Przy pierwszym uruchomieniu backend czeka na gotowość bazy danych — może to chwilę potrwać. Sprawdź logi przez `docker compose logs`.
+
+### 4. Lokalne uruchomienie bez Dockera (opcjonalne)
+
+Możesz zatrzymać wybraną usługę Dockera i uruchomić ją bezpośrednio na hoście — przydatne przy intensywnym debugowaniu.
+
+**Backend:**
 
 ```bash
-git merge --continue
+docker compose stop backend
+cd backend
+uv sync                        # instalacja zależności
+source .venv/bin/activate      # (Linux/macOS) lub .venv\Scripts\activate (Windows)
+fastapi dev app/main.py
 ```
 
-### Configure
+**Frontend:**
 
-You can then update configs in the `.env` files to customize your configurations.
+```bash
+docker compose stop frontend
+cd frontend
+nvm use   # lub: fnm use       # przełącza na Node 20 z .nvmrc
+npm install
+npm run dev
+```
 
-Before deploying it, make sure you change at least the values for:
+Szczegóły w [development.md](./development.md).
 
-- `SECRET_KEY`
-- `FIRST_SUPERUSER_PASSWORD`
-- `POSTGRES_PASSWORD`
+---
 
-You can (and should) pass these as environment variables from secrets.
+## Konfiguracja projektu
 
-Read the [deployment.md](./deployment.md) docs for more details.
+### Zmienne środowiskowe
 
-### Generate Secret Keys
+Konfiguracja przechowywana jest w pliku `.env`. Przed wdrożeniem **obowiązkowo** zmień:
 
-Some environment variables in the `.env` file have a default value of `changethis`.
+| Zmienna | Domyślna wartość | Opis |
+|---------|-----------------|------|
+| `SECRET_KEY` | `changethis` | Klucz do podpisywania tokenów JWT |
+| `FIRST_SUPERUSER_PASSWORD` | `changethis` | Hasło pierwszego administratora |
+| `POSTGRES_PASSWORD` | `changethis` | Hasło bazy danych |
 
-You have to change them with a secret key, to generate secret keys you can run the following command:
+Pozostałe zmienne konfiguracyjne:
+
+```dotenv
+PROJECT_NAME="Full Stack FastAPI Project"
+DOMAIN=localhost
+ENVIRONMENT=local                          # local | staging | production
+FIRST_SUPERUSER=admin@example.com
+
+# Email (SMTP)
+SMTP_HOST=
+SMTP_USER=
+SMTP_PASSWORD=
+EMAILS_FROM_EMAIL=info@example.com
+SMTP_PORT=587
+
+# PostgreSQL
+POSTGRES_SERVER=localhost
+POSTGRES_PORT=5432
+POSTGRES_DB=app
+POSTGRES_USER=postgres
+
+# Sentry (opcjonalne)
+SENTRY_DSN=
+```
+
+### Generowanie bezpiecznych kluczy
 
 ```bash
 python -c "import secrets; print(secrets.token_urlsafe(32))"
 ```
 
-Copy the content and use that as password / secret key. And run that again to generate another secure key.
+Uruchom polecenie osobno dla `SECRET_KEY` i `POSTGRES_PASSWORD`.
 
-## How To Use It - Alternative With Copier
+### Aktualizacja z oryginalnego szablonu
 
-This repository also supports generating a new project using [Copier](https://copier.readthedocs.io).
+```bash
+git pull --no-commit upstream master
+# Rozwiąż konflikty, następnie:
+git merge --continue
+```
 
-It will copy all the files, ask you configuration questions, and update the `.env` files with your answers.
+---
 
-### Install Copier
+## Alternatywa: Copier
 
-You can install Copier with:
+[Copier](https://copier.readthedocs.io) automatycznie kopiuje pliki projektu i uzupełnia `.env` na podstawie odpowiedzi na pytania konfiguracyjne.
+
+### Instalacja
 
 ```bash
 pip install copier
-```
-
-Or better, if you have [`pipx`](https://pipx.pypa.io/), you can run it with:
-
-```bash
+# lub z pipx (zalecane):
 pipx install copier
 ```
 
-**Note**: If you have `pipx`, installing copier is optional, you could run it directly.
-
-### Generate a Project With Copier
-
-Decide a name for your new project's directory, you will use it below. For example, `my-awesome-project`.
-
-Go to the directory that will be the parent of your project, and run the command with your project's name:
+### Generowanie projektu
 
 ```bash
 copier copy https://github.com/fastapi/full-stack-fastapi-template my-awesome-project --trust
 ```
 
-If you have `pipx` and you didn't install `copier`, you can run it directly:
+> Flaga `--trust` jest wymagana do uruchomienia [skryptu post-inicjalizacyjnego](https://github.com/fastapi/full-stack-fastapi-template/blob/master/.copier/update_dotenv.py).
 
-```bash
-pipx run copier copy https://github.com/fastapi/full-stack-fastapi-template my-awesome-project --trust
-```
+### Zmienne wejściowe Copier
 
-**Note** the `--trust` option is necessary to be able to execute a [post-creation script](https://github.com/fastapi/full-stack-fastapi-template/blob/master/.copier/update_dotenv.py) that updates your `.env` files.
+| Zmienna | Domyślna | Opis |
+|---------|----------|------|
+| `project_name` | `"FastAPI Project"` | Nazwa projektu widoczna w API |
+| `stack_name` | `"fastapi-project"` | Nazwa stacku Docker Compose (bez spacji i kropek) |
+| `secret_key` | `"changethis"` | Klucz bezpieczeństwa JWT |
+| `first_superuser` | `"admin@example.com"` | Email pierwszego admina |
+| `first_superuser_password` | `"changethis"` | Hasło pierwszego admina |
+| `smtp_host` | `""` | Serwer SMTP |
+| `smtp_user` | `""` | Użytkownik SMTP |
+| `smtp_password` | `""` | Hasło SMTP |
+| `emails_from_email` | `"info@example.com"` | Adres nadawcy e-maili |
+| `postgres_password` | `"changethis"` | Hasło PostgreSQL |
+| `sentry_dsn` | `""` | DSN Sentry (opcjonalne) |
 
-### Input Variables
+---
 
-Copier will ask you for some data, you might want to have at hand before generating the project.
+## Dokumentacja szczegółowa
 
-But don't worry, you can just update any of that in the `.env` files afterwards.
+| Temat | Plik |
+|-------|------|
+| Rozwój backendu | [backend/README.md](./backend/README.md) |
+| Rozwój frontendu | [frontend/README.md](./frontend/README.md) |
+| Środowisko developerskie | [development.md](./development.md) |
+| Wdrożenie produkcyjne | [deployment.md](./deployment.md) |
+| Historia zmian | [release-notes.md](./release-notes.md) |
 
-The input variables, with their default values (some auto generated) are:
+---
 
-- `project_name`: (default: `"FastAPI Project"`) The name of the project, shown to API users (in .env).
-- `stack_name`: (default: `"fastapi-project"`) The name of the stack used for Docker Compose labels and project name (no spaces, no periods) (in .env).
-- `secret_key`: (default: `"changethis"`) The secret key for the project, used for security, stored in .env, you can generate one with the method above.
-- `first_superuser`: (default: `"admin@example.com"`) The email of the first superuser (in .env).
-- `first_superuser_password`: (default: `"changethis"`) The password of the first superuser (in .env).
-- `smtp_host`: (default: "") The SMTP server host to send emails, you can set it later in .env.
-- `smtp_user`: (default: "") The SMTP server user to send emails, you can set it later in .env.
-- `smtp_password`: (default: "") The SMTP server password to send emails, you can set it later in .env.
-- `emails_from_email`: (default: `"info@example.com"`) The email account to send emails from, you can set it later in .env.
-- `postgres_password`: (default: `"changethis"`) The password for the PostgreSQL database, stored in .env, you can generate one with the method above.
-- `sentry_dsn`: (default: "") The DSN for Sentry, if you are using it, you can set it later in .env.
+## Licencja
 
-## Backend Development
-
-Backend docs: [backend/README.md](./backend/README.md).
-
-## Frontend Development
-
-Frontend docs: [frontend/README.md](./frontend/README.md).
-
-## Deployment
-
-Deployment docs: [deployment.md](./deployment.md).
-
-## Development
-
-General development docs: [development.md](./development.md).
-
-This includes using Docker Compose, custom local domains, `.env` configurations, etc.
-
-## Release Notes
-
-Check the file [release-notes.md](./release-notes.md).
-
-## License
-
-The Full Stack FastAPI Template is licensed under the terms of the MIT license.
+Projekt objęty licencją [MIT](./LICENSE).
